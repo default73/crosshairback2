@@ -1,0 +1,21 @@
+Имя~Никола Нинич (Nikola Ninić)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~6
+Чувствительность мыши в Windows:~1/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JEihp-zWDw4-6ZdPT-ciAzm-bFPYE
+Параметры запуска~-novid -tickrate 128 -high -freq 240
+st~https://steamcommunity.com/profiles/76561197981508015
+twitch~https://www.twitch.tv/legijaa
+fb~https://www.facebook.com/LEGIJAcs
+tw~https://twitter.com/LEGIJAcs
+in~https://www.instagram.com/legijacs/
+Команда~Без команды
+Страна~Германия

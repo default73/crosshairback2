@@ -1,0 +1,20 @@
+Имя~Ладислав Ковач (Ladislav Kovács)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-MuoCO-RX5iP-PR6KW-64ijP-k5zkG
+st~https://steamcommunity.com/profiles/76561197972331023
+twitch~https://www.twitch.tv/rguardian
+fb~https://www.facebook.com/CSGuardiaN
+tw~https://twitter.com/guardiancsgo
+in~https://www.instagram.com/fazeguardianofficial
+Команда~Без команды
+Страна~Словакия

@@ -1,0 +1,19 @@
+Имя~Макс Вржешневский (Maks Wrześniewski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.75
+Чувствительность мыши в зуме:~1.35
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-SG3dU-Twu5q-SyeKs-CMDVv-JTDND
+st~https://steamcommunity.com/profiles/76561198184871281
+twitch~https://www.twitch.tv/sadjke
+tw~https://twitter.com/makub0ss
+in~https://www.instagram.com/sadjkee/
+Команда~Без команды
+Страна~Польша

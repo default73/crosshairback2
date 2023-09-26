@@ -1,0 +1,20 @@
+Имя~Адель Гермасси (Adel Guermassi)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-98DMp-vPyKq-RKkOH-eS3iX-VjaAB
+st~https://steamcommunity.com/profiles/76561198082033459
+twitch~https://www.twitch.tv/remindcsgo
+fb~https://www.facebook.com/Adel-Remind-Guermassi-283848838298650
+tw~https://twitter.com/RemindCSGO
+in~https://www.instagram.com/remind_csgo/
+Команда~Без команды
+Страна~Тунис

@@ -1,0 +1,18 @@
+Имя~Михал Идзиковский (Michał Idzikowski)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~16:10
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-dr9Ai-ow8vZ-BCqmn-ZMJ44-3WOAK
+Параметры запуска~-refresh 240 -novid -nojoy -tickrate 128 +sv_holiday_mode 0 -allow_third_party_software -untrusted
+st~https://steamcommunity.com/profiles/76561198036509452
+tw~https://twitter.com/Mride_
+Команда~Ungentium
+Страна~Польша

@@ -1,0 +1,20 @@
+Имя~Ян Карруччо (Ian Carruccio)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-uWWKk-DiXno-iOX67-68bCp-NcrVQ
+st~https://steamcommunity.com/profiles/76561198024224286
+twitch~https://www.twitch.tv/kissmyaug
+yt~https://www.youtube.com/channel/UCM71QJG4KR9z3iZTvZ4YujA
+tw~https://twitter.com/kissmyaug
+in~https://www.instagram.com/iancarruccio/
+Команда~Без команды
+Страна~Аргентина

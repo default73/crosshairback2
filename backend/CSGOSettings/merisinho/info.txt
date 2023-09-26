@@ -1,0 +1,19 @@
+Имя~Мерис Бихорак (Meris Bihorac)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rcEKW-x8qE9-Fjaht-iNk5S-7T8SA
+Параметры запуска~-noforcemaccel -noforcemspd -noforcemparms -freq 240 -console -nojoy -novid -tickrate 128 +cl_forcepreload 1 +mat_queue_mode 2 +fps_max 700
+st~https://steamcommunity.com/profiles/76561198261591497
+twitch~https://www.twitch.tv/merisinho
+tw~https://twitter.com/merisinho_csgo
+Команда~Lausanne eSports
+Страна~Сербия

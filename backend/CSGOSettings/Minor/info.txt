@@ -1,0 +1,20 @@
+Имя~Андрей Румянцев (Andrey Rumyantsev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-p9JjY-jhe5k-OstfE-JuTda-ZbJaA
+Параметры запуска~-language english -nojoy -novid +fps_max 400 -refresh 240 -full -w 1280 -h 1024 +rate 786432 -tickrate 128 +cl_interp_ratio 1 +cl_interp 0.03100 +clientport 27015 +r_dynamic 0 -nosplash -forcepack -no-browser
+st~https://steamcommunity.com/profiles/76561198335053192
+vk~https://vk.com/id214001634
+twitch~https://www.twitch.tv/minorcs
+in~https://www.instagram.com/minor_cs/
+Команда~MayBe
+Страна~Россия

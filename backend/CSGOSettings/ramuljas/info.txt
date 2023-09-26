@@ -1,0 +1,20 @@
+Имя~Рамиро Герон (Ramiro Geron)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.15
+Чувствительность мыши в зуме:~1.03
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-OZZTa-z6kTb-PxWmr-Gw93C-vWXTB
+st~https://steamcommunity.com/profiles/76561198860288049
+twitch~https://www.twitch.tv/ramuljas
+fb~https://www.facebook.com/ramuljascsgo/about
+tw~https://twitter.com/ramuljascs
+in~https://www.instagram.com/ramageron/
+Команда~Без команды
+Страна~Аргентина

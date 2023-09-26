@@ -1,0 +1,19 @@
+Имя~Кайке Гуидотти (Kaique Guidotti)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-OAKS9-rB6L6-o4WRN-Dd2qb-aDtdA
+Параметры запуска~-noforcemaccel -noforcemspd -noforcemparms -freq 240 -console -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198005920264
+tw~https://twitter.com/el_kaifps
+in~https://www.instagram.com/el_kaifps/
+Команда~Без команды
+Страна~Бразилия

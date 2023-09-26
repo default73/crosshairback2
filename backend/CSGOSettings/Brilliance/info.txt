@@ -1,0 +1,21 @@
+Имя~Александр Высоцкий (Alexander Vysotsky)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-n4sRv-sKPLy-aFF7m-Watbf-tUfOQ
+Параметры запуска~-novid -console -freq 144 +rate 786432 -tickrate 128 -noaafonts +cl_interp 0 +cl_interp_ratio 1 +mat_queue_mode 2 +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561197967402670
+vk~https://vk.com/id216502131
+twitch~https://www.twitch.tv/officialbrilliance
+tw~https://twitter.com/offBrilliance
+in~https://www.instagram.com/officialbrilliance
+Команда~SHIPACHI
+Страна~Беларусь

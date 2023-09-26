@@ -1,0 +1,20 @@
+Имя~Жоао Оливейра (João Oliveira)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.58
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-C3VM4-BzesV-uxfmU-3Duqt-msLDR
+Параметры запуска~-novid -language bananagaming +clientport 27002 -tickrate 128
+st~https://steamcommunity.com/profiles/76561199079078276
+twitch~https://www.twitch.tv/deadzino
+yt~https://www.youtube.com/channel/UCUEd-pErc3yfwNlbWvsRkYg
+tw~https://twitter.com/deadzin0
+Команда~Без команды
+Страна~Португалия

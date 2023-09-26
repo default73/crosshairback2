@@ -1,0 +1,21 @@
+Имя~Мункболд Содбаяр (Munkhbold Sodbayar)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~0.95
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-nKmu4-HAS9V-v4oYk-3n95j-u6GSQ
+Параметры запуска~-freq 240 -console -high -tickrate 128
+st~https://steamcommunity.com/profiles/76561198966340160
+twitch~https://www.twitch.tv/techno4k
+yt~https://www.youtube.com/channel/UCnVrMAXVENNTmttnDroTzqA
+fb~https://www.facebook.com/sodobayaru
+in~https://www.instagram.com/technontc
+Команда~The Mongolz
+Страна~Монголия

@@ -1,0 +1,20 @@
+Имя~Энрико Вольф (Enrico Wolf)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1350 x 1080
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-AZj2F-6C8sq-xmK6m-NiY2y-LCCtG
+Параметры запуска~-freq 240 -novid -tickrate 128 -console -language english -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198205517292
+twitch~https://www.twitch.tv/dreamxy0_
+tw~https://twitter.com/dreamxy0
+in~https://www.instagram.com/dreamxy0_
+Команда~EPIC DUDES
+Страна~Германия

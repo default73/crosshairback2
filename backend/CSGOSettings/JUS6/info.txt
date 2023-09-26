@@ -1,0 +1,19 @@
+Имя~Юсси Кивисте (Jussi Kivistö)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-QfP5V-u4845-VtKYL-i3acs-3CU8N
+st~https://steamcommunity.com/profiles/76561197988065228
+twitch~https://www.twitch.tv/jus6csgo
+tw~https://www.twitter.com/jus6csgo
+in~https://www.instagram.com/jussimane
+Команда~Без команды
+Страна~Финляндия

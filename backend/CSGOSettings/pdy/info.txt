@@ -1,0 +1,20 @@
+Имя~Патрик Меркен (Patrick Merken)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.58
+Чувствительность мыши в зуме:~0.92
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VFFHn-RuKCr-3nR9L-FGkvC-c2D7K
+Параметры запуска~-console -novid -freq 240 -tickrate 128 -high -nojoy -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198159295202
+twitch~https://www.twitch.tv/pdycsgo
+tw~https://twitter.com/pdy_csgo
+in~https://www.instagram.com/pdyxm
+Команда~Без команды
+Страна~Германия

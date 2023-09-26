@@ -1,0 +1,19 @@
+Имя~Хания Пудлис (Hania Pudlis)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8JH9c-FmUZk-HCRbS-LHcop-wCZ2Q
+st~https://steamcommunity.com/profiles/76561198070540608
+twitch~https://www.twitch.tv/hankacs
+tw~https://twitter.com/hania_pudlis
+in~https://www.instagram.com/haniapudlis/
+Команда~NAVI Javelins
+Страна~Польша

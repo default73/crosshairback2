@@ -1,0 +1,20 @@
+Имя~Джонатан Муньос (Jonathan Muñoz)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 900
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-Uc4ct-6YAjy-57eFj-O5RQR-xGUrC
+Параметры запуска~-noforcemaccel -noforcemparms -noforcemspd -console 1
+st~https://steamcommunity.com/profiles/76561198037406382
+twitch~https://www.twitch.tv/jotitabe
+fb~https://www.facebook.com/JotitaBoY
+tw~https://twitter.com/Jotita_Be
+Команда~VELOX Argentina
+Страна~Аргентина

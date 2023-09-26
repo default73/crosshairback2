@@ -1,0 +1,20 @@
+Имя~Оскар Стенборовски (Oskar Stenborowski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Ts8An-2V8kO-4q9z5-M7D23-Jo74E
+st~https://steamcommunity.com/profiles/76561198071466122
+twitch~https://www.twitch.tv/oskarisho
+fb~https://www.facebook.com/oskarish
+tw~https://twitter.com/oskarish
+in~https://www.instagram.com/oskarishking
+Команда~Без команды
+Страна~Польша

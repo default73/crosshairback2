@@ -1,0 +1,18 @@
+Имя~Кенни Ву (Kenny Vu)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5V7yR-2qAx7-6p8pY-hhWaT-TDhnL
+Параметры запуска~+cl_forcepreload 1 -tickrate 128 -novid -mat_monitorgamma 2 -mat_savechanges -rate 786432 -cl_updaterate 128 -cl_cmdrate 128 -cl_interp 0.031000 -cl_in +fps_max 400 +cl_interp 0.031000 +cl_interp_ratio 2 terp_ratio 1 -cl_predict 1 -cl_predict +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561198193755859
+tw~https://twitter.com/k_3NNYY
+Команда~Без команды
+Страна~Швеция

@@ -1,0 +1,20 @@
+Имя~Александр Рубец (Aleksandr Rubets)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-kWqvr-VMoRP-7zSpA-iMdyK-vu3xK
+st~https://steamcommunity.com/profiles/76561198074310843
+vk~https://vk.com/id105437482
+twitch~https://www.twitch.tv/mdscsgo
+tw~https://twitter.com/mdscsgo
+in~https://www.instagram.com/rubetsmds
+Команда~Websterz
+Страна~Беларусь

@@ -1,0 +1,20 @@
+Имя~Анжелика Козловская (Angelika Kozłowska)
+DPI:~500
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-sMD4U-de9Va-JEWDM-WGMnA-frPcF
+Параметры запуска~-novid -console -tickrate 128 -nojoy +mat_queue_mode 2 -no-browser -freq 240 +engine_no_focus_sleep 10 -allow_third_party_software +cl_threaded_bone_setup 1
+st~https://steamcommunity.com/profiles/76561198191616018
+twitch~https://www.twitch.tv/angelkacs
+tw~https://twitter.com/angelkaacs
+in~https://www.instagram.com/angelkacs
+Команда~NAVI Javelins
+Страна~Польша

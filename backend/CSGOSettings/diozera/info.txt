@@ -1,0 +1,18 @@
+Имя~Диого Оливейра Нуньес (Diogo Oliveira Nunes)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.42
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-NVp8E-aFaup-H7toU-dD3Rd-OnMHA
+Параметры запуска~-novid -high +fps_max 0 -tickrate 128 -freq 144 -refresh 144 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198254423843
+tw~https://twitter.com/diozerafps
+Команда~MIBR Academy
+Страна~Бразилия

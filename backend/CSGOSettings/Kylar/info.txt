@@ -1,0 +1,21 @@
+Имя~Каспер Валукевич (Kacper Walukiewicz)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-NxHoN-WZkVO-UAqvJ-K3BGE-KCR7B
+Параметры запуска~-freq 240 -tickrate 128 -novid -rate 786432 +cl_interp_ratio 1 +fps_max 500 +clientport 26007 -allow_third_party_software -cl_updaterate 128 -cl_cmdrate 128 -tickrate 128 -novid
+st~https://steamcommunity.com/profiles/76561198076696741
+twitch~https://www.twitch.tv/kylarro
+fb~https://www.facebook.com/KacperKylar
+tw~https://twitter.com/Kylarrek
+in~https://www.instagram.com/kylarrek
+Команда~9INE
+Страна~Польша

@@ -1,0 +1,18 @@
+Имя~Лукас Мендонса (Lucas Mendonça)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1.047
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-SGGZu-f6UFO-m2d2o-hABHV-jW2UO
+Параметры запуска~-novid -high -no-browser -nojoy -freq 240 +snd_use_hrtf 0 cl_forcepreload 1 -tickrate 128 -allow_third_party_software -language english
+st~https://steamcommunity.com/profiles/76561199003976320
+tw~https://twitter.com/Tripacs
+Команда~AJF
+Страна~Бразилия

@@ -1,0 +1,19 @@
+Имя~Роджер Бонилла (Roger Bonilla)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-nPFrs-Luw38-oVVrt-ecPSZ-hYXTB
+Параметры запуска~-novid -tickrate 128 -language roger -freq 144 +fps_max 0 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198173872541
+twitch~https://www.twitch.tv/rogerzzcsgo
+tw~https://twitter.com/roGerzzcsgo
+Команда~Gravity 0
+Страна~Испания

@@ -1,0 +1,20 @@
+Имя~Денис Фишер (Denis Fischer)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rKsfU-pEXqp-v29De-OGnLR-ey3JE
+st~https://steamcommunity.com/profiles/76561198048221584
+twitch~https://www.twitch.tv/dzt_
+yt~https://www.youtube.com/c/dztcsgo
+tw~https://twitter.com/dztfps
+in~http://instagram.com/dztcsgo
+Команда~Без команды
+Страна~Бразилия

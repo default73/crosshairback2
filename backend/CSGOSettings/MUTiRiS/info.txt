@@ -1,0 +1,20 @@
+Имя~Кристофер Фернандес (Christopher Fernandes)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.27
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-Jj6ka-RvZhZ-DYesN-7hrQe-VqnkP
+st~https://steamcommunity.com/profiles/76561197997981170
+twitch~https://www.twitch.tv/mutirisgo
+fb~https://facebook.com/MUTiRiS
+tw~https://twitter.com/MUTiRiS_csgo
+in~https://www.instagram.com/mutirisgo
+Команда~sAw
+Страна~Португалия

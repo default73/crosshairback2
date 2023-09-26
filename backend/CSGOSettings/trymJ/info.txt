@@ -1,0 +1,19 @@
+Имя~Трюм Йоакимсен (Trym Joakimsen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1664 x 936
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-S8wNV-8hxyy-uFyNu-8AyaG-bNDhP
+Параметры запуска~-novid -nojoy -console -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561197995644641
+tw~https://twitter.com/slowtrymJ
+in~https://www.instagram.com/slowtrymJ
+Команда~Foxed Gaming
+Страна~Норвегия

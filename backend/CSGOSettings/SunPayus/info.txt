@@ -1,0 +1,20 @@
+Имя~Альваро Гарсия (Alvaro Garcia)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-cY7F2-nbMpd-ptEzL-arZc2-tDu8O
+Параметры запуска~-console -novid -refresh 240 -high -tickrate 128 -d3d9ex -nojoy -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198309839541
+twitch~https://www.twitch.tv/SunPayus
+tw~https://twitter.com/SunPayuscsgo
+in~https://www.instagram.com/sunpayuscs
+Команда~ENCE
+Страна~Испания

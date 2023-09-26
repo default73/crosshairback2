@@ -1,0 +1,19 @@
+Имя~Дэйв Шрейдж (Dave Schrage)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-pJaEz-nfZb7-FHBmw-PXdL7-PX6uC
+Параметры запуска~-console -freq 360 -tickrate 128 +rate 786432 +cl_interp_ratio 0
+st~https://steamcommunity.com/profiles/76561197968809739
+twitch~https://www.twitch.tv/sezislaps
+tw~https://twitter.com/seziwana
+Команда~Без команды
+Страна~США

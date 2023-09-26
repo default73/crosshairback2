@@ -1,0 +1,19 @@
+Имя~Кристиан Серенсен (Christian Sørensen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-owSHb-tYmyo-fx3f6-GiEVn-5OUnB
+Параметры запуска~-console -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561197970863873
+twitch~https://www.twitch.tv/griller_dk
+tw~https://twitter.com/GrillerCS
+Команда~XI
+Страна~Дания

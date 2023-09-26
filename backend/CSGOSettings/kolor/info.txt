@@ -1,0 +1,21 @@
+Имя~Адам Домосзлай (Ádám Domoszlay)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-R8z2B-OFvoW-iBchD-E4VUP-oZT4M
+Параметры запуска~-allow_third_party_software -untrusted -console -freq 240 -tickrate 128 -high -novid -nod3d9ex all disabled
+st~https://steamcommunity.com/profiles/76561198119648519
+twitch~https://www.twitch.tv/kolorcs
+fb~https://www.facebook.com/kolorCS
+tw~https://twitter.com/kolorCSGO
+in~https://www.instagram.com/adamdomoszlay
+Команда~Без команды
+Страна~Венгрия

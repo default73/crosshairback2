@@ -1,0 +1,20 @@
+Имя~Антон Кваша (Anton Kvasha)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VGrLE-Gh2Qz-EAxWF-YqT8L-aAweM
+Параметры запуска~-allow_third_party_software -freq 240 -nojoy -console -novid -tickrate 128 -language english +exec autoexec.cfg +cl_threaded_bone_setup 1 +sdr_spew_level 3
+st~https://steamcommunity.com/profiles/76561199060368920
+vk~https://vk.com/id168912532
+twitch~https://www.twitch.tv/ax1nty
+in~https://www.instagram.com/ax1nty
+Команда~Без команды
+Страна~Россия

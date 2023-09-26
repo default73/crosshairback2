@@ -1,0 +1,20 @@
+Имя~Екатерина Репьёва (Ekaterina Repyova)
+DPI:~1000
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~0.85
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-U98j8-k8Frk-KQzJR-HQVcj-QfG4C
+Параметры запуска~-tickrate 128 -novid -freq 240 -allow_third_party_software -language colormod +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198151086876
+vk~https://vk.com/id345322801
+twitch~https://www.twitch.tv/cutierover
+in~https://instagram.com/tusenslamenthe
+Команда~VP.Angels
+Страна~Россия

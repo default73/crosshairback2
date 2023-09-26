@@ -1,0 +1,19 @@
+Имя~Владимир Болдырев (Vladimir Boldyrev)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.7
+Чувствительность мыши в зуме:~1.05
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-MrUhf-LBLTJ-pDGfU-E3TZD-7ktiB
+Параметры запуска~+cl_interp 1 -novid +fps_max 333 -console -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -threads 4 -high -noforcemparms -language russian +clientport 27008 -nojoy
+st~https://steamcommunity.com/profiles/76561198811683421
+vk~https://vk.com/id417282517
+twitch~https://www.twitch.tv/keliencs
+Команда~The Witchers
+Страна~Россия

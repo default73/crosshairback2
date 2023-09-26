@@ -1,0 +1,20 @@
+Имя~Сафет Чурич (Safet Čurić)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-LZOcX-qy54A-rnLqs-RZRNh-aDtdA
+Параметры запуска~-console -novid -tickrate 128 -exec autoexec -freq 240 -cl_updaterate 128 -cl_cmdrate 128 -language bananagaming -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198093233713
+twitch~https://www.twitch.tv/gameinstruktor
+yt~https://www.youtube.com/GameInstruktor1998
+tw~https://twitter.com/GameInstruktor
+Команда~Без команды
+Страна~Босния и Герцеговина

@@ -1,0 +1,20 @@
+Имя~Дени Эдиев (Deni Ediev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-82eNW-CjoFf-a5sV8-Ykevd-5eRqJ
+Параметры запуска~-trusted -allow_third_party_software +mat_queue_mode 2 -freq 240
+st~https://steamcommunity.com/profiles/76561198839597990
+vk~https://vk.com/id294927655
+twitch~https://www.twitch.tv/den1dea
+tw~https://twitter.com/slumpingxD
+Команда~Без команды
+Страна~Россия

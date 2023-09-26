@@ -1,0 +1,21 @@
+Имя~Денис Солодун (Denis Solodun)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.094
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-D3vO4-Eb8Uk-aCrm8-SvBpk-yrmHB
+Параметры запуска~-novid +cl_interp_ratio 1 -freq 240 -tickrate 128 +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -console +exec config.cfg +clientport 27012 +cl_forcepreload 1
+st~https://steamcommunity.com/profiles/76561198153431603
+vk~https://vk.com/id126611026
+twitch~https://www.twitch.tv/morexcsgo
+tw~https://twitter.com/morexcsgo
+in~https://www.instagram.com/morexds/
+Команда~Sestri
+Страна~Украина

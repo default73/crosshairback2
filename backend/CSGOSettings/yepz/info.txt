@@ -1,0 +1,20 @@
+Имя~Ян Педретти (Yan Pedretti)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.63
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-CKMEU-Dck48-ZudfN-sWj3W-4cvvE
+Параметры запуска~-novid -high -tickrate 128 -refresh 240
+st~https://steamcommunity.com/profiles/76561198014798263
+twitch~https://www.twitch.tv/yepz
+tw~https://twitter.com/yanyepz
+in~https://www.instagram.com/yanyepz
+Команда~Case Esports
+Страна~Бразилия

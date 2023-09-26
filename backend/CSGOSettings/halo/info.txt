@@ -1,0 +1,20 @@
+Имя~Алек Сакри (Alec Sacry)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.85
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-ef849-QpbK6-TFjrO-3hAoJ-eaiGH
+Параметры запуска~-novid -freq 144 -refresh 144 -tickrate 128 -nojoy -d3d9ex
+st~https://steamcommunity.com/profiles/76561198040937019
+twitch~https://www.twitch.tv/halocs_
+yt~https://www.youtube.com/user/Th3HaloGam3r
+tw~https://twitter.com/halocs_
+Команда~Без команды
+Страна~США

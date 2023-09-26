@@ -1,0 +1,20 @@
+Имя~Виктор Бисгаард (Victor Bisgaard)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1.5
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-iFZv8-eDCo8-rVqjz-srV48-xQLoD
+Параметры запуска~-refresh 165 -console +rate 786432 +cl_updaterate128 +cl_cmdrate128 -tickrate 128 -novid -noipx -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198222914476
+twitch~https://www.twitch.tv/viggomagiccc
+tw~https://twitter.com/vigg0csgo
+in~https://www.instagram.com/victornbisgaard
+Команда~Без команды
+Страна~Дания

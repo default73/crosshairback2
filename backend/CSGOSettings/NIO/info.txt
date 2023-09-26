@@ -1,0 +1,21 @@
+Имя~Доминик Максиан (Dominik Maxian)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-peME7-aoanm-TvZec-Mq2tE-RUivN
+st~https://steamcommunity.com/profiles/76561198130573328
+twitch~https://www.twitch.tv/nio24
+yt~https://www.youtube.com/channel/UCqvwTGa3BZCkN7amdYHV9Lg
+fb~https://www.facebook.com/niocsgo/
+tw~https://twitter.com/niotivve
+in~https://www.instagram.com/niotivve_/
+Команда~Без команды
+Страна~Словакия

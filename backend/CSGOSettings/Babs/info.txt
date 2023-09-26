@@ -1,0 +1,19 @@
+Имя~Бруна Николи (Bruna Nycoly)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ZPu8d-nmMnc-MpYt3-Vxym2-oBCJC
+Параметры запуска~-freq 240 -novid -tickrate 128 -refresh 240
+st~https://steamcommunity.com/profiles/76561198438415430
+yt~https://www.youtube.com/c/babsfps
+tw~https://twitter.com/babsfps
+Команда~Black Dragons Female
+Страна~Бразилия

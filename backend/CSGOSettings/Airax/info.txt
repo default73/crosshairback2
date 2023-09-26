@@ -1,0 +1,20 @@
+Имя~Юсси Айраксинен (Jussi Airaksinen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.775
+Чувствительность мыши в зуме:~1.35
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-PK4Vv-5yyvG-ekC5A-ka34u-QWJeB
+st~https://steamcommunity.com/profiles/76561198010426775
+twitch~https://www.twitch.tv/airaxcsgo
+yt~https://www.youtube.com/channel/UCcPtZRun_F_GaE5fSe44upA?view_as=subscriber
+tw~https://twitter.com/airaxcsgo
+in~https://www.instagram.com/airaksinenj
+Команда~HAVU Gaming
+Страна~Финляндия

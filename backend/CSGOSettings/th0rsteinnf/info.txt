@@ -1,0 +1,19 @@
+Имя~Классицисты Торстейна (Þorsteinn Friðfinnsson)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.77
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-4n9X8-qZ5Ov-ux7Kd-bVTDH-4AYXC
+st~https://steamcommunity.com/profiles/76561198058017410
+twitch~https://www.twitch.tv/thorsteinnf
+yt~https://www.youtube.com/channel/UC1n06wGV2hId4hv0WWUrohg
+tw~https://twitter.com/th0rsteinnf
+Команда~DUSTY
+Страна~Исландия

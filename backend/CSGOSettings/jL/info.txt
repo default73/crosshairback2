@@ -1,0 +1,20 @@
+Имя~Джастинаc Лекавичюс  (Justinas Lekavicius)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-S3UT2-qXSZp-pUbsh-CTxeF-JcJaA
+st~https://steamcommunity.com/profiles/76561198176878303
+twitch~https://www.twitch.tv/jlekavicius
+fb~https://www.facebook.com/jLekavicius
+tw~https://twitter.com/Lekaviciusj
+in~https://www.instagram.com/jlekavicius
+Команда~Natus Vincere
+Страна~Литва

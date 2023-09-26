@@ -1,0 +1,20 @@
+Имя~Пекко Коркалайнен (Pekko Korkalainen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.66
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 900
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-bEApw-8YCRb-EAJ2t-MeXEU-sSBUM
+Параметры запуска~-novid -freq 240 -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198246097140
+twitch~https://www.twitch.tv/pekkocs/about
+yt~https://www.youtube.com/channel/UCbqH7yREwGZiwQVni-PcptA/videos
+tw~https://twitter.com/pekkocs
+Команда~Enhanced
+Страна~Финляндия

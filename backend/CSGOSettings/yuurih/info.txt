@@ -1,0 +1,21 @@
+Имя~Юрий Сантуш (Yuri Santos)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hOVME-G9HcK-Q4v4w-ysZn2-3WOAK
+Параметры запуска~-console -freq 240 -novid -tickrate 128 +rate 786432 +fps_max 0
+st~https://steamcommunity.com/profiles/76561198164970560
+twitch~https://www.twitch.tv/yuurih
+fb~https://facebook.com/yuurihfps
+tw~https://twitter.com/yuurih
+in~https://www.instagram.com/yuurihfps
+Команда~FURIA
+Страна~Бразилия

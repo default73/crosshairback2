@@ -1,0 +1,20 @@
+Имя~Матвей Абрамов (Matvey Abramov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-xMZZw-oCHOa-oKo2L-LuDyH-KF3tJ
+Параметры запуска~-novid +cl_forcepreload 1 -freq 240 -tickrate 128 -allow_third_party_software +cl_interp_ratio 1 +cl_interp 1 +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -nojoy -language english
+st~https://steamcommunity.com/profiles/76561198193739570
+vk~https://vk.com/id184735224
+twitch~https://www.twitch.tv/k0scs
+tw~https://www.twitter.com/k0smosCS
+Команда~Forward
+Страна~Россия

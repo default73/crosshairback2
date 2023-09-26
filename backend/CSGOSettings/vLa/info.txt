@@ -1,0 +1,20 @@
+Имя~Виктор Луис (Victor Luiz)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JCEqC-zD9n4-4YZAB-E5VS4-o2urD
+Параметры запуска~-freq 240 -console -tickrate 128 -novid -rate 786432 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198169760281
+twitch~https://www.twitch.tv/vlafps
+tw~https://twitter.com/vlaacs
+in~https://www.instagram.com/vlaacs
+Команда~Без команды
+Страна~Бразилия

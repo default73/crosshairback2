@@ -1,0 +1,19 @@
+Имя~Глеб Ольчедаевский (Gleb Olchedaevsky)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~800 x 600
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-zyxfH-SwcnF-ef8xc-AMPCU-WmPhG
+Параметры запуска~-language english -tickrate 128 -freq 240 +cl_update 128 +cl_cmd 128 +r_dynamic 0 +cl_interp_ratio 1 -noforcemaccel -noforcemspd -noforcemparms
+st~https://steamcommunity.com/id/s1natoRRR/
+vk~https://vk.com/s1natorrr
+twitch~https://www.twitch.tv/s1natorrr
+Команда~Без команды
+Страна~Россия

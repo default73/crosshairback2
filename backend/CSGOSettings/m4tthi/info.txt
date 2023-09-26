@@ -1,0 +1,21 @@
+Имя~Матеуш Шамбелан (Mateusz Szambelan)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-QKe7C-QMwTT-SmQof-A9vnA-vWXTB
+st~https://steamcommunity.com/profiles/76561198030119507
+twitch~https://www.twitch.tv/m4tthii
+yt~https://www.youtube.com/channel/UCfWQW-mDLaRDo3SxzIayNIg
+fb~https://www.facebook.com/M4tthi?fref=ts
+tw~https://twitter.com/m4tthics
+in~https://www.instagram.com/m4tthii
+Команда~Без команды
+Страна~Польша

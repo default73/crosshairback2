@@ -1,0 +1,18 @@
+Имя~Сён Хо Сон (Seon-Ho Son)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~0.97
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-xdquE-BX5po-6zri2-yOGdW-diMwF
+Параметры запуска~-freq 240 -novid -tickrate 128 -high -noforcemparms -noforcemspd -noforcemaccel -w 1024 -h 768 +rate 786432 +cl_interp 1 +cl_interp_ratio 2
+st~https://steamcommunity.com/profiles/76561198000445526
+tw~https://twitter.com/OfficialXETA
+Команда~Без команды
+Страна~Южная Корея

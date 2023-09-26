@@ -1,0 +1,21 @@
+Имя~Киприан Бурбулеа (Ciprian Burbulea)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ddwPi-mERhD-uhzUY-XFMnw-3GPYE
+Параметры запуска~-novid -freq 240 -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 +rate 999999
+st~https://steamcommunity.com/profiles/76561198120069169
+twitch~https://www.twitch.tv/jookerbb
+yt~https://www.youtube.com/channel/UC_gqORZ-8-cFn5ezZgguOfw
+tw~https://twitter.com/JookerBBCSGO
+in~https://www.instagram.com/ciprian.burbulea/
+Команда~Nexus Academy
+Страна~Румыния

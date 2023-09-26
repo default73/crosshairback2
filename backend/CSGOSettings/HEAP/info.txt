@@ -1,0 +1,18 @@
+Имя~Людвиг Алонсо (Ludvig Alonso)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.45
+Чувствительность мыши в зуме:~1.3
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~1
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-w5iHu-GmNSd-j6SBj-ySHyZ-NCmDA
+st~https://steamcommunity.com/profiles/76561198141811874
+twitch~https://www.twitch.tv/heapcsgo
+tw~https://twitter.com/HEAPCSGO
+Команда~Без команды
+Страна~Швеция

@@ -1,0 +1,20 @@
+Имя~Томас Риверо (Tomas Rivero)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-LdMBa-OpRHK-8EzpG-dUpTo-rZoAL
+Параметры запуска~-novid -tickrate 128 -console -freq 240
+st~https://steamcommunity.com/profiles/76561198981301404
+twitch~https://www.twitch.tv/tom1jed
+tw~https://twitter.com/tom1jed
+in~https://www.instagram.com/tom1rivero
+Команда~Без команды
+Страна~Аргентина

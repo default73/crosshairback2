@@ -1,0 +1,17 @@
+Имя~Али Фуркан Авчи (Ali Furkan Avcı)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jQmWE-R3Ou9-PzCbx-FR8dE-pqAQL
+st~https://steamcommunity.com/profiles/76561198885259322
+tw~https://twitter.com/QualityCSGO
+Команда~The Chosen Few
+Страна~Турция

@@ -1,0 +1,20 @@
+Имя~Лукаш Пачуцкий (Łukasz Pachucki)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-DDu4J-GaLFm-cwHPK-eD3BY-pbywQ
+st~https://steamcommunity.com/profiles/76561198167125683
+twitch~https://www.twitch.tv/mwlky
+fb~https://www.facebook.com/MWLKYY
+tw~https://twitter.com/mwlkycs
+in~https://www.instagram.com/mwlkycs
+Команда~Без команды
+Страна~Польша

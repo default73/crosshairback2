@@ -1,0 +1,19 @@
+Имя~Расмус Кристенсен (Rasmus Christensen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.78
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jvEPo-obS6Q-TcBOL-cqbhs-cqybE
+Параметры запуска~-novid -high -tickrate 244 -refresh 244 +fps_max 999 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198134458774
+twitch~https://www.twitch.tv/equipcsgo
+tw~https://twitter.com/EquipCSGO
+Команда~Preasy Esport
+Страна~Дания

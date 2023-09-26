@@ -1,0 +1,19 @@
+Имя~Артём Иванкин (Artem Ivankin)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-hjfmG-LF5Yz-A4qax-iZ9W8-Jo74E
+Параметры запуска~-freq 240 -novid -tickrate 128 -language english
+st~https://steamcommunity.com/profiles/76561198343321573
+vk~https://vk.com/id113349784
+twitch~https://www.twitch.tv/pipwcs
+Команда~Insilio
+Страна~Россия

@@ -1,0 +1,19 @@
+Имя~Марсело Чарнески (Marcello Czarneski)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.34
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-tVHTx-LF8D2-CixKP-iUJdG-DqmHB
+st~https://steamcommunity.com/profiles/76561198169934019
+yt~https://www.youtube.com/c/MaLLby
+tw~https://twitter.com/mallbycs
+in~https://www.instagram.com/mallbycs
+Команда~ARCTIC
+Страна~Бразилия

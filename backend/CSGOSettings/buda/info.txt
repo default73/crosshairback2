@@ -1,0 +1,18 @@
+Имя~Николаc Крамер (Nicolás Kramer)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-nWnGm-2trmX-Bwtf2-3yKTV-VjaAB
+st~https://steamcommunity.com/profiles/76561198199343350
+twitch~https://www.twitch.tv/budafps
+tw~https://twitter.com/budafps
+Команда~9z Team
+Страна~Аргентина

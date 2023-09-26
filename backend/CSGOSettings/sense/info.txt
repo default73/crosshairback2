@@ -1,0 +1,20 @@
+Имя~Одне Фредриксен (Ådne Fredriksen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-d7rYv-ipZfr-qMuP6-5ixLm-3kYbD
+Параметры запуска~-console -tickrate 128 -freq 240 -novid +rate 786432 cl_updaterate 128 cl_cmdrate 128 -allow_third_party_software -nojoy -high
+st~https://steamcommunity.com/profiles/76561198192927541
+yt~https://www.youtube.com/channel/UCk15nvhKG9nHq9iyHvlPEVA?view_as=subscriber
+tw~https://twitter.com/senseCSGO2
+in~https://www.instagram.com/aadnefredriksen
+Команда~Apeks Rebels
+Страна~Норвегия

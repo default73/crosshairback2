@@ -1,0 +1,20 @@
+Имя~Жанна Варламова (Zhanna Varlamova)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-NQof8-7nPGi-x54QX-Bxie6-KS8SA
+Параметры запуска~-novid +rate 786432 -freq 240 +fps_max 301 -tickrate 128 +cl_interp_ratio 2 +mat_queue_mode 2 -allow_third_party_software -language colormod
+st~https://steamcommunity.com/profiles/76561198155450468
+vk~https://vk.com/id70207606
+twitch~https://www.twitch.tv/juntella
+in~https://www.instagram.com/valamova
+Команда~Insilio Female
+Страна~Россия

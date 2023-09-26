@@ -1,0 +1,19 @@
+Имя~Михалис Наполони (Michalis Napoloni)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.56
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-sMWu7-sKp5q-SyeKs-CMDVv-JTDND
+st~https://steamcommunity.com/profiles/76561198198570973
+twitch~https://www.twitch.tv/awzek
+tw~https://twitter.com/awzekCSGO
+in~https://www.instagram.com/awzekcs
+Команда~ALTERNATE aTTaX
+Страна~Греция

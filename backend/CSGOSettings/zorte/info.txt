@@ -1,0 +1,21 @@
+Имя~Александр Загодыренко (Aleksandr Zagodyrenko)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.15
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-mNc4L-68Sza-URkJt-deCDq-4PkTL
+Параметры запуска~-tickrate 128 -novid +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198059614402
+vk~https://vk.com/id190185154
+twitch~https://www.twitch.tv/zortehf
+tw~https://twitter.com/zortecsgo
+in~https://www.instagram.com/_zorte
+Команда~FORZE
+Страна~Россия

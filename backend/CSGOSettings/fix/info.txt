@@ -1,0 +1,21 @@
+Имя~Илья Головко (Ilya Golovko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jJHcQ-vJzmD-8qUK4-utayF-cMwLA
+Параметры запуска~+mat_queue_mode 2 -freq 240 -console -tickrate 128 -novid +exec autoexec -high -noaafonts -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198122349670
+vk~https://vk.com/id96960468
+twitch~https://www.twitch.tv/fixborn2flex
+tw~https://twitter.com/Ilya_fix
+in~https://www.instagram.com/ilya.fix/
+Команда~Без команды
+Страна~Украина

@@ -1,0 +1,20 @@
+Имя~Амир Абдулмеджидов (Amir Abdulmedzhidov)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.078
+Чувствительность мыши в зуме:~0.626
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~1.015
+m_rawinput:~1
+Разрешение:~1160 x 889
+Соотношение сторон:~13:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jUJZd-5ZYta-4cGdL-dxoWC-8MUnB
+Параметры запуска~-novid -tickrate 128 +fps_max 355 -freq 240 +clientport 27016 -high -threads 6 -language bananagaming -nooafonts +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198231705972
+vk~https://vk.com/id198826566
+twitch~https://www.twitch.tv/eightzzz2
+tw~https://twitter.com/eightz999
+Команда~Без команды
+Страна~Россия

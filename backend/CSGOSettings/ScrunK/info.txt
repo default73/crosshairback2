@@ -1,0 +1,20 @@
+Имя~Робин Репке (Robin Röpke)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-E3qma-G8yoM-t55i2-92RWW-NoRBD
+st~https://steamcommunity.com/profiles/76561197974106188
+twitch~https://www.twitch.tv/ScrunK
+fb~https://www.facebook.com/ScrunKCS
+tw~https://twitter.com/ScrunKCS
+in~https://www.instagram.com/ScrunKcs
+Команда~Без команды
+Страна~Германия

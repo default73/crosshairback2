@@ -1,0 +1,20 @@
+Имя~Рафаэль Глигор (Rafael Gligor)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.84
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3prAd-aQf3m-8b8H8-f7JuY-97DRE
+Параметры запуска~-console -freq 240 -novid -tickrate 128 +cl_threaded_bone_setup 1 +mat_queue_mode 2 +fps_max 0
+st~https://steamcommunity.com/profiles/76561198132395935
+twitch~https://www.twitch.tv/renne1god
+tw~https://twitter.com/renne1csgo
+in~https://www.instagram.com/renne1csgo
+Команда~Без команды
+Страна~Румыния

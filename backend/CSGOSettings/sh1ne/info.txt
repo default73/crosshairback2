@@ -1,0 +1,19 @@
+Имя~Максим Виноградов (Maksim Vinogradov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-N75N3-kVnLt-ZVRhG-JeT7a-tUfOQ
+st~https://steamcommunity.com/profiles/76561198396570413
+vk~https://vk.com/id333776854
+twitch~https://www.twitch.tv/sh1ne7331
+in~https://www.instagram.com/sh1ne9671
+Команда~INVSN
+Страна~Россия

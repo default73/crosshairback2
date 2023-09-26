@@ -1,0 +1,19 @@
+Имя~Дэвид Йоханссон (David Johansson)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.75
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-XZLdE-ON27a-qU2Er-b76cD-kpybE
+Параметры запуска~+fps_max 300 -tickrate 128 -freq 144 -novid +clientport 27007 -d3d9ex +cl_updaterate 128 +cl_cmdrate 128
+st~https://steamcommunity.com/profiles/76561198254939094
+twitch~https://www.twitch.tv/okandxd
+tw~https://twitter.com/okandcss
+Команда~9INE Academy
+Страна~Швеция

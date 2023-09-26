@@ -1,0 +1,18 @@
+Имя~Виктория Яницка (Wiktoria Janicka)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wxuPN-LZYSE-5MTEN-s5Zuq-kBYXC
+st~https://steamcommunity.com/profiles/76561198266290430
+tw~https://twitter.com/vicues
+in~https://www.instagram.com/vicucsgo/
+Команда~NAVI Javelins
+Страна~Польша

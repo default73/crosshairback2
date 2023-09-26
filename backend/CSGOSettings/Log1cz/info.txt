@@ -1,0 +1,19 @@
+Имя~Педро Пинто (Pedro Pinto)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~0.848963
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-Hc74Q-9GYMT-68b9K-bc6qE-AerVQ
+Параметры запуска~-novid -tickrate 128 -refresh 144
+st~https://steamcommunity.com/profiles/76561198323382802
+twitch~https://www.twitch.tv/log1cz
+tw~https://twitter.com/LogiczCS
+Команда~Без команды
+Страна~Португалия

@@ -1,0 +1,19 @@
+Имя~Максимо Арнал (Máximo Arnal)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-zzVqw-zyvwu-qDYAR-oFX2R-cfq3B
+Параметры запуска~-console -novid -tickrate 128 -refresh 144 -refreshrate 144 -freq 144 +clientport 27033 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198812005292
+twitch~https://www.twitch.tv/hadesscsgo_
+tw~https://twitter.com/hadesscsgo
+Команда~Без команды
+Страна~Испания

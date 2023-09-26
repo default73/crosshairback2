@@ -1,0 +1,18 @@
+Имя~Толгахан Гюдюк (Tolgahan Güdük)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-MEsk2-rKP7n-ke32i-GmRoE-H6JzN
+st~https://steamcommunity.com/profiles/76561198800706531
+twitch~https://www.twitch.tv/Coulenn
+tw~https://twitter.com/CoulenCSGO
+Команда~Без команды
+Страна~Турция

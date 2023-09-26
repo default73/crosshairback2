@@ -1,0 +1,18 @@
+Имя~Уильям Беклин (William Bäcklin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~0.924
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8Ypwk-239zR-oEHM9-B3Kmc-XQ8SA
+Параметры запуска~-novid +mat_queue_mode 2 -tickrate 128 +fps_max 0 +cl_interp_ratio 1 -allow_third_party_software -nojoy -d3d9ex
+st~https://steamcommunity.com/profiles/76561198063045118
+tw~https://twitter.com/lookycsgo
+Команда~Kappa Bar
+Страна~Швеция

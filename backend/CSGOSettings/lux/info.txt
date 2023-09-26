@@ -1,0 +1,20 @@
+Имя~Лукас Менегини (Lucas Meneghini)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1.03
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-zaGXE-xbpnr-5favb-OGXD5-rMchQ
+Параметры запуска~-freq 280 -novid -tickrate 128 -allow_third_party_software +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198074017668
+twitch~https://www.twitch.tv/luxfps_
+tw~https://twitter.com/luxfps_
+in~https://www.instagram.com/lucasmeneghini_
+Команда~Без команды
+Страна~Бразилия

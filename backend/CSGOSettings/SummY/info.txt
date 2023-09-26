@@ -1,0 +1,19 @@
+Имя~Оуэн Мустард (Owen Mustard)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VPief-z7xSM-KEPKA-xNVFt-YMbEC
+Параметры запуска~-d3d9ex -novid +fps_max 400 +mat_queue_mode 2 -freq 240 -novid -tickrate 128 +rate 786432 +cl_interp 0.031 +cl_interp_ratio +mat_queue_mode 2 -high
+st~https://steamcommunity.com/profiles/76561198117406363
+twitch~https://www.twitch.tv/summycsgo
+tw~https://twitter.com/SummYGG
+Команда~Без команды
+Страна~Великобритания

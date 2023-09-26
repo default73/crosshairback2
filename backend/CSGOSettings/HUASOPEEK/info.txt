@@ -1,0 +1,19 @@
+Имя~Матиас Ибаньес Эрнандес (Matias Ibañez Hernandez)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.76
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-yHtOW-SswFo-Ypfyr-2pswm-zL3ED
+Параметры запуска~-allow_third_party_software -freq 144 -refresh 144 +clientport 27018
+st~https://steamcommunity.com/profiles/76561198319723208
+twitch~https://www.twitch.tv/huasopeek
+tw~https://twitter.com/HUASOPEEK
+Команда~9z Academy
+Страна~Чили

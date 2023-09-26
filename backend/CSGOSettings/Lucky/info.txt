@@ -1,0 +1,18 @@
+Имя~Лукас Частанг (Lucas Chastang)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-q44tT-Wo4tp-PdxEf-SfYXK-4FbtH
+st~https://steamcommunity.com/id/LuckyTH/
+tw~https://twitter.com/LuckyCSGO_
+in~https://www.instagram.com/LuckyCS_GO/
+Команда~Без команды
+Страна~Франция

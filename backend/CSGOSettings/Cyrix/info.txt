@@ -1,0 +1,18 @@
+Имя~Маккинли Холлисон (McKinley Hollison)
+DPI:~800
+Частота мыши:~100Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 900
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-PLGBr-hEMAb-xYJUK-WASjT-KudqA
+Параметры запуска~+fps_max 0 -novid -tickrate 128 -high -nojoy -refresh 240 +exec Config-JumpThrow -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198272012791
+tw~https://twitter.com/CyrixCSGO
+Команда~Unjustified
+Страна~США

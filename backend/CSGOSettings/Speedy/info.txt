@@ -1,0 +1,19 @@
+Имя~Аллан Серенсен (Allan Sørensen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-eHesC-hHDYx-E68WC-rVfa5-x3zkG
+st~https://steamcommunity.com/profiles/76561198216366600
+twitch~https://www.twitch.tv/speedycsgogg
+yt~https://www.youtube.com/channel/UCmK_ZUaSyq1zz9QqeF_qVFA/featured
+tw~https://twitter.com/AllanSpeedy
+Команда~XI
+Страна~Дания

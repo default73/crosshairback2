@@ -1,0 +1,19 @@
+Имя~Мунхтамир Ганбаатар (Munkhtamir Ganbaatar)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-yw3yx-V2YoO-xSszZ-is32R-cfq3B
+st~https://steamcommunity.com/profiles/76561198063961061
+twitch~https://www.twitch.tv/essnation
+fb~https://www.facebook.com/tamiraaritaa
+in~https://www.instagram.com/tamiraacsgo
+Команда~D13
+Страна~Монголия

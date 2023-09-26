@@ -1,0 +1,19 @@
+Имя~Давид Хессе (David Hesse)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1728 x 1080
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-SOz5m-rPw8J-QCQ2r-Up6b9-ye4NF
+Параметры запуска~-novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198178801031
+twitch~https://www.twitch.tv/prosus_cs
+tw~https://twitter.com/prosus_cs
+Команда~BIG
+Страна~Германия

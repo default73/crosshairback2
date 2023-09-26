@@ -1,0 +1,19 @@
+Имя~Адам Колвелл (Adam Colwell)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.85
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~10/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-SZu3h-4QPwt-nTSnK-G9Y5O-ey3JE
+Параметры запуска~-novid -tickrate 128 -high -allow_third_party_software -freq 240 +exec autoexec.cfg +cl_forcepreload 1 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198192004598
+twitch~https://www.twitch.tv/adamjcx
+tw~https://twitter.com/AdamJCcs
+Команда~K10
+Страна~Ирландия

@@ -1,0 +1,21 @@
+Имя~Кирилл Литвинов (Kirill Litvinov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~4/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6RQvF-7DVLE-mFvPj-aXx2S-NTivN
+Параметры запуска~-console -novid -tickrate 128 +cl_interp 1 +cl_interp_ratio 1 +cl_cmdrate 128 +cl_updaterate 128 +rate 786432 -language english +fps_max 400 -freq 240 -high
+st~https://steamcommunity.com/profiles/76561198086223064
+vk~https://vk.com/id473696255
+twitch~https://www.twitch.tv/s4csgo_
+tw~https://twitter.com/s4_CSGO
+in~https://www.instagram.com/s4csgo
+Команда~IKLA UA
+Страна~Украина

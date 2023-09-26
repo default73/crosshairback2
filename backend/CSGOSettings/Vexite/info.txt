@@ -1,0 +1,19 @@
+Имя~Деклан Портелли (Declan Portelli)
+DPI:~1200
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jaFOw-jKpVa-FQ2bv-q7QD9-8w5qB
+Параметры запуска~-tickrate 128 -high -cl_updaterate 128 -cl_cmdrate 128 -novid -freq 240 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198052888143
+twitch~https://www.twitch.tv/vexite_
+tw~https://twitter.com/vexite_
+Команда~Grayhound Gaming
+Страна~Австралия

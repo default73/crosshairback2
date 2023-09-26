@@ -1,0 +1,21 @@
+Имя~Рустам Алимкулов (Rustam Alimkulov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~0.75
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-b3zCT-cZViE-JZf5j-rAGNN-ERNMB
+Параметры запуска~-novid +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 +cl_interp_ratio 1 +mat_queue_mode 2 +fps_max 400 +cl_interp 0.1 -language English -w 1024 -h 768
+st~https://steamcommunity.com/profiles/76561198010440282/
+vk~https://vk.com/id6066243
+twitch~https://www.twitch.tv/stryk3rcsgo
+tw~https://twitter.com/stryk3rcsgo
+in~https://www.instagram.com/stryk3rcsgo/
+Команда~Без команды
+Страна~Казахстан

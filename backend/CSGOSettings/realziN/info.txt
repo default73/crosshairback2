@@ -1,0 +1,20 @@
+Имя~Антонио Оливейра (Antonio Oliveira)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-Lw4iF-ACyjv-aOpDJ-qerFN-YrjPK
+Параметры запуска~-noforcemaccel -noforcemparms -novid -freq 240 -high -nod3d9ex -tickrate 128
+st~https://steamcommunity.com/profiles/76561198004930469
+twitch~https://www.twitch.tv/realzinfps
+tw~https://twitter.com/realzinfps
+in~https://www.instagram.com/realzincsgo
+Команда~Без команды
+Страна~Бразилия

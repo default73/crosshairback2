@@ -1,0 +1,21 @@
+Имя~Рауль Хордан Ньето (Raúl Jordán Nieto)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-zsLoT-YRGT9-j3heQ-WYjUT-jTQhG
+Параметры запуска~-freq 240 -tickrate 128 -high -novid -console
+st~https://steamcommunity.com/profiles/76561198018393639
+twitch~https://www.twitch.tv/deathzzaky
+yt~https://www.youtube.com/DeathZ46Sw
+tw~https://twitter.com/DeathZzaky
+in~https://www.instagram.com/deathzzaky
+Команда~Без команды
+Страна~Испания

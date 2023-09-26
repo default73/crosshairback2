@@ -1,0 +1,21 @@
+Имя~Владислав Усов (Vladislav Usov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-5ov9X-Yb8Cw-nADya-AJDR4-vnPJM
+Параметры запуска~+mat_queue_mode 2 +cl_interp_ratio 1 -tickrate 128 -novid -console -freq 240 -tickrate 128 +clientport 27019 -novid +fps_max 0
+st~https://steamcommunity.com/profiles/76561198186361079
+vk~https://vk.com/id119725314
+twitch~https://www.twitch.tv/finigannn
+tw~https://twitter.com/FinigaNcsgo
+in~https://www.instagram.com/finigancsgo
+Команда~Без команды
+Страна~Россия

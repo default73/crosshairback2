@@ -1,0 +1,19 @@
+Имя~Ксавьер Хебок (Xavér Hebők)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-2rZDR-74BQx-uoWij-ffvhH-Ln2AC
+Параметры запуска~-novid -freq 240 -tickrate 128 -allow_third_party_software -nojoy -nothreadedsockets
+st~https://steamcommunity.com/profiles/76561198123529728
+tw~https://twitter.com/xavi_1331
+in~https://www.instagram.com/hebxk.331/
+Команда~Без команды
+Страна~Сербия

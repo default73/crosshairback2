@@ -1,0 +1,19 @@
+Имя~Лучано Эррера (Luciano Herrera)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-OuHaf-P6Sjv-tuLkU-Rnaqy-9s3xK
+st~https://steamcommunity.com/profiles/76561198067722198
+twitch~https://www.twitch.tv/luchovcss
+tw~https://twitter.com/luchovcs
+in~https://www.instagram.com/luchovcs
+Команда~BESTIA
+Страна~Аргентина

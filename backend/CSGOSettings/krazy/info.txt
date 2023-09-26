@@ -1,0 +1,18 @@
+Имя~Адонес Нобре (Adones Nobre)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VpSA4-N3woZ-zjEyQ-QJRQd-97DRE
+st~https://steamcommunity.com/profiles/76561198860760060
+twitch~https://www.twitch.tv/krazyycs
+tw~https://twitter.com/krazycs
+Команда~Make Your Destiny
+Страна~Португалия

@@ -1,0 +1,19 @@
+Имя~Леонардо Акуна (Leonardo Acuña)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-qFhMw-zk8BW-8JaAm-nLbOZ-LbRVP
+Параметры запуска~-freq 144 -refresh 144 +r_dynamic 0 -novid -tickrate 128 -high +fps_max 0 +cl_interp 0 +cl_interp_ratio 1 +rate 128000 +cl_updaterate 128 +cl_cmdrate 128 +cl_forcepreload 1 -nod3d9ex -nojoy -lv -full -console -allow_third_party_software -emac
+st~https://steamcommunity.com/profiles/76561198081710274
+tw~https://twitter.com/abmp9_
+in~http://instagram.com/leo.acun
+Команда~Furious Gaming
+Страна~Аргентина

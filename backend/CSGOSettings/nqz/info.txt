@@ -1,0 +1,19 @@
+Имя~Лукас Соарес (Lucas Soares)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-tONuE-3RBOG-Q6smG-TRVK7-3WOAK
+st~https://steamcommunity.com/profiles/76561198350342505
+twitch~https://www.twitch.tv/nqzfps
+tw~https://twitter.com/nqzcs
+in~https://www.instagram.com/nqzlucas
+Команда~00Nation
+Страна~Бразилия

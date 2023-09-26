@@ -1,0 +1,20 @@
+Имя~Кристиан Вольф (Christian Wolff)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FQ9Uu-kLvUp-a7C5D-r8hTn-hiyfF
+Параметры запуска~-novid -freq 240 -tickrate 128 -console -language english
+st~https://steamcommunity.com/profiles/76561198131834773
+twitch~https://www.twitch.tv/nd_cs
+tw~https://twitter.com/NDcsgo
+in~https://instagram.com/chris__wolff
+Команда~SNOGARD Dragons
+Страна~Германия

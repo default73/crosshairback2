@@ -1,0 +1,20 @@
+Имя~Армен Эксузян (Armen Eksuzyan)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ypPcR-bVsNv-3LTvJ-Kk4Ft-4xzQN
+Параметры запуска~-allow_third_party_software -tickrate 128 -novid +cl_cmdrate 128 +cl_cmdrate 128
+st~https://steamcommunity.com/profiles/76561198887182417
+vk~https://vk.com/id172535831
+twitch~https://www.twitch.tv/cheerful1709
+in~https://www.instagram.com/cheerful1709
+Команда~FLuffy Gangsters
+Страна~Россия

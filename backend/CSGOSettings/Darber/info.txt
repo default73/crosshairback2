@@ -1,0 +1,18 @@
+Имя~Филип Бём (Filip Böhm)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-NCyjF-B5O9W-dtt5d-aXKOc-uy5qB
+Параметры запуска~-refresh 240 +mat_queue_mode 2 +fps_max 300 -novid -tickrate 128 -noforcemaccel -noforcemspd -noforcemparms -high +r_dynamic 0 -threads 12
+st~https://steamcommunity.com/profiles/76561198996491569
+in~https://www.instagram.com/filipdarber
+Команда~Cryptova
+Страна~Чехия

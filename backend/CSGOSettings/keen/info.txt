@@ -1,0 +1,19 @@
+Имя~Кристерс Дарзнекс (Kristers Dārznieks)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.03
+Чувствительность мыши в зуме:~0.96
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-K2jc5-LqrrX-W8LSV-FTH4W-X3nQD
+st~https://steamcommunity.com/profiles/76561198014912532
+twitch~https://www.twitch.tv/keen_csgo1
+yt~https://www.youtube.com/user/multiq2000
+tw~https://twitter.com/keen_csgo
+Команда~The Prodigies
+Страна~Латвия

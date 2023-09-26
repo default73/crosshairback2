@@ -1,0 +1,20 @@
+Имя~Гильерме Рамирес (Guilherme Ramires)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Hp8pj-7aRuY-STvh7-VQJSW-8Bu8O
+Параметры запуска~-tickrate 128 -novid -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198210773029
+twitch~https://www.twitch.tv/ghfps_
+tw~https://www.twitter.com/ghfps_
+in~https://instagram.com/guilhermeramires_
+Команда~Intense
+Страна~Бразилия

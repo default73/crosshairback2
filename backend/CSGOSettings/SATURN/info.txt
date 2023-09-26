@@ -1,0 +1,18 @@
+Имя~Дилан Финч (Dylan Finch)
+DPI:~1400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-F5e5m-8DdDB-8YeL5-9wY58-ihaAB
+st~https://steamcommunity.com/profiles/76561198188443759
+twitch~https://www.twitch.tv/SATURN_cs
+tw~https://twitter.com/saturncsgo
+Команда~Без команды
+Страна~США

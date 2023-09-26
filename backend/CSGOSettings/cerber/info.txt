@@ -1,0 +1,19 @@
+Имя~Сердар Махмути (Serdar Mahmuti)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-HMZUS-x5hVK-HWdvk-xtp4W-JK5mA
+st~https://steamcommunity.com/profiles/76561198108147696
+twitch~https://www.twitch.tv/cerberofficial
+tw~https://twitter.com/cerberofficial
+in~https://www.instagram.com/serdarmahmuti/
+Команда~Без команды
+Страна~Косово

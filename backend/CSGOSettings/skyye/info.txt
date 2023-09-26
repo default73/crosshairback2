@@ -1,0 +1,19 @@
+Имя~Том Хагедорн (Tom Hagedorn)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.27
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Sh7pK-HrzCy-Yqqtw-utSLZ-udMbM
+Параметры запуска~-console -novid -tickrate 128 -w 1280 -h 960 +fps_max 400 +clientport 27006 -maxdownloadsizemb 300
+st~https://steamcommunity.com/profiles/76561198082670832
+twitch~https://www.twitch.tv/skyyecs
+tw~https://twitter.com/skyyecs
+Команда~BIG Academy
+Страна~Германия

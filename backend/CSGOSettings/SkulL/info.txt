@@ -1,0 +1,19 @@
+Имя~Джордан Ньюленд (Jordan Newland)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.91
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-7Sy6c-3UWQq-LfzGr-tudHQ-ByUrC
+st~https://steamcommunity.com/profiles/76561198093162249
+twitch~https://www.twitch.tv/Skullhuntercs
+yt~https://www.youtube.com/channel/UCIDPt8JmsqLRGt9siwmbhiw
+tw~https://twitter.com/Skullhuntercs
+Команда~The Big Dogs
+Страна~Австралия

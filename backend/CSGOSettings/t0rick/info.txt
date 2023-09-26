@@ -1,0 +1,21 @@
+Имя~Максим Заикин (Maksim Zaikin)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~0.86
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-tZ6pc-bEvKa-LBAPp-8apb5-L4hWA
+Параметры запуска~-novid -tickrate 128 +rate 786432 -freq 240 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp_ratio 1 +fps_max 300 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198007552635
+vk~https://vk.com/id93050393
+twitch~https://www.twitch.tv/torickgo
+tw~https://twitter.com/t0rickgo
+in~https://www.instagram.com/t0rick/
+Команда~MayBe
+Страна~Азербайджан

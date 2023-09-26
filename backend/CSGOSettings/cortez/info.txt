@@ -1,0 +1,20 @@
+Имя~Максим Линёв (Maksim Linyow)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-vxmC9-ipr6f-niNBJ-ParU4-zz8aC
+Параметры запуска~-novid -console -tickrate 128 +mat_queue_mode 2 -freq 144 -language english
+st~https://steamcommunity.com/profiles/76561198094320204
+vk~https://vk.com/id111361426
+twitch~https://www.twitch.tv/cortez222
+tw~https://twitter.com/linyow23
+Команда~Без команды
+Страна~Россия

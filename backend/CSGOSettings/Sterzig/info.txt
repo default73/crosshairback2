@@ -1,0 +1,18 @@
+Имя~Арнас Каволюнас (Arnas Kavoliunas)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.77
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-9EmtH-BbW7e-aMW2C-nOfC6-f8GSQ
+Параметры запуска~-novid -tickrate 128 -refresh 144 -d3d9ex +fps_max 0 +clientport 27007
+st~https://steamcommunity.com/profiles/76561198353446220
+tw~https://twitter.com/Sterzig_
+Команда~Без команды
+Страна~Литва

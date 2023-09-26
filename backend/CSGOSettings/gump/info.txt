@@ -1,0 +1,19 @@
+Имя~Маклейн Кросс (Maclane Cross)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.75
+Чувствительность мыши в зуме:~1.03
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-EBuLJ-Y4pDL-ji6XM-zRuFD-oFZML
+st~https://steamcommunity.com/profiles/76561198326172243
+twitch~https://www.twitch.tv/gump_cs
+tw~https://twitter.com/gump_au
+in~https://www.instagram.com/gump_cs
+Команда~e-LEMON-ators
+Страна~Австралия

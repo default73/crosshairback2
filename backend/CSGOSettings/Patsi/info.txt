@@ -1,0 +1,20 @@
+Имя~Роберт Исянов (Robert Isyanov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ty4wQ-Va3B2-rMK8r-ROvoR-yopJN
+Параметры запуска~+cl_interp 1 +cl_interp_ratio 1 +cl_color 2 +rate 786432 +cl_updaterate 128 +cl_cmdrate 128 -tickrate 128 -novid +fps_max 0 -freq 240 -language english
+st~https://steamcommunity.com/profiles/76561198288540801
+vk~https://vk.com/id49113389
+twitch~https://www.twitch.tv/patsiii
+in~https://www.instagram.com/rooobuk
+Команда~Team Liquid
+Страна~Россия

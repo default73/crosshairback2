@@ -1,0 +1,21 @@
+Имя~Игорь Жданов (Igor Zhdanov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.08
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jhrTh-eXR6k-6LeUL-C5ukE-FkdVG
+Параметры запуска~-freq 240 -novid -tickrate 128 -refresh 240 -console
+st~https://steamcommunity.com/profiles/76561199063068840
+vk~https://vk.com/id601311570
+twitch~https://www.twitch.tv/w0nderfulof
+tw~https://twitter.com/w0nderfulof
+in~https://www.instagram.com/w0nderfu1_
+Команда~Без команды
+Страна~Украина

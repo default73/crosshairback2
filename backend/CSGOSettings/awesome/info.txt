@@ -1,0 +1,20 @@
+Имя~Максим Зюзко (Maksim Zyuzko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-MS4Kb-TZfzP-5oOp2-8sqca-TUzfF
+Параметры запуска~-novid -tickrate 128 -freq 144 -high -threads 4 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198263026782
+vk~https://vk.com/awesomeez
+twitch~https://www.twitch.tv/awesomeof
+in~https://www.instagram.com/awesomeoffff/
+Команда~Без команды
+Страна~Россия

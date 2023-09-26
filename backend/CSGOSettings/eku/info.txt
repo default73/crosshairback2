@@ -1,0 +1,19 @@
+Имя~Эгерти Киск (Egerti Kiisk)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-W2kCv-6yyhO-DWjtX-aVQuW-mi2AC
+Параметры запуска~-novid +fps_max 0 -refresh 144
+st~https://steamcommunity.com/profiles/76561198312632764
+twitch~https://www.twitch.tv/murucs
+tw~https://twitter.com/SarcyRs
+Команда~sYnck
+Страна~Эстония

@@ -1,0 +1,19 @@
+Имя~Алекса Крекуль (Aleksa Kreculj)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rv2Fm-E4p6n-quiSb-vwLbQ-qseKP
+Параметры запуска~-novid -no-browser -nojoy +snd_use_hrtf 0 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198037379322
+twitch~https://www.twitch.tv/aky2k
+tw~https://twitter.com/AkyCSGO
+Команда~Без команды
+Страна~Сербия

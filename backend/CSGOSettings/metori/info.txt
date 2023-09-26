@@ -1,0 +1,22 @@
+Имя~Вероника Масалова (Veronika Masalova)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-SNBrs-qKCpJ-EOKai-Kxbck-SLLTK
+Параметры запуска~-novid -tickrate 128 -nothreadedsockets -nojoy -console +r_dynamic 1 +cl_threaded_bone_setup 1 -allow_third_party_software -language colormod -maxdownloadsizemb 500
+st~https://steamcommunity.com/profiles/76561198138092905
+vk~https://vk.com/id268716248
+twitch~https://www.twitch.tv/shymetori
+yt~https://www.youtube.com/channel/UCBmuQnReBoaM0mPYNTupzCQ
+tw~https://twitter.com/metori300
+in~https://www.instagram.com/metoridesu
+Команда~East Legends
+Страна~Россия

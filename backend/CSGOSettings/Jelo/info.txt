@@ -1,0 +1,18 @@
+Имя~Джоэл Лентонен (Joel Lentonen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~0.75
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-qk5W4-OzYHH-hPxPe-bRuiY-8Bu8O
+st~https://steamcommunity.com/profiles/76561198107964929
+twitch~https://www.twitch.tv/jelohhi
+tw~https://twitter.com/jelohcs
+Команда~JANO
+Страна~Финляндия

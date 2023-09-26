@@ -1,0 +1,20 @@
+Имя~Даниил Тесленко (Danylo Teslenko)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.43
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-iBWmi-8Lpv9-7KSoy-rdZVr-bFPYE
+st~https://steamcommunity.com/profiles/76561198019328472
+vk~https://vk.com/id11158447
+twitch~https://www.twitch.tv/zeus
+tw~https://twitter.com/ZeusCS_GO
+in~https://www.instagram.com/zeuscsgo/
+Команда~Без команды
+Страна~Украина

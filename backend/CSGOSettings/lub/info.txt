@@ -1,0 +1,19 @@
+Имя~Лукас Баракат (Lucas Baracat)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jEh7z-b9qcd-Fx84C-r4hjk-aGUSH
+st~https://steamcommunity.com/profiles/76561198842550599
+twitch~https://www.twitch.tv/lubfps1
+tw~https://twitter.com/lubfps
+in~https://www.instagram.com/baracatlucas
+Команда~Без команды
+Страна~Бразилия

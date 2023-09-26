@@ -1,0 +1,21 @@
+Имя~Сергей Погорелов (Sergey Pogoryelov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.68
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-U4Udt-caTxo-S6Jjw-wBibM-WiA6Q
+Параметры запуска~-novid -console -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198449485596
+vk~https://vk.com/id483717538
+twitch~https://www.twitch.tv/pogor3lov
+tw~https://twitter.com/pogor3lov
+in~https://www.instagram.com/pogor3lov_/
+Команда~Без команды
+Страна~Украина

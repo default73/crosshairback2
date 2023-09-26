@@ -1,0 +1,20 @@
+Имя~Зи Эспонилла (Zy Esponilla)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-XmP5U-cuMOf-Xpk7W-rQqBx-zwsyM
+Параметры запуска~-novid -tickrate 128 -freq 144 +fps_max 300 -console
+st~https://steamcommunity.com/profiles/76561198304623615
+twitch~https://www.twitch.tv/yz0aja
+yt~https://www.youtube.com/channel/UCk4ax420DZ4cjUuNSNbxe4Q
+tw~https://twitter.com/yz0aja
+Команда~7AM
+Страна~Великобритания

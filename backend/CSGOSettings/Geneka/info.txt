@@ -1,0 +1,21 @@
+Имя~Егор Ивасиро (Egor Ivasiro)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.12
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-CYBLa-AJmu7-h4PwP-zVFp7-a3JzN
+Параметры запуска~-novid
+st~https://steamcommunity.com/profiles/76561198872471034
+vk~https://vk.com/id307612128
+twitch~https://www.twitch.tv/miraigreaph
+yt~https://www.youtube.com/channel/UCsiHlJVfHXR8-7AuGWx257g
+in~https://www.instagram.com/mirai.cyberclub
+Команда~Без команды
+Страна~Россия

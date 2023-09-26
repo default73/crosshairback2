@@ -1,0 +1,18 @@
+Имя~Кристиан Пройсс (Christian Preuß)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Hc74Q-9GYMT-68b9K-bc6qE-AerVQ
+st~https://steamcommunity.com/profiles/76561198157961577
+twitch~https://www.twitch.tv/lapexcs
+tw~https://twitter.com/LapeXcs
+Команда~SNOGARD Dragons
+Страна~Германия

@@ -1,0 +1,19 @@
+Имя~Камерон Мурье (Cameron Mourier)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~244Hz
+sharecode~CSGO-4xHFa-iSX2f-iwuF2-BcfD6-4BZ2Q
+Параметры запуска~-freq 244 -console -novid -high -tickrate 128
+st~https://steamcommunity.com/profiles/76561198091792028
+yt~https://www.youtube.com/channel/UCRD-Daf6mL5sEHiVEchBZ7w?view_as=subscriber
+tw~https://twitter.com/CameronMourier
+Команда~Без команды
+Страна~Франция

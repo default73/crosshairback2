@@ -1,0 +1,20 @@
+Имя~Леонардо Куруссу (Leonardo Kurussu)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1.05
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-bBXtb-rhNAi-e9EsW-v3QpR-yopJN
+Параметры запуска~-novid -tickrate 128 -high -console
+st~https://steamcommunity.com/profiles/76561198130114333
+twitch~https://www.twitch.tv/freqzin
+tw~https://twitter.com/freqfps
+in~https://instagram.com/freqfps
+Команда~Без команды
+Страна~Бразилия

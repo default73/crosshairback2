@@ -1,0 +1,20 @@
+Имя~Максим Щекало (Maxim Schekalo)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.625
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3cFLm-Oqmfo-qXxwk-ocDsR-6sWPA
+Параметры запуска~-novid +cl_updaterate 128 +cl_cmdrate 128 -tickrate 128 -freq 240 +cl_interp_ratio 1 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198101805335
+vk~https://vk.com/id154547887
+twitch~https://www.twitch.tv/pnqcsgo
+yt~https://www.youtube.com/channel/UCOqHbE4h_3Y0NTYr-Y7GIxw
+Команда~Без команды
+Страна~Беларусь

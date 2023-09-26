@@ -1,0 +1,17 @@
+Имя~Тоби Барнс (Toby Barnes)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.77
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FAOdQ-P6YGs-iXMqv-aNTyK-jz3JE
+st~https://steamcommunity.com/profiles/76561198086803740
+tw~https://twitter.com/BRACEcsgo
+Команда~VERTEX Esports Club
+Страна~Австралия

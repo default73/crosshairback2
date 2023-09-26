@@ -1,0 +1,18 @@
+Имя~Алексей Новаков (Alexey Novakov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-NzBGr-3wMUT-a8rdk-V9yDE-pqAQL
+Параметры запуска~-refresh 144 -novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 +rate 786432 +cl_interp 0 +cl_interp_ratio 1 +fps_max 300
+st~https://steamcommunity.com/profiles/76561199099257626
+vk~https://vk.com/id619737101
+Команда~Без команды
+Страна~Россия

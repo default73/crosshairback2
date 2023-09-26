@@ -1,0 +1,21 @@
+Имя~Татьяна Воронцова (Tanya Vorontsova)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~4/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~144Hz
+sharecode~CSGO-xXMEw-KmTtT-JE6Cs-VUTXX-yCAMK
+Параметры запуска~-novid -threads 16 -freq 144 +cl_interp 1 +fps_max 501 -console -tickrate 128 +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 +mat_queue_mode 2 -noforcemparms -noforcemaccel +cl_interp_ratio 1 -nojoy -untrusted -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561197961799823
+vk~https://vk.com/id17832972
+twitch~https://www.twitch.tv/t4ttycs
+tw~https://twitter.com/t4ttycs
+in~https://www.instagram.com/t4ttycs
+Команда~9 Pandas Fearless
+Страна~Россия

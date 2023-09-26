@@ -1,0 +1,20 @@
+Имя~Кирилл Шерстобитов (Kirill Sherstobitov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.535
+Чувствительность мыши в зуме:~0.998562
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-P9MpF-GGD72-NHB5u-FCk7z-63qRP
+Параметры запуска~-freq 240 -console -novid -noforcemaccel -noforcemparms -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -rate 786432 -d3d9ex -language english +cl_interp_ratio 1 +mat_queue_mode 2 +fps_max 400 -allow_third_party_software -nojoy
+st~https://steamcommunity.com/profiles/76561198975154160
+vk~https://vk.com/id306999063
+twitch~https://www.twitch.tv/k1nd_cs
+in~https://www.instagram.com/k1nd111
+Команда~Без команды
+Страна~Россия

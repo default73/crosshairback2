@@ -1,0 +1,21 @@
+Имя~Никита Мартыненко (Nikita Martynenko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VmnAb-f8kwr-TViEq-FURED-UVqNO
+Параметры запуска~-novid -tickrate 128 +exec autoexec.cfg -nojoy +mat_queue_mode 2 -no-browser -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198068002993
+vk~https://vk.com/id419150737
+twitch~https://www.twitch.tv/heavy_godd
+tw~https://twitter.com/Heavy_Godd
+in~https://www.instagram.com/filipwiss
+Команда~Endpoint
+Страна~Израиль

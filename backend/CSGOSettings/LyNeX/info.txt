@@ -1,0 +1,21 @@
+Имя~Шейн Эмметт (Shane Emmett)
+DPI:~1000
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.88
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-PubDY-shjxu-bbhyt-z9raP-ykEVF
+Параметры запуска~-freq 240 -refresh 240 -novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 +cl_forcepreload 1 +fps_max 0 -allow_third_party_software +clientport 27009
+st~https://steamcommunity.com/profiles/76561198054558699
+twitch~https://www.twitch.tv/lynex_cs
+yt~https://www.youtube.com/channel/UC2rxRn1h5G-KkMA2GhgFY_Q
+tw~https://twitter.com/_LyNeX_
+in~https://www.instagram.com/emmettshane
+Команда~Без команды
+Страна~Швейцария

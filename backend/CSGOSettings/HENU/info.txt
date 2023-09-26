@@ -1,0 +1,20 @@
+Имя~Анри Илилехо (Henri Ylilehto)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.65
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6Scmn-ikhmF-ZHQuW-af8xW-U9z6A
+Параметры запуска~-novid -console -language bananagaming -nojoy -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 -novid +fps_max 400 -untrusted -allow_third_party_files +snd_use_hrtf 0
+st~https://steamcommunity.com/profiles/76561198065606574
+yt~https://www.youtube.com/channel/UCKjRCVvPxxI7LmiAYagZ8Kg/videos
+tw~https://twitter.com/HENUcs
+in~https://www.instagram.com/h.ylilehto/
+Команда~ENCE Academy
+Страна~Финляндия

@@ -1,0 +1,19 @@
+Имя~Топи Кауппи (Topi Kauppi)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-MDSv2-D6zFc-jbyjR-oPwJ2-MdJaA
+Параметры запуска~-tickrate 128 -novid -refresh 240
+st~https://steamcommunity.com/profiles/76561198083574557
+twitch~https://www.twitch.tv/lynxib
+tw~https://twitter.com/LYNXiCSGO
+Команда~VISU Gaming
+Страна~Финляндия

@@ -1,0 +1,19 @@
+Имя~Даниил Никитин (Daniil Nikitin)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-jJHcQ-vJzmD-8qUK4-utayF-cMwLA
+Параметры запуска~-freq 144 -novid -console +mat_queue_mode 2 +r_drawtracers_firstperson 0 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198239621484
+vk~https://vk.com/id273646263
+twitch~https://www.twitch.tv/lov1kus
+Команда~Без команды
+Страна~Россия

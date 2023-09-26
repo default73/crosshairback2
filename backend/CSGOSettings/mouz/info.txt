@@ -1,0 +1,21 @@
+Имя~Миколай Каролевски (Mikołaj Karolewski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-RvGde-NQ4ev-xPaKA-xr9SR-5EWzE
+Параметры запуска~-freq 240 -tickrate 128 -console -novid
+st~https://steamcommunity.com/profiles/76561197998730533
+twitch~https://www.twitch.tv/mouzzzz
+fb~https://www.facebook.com/mouzzzz
+tw~https://twitter.com/mou2inho
+in~https://www.instagram.com/m0uzinho
+Команда~Без команды
+Страна~Польша

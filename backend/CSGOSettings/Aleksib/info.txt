@@ -1,0 +1,20 @@
+Имя~Алекси Виролайнен (Aleksi Virolainen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VLB7A-hN7BN-79CrP-dsAzQ-F99zP
+st~https://steamcommunity.com/profiles/76561198013243326
+twitch~https://www.twitch.tv/aleeksi
+yt~https://www.youtube.com/channel/UCfjg5VhgYON2oXlQL2zbhPA
+tw~https://twitter.com/AleksibCSGO
+in~https://www.instagram.com/aleksivirolainen
+Команда~Natus Vincere
+Страна~Финляндия

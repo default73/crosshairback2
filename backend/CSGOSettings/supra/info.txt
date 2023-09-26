@@ -1,0 +1,20 @@
+Имя~Антон Чернобай (Anton Tšernobai)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-fEeFb-TFkqf-3st74-SQVxF-OfoUE
+st~https://steamcommunity.com/profiles/76561198125067919
+vk~https://vk.com/id357123106
+twitch~https://www.twitch.tv/csgosupra
+tw~https://twitter.com/supracsgo
+in~https://www.instagram.com/supracsgo
+Команда~Без команды
+Страна~Эстония

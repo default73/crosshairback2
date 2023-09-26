@@ -1,0 +1,19 @@
+Имя~Кристиан Андерсен (Christian Andersen)
+DPI:~2300
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.42
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-FR9ru-YrsEZ-cFjwW-Ud4ho-NsW5F
+Параметры запуска~-console -novid -tickrate 128 +fps_max 999 -nojoy -freq 240 -nod3d9ex
+st~https://steamcommunity.com/profiles/76561198248953762
+twitch~https://www.twitch.tv/buzz0fficial
+tw~https://twitter.com/BuzzCS
+Команда~Astralis
+Страна~Дания

@@ -1,0 +1,20 @@
+Имя~Альтаир Аскаров (Altair Askarov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-UQTxv-Uq4Zv-NG6By-iFua9-WsdqA
+Параметры запуска~-nojoy -novid -console -tickrate 128 +cl_threaded_bone_setup 1 -sdr_spew_level 3 -freq 240 +rate 786432 +cl_interp_ratio 2 +cl_updaterate 128 +cl_cmdrate 128 +sv_usercmd_custom_random_seed 0
+st~https://steamcommunity.com/profiles/76561198357173694
+vk~https://vk.com/id233808040
+twitch~https://www.twitch.tv/kalashxdd
+in~https://www.instagram.com/kalashxddd/
+Команда~B8 Esports
+Страна~Казахстан

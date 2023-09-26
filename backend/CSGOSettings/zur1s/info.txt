@@ -1,0 +1,21 @@
+Имя~Мартин Слама (Martin Sláma)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-KFZkv-N5m5F-bA7e9-MbtrX-uy5qB
+st~https://steamcommunity.com/profiles/76561198100733569
+twitch~https://www.twitch.tv/newzur1s
+yt~https://www.youtube.com/channel/UCYhJU50yYAkVrKmYb66y7OA
+fb~https://www.facebook.com/zurysko
+tw~https://twitter.com/zur1s1
+in~https://www.instagram.com/zur1s_
+Команда~ENTERPRISE esports
+Страна~Чехия

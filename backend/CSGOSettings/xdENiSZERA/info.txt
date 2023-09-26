@@ -1,0 +1,18 @@
+Имя~Денис Скленин (Denis Sklenin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.23
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-P8K3o-mZ8so-9V9fG-8aj6z-S79zP
+Параметры запуска~-freq 144 -tickrate 128 -d3d9ex -high +fps_max 300 -language english -novid +mat_queue_mode 2 -console
+st~https://steamcommunity.com/profiles/76561198131682954
+vk~https://vk.com/xdeniszerawww
+Команда~VP.Prodigy
+Страна~Россия

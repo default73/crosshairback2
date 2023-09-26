@@ -1,0 +1,19 @@
+Имя~Иван Дроздов (Ivan Drozdov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8Xx5R-bNtVL-7o3DC-ntnYO-F3wPB
+Параметры запуска~-threads 4 -novid -language english +cl_interp_ratio 1 -rate 128000 -noipx -nojoy -noforcemspd +mat_queue_mode 2 -noforcemparms -noforcemaccel -freq 240 -high -tickrate 128
+st~https://steamcommunity.com/profiles/76561198282668576
+vk~https://vk.com/id132375621
+twitch~https://www.twitch.tv/parker1769
+Команда~Без команды
+Страна~Украина

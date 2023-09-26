@@ -1,0 +1,21 @@
+Имя~Уильям Мерриман (William Merriman)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.85
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-naR4K-84huz-Jf3OR-UAE9Q-9RaUN
+Параметры запуска~-novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561197973140692
+twitch~https://www.twitch.tv/kingmezii
+yt~https://www.youtube.com/channel/UCCG28LBJcudzycCS_qmimWw
+tw~https://twitter.com/kingmezii
+in~https://www.instagram.com/kingmezii
+Команда~fnatic
+Страна~Великобритания

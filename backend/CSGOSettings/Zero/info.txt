@@ -1,0 +1,22 @@
+Имя~Патрик Жудель (Patrik Žúdel)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-TWsBn-yjOyi-p7jfw-j9JDY-CcfiK
+Параметры запуска~-freq 240 -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561197994587863
+twitch~https://www.twitch.tv/PatrikZero
+yt~https://www.youtube.com/c/PatrikZero
+fb~https://www.facebook.com/patrikzero
+tw~https://twitter.com/PatrikZero
+in~https://www.instagram.com/patrikzero
+Команда~Без команды
+Страна~Словакия

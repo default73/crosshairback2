@@ -1,0 +1,20 @@
+Имя~Михал Врзал (Michal Vrzal)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-facTu-VYDV3-bnjrz-CBzdz-Yd4NF
+st~https://steamcommunity.com/profiles/76561198256799794
+twitch~https://www.twitch.tv/T4gg3Dxaxa
+yt~https://www.youtube.com/channel/UCSYjjVI6XH6YmbIFJ8BmtuQ?view_as=subscriber
+tw~https://www.twitter.com/t4gg3
+in~https://www.instagram.com/t4gg3d_
+Команда~Team Sampi
+Страна~Словакия

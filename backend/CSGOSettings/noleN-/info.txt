@@ -1,0 +1,19 @@
+Имя~Нолен Вида (Nolen Vida)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.58
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7zMmM-mKfuN-ayXiQ-aAVQv-8Er7C
+Параметры запуска~-tickrate 128 -novid -fps_max 0 -fps_max_menu 0 -freq 240 -nojoy -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198820452314
+yt~https://www.youtube.com/channel/UCBXCANB_z6eJvkZ5NIydBxQ
+tw~https://twitter.com/nolencsgo
+Команда~Без команды
+Страна~Венгрия

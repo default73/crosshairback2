@@ -1,0 +1,20 @@
+Имя~Хесус Росалес Руиз (Jesus Rosales Ruiz)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6vnU4-eKkdP-URkJt-deCDq-4PkTL
+st~https://steamcommunity.com/profiles/76561198205035625
+twitch~https://www.twitch.tv/kn1ghtcs31
+fb~https://www.facebook.com/jKnightFPS
+tw~https://twitter.com/jKnightFPS
+in~https://www.instagram.com/jknightfps
+Команда~Без команды
+Страна~Перу

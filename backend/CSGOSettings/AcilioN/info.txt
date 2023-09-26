@@ -1,0 +1,21 @@
+Имя~Асгер Ларсен (Asger Larsen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-QdCCt-AOwZ2-cx3cf-5pv7L-7k5BO
+st~https://steamcommunity.com/profiles/76561198017015164
+twitch~https://www.twitch.tv/AcilioNCS
+yt~https://www.youtube.com/channel/UC-QomsrwzQvNmTgXGjfBaxg
+fb~https://facebook.com/AcilioNcs
+tw~https://twitter.com/AcilioNcs
+in~https://www.instagram.com/acilioncs
+Команда~Preasy Esport
+Страна~Дания

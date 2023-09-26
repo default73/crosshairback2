@@ -1,0 +1,19 @@
+Имя~Марко Эрнандес (Marco Hernandez)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FOLd9-oVqqz-4XbHr-nyY3y-Thj5P
+st~https://steamcommunity.com/profiles/76561198167738896
+twitch~https://www.twitch.tv/pol0
+yt~https://www.youtube.com/channel/UCbjBtQYiJBqiOnJ8LyG_Raw
+tw~https://twitter.com/Pol0cs
+Команда~Без команды
+Страна~США

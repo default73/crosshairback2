@@ -1,0 +1,18 @@
+Имя~Артур Варела Лотти (Arthur Varela Lotti)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-aG39b-V6wVi-PyQES-SPXWn-uoKjC
+Параметры запуска~-high -tickrate 128 +exec autoexec -novid +cl_cmdrate 128 +cl_updaterate 128
+st~https://steamcommunity.com/profiles/76561198156312921
+tw~https://twitter.com/UnK_CS
+Команда~Без команды
+Страна~Бразилия

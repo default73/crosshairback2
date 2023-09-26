@@ -1,0 +1,18 @@
+Имя~Нолан Хергес (Nolan Herges)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-nryGM-9iO9r-fHWGY-PE6Qj-RjjPK
+st~https://steamcommunity.com/profiles/76561198095885261
+twitch~https://www.twitch.tv/Iouiecs
+tw~https://twitter.com/Louie_ttv
+Команда~Detonate
+Страна~США

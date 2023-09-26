@@ -1,0 +1,18 @@
+Имя~Себастьян Риги (Sebastian Righi)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-2T9Oi-R8J7m-y77qY-bmyAH-dz8CH
+Параметры запуска~-console -freq 240 -tickrate 128 -high +r_dynamic "0" -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198273670913
+tw~https://twitter.com/sebarighi
+Команда~WINDINGO
+Страна~Аргентина

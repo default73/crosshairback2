@@ -1,0 +1,20 @@
+Имя~Райан Обри (Ryan Aubry)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-QmS5L-9RXSe-iurLG-pdsPO-6UDND
+Параметры запуска~-novid -freq 240 -high -tickrate 128 -nojoy -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198971718392
+twitch~https://www.twitch.tv/neityu
+yt~https://www.youtube.com/channel/UCBoP2whm4eFiIcg3JTiHNGw
+tw~https://twitter.com/neityucsgo
+Команда~Nakama
+Страна~Франция

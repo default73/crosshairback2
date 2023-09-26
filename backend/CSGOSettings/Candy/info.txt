@@ -1,0 +1,21 @@
+Имя~Алёна Куваева (Alyona Kuvaeva)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.57
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-RMGL2-p3vpM-dPKeS-fJ7K7-HDWzE
+Параметры запуска~-console -novid -tickrate 128 +cl_cmdrate 128 +rate 786432 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 -freq 240 cl_teamid_overhead_always 1
+st~https://steamcommunity.com/profiles/76561198028200596
+vk~https://vk.com/candytoptopov
+twitch~https://www.twitch.tv/candytoptopov
+tw~https://twitter.com/Candy_CSGO
+in~https://www.instagram.com/candytoptopov
+Команда~Без команды
+Страна~Россия

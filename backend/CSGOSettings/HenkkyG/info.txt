@@ -1,0 +1,20 @@
+Имя~Любош Илько (Lubos Ilko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-oqZF9-osaXi-8pRXk-7G6Vr-bFPYE
+Параметры запуска~-tickrate 128 -novid -console -freq 240 -w 1024 -h 768
+st~https://steamcommunity.com/profiles/76561197970940008
+yt~https://www.youtube.com/user/HenkkyGtv
+tw~https://twitter.com/henkkygcs
+in~https://instagram.com/henkkyg/
+Команда~Без команды
+Страна~Словакия

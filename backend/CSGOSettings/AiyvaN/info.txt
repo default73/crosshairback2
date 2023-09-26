@@ -1,0 +1,21 @@
+Имя~Иван Семенец (Ivan Semenets)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1.3
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ickou-EmxoY-iG6ev-RDHWS-YF5RG
+Параметры запуска~-novid -console
+st~https://steamcommunity.com/id/IvanSemenets/
+vk~https://vk.com/vanyadabest
+twitch~https://www.twitch.tv/aiyvan
+tw~https://twitter.com/AiyvaNCSGO
+in~https://www.instagram.com/semenets.ivan/
+Команда~Без команды
+Страна~Украина

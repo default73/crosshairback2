@@ -1,0 +1,21 @@
+Имя~Сергей Тур (Sergey Tur)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-sRWSn-qYfEq-P6cus-Bh9cX-uQJLH
+Параметры запуска~-tickrate 128 -novid -freq 240
+st~https://steamcommunity.com/id/Wierd_1k/
+vk~https://vk.com/wierd_1k
+twitch~https://www.twitch.tv/wrd1k
+tw~https://twitter.com/wierd_1k
+in~https://www.instagram.com/wierd_1k/
+Команда~Без команды
+Страна~Россия

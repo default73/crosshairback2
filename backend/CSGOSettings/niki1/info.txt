@@ -1,0 +1,21 @@
+Имя~Николай Панталеев (Nikolay Pantaleev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ArVbT-LtnSU-rR9kF-84H4n-7FwzF
+Параметры запуска~-noforcemparms -noforcemaccel -usenoforcedmparms -w 1280 -h 960 -console -novid -freq 240 -tickrate 128 -d3d9ex -high
+st~https://steamcommunity.com/profiles/76561198892882620
+twitch~https://www.twitch.tv/niki1needdoctor
+fb~https://www.facebook.com/Officialniki1needDOCTOR
+tw~https://twitter.com/niki1needDOCTOR
+in~https://www.instagram.com/niki1needdoctor
+Команда~500
+Страна~Болгария

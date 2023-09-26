@@ -1,0 +1,21 @@
+Имя~Алексей Злотковский (Aliaksei Zlatkouski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7hv3F-i28aj-3BVxn-oODLS-PmuCQ
+Параметры запуска~-tickrate 128 -novid -nojoy +fps_max 300 -fullscreen -refresh 240
+st~https://steamcommunity.com/profiles/76561197983794286
+vk~https://vk.com/id369452722
+twitch~https://www.twitch.tv/znxxx16
+tw~https://twitter.com/znxjes
+in~https://www.instagram.com/alex.zlotkovskiy
+Команда~Websterz
+Страна~Беларусь

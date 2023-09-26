@@ -1,0 +1,18 @@
+Имя~Михай-Кристиан Русе (Mihai-Cristian Ruse)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~360Hz
+sharecode~CSGO-3mHB6-Z42wq-QQY5q-sYakJ-fFjeC
+Параметры запуска~+cl_threaded_bone_setup 1 -novid -refresh 360 -tickrate 128 +fps_max 0 +cl_show_team_equipment 1 +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561197998162102
+tw~https://twitter.com/kritikw0w
+Команда~allStars
+Страна~Румыния

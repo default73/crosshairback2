@@ -1,0 +1,21 @@
+Имя~Ерасыл Болат (Erasyl Bolat)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1350 x 1080
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Gsyba-7yhPM-PcyAH-yuxbe-AioUE
+Параметры запуска~-novid -tickrate 128 -noforcemaccel -noforcemparms -noforcemspd -freq 240
+st~https://steamcommunity.com/profiles/76561198876350367
+vk~https://vk.com/daiisyke
+twitch~https://www.twitch.tv/daisyke_
+tw~https://twitter.com/Daisyke_
+in~https://www.instagram.com/daisykeoff/
+Команда~Без команды
+Страна~Казахстан

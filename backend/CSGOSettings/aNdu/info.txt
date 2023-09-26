@@ -1,0 +1,18 @@
+Имя~Андреас Маасинг (Andreas Maasing)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Qfyxt-GC7mR-YXOZC-8Kewr-UupcG
+Параметры запуска~-tickrate 128 -refresh 240 -novid -high -fullscreen -d3d9ex -freq 240 -nojoy +cl_interp_ratio 1 +cl_updaterate 128
+st~https://steamcommunity.com/profiles/76561198218879055
+tw~https://twitter.com/ANdul0c0
+Команда~sYnck
+Страна~Эстония

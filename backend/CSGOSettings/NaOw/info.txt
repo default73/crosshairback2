@@ -1,0 +1,19 @@
+Имя~Иван Гонсалес (Iván González)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-SatJa-ZJoBA-6U8dL-vSvsA-TDWzE
+Параметры запуска~-freq 144 -novid -console -tickrate 128 -high
+st~https://steamcommunity.com/profiles/76561197995221225
+twitch~https://www.twitch.tv/naoww
+tw~https://twitter.com/NaOwCSGO
+Команда~Без команды
+Страна~Испания

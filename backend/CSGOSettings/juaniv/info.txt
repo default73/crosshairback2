@@ -1,0 +1,21 @@
+Имя~Хуан Манрике (Juan Manrique)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-4U4EF-dfRAR-vC3hB-vkpdX-Fw5qB
+Параметры запуска~-novid -freq 240 -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198079093352
+twitch~https://www.twitch.tv/Juaniiv
+fb~https://www.facebook.com/juanivk
+tw~https://twitter.com/Juanivk
+in~https://www.instagram.com/juanivk_
+Команда~Без команды
+Страна~Аргентина

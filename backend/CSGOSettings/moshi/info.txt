@@ -1,0 +1,20 @@
+Имя~Гарри Рейнс (Harry Raines)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-mniOq-5mhrx-yEkW9-iVtyh-Y2syM
+Параметры запуска~-tickrate 128 -novid -freq 240 +cl_interp 1 +cl_interp_ratio 1 +fps_max 400 +mat_queue_mode 2 -allow_third_party_software +r_dynamic 0 +bind "q" "+voicerecord" -language korean
+st~https://steamcommunity.com/profiles/76561198080330700
+twitch~https://www.twitch.tv/moshi_cs
+yt~https://www.youtube.com/channel/UCDFXQcjp8Q374a5C95P2u6Q
+tw~https://twitter.com/moshi_cs
+Команда~Без команды
+Страна~Великобритания

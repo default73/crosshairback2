@@ -1,0 +1,20 @@
+Имя~Эльза Балич (Elsa Balich)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.03
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 900
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-Nazfv-vQpm3-facHW-jESwy-K5nQD
+Параметры запуска~-novid -d3d9ex -high -console -tickrate 128 -rate 786432 -port 27761
+st~https://steamcommunity.com/profiles/76561198108664006
+vk~https://vk.com/id163530874
+twitch~https://www.twitch.tv/elybalich88
+in~https://www.instagram.com/elybalich88
+Команда~The Legion
+Страна~Россия

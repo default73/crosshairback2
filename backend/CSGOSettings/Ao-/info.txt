@@ -1,0 +1,20 @@
+Имя~Эрик Бродский (Erik Brodskiy)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~0.85
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-pJFNk-iJcH3-hePey-iaYDC-n6ieC
+Параметры запуска~-novid -tickrate 128 -freq 240 +fps_max 0 +mat_queue_mode 2 +cl_cmdrate 128 +cl_updaterate 128 -allow_third_party_software +r_dynamic 0 .
+st~https://steamcommunity.com/profiles/76561198296219351
+vk~https://vk.com/id594549415
+twitch~https://www.twitch.tv/aodeadinside
+yt~https://www.youtube.com/channel/UCzGknT0Kt7wPEL9g2vHsrRg
+Команда~Montecarlo Gaming
+Страна~Украина

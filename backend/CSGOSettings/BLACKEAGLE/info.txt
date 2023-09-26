@@ -1,0 +1,20 @@
+Имя~Мустафа Багдади (Moustafa Baghdadi)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VUyB3-dGf2L-6SjLt-GYaXr-TGpEM
+Параметры запуска~-novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561197968510806
+twitch~https://www.twitch.tv/blacke4gle
+tw~https://twitter.com/BLACKE4GLEE
+in~https://www.instagram.com/moustafa_baghdadi/
+Команда~Без команды
+Страна~Австрия

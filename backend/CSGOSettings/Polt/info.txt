@@ -1,0 +1,19 @@
+Имя~Вадим Циров (Vadim Tsyrov)
+DPI:~1800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-522T8-wBodu-PS4Ry-D5ETz-NxZkF
+Параметры запуска~-novid +rate 786432 -noforcemaccel -freq 240 +fps_max 400 -console -tickrate 128 +cl_interp_ratio 1 +mat_queue 2
+st~https://steamcommunity.com/profiles/76561198046102181
+vk~https://vk.com/id66226774
+twitch~https://www.twitch.tv/polt70
+Команда~Insilio
+Страна~Россия

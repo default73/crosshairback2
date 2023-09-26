@@ -1,0 +1,20 @@
+Имя~Даниэль Диас (Daniel Dias)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~800 x 600
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~144Hz
+sharecode~CSGO-rAEVB-mVkBP-buLPu-ur46P-nysyM
+Параметры запуска~-novid -tickrate 128 -high -freq 144 -threads 6 -nojoy +fps_max 300 +cl_forcepreload 1
+st~http://steamcommunity.com/profiles/76561198086168409
+twitch~https://www.twitch.tv/DebornY
+yt~https://www.youtube.com/channel/UCpQI7vfSx5QwSrhXalXNjWw
+tw~http://www.twitter.com/DebornYfps
+Команда~Без команды
+Страна~Бразилия

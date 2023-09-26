@@ -1,0 +1,19 @@
+Имя~Матье Меллот (Matthieu Mellot)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-RHYfV-asonn-bTfk7-EsDjs-sV8SA
+Параметры запуска~-tickrate 128 -clientport 27005 -freq240 -d3d9ex -high -novid -refresh240 +mat_queue_mode 2 +fps_max 0 -language bananagaming -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198175853018
+yt~https://www.youtube.com/channel/UCKBqv6WBOSdDfKEJme6zckQ
+tw~https://twitter.com/Razzmo_
+Команда~Nakama
+Страна~Франция

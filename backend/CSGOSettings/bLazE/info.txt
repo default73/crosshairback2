@@ -1,0 +1,21 @@
+Имя~Джош Сандерс (Josh Saunders)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-LLf2P-aS4SW-eEECV-5d6NJ-XDYXC
+st~https://steamcommunity.com/profiles/76561198169967583
+twitch~https://www.twitch.tv/blazecs_
+yt~https://www.youtube.com/channel/UCIVbJdYunTWBMkjsobcgflw
+fb~https://www.facebook.com/blazecs
+tw~https://twitter.com/bLazEcs_
+in~https://www.instagram.com/JoshSaunderss_
+Команда~Nixuh
+Страна~Южная Африка

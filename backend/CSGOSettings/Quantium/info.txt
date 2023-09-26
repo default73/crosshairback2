@@ -1,0 +1,20 @@
+Имя~Сергей Мальченко (Sergey Malchenko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Ezya8-UUvqv-h7Mxy-ouEtx-DLpYF
+Параметры запуска~-novid -language english -freq 240 -tickrate 128 +fps_max 0 -console +cl_interp_ratio 1
+st~https://steamcommunity.com/id/quantiumcs/
+vk~https://vk.com/mara_77
+twitch~https://www.twitch.tv/quantiumcs_go
+in~https://www.instagram.com/malchenko__/
+Команда~MayBe
+Страна~Россия

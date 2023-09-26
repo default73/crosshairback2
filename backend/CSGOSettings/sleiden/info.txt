@@ -1,0 +1,20 @@
+Имя~Андрей Копаниця (Andrii Kopanytsia)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-WxQ3W-6ZOPN-HuohV-LzS3G-octOH
+Параметры запуска~+rate 786432 -novid -high -tickrate 128 +cl_inter_ratio 1 +cl_interp 0 +fps_max 400 -language english +cl_cmdrate 128 +cl_updatrate 128 -threads 8 -noforcemaccel -heapsize 1048576 -noaafonts -nojoy -dxlevel 81
+st~https://steamcommunity.com/profiles/76561198163999832
+vk~https://vk.com/id212212923
+twitch~https://steamcommunity.com/profiles/76561198163999832
+in~https://www.instagram.com/sleidenxd/
+Команда~Без команды
+Страна~Украина

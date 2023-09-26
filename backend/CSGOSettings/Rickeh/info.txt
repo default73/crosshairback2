@@ -1,0 +1,20 @@
+Имя~Рикардо Малхолланд (Ricardo Mulholland)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~4/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-DJPRn-Hd5PG-k5dAr-J6qNc-mRFuA
+st~https://steamcommunity.com/profiles/76561197963481649
+twitch~https://www.twitch.tv/RickehAus
+fb~https://www.facebook.com/ricky.mulholland.54
+tw~https://twitter.com/Rickeh
+in~https://www.instagram.com/rickymulholland/
+Команда~Без команды
+Страна~Австралия

@@ -1,0 +1,20 @@
+Имя~Данил Росляков (Danil Roslyakov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1.23
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~280Hz
+sharecode~CSGO-P6Md6-93WTk-XLzT3-OvhOd-dmwjN
+Параметры запуска~-language english -refresh 280 +fps_max 0 +cl_interp_ratio 1 -novid -console -tickrate 128 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198217764976
+vk~https://vk.com/id373982952
+twitch~https://www.twitch.tv/danistzz
+in~https://www.instagram.com/danistzz
+Команда~Boston crab
+Страна~Россия

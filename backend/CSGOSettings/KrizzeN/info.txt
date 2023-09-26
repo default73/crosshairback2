@@ -1,0 +1,20 @@
+Имя~Айдын Турлыбеков (Aidyn Turlybekov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.32
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rwaUA-CWXVt-k8LUc-L53ht-NcrVQ
+st~https://steamcommunity.com/id/hockey_world/
+vk~https://vk.com/krizzen
+twitch~https://www.twitch.tv/krizzenof
+tw~https://twitter.com/krizzencsgo
+in~https://www.instagram.com/krizzen/
+Команда~Без команды
+Страна~Казахстан

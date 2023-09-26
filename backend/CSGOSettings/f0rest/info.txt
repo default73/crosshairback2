@@ -1,0 +1,21 @@
+Имя~Патрик Линдберг (Patrik Lindberg)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~3.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ED2EU-r8mxx-Y9Lvr-sMJcL-QsybE
+st~https://steamcommunity.com/profiles/76561197960359452
+twitch~https://www.twitch.tv/officialf0rest
+yt~https://www.youtube.com/channel/UCIHfExyIusEbLbEkea-IeYg
+fb~https://www.facebook.com/Officialf0restCS
+tw~https://twitter.com/f0rest
+in~https://www.instagram.com/Officialf0rest
+Команда~Без команды
+Страна~Швеция

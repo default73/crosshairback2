@@ -1,0 +1,18 @@
+Имя~Джастин Фелтнер (Justin Feltner)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hCN5b-jZ4xb-GQwVH-zxUsN-nvHCF
+st~https://steamcommunity.com/profiles/76561198052394260
+twitch~https://www.twitch.tv/jsfeltner
+tw~https://twitter.com/jsfeltner
+Команда~Unjustified
+Страна~США

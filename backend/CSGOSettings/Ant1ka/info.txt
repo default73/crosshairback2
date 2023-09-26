@@ -1,0 +1,20 @@
+Имя~Анна Ананикова (Anna Ananikova)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.46
+Чувствительность мыши в зуме:~0.78
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 1050
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-yMxE6-oSwXk-J3MjB-AYx3c-N9LsE
+st~https://steamcommunity.com/profiles/76561197997935311
+vk~https://vk.com/id6131874
+twitch~https://www.twitch.tv/ant1ka
+tw~https://twitter.com/Ant1kaCSGO
+in~https://www.instagram.com/ant1ka.cs
+Команда~Без команды
+Страна~Россия

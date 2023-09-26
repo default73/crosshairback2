@@ -1,0 +1,21 @@
+Имя~Мацей Билинский (Maciej Biliński)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-TKJNF-UULVD-9qUK4-utayF-cMwLA
+Параметры запуска~-freq 240 -tickrate 128 -novid +cl_interp 0
+st~https://steamcommunity.com/profiles/76561198212208204
+twitch~https://www.twitch.tv/bielanycs
+fb~https://www.facebook.com/BielanyCS
+tw~https://twitter.com/Bielanycs
+in~https://www.instagram.com/maciekbln
+Команда~PGE Turow
+Страна~Польша

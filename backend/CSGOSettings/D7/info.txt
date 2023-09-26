@@ -1,0 +1,20 @@
+Имя~Марта Асенсио (Marta Asensio)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.866
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-xwvdW-u3MHt-sCdnY-4m7w7-zHnfO
+Параметры запуска~-novid -tickrate 128 -nojoy -high -freq 240 -console +cl_forcepreload 1 -nod3d9ex +cl_updaterate 128 +cl_cmdrate 128 +clientport 27015 -language english -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198047669167
+twitch~https://www.twitch.tv/d7_kc
+tw~https://twitter.com/D7_KDC
+in~https://www.instagram.com/d7_kc/
+Команда~BIG EQUIPA
+Страна~Португалия

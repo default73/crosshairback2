@@ -1,0 +1,21 @@
+Имя~Александр Нижник (Aleksandr Nizhnik)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1.35
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-9NPJi-n979j-6ExY9-pOMnA-Ko74E
+Параметры запуска~-novid -freq 240 -language english -tickrate 128 +fps_max 0 -console
+st~https://steamcommunity.com/profiles/76561198184871281
+vk~https://vk.com/id282806991
+twitch~https://www.twitch.tv/a_sad
+tw~https://twitter.com/a_sadddd
+in~https://www.instagram.com/a_saddd
+Команда~Iron Branch
+Страна~Беларусь

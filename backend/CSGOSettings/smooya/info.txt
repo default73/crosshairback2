@@ -1,0 +1,20 @@
+Имя~Оуэн Баттерфилд (Owen Butterfield)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1.13
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-2sZqr-DARYB-ZQjQ8-5xDBM-DqmHB
+Параметры запуска~-freq 240 -novid -tickrate 128 +mat_disable_fancy_blending 1 +fps_max 300 +cl_updaterate 128 +cl_cmdrate 128
+st~https://steamcommunity.com/profiles/76561198171689321
+twitch~https://www.twitch.tv/smooyacs
+tw~https://twitter.com/smooyacs
+in~https://www.instagram.com/smooyacs/
+Команда~Без команды
+Страна~Великобритания

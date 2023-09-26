@@ -1,0 +1,18 @@
+Имя~Хуан Хосе Торрес Эспиноза (Juan⁬ Jose Torres Espinoza)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-iMOwB-qZZ5k-SLObw-boSZG-MUopQ
+Параметры запуска~-freq 240 -novid -console -tickrate 128 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198334928158
+tw~https://twitter.com/NotJuanjocs
+Команда~Без команды
+Страна~Перу

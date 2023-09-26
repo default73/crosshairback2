@@ -1,0 +1,20 @@
+Имя~Рикардо Луру (Ricardo Louro)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rWHfv-KaHyq-eNbm4-MUGmf-vfrVQ
+Параметры запуска~-novid -refresh 240 -tickrate 128 +exec autoexec +fps_max 400 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198194510361
+twitch~https://www.twitch.tv/lr0zin
+yt~https://www.youtube.com/user/RLouRo9
+tw~https://twitter.com/Lr0z1n
+Команда~Без команды
+Страна~Португалия

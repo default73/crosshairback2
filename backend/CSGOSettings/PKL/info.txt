@@ -1,0 +1,21 @@
+Имя~Винициос Коельхо (Vinicios Coelho)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-PETKc-TEHLM-Eyths-ps9SR-5EWzE
+Параметры запуска~-novid -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198025578864
+twitch~https://www.twitch.tv/pklcs
+fb~https://www.facebook.com/pklfps
+tw~https://twitter.com/pklcsgo
+in~https://www.instagram.com/pklcsgo
+Команда~Без команды
+Страна~Бразилия

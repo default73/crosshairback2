@@ -1,0 +1,20 @@
+Имя~Макс фон Шанц (Max von Schantz)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FXdhk-bOPhy-O7j3L-MnLHk-Xk2AC
+Параметры запуска~-novid -tickrate 128 -language bananagaming -high -nojoy
+st~https://steamcommunity.com/profiles/76561198076777991
+twitch~https://www.twitch.tv/paxios
+yt~https://www.youtube.com/channel/UCjRfIyj9dGOfuR2aKSjm5SA
+tw~https://twitter.com/Paxi0s
+Команда~Без команды
+Страна~Швеция

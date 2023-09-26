@@ -1,0 +1,20 @@
+Имя~Филип Кубски (Filip Kubski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.81
+Чувствительность мыши в зуме:~0.85
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-DDyQQ-Ui8p4-CATiT-WFTkz-oPFZG
+st~https://steamcommunity.com/profiles/76561197960725934
+twitch~https://www.twitch.tv/neog5
+fb~https://www.facebook.com/filipneokubski
+tw~https://twitter.com/neo_fkubski
+in~https://www.instagram.com/neo_fk
+Команда~Без команды
+Страна~Польша

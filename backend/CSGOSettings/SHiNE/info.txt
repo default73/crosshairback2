@@ -1,0 +1,18 @@
+Имя~Каспер Веннерберг (Casper Wennerberg)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.83
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-qrchz-wYEpK-kTvWX-GN8p3-HsnkP
+Параметры запуска~-novid -refresh 240 +mat_queue_mode 2 -d3d9ex -allow_third_party_software +cl_threaded_bone_setup 1 -tickrate 128 +cl_interp_ratio 1 -rate 786432
+st~https://steamcommunity.com/profiles/76561198157089888
+tw~https://twitter.com/SHiNECSGO_
+Команда~EYEBALLERS
+Страна~Швеция

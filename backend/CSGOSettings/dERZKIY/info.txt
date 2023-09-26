@@ -1,0 +1,21 @@
+Имя~Игорь Радосавлевич (Igor Radosavlevich)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-n4CH9-6DvPG-AwdCH-6mhb6-ZRivN
+Параметры запуска~-freq 240 -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198030369129
+vk~https://vk.com/id87699158
+twitch~https://www.twitch.tv/d3rzkiy
+tw~https://twitter.com/d3rzkiyy
+in~https://www.instagram.com/d3rzkiy
+Команда~SHIPACHI
+Страна~Беларусь

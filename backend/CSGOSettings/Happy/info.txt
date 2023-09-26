@@ -1,0 +1,20 @@
+Имя~Винсент Шопенгауэр (Vincent Schopenhauer)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-D3vO4-Eb8Uk-aCrm8-SvBpk-yrmHB
+st~https://steamcommunity.com/profiles/76561197978241352
+twitch~https://www.twitch.tv/happycsgo
+fb~https://www.facebook.com/people/Vincent-Happy-Schopenhauer/100050172443418/
+tw~https://twitter.com/Happy1
+in~https://www.instagram.com/vincentschopenhauer
+Команда~Без команды
+Страна~Франция

@@ -1,0 +1,21 @@
+Имя~Джами Али (Dzhami Ali)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-v7J4e-759Lf-9RKeL-RLDHB-bN3ED
+Параметры запуска~-novid -language english +cl_interp_ratio 1 -freq 240 -tickrate 128 +rate 786432 +cl_cmdrate 128 +cl_upderate 128 +fps_max 301 -console
+st~https://steamcommunity.com/profiles/76561198036125584
+vk~https://vk.com/jamefanpage
+twitch~https://www.twitch.tv/jamezwer
+tw~https://twitter.com/JAMEPAIN
+in~https://www.instagram.com/jamezwer
+Команда~Virtus.pro
+Страна~Россия

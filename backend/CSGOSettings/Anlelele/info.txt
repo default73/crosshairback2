@@ -1,0 +1,18 @@
+Имя~Антон Хуйнх (Anton Huynh)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.42
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-nOVuZ-Qo5Wn-VO95L-5CRmU-oxn6J
+Параметры запуска~-tickrate 128 +fps_max 0 -nojoy -novid -freq 240 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198129799489
+tw~https://twitter.com/AnleleleCS
+Команда~Espionage
+Страна~Дания

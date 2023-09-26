@@ -1,0 +1,21 @@
+Имя~Марвин Лабенц (Marvin Labenz)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-J3HBR-imFhY-WoEfj-rXyCx-LCCtG
+Параметры запуска~-high -novid -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198126007326
+twitch~https://www.twitch.tv/mvnb0b
+yt~https://www.youtube.com/channel/UCVPoHC3qivo45i0eC-7MJhw
+tw~https://www.twitter.com/mvnb0b
+in~https://www.instagram.com/mvnb0b
+Команда~Entropy Gaming
+Страна~Германия

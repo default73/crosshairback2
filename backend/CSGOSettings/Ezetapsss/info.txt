@@ -1,0 +1,20 @@
+Имя~Эсекьель Робайна Бетанкор (Ezequiel Robaina Betancor)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-k72uo-EELFW-WofPr-8Mp55-dv6KQ
+Параметры запуска~-allow_third_party_software +mat_queue_mode 2 +cl_forcepreload 1 +rate 786432 +cl_interp_ratio 2 +cl_interp 1 -novid -console -tickrate 128 -d3d9ex +rate 786432 +fps_max 301 -language competitivo_v2 -nojoy
+st~https://steamcommunity.com/profiles/76561198330566688
+twitch~https://www.twitch.tv/ezetapsss
+tw~https://twitter.com/ezetapsss
+in~https://www.instagram.com/ezerobaiina/
+Команда~Gravity 0
+Страна~Испания

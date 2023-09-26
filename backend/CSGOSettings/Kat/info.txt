@@ -1,0 +1,20 @@
+Имя~Катарина Вашкова (Katarína Vašková)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.06
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-EeZkR-9QEt3-eXdE3-AvHK3-7cRVP
+Параметры запуска~-novid -freq 144 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198371036559
+twitch~https://www.twitch.tv/kat_cs
+tw~https://twitter.com/Kat_csgo
+in~https://www.instagram.com/kaatarinka
+Команда~Nigma Galaxy Female
+Страна~Словакия

@@ -1,0 +1,19 @@
+Имя~Джонас Дидериксен (Jonas Dideriksen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Ry6rK-Bmkk5-Gxwbu-ZTGDt-Kj5BO
+Параметры запуска~-console -novid -tickrate 128 +fps_max 999 -freq 240 -high -noforcemaccel -noforcemparms -noforcemspd
+st~https://steamcommunity.com/profiles/76561198030545997
+tw~https://twitter.com/QueenixCS
+in~https://www.instagram.com/queenixcs
+Команда~ECSTATIC
+Страна~Дания

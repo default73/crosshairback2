@@ -1,0 +1,20 @@
+Имя~Владислав Леухин (Vladislav Leukhin)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 1024
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-N75N3-kVnLt-ZVRhG-JeT7a-tUfOQ
+Параметры запуска~-freq 144 -console
+st~https://steamcommunity.com/profiles/76561198024216477
+vk~https://vk.com/kizzycs
+twitch~https://www.twitch.tv/kissinho
+in~https://www.instagram.com/kissinho_/
+Команда~Без команды
+Страна~Россия

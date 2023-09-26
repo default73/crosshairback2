@@ -1,0 +1,21 @@
+Имя~Кирилл Кононов (Kirill Kononov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7F8My-idZrn-8EwR5-9ctDc-kSLoD
+Параметры запуска~-freq 240 -tickrate 128 -language english -panorama -novid -cl_updaterate 128 -cl_cmdrate 128 +mat_queue_mode 2 +fps_max 0 +fps_max_menu 0 +clientport 27000
+st~https://steamcommunity.com/profiles/76561198839305865
+vk~https://vk.com/id410992530
+twitch~https://www.twitch.tv/xant3r
+tw~https://twitter.com/xant3r
+in~https://www.instagram.com/xant3rcs
+Команда~Insilio
+Страна~Россия

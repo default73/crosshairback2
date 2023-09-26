@@ -1,0 +1,19 @@
+Имя~Джеспер Камсруд (Jesper Kamsrud)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-fEFKV-5NZUm-ptN7v-COfAs-w46dK
+Параметры запуска~-language english -novid -high -novid -tickrate 128 -freq 240 -noforcemaccel -noforcemparms -noforcemspd -d3d9ex -threads 4 +cl_interp_ratio 1 +cl_interp 1
+st~https://steamcommunity.com/profiles/76561198152419994
+yt~https://www.youtube.com/channel/UCunv-650q-6go7WzS-Na_xw
+tw~https://twitter.com/JimboCSGOD
+Команда~Без команды
+Страна~Норвегия

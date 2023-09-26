@@ -1,0 +1,19 @@
+Имя~Владислав Лазарев (Vladislav Lazarev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~6
+Чувствительность мыши в Windows:~1/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1350 x 1080
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wPoLQ-iYfve-ymo8a-wWjEp-V86dK
+Параметры запуска~-novid -nojoy -freq 240 -tickrate 128 +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 +fps_max 370
+st~https://steamcommunity.com/id/lavlofficial
+vk~https://vk.com/vladislav931
+twitch~https://www.twitch.tv/lavltv
+Команда~NewBelarus
+Страна~Россия

@@ -1,0 +1,20 @@
+Имя~Вито Джузеппе (Vito Giuseppe)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VETak-vA4vA-vLVfq-JbmEY-5EWzE
+st~https://steamcommunity.com/profiles/76561197966998591
+twitch~https://www.twitch.tv/vitokng
+fb~https://www.facebook.com/vitokng
+tw~https://twitter.com/kngvito
+in~https://www.instagram.com/kngvito
+Команда~O PLANO
+Страна~Бразилия

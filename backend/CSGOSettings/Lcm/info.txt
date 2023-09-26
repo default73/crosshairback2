@@ -1,0 +1,20 @@
+Имя~Леонардо Морейра (Leonardo Moreira)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VdRvq-KzjSG-oKwrL-7ekXC-h78WB
+Параметры запуска~-novid -freq 240 -tickrate 128 -w 1280 -h 960
+st~https://steamcommunity.com/profiles/76561198045403016
+twitch~https://www.twitch.tv/lcmmfps
+tw~https://www.twitter.com/Lcmmfps
+in~https://www.instagram.com/m_leeo
+Команда~Solid
+Страна~Бразилия

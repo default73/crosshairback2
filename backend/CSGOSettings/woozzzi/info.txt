@@ -1,0 +1,21 @@
+Имя~Руслан Алиев (Ruslan Aliev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.33
+Чувствительность мыши в зуме:~0.93
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~165Hz
+sharecode~CSGO-yJQwA-cQcVU-MsXs2-QcFf3-FfbcP
+Параметры запуска~-tickrate 128 -allow_third_party_software -novid -exec autoexec -tickrate 128 -high -freq 165 -threads 8 +rate 786432
+st~https://steamcommunity.com/profiles/76561199105136854
+vk~https://vk.com/id591986535
+twitch~https://www.twitch.tv/woozzzi_
+tw~https://twitter.com/woozzzics
+in~https://www.instagram.com/woozzzics
+Команда~Entropiq Future
+Страна~Россия

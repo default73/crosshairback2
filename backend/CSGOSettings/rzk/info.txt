@@ -1,0 +1,18 @@
+Имя~Сантьяго Пучета (Santiago Pucheta)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6G2cS-WzcxT-fH3dp-Rf7oq-X9oJN
+Параметры запуска~-high -novid -noubershader -tickrate 128 -d3d9ex -cl_forcepreload -nod3d9ex1 -refresh 240 -freq 240 -untrusted -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198343737003
+tw~https://twitter.com/rzzzk_
+Команда~9z Academy
+Страна~Аргентина

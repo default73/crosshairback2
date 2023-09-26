@@ -1,0 +1,19 @@
+Имя~Дмитрий Тедиашвили (Dmitry Tediashvili)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FmtSL-objwX-5tFbV-CjvQd-97DRE
+Параметры запуска~-tickrate 128 -novid +fps_max 400
+st~https://steamcommunity.com/profiles/76561198316034540
+twitch~https://www.twitch.tv/nifee_
+in~https://www.instagram.com/_d1ma_tedi0_
+Команда~Iron Branch
+Страна~Украина

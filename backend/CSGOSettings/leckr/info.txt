@@ -1,0 +1,20 @@
+Имя~Михал Кадличек (Michal Kadlíček)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-CkaFj-hHxeZ-x255T-syutJ-a7LsE
+st~https://steamcommunity.com/profiles/76561198036033549
+twitch~https://www.twitch.tv/leckr1337
+fb~https://www.facebook.com/leckrrr
+tw~https://twitter.com/leckr_
+in~https://www.instagram.com/leckrrr
+Команда~ENTERPRISE esports
+Страна~Чехия

@@ -1,0 +1,19 @@
+Имя~Руслан Кекоть (Ruslan Kekot)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-ydHfT-FtS5f-Rk9PO-YoG9C-6AU8N
+Параметры запуска~-allow_third_party_software +cl_interp_ratio 1 -threads 4 -high -novid -console -freq 144 -refresh 144 -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 +mat_queue_mode 2 +exec jumpt +rate 786432
+st~https://steamcommunity.com/profiles/76561198818625877
+vk~https://vk.com/id256025299
+in~https://www.instagram.com/yab0kubtw
+Команда~Без команды
+Страна~Украина

@@ -1,0 +1,18 @@
+Имя~Микаэль Гауп (Mikael Gaup)
+DPI:~1200
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.45
+Чувствительность мыши в зуме:~1.17
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1080
+Соотношение сторон:~16:10
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-ZrUEZ-ciz38-oVVrt-ecPSZ-hYXTB
+Параметры запуска~-novid -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198040541875
+tw~https://twitter.com/mikkicsgo
+Команда~Без команды
+Страна~Норвегия

@@ -1,0 +1,20 @@
+Имя~Рафаэль Снопек (Rafał Snopek)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~165Hz
+sharecode~CSGO-sjio4-pmtxN-AHMWp-S8Hmt-bFPYE
+st~https://steamcommunity.com/profiles/76561198380323585
+twitch~https://www.twitch.tv/sNxye
+yt~https://www.youtube.com/channel/UCXbfka_kjo-S6Bip9GTq5Wg
+fb~https://facebook.com/sNxye
+tw~https://twitter.com/snxcsgo
+Команда~Ignis Serpens
+Страна~Польша

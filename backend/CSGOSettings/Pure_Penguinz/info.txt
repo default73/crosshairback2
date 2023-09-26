@@ -1,0 +1,18 @@
+Имя~Кейден Уотерс (Caden Waters)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-NzbWy-nwTf9-MawrJ-YbBYe-o5cVG
+st~https://steamcommunity.com/profiles/76561198094472916
+twitch~https://www.twitch.tv/pure_penguinz
+tw~https://twitter.com/PenguinzPure
+Команда~Без команды
+Страна~США

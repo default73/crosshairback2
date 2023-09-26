@@ -1,0 +1,20 @@
+Имя~Александр Штефан (Alexandru Ștefan)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-PjYiV-CEBAa-AYFbS-6CG2m-ruWPA
+Параметры запуска~-tickrate 128 -nojoy -novid +rate 786432 -freq 144 +cl_updaterate 128 +cl_cmdrate 128 +cl_threaded_bone_setup 1
+st~https://steamcommunity.com/profiles/76561198156197967
+yt~https://www.youtube.com/c/s0undCS
+tw~https://twitter.com/s0undcs
+in~https://www.instagram.com/s0undcs
+Команда~Let us cook
+Страна~Румыния

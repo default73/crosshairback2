@@ -1,0 +1,20 @@
+Имя~Владислав Полищук (Vladislav Polischuk)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.532
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-WXXhm-5JeAw-Asyih-hdm6y-EvPcF
+Параметры запуска~-language english -freq 240 -novid -tickrate 128 +cl_interp 1 +cl_interp_ratio 2 +cl_updaterate 128 +mat_queue_mode -1 -nojoy -untrusted -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198863249784
+twitch~https://www.twitch.tv/sijeyyof
+tw~https://twitter.com/Sijeyy_of
+in~https://www.instagram.com/sijeyy_of
+Команда~Montecarlo Gaming
+Страна~Украина

@@ -1,0 +1,21 @@
+Имя~Кристина Гнездилова (Kristina Gnezdilova)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.31
+Чувствительность мыши в зуме:~1.44
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~165Hz
+sharecode~CSGO-AaOAq-yCWmS-XYiuo-rPe8i-Gct4N
+Параметры запуска~-novid -nojoy -freq 165 -tickrate 128 +fps_max 300 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198330869761
+vk~https://vk.com/meoshqa
+twitch~https://www.twitch.tv/drgnmeo
+yt~https://www.youtube.com/channel/UCBEjA4QHHB4O2S1WCkkwfBA
+tw~https://twitter.com/meo_xdd
+Команда~VP.Angels
+Страна~Россия

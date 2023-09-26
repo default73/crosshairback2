@@ -1,0 +1,19 @@
+Имя~Алексей Гусев (Aleksey Gusev)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rrW4L-8PbrV-Ab24R-DZ5Dh-Y2hWA
+Параметры запуска~-maxplayers_override 64 -freq 240 -console -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198210763837
+vk~https://vk.com/id271318801
+tw~https://twitter.com/El1anCSGO
+Команда~Без команды
+Страна~Россия

@@ -1,0 +1,18 @@
+Имя~Томаш Урода (Tomasz Uroda)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-iBQHv-oaNLk-QZwyk-QWbDT-VjaAB
+st~https://steamcommunity.com/profiles/76561198218597455
+yt~https://www.youtube.com/channel/UCMj_bgp98NwWVGbzt2Bap4g
+tw~https://twitter.com/tomikoo12
+Команда~AGO
+Страна~Польша

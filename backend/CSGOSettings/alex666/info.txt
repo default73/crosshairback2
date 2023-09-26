@@ -1,0 +1,18 @@
+Имя~Алексей Ярмощук (Alexey Yarmoshchuk)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-cSh45-xzmVq-sWqEH-iCOMR-udBAA
+Параметры запуска~-refresh 240 -tickrate 128 +rate 786432 -novid +fps_max 0 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198304115519
+twitch~https://www.twitch.tv/alex666_022
+Команда~Без команды
+Страна~Украина

@@ -1,0 +1,18 @@
+Имя~Александр Мациевич (Alexander Matsievich)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-cKAX8-K52SC-xEUuJ-cfb7v-msLDR
+Параметры запуска~-novid -language english +cl_interp_ratio 1 -freq 240 -tickrate 128 +rate 786432 +fps_max 0 -console -allow_third_party_software +clientport 911
+st~https://steamcommunity.com/profiles/76561198174263909
+vk~https://vk.com/id229259285
+Команда~9 Pandas
+Страна~Россия

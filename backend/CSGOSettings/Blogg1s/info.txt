@@ -1,0 +1,21 @@
+Имя~Доминик Джанита (Dominik Janita)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.72
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-94Py9-dQBEG-KrYKr-FMVkj-NWeuB
+st~https://steamcommunity.com/profiles/76561198076204322
+twitch~https://www.twitch.tv/blogg1scsgo
+yt~https://www.youtube.com/channel/UCg1n-beTr8OdA9eFLPcwD1A
+fb~https://www.facebook.com/blogg1s
+tw~https://twitter.com/blogg1scsgo
+in~https://www.instagram.com/blogg1s
+Команда~Без команды
+Страна~Чехия

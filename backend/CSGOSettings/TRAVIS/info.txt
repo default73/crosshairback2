@@ -1,0 +1,19 @@
+Имя~Александр Тимкив (Aleksandr Timkiv)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Y8dev-PqOkQ-P6jxb-X6R6O-JvjjD
+Параметры запуска~-novid -console -freq 240 +fps_max 0 -tickrate 128 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198362970723
+vk~https://vk.com/id43201440
+twitch~https://www.twitch.tv/travis20k
+Команда~1WIN
+Страна~Россия

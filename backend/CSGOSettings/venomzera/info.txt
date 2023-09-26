@@ -1,0 +1,19 @@
+Имя~Карлос Эдуардо (Carlos Eduardo)
+DPI:~800
+Частота мыши:~10000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wqBtD-dMZR7-53vp6-eU95j-HAZ2Q
+Параметры запуска~-novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198218265253
+tw~https://www.twitter.com/venomzeracs
+in~https://www.instagram.com/venomzeracs
+Команда~Paqueta Gaming
+Страна~Бразилия

@@ -1,0 +1,22 @@
+Имя~Лукас Колачны (Lukáš Koláčný)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-sFmMP-ABVDL-3wkRO-dW4nV-e3c7L
+Параметры запуска~-novid -tickrate 128 -freq 240 -high -d3d9ex
+st~https://steamcommunity.com/profiles/76561198094488464
+twitch~https://www.twitch.tv/CAPSENcsgo
+yt~https://www.youtube.com/channel/UCbjO8dzIXEaVvlU1eQUOM9A
+fb~https://www.facebook.com/CAPSENcsgo
+tw~https://twitter.com/capsencsgo
+in~https://www.instagram.com/capsenlukyy
+Команда~Без команды
+Страна~Чехия

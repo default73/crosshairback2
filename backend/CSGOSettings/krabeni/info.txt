@@ -1,0 +1,18 @@
+Имя~Аулон Фазлия (Aulon Fazlija)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.51
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-KLWDO-V6SWk-WoNQb-QaTvY-OnMHA
+st~https://steamcommunity.com/profiles/76561198991278425
+twitch~https://www.twitch.tv/krabeni
+tw~https://twitter.com/krabenics
+Команда~Без команды
+Страна~Косово

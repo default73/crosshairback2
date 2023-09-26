@@ -1,0 +1,19 @@
+Имя~Максим Шепелев (Maxim Shepelev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-sLKfG-qvbzc-VZWtt-b3Lca-qXJGG
+st~https://steamcommunity.com/id/ooo69/
+vk~https://vk.com/maximdada
+twitch~https://www.twitch.tv/wippiecs
+tw~https://twitter.com/wippiecs
+Команда~Без команды
+Страна~Россия

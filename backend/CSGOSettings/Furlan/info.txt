@@ -1,0 +1,20 @@
+Имя~Дамиан Кисловски (Damian Kislowski)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-CO98T-4Ezef-rGzKh-Q2vMx-tXcNE
+st~https://steamcommunity.com/profiles/76561198137761601
+twitch~https://www.twitch.tv/furla_n
+fb~https://www.facebook.com/furlanM1
+tw~https://twitter.com/csgofurlan
+in~https://www.instagram.com/furlan.ago/
+Команда~Без команды
+Страна~Польша

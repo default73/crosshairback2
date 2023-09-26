@@ -1,0 +1,21 @@
+Имя~Вадим Каретин (Vadim Karetin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-mDDty-fopNw-xm7kx-Chm3L-QvZQM
+Параметры запуска~-novid +rate 999999 +cl_cmdrate 128 +cl_updaterate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198151893322
+vk~https://vk.com/id179161337
+twitch~https://www.twitch.tv/flarichgo
+tw~https://twitter.com/officialFlarich
+in~https://www.instagram.com/flar1ch
+Команда~Без команды
+Страна~Латвия

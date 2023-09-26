@@ -1,0 +1,22 @@
+Имя~Мухаммед Салман (Muhammed Salman)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-du8LT-hNBE9-sanQ3-uK7Qx-ewHCF
+Параметры запуска~+fps_max 400 -freq 240 -console -tickrate 128 -novid
+st~https://steamcommunity.com/profiles/76561198096489270
+twitch~https://www.twitch.tv/minivlr
+yt~https://www.youtube.com/channel/UCI5KkYbBqPSAw8-4c3R05WA
+fb~https://www.facebook.com/csgomini
+tw~https://twitter.com/csgomini
+in~https://www.instagram.com/mini_cs
+Команда~Без команды
+Страна~Турция

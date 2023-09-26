@@ -1,0 +1,19 @@
+Имя~Данил Московченко (Danil Moskovchenko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.36
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-M4bme-YwNEt-xbyca-Hiujj-knEVF
+Параметры запуска~-noforcemaccel -noforcemparms -freq 240 -tickrate 128 -nojoy +fps_max 0 -novid
+st~https://steamcommunity.com/profiles/76561198120267831
+vk~https://vk.com/id160143801
+twitch~https://www.twitch.tv/mo5kow
+Команда~FLuffy Gangsters
+Страна~Россия

@@ -1,0 +1,20 @@
+Имя~Патрик Витес (Patryk Wites)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jMmLm-qYZ9h-YPNk8-N932P-XKk9Q
+st~https://steamcommunity.com/profiles/76561198110640650
+twitch~https://www.twitch.tv/ponczekk
+fb~https://www.facebook.com/ponczekcs
+tw~https://twitter.com/ponczekcs
+in~https://www.instagram.com/ponczekcs
+Команда~Без команды
+Страна~Польша

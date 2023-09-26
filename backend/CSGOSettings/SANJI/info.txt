@@ -1,0 +1,19 @@
+Имя~Санжар Кулиев (Sanjar Kuliev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.22
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-vtAiu-taykB-BNdhn-VQ9NY-TUzfF
+st~https://steamcommunity.com/profiles/76561198317627284
+vk~https://vk.com/xdsanji
+tw~https://twitter.com/xdsanji
+in~https://www.instagram.com/xdsanji/
+Команда~Без команды
+Страна~Узбекистан

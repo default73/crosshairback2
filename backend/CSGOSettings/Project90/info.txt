@@ -1,0 +1,18 @@
+Имя~Донгфенг Лью (Dongfeng Liu)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.58
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-qZcFE-kPLrb-fSNYk-atpPB-LZcNE
+Параметры запуска~-novid -tickrate 128 -nojoy -freq 240 -high -console
+st~https://steamcommunity.com/profiles/76561198421169883
+tw~https://twitter.com/_Project90
+Команда~timbermen
+Страна~Китай

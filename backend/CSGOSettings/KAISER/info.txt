@@ -1,0 +1,21 @@
+Имя~Джанфранко Пантано (Gianfranco Pantano)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~144Hz
+sharecode~CSGO-E6BAk-YW7Td-3jOMv-6ccDp-zYYwP
+Параметры запуска~-novid -console -refresh 144 -freq 144 -high -tickrate 128 -threads 8 -nojoy +cl_interp 0 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp_ratio 1 -noforcemaccel -noforcemparms -noforcemspd -language bananagaming +sv_holiday_mode 0 -d3d9ex -n
+st~https://steamcommunity.com/profiles/76561198127570649
+twitch~https://www.twitch.tv/KAISERzy
+yt~https://www.youtube.com/c/KAISERzy
+tw~https://twitter.com/kaiserzy
+in~https://instagram.com/gianpantano
+Команда~Furious Gaming
+Страна~Аргентина

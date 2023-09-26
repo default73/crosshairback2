@@ -1,0 +1,19 @@
+Имя~Дженнифер Ирина Бреа Родригес (Jennifer Irina Brea Rodriguez)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-RM5m8-oM2qu-iOSJD-k4mKR-ey3JE
+Параметры запуска~-novid -refresh 144 -freq 144 -high -full -tickrate 128 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198130203682
+tw~https://twitter.com/jennyya_r
+in~https://www.instagram.com/jennyy_br/
+Команда~BIG EQUIPA
+Страна~Испания

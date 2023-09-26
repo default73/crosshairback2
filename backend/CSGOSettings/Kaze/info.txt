@@ -1,0 +1,22 @@
+Имя~Эндрю Хонг (Andrew Khong)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.4
+Чувствительность мыши в зуме:~0.6
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-o2XZX-CmR9V-yRCMM-G8AFm-br5VH
+Параметры запуска~-novid -high -freq 240 -tickrate 128 +rate 786432
+st~https://steamcommunity.com/profiles/76561197976393269
+twitch~https://www.twitch.tv/kaze1
+yt~https://www.youtube.com/kazecs
+fb~https://www.facebook.com/kazecs
+tw~https://twitter.com/kaze_cs
+in~https://www.instagram.com/kazecsgo
+Команда~Rare Atom
+Страна~Малайзия

@@ -1,0 +1,19 @@
+Имя~Атиф Мустафа (Atif Mustafa)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-NAdJj-qKm9W-8A9Uj-653df-tR6ZJ
+Параметры запуска~-console -freq 240 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198141288112
+twitch~https://www.twitch.tv/gejmzilla
+tw~https://twitter.com/gejmzilla
+Команда~Без команды
+Страна~Косово

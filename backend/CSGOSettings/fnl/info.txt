@@ -1,0 +1,18 @@
+Имя~Давид Мушуруй (David Mușuroiu)
+DPI:~1800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.59
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-9MtLa-E3a4R-JoEXo-f3Whc-oPivN
+Параметры запуска~-novid -freq 240 cl_forcepreload 1 -tickrate 128 -high +fps_max 500 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198891375572
+tw~https://twitter.com/fnl_csgo
+Команда~Без команды
+Страна~Румыния

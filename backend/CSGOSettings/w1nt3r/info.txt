@@ -1,0 +1,21 @@
+Имя~Алихан Копжанов (Alikhan Kopzhanov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.91
+Чувствительность мыши в зуме:~1.02
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-ZKRZ9-5o4mS-9HjQ4-AWhwB-hVaUN
+Параметры запуска~-nojoy -novid -freq 240 -console -tickrate 128 -no-browser
+st~https://steamcommunity.com/profiles/76561198018211001
+vk~https://vk.com/id38796121
+twitch~https://www.twitch.tv/w1nt3rcsgo
+tw~https://twitter.com/w1nt3rcsgo
+in~https://www.instagram.com/w1nt3rcsgo
+Команда~AVANGAR
+Страна~Казахстан

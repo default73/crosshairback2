@@ -1,0 +1,20 @@
+Имя~Оливер Хек (Oliver Heck)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~120Hz
+sharecode~CSGO-NnhCP-X8648-57fuW-fxBTB-cMwLA
+Параметры запуска~-refresh 240 -console -high -nojoy -noaafonts -novid -nod3d9ex -tickrate 128 +cl_forcepreload 1 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561197966632755
+twitch~https://www.twitch.tv/kzycs
+fb~https://www.facebook.com/kzycs
+tw~https://twitter.com/kzyJL
+Команда~Без команды
+Страна~Германия

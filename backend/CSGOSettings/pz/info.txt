@@ -1,0 +1,18 @@
+Имя~Джордан Уайт (Jordan White)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-onNnc-Uko9C-3LEVC-ja5OV-8aVvD
+st~https://steamcommunity.com/profiles/76561198068506849
+yt~https://www.youtube.com/channel/UClrpVfbxYLeSp4gC9Gs8DLA
+tw~https://twitter.com/pz_csgo
+Команда~VERTEX Esports Club
+Страна~Австралия

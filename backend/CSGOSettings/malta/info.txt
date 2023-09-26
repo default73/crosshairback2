@@ -1,0 +1,20 @@
+Имя~Лиам Шембри (Liam Schembri)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-EK62T-iBqNC-6uhkQ-jXy9o-ZbT4M
+Параметры запуска~-refresh 240 -novid -high -tickrate 128 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198142171301
+twitch~https://www.twitch.tv/mfmalta
+tw~https://twitter.com/malta_cs
+in~https://www.instagram.com/maltacs
+Команда~VERTEX Esports Club
+Страна~Австралия

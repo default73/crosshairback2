@@ -1,0 +1,18 @@
+Имя~Александр Нильсен (Alexander Nielsen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-kEPsv-LPVAm-X9pz8-cVFOu-Z4OtQ
+Параметры запуска~-freq 240 -console -novid -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198065572000
+tw~https://twitter.com/alexsomGOD
+Команда~CEPTER
+Страна~Дания

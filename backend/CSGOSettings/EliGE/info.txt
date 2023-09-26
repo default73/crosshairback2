@@ -1,0 +1,21 @@
+Имя~Джонатан Яблоновски (Jonathan Jablonowski)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.74
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-k3yQ7-F5aqK-sVKQd-ZUi4K-z26KQ
+Параметры запуска~-novid -freq 240 -tickrate 128 +mat_queue_mode 2 -nojoy +rate 128000 -high
+st~https://steamcommunity.com/profiles/76561198066693739
+twitch~https://www.twitch.tv/elige
+yt~https://www.youtube.com/Eligejj
+tw~https://twitter.com/EliGE
+in~https://www.instagram.com/eligejj
+Команда~Complexity
+Страна~США

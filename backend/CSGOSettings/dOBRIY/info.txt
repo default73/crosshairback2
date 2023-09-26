@@ -1,0 +1,21 @@
+Имя~Рома Русак (Roma Rusak)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~0.99
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~1.032000
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Gaw4S-OcQJA-DCEpS-cYkhD-tHwzF
+Параметры запуска~-refresh 240 +rate 786432 + cl_cmdrate 128 +cl_updaterate 128 + cl_interp 0.031000 +cl_interp_ratio 2 -tickrate 128 -novid
+st~https://steamcommunity.com/profiles/76561198059221062
+vk~https://vk.com/id_dobriycsgo
+twitch~https://www.twitch.tv/dobriycs
+tw~https://twitter.com/dobriycs
+in~https://www.instagram.com/doobriy/
+Команда~Без команды
+Страна~Беларусь

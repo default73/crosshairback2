@@ -1,0 +1,20 @@
+Имя~Габриэль Лемеси (Gabriel Lemesi)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.1
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~9/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-D7FSJ-ZV3CJ-snB5B-qc9BH-dwWPA
+Параметры запуска~-nojoy -novid -console -tickrate 128 +r_dynamic 0 -allow_third_party_software +cl_showloadout 1 +cl_interp 0.015625
+st~https://steamcommunity.com/profiles/76561198062077667
+twitch~https://www.twitch.tv/648tv
+fb~https://facebook.com/648god
+tw~https://twitter.com/648fps
+Команда~Без команды
+Страна~Аргентина

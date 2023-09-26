@@ -1,0 +1,19 @@
+Имя~Симен Рем (Simen Rem)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-mp9SC-8mBiF-WJLee-ahieC-dwWPA
+Параметры запуска~-novid -tickrate 128 -console
+st~https://steamcommunity.com/profiles/76561198201863398
+yt~https://www.youtube.com/channel/UCEHDhQIAWNmEzqgLrfrkEFw
+tw~https://twitter.com/sido_cs
+Команда~Без команды
+Страна~Норвегия

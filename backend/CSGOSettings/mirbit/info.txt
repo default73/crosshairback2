@@ -1,0 +1,19 @@
+Имя~Сабит Коктасар (Sabit Coktasar)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-UDFc2-TuNk4-CP7nd-dQwnQ-roybE
+st~https://steamcommunity.com/profiles/76561198144245969
+twitch~https://www.twitch.tv/mirbit
+tw~https://twitter.com/mirbitcs
+in~https://www.instagram.com/mirbait/
+Команда~Без команды
+Страна~Германия

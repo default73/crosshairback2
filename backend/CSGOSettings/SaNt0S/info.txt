@@ -1,0 +1,18 @@
+Имя~Лукас Дос Сантос (Lucas Dos Santos)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-m9bz6-n4suC-oVzKs-VNs88-3uhrM
+st~https://steamcommunity.com/profiles/76561198381816431
+tw~https://mobile.twitter.com/Sanntosfps
+in~https://www.instagram.com/lucasmeerholz
+Команда~Без команды
+Страна~Бразилия

@@ -1,0 +1,20 @@
+Имя~Дэниел Брито (Daniel Brito)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~4.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-C3VM4-BzesV-uxfmU-3Duqt-msLDR
+Параметры запуска~+rate 786432 +cl_interp_ratio 1 +fps_max 300 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp 0 +clientport 27015 -noforcemaccel -noforcemspd -noforcemparms -novid -freq 240 -tickrate 128 -console
+st~https://steamcommunity.com/profiles/76561198243996656
+twitch~https://www.twitch.tv/NABOWOW
+tw~https://twitter.com/NABOWOW
+in~https://www.instagram.com/danielbrito.5/
+Команда~Без команды
+Страна~Португалия

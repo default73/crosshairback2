@@ -1,0 +1,21 @@
+Имя~Евгений Мицик (Evgeny Mitsik)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-A8mqT-zQCyw-9HPbo-e8ia5-6NZfE
+Параметры запуска~-novid -nojoy -nosync +fps_max 999 -tickrate 128 -freq 240 -language english +cl_interp_ratio 1 +cl_interp 0.1 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561197960338712
+vk~https://vk.com/id79408573
+twitch~https://www.twitch.tv/fenvicious
+tw~https://twitter.com/fenvicious
+in~https://www.instagram.com/fenvicious
+Команда~QUAZAR
+Страна~Россия

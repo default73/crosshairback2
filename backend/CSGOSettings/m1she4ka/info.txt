@@ -1,0 +1,18 @@
+Имя~Михаил Сакач (Mykhailo Sakach)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-SEDHd-VUhOq-3JmQL-SnV3S-UoHrL
+Параметры запуска~-console -freq 240 -novid -tickrate 128 +cl_interp_ratio 1 +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -nojoy +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198922568025
+twitch~https://www.twitch.tv/m1she44ka
+Команда~Lazer Cats
+Страна~Украина

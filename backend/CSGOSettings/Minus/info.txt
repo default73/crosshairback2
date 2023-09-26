@@ -1,0 +1,18 @@
+Имя~Маршалл Седович (Marshall Sedowicz)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-H99ye-7MNnA-snLqs-RZRNh-aDtdA
+Параметры запуска~-console -novid -freq 240 -high -tickrate 128
+st~https://steamcommunity.com/profiles/76561198248041656
+tw~https://twitter.com/Minus_CS
+Команда~Без команды
+Страна~США

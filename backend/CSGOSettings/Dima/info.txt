@@ -1,0 +1,21 @@
+Имя~Дмитрий Бандурка (Dmitriy Bandurka)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-xCbs3-47uwO-U5Er5-PqYcv-hif4D
+Параметры запуска~-freq 240 -tickrate 128 +rate 786432 +cl_interp_ratio 1 +fps_max 300 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp 0 -language russian -novid +mat_queue_mode 2
+st~https://steamcommunity.com/id/dumah4uk/
+vk~https://vk.com/id38009698
+twitch~https://www.twitch.tv/dimaoneshot
+tw~https://twitter.com/oneshotdima
+in~https://www.instagram.com/dimaoneshot/
+Команда~Без команды
+Страна~Россия

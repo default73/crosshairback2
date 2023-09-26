@@ -1,0 +1,18 @@
+Имя~Дмитрий Петренчук (Dmitriy Petrenchuk)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-CXYHJ-A6TKD-hcPT4-rAGNN-ERNMB
+Параметры запуска~-noforcemaccel -noforcemspd -noforcemparms -freq 240 -novid -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561198179311949
+in~https://www.instagram.com/t0kk888
+Команда~Lazer Cats
+Страна~Украина

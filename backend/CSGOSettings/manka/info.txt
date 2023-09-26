@@ -1,0 +1,20 @@
+Имя~Александра Круспе (Oleksandra Kruspe)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-V8i6F-T4LJ5-Jd3Zz-ZsLp2-Z5hWA
+Параметры запуска~-novid +rate 124000 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 -freq 240 -refresh 240 -threads 6
+st~https://steamcommunity.com/profiles/76561198258838293
+twitch~https://www.twitch.tv/manka_a
+tw~https://twitter.com/mankaCSGO
+in~https://www.instagram.com/invisiblemanka
+Команда~Без команды
+Страна~Украина

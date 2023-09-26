@@ -1,0 +1,19 @@
+Имя~Константин Трубаров (Konstantin Trubarov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-YFPhO-AHSdr-borCL-a2i3n-MyedJ
+Параметры запуска~-novid -tickrate 128 +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 1 +fps_max 401 -language english -refresh 144 -freq 144 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198176456023
+vk~https://vk.com/id224758153
+tw~https://twitter.com/Raijincsgo
+Команда~Без команды
+Страна~Россия

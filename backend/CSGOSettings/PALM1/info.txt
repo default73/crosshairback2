@@ -1,0 +1,20 @@
+Имя~Алекс Палм (Alex Palm)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Pn9th-mzKmk-JLHd9-5NFTG-KF3tJ
+Параметры запуска~-freq 240 -novid -console -tickrate 128 +mat_queue_mode 2 -high +fps_max 500
+st~https://steamcommunity.com/profiles/76561198001822920
+twitch~https://www.twitch.tv/palm1xd
+tw~https://twitter.com/PALM1xD
+in~https://www.instagram.com/alexpaalm
+Команда~Без команды
+Страна~Швеция

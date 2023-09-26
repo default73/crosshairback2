@@ -1,0 +1,18 @@
+Имя~Иван Михай (Ivan Mihai)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~0.95
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-uxj3h-d5ZCW-ctuJk-hyteu-hLN2G
+st~https://steamcommunity.com/profiles/76561198050250233
+tw~https://twitter.com/iMeCSGO
+in~https://www.instagram.com/imihai29
+Команда~Natus Vincere
+Страна~Румыния

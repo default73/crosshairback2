@@ -1,0 +1,17 @@
+Имя~Йоаким Туене (Joakim Tuene)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-9pfM2-f2CR4-F7Tn6-397N3-s36KQ
+Параметры запуска~-tickrate 128 -refresh 240 +fps_max 0 -nojoy -high -fullscreen +mat_disable_fancy_blending 1 +cl_forcepreload 1 -limitvsconst -forcenovsync +r_dynamic 0 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198164476902
+Команда~Без команды
+Страна~Норвегия

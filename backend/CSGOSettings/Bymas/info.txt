@@ -1,0 +1,20 @@
+Имя~Ауримас Пипирас (Aurimas Pipiras)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JVW23-mpDHm-oOpbb-ADpFY-YcOUD
+Параметры запуска~-novid -tickrate 128 -w 1280 -h 960 -freq 240 -cl_updaterate 128 -cl_cmdrate 128
+st~https://steamcommunity.com/id/BYMAS/
+twitch~https://www.twitch.tv/BYMAScs
+tw~https://twitter.com/bymascs
+in~https://www.instagram.com/bymascs/
+Команда~Без команды
+Страна~Литва

@@ -1,0 +1,20 @@
+Имя~Франсиско Массаро (Francisco Massaro)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 1050
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Sh7pK-HrzCy-Yqqtw-utSLZ-udMbM
+st~https://steamcommunity.com/profiles/76561198246363120
+twitch~https://www.twitch.tv/rushardo_
+yt~https://www.youtube.com/channel/UC6H8q_KlMj7Gh22r2pwEuiQ
+tw~https://twitter.com/rushardocs
+in~https://www.instagram.com/francisco.massaro
+Команда~Без команды
+Страна~Аргентина

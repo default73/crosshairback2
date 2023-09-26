@@ -1,0 +1,19 @@
+Имя~Андрей Романов (Andrey Romanov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-UGv88-OFQin-On9RD-aeVaG-TpNkO
+Параметры запуска~+rate 786432 -novid -tickrate 128 -freq 240 +cl_interp_ratio 1 -clientport 27005 +fps_max 400
+st~https://steamcommunity.com/profiles/76561198120435692
+vk~https://vk.com/id613051581
+twitch~https://www.twitch.tv/remill6
+Команда~Без команды
+Страна~Россия

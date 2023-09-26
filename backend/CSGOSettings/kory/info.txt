@@ -1,0 +1,20 @@
+Имя~Корнел Сзедлар (Kornél Szedlár)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~6
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-M6pWF-t3Mm6-4prvX-u29X4-ihaAB
+Параметры запуска~-novid -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198027648194
+twitch~https://www.twitch.tv/korys1
+fb~https://www.facebook.com/korycsgo
+tw~https://twitter.com/korycsgo
+Команда~Без команды
+Страна~Венгрия

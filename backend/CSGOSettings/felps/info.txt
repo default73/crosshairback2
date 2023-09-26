@@ -1,0 +1,20 @@
+Имя~Жоао Васконселлос (João Vasconcellos)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Ma9Ra-ThkSa-Ey59Q-LWDkf-CjW9G
+st~https://steamcommunity.com/profiles/76561197983031494
+twitch~https://www.twitch.tv/fpsfelps
+fb~https://www.facebook.com/felpscs
+tw~https://twitter.com/felperaa
+in~https://www.instagram.com/felpsplayer
+Команда~Fluxo
+Страна~Бразилия

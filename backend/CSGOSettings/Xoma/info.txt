@@ -1,0 +1,17 @@
+Имя~Андрей Мироненко (Andrey Mironenko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-4TxjG-naM3k-pCML3-cFZ5O-ey3JE
+Параметры запуска~-full -high -freq 240 -tickrate 128 -novid +exec 123.cfg -d3d9ex +cl_invites_only_friends "1" +cl_invites_only_mainmenu "1"
+st~https://steamcommunity.com/id/smugastik/
+Команда~Без команды
+Страна~Россия

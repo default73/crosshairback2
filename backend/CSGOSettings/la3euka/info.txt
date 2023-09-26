@@ -1,0 +1,20 @@
+Имя~Владимир Шурыгин (Vladimir Shurygin)
+DPI:~1000
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.65
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 900
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Op26L-D2fvN-3dxKw-qRZCY-xGUrC
+Параметры запуска~-high -novid -lv -tickrate 128 -console +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp 0 -freq 240 -refresh 240 +fps_max 400
+st~https://steamcommunity.com/id/la3eukaofficial/
+vk~https://vk.com/la3euka
+twitch~https://www.twitch.tv/la3euka
+in~https://www.instagram.com/la3euka/
+Команда~Без команды
+Страна~Россия

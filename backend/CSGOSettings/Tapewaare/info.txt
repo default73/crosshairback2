@@ -1,0 +1,20 @@
+Имя~Синдре Эллефсен (Sindre Ellefsen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-a3dfK-e3baP-QOV5c-oeRUr-sBPEL
+Параметры запуска~-novid -console -tickrate 128 -no-browser -nojoy -freq 144 +snd_use_hrtf 0 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198930218135
+twitch~https://www.twitch.tv/tapewaare
+yt~https://www.youtube.com/channel/UC9Al9PQtg8fxfgtuU1HSxAw
+tw~https://twitter.com/tapewaare
+Команда~Apeks Rebels
+Страна~Норвегия

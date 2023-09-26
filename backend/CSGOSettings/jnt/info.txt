@@ -1,0 +1,20 @@
+Имя~Джонатан Сильва (Jhonatan Silva)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-fqED7-Gbn9W-q8mth-8aWiX-sntiB
+Параметры запуска~-novid -d3d9ex -tickrate 128 -freq 240 -refresh 240 -console
+st~https://steamcommunity.com/profiles/76561198003591747
+twitch~https://www.twitch.tv/jntcsgo
+tw~https://twitter.com/jntcsgo
+in~https://www.instagram.com/jntcsgo
+Команда~The Union
+Страна~Бразилия

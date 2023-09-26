@@ -1,0 +1,21 @@
+Имя~Стефан Айлазян (Stefan Ailazyan)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.57
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~360Hz
+sharecode~CSGO-S7Ox7-cAiiS-wVkcL-h8JYj-7uDmQ
+Параметры запуска~-tickrate 128 -novid +fps_max 0 +mat_queue_mode 2 r_dynamic 0 -untrusted -allow_third_party_software -w 1920 -h 1080 +cl_showloadout 1
+st~https://steamcommunity.com/profiles/76561198072613173
+vk~https://vk.com/id221402873
+twitch~https://www.twitch.tv/1mpala
+tw~https://twitter.com/1mpala4
+in~https://www.instagram.com/1mpalacs
+Команда~Без команды
+Страна~Украина

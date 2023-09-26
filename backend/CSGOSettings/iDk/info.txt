@@ -1,0 +1,19 @@
+Имя~Виктор Торрака (Victor Torraca)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-UnOT6-FvCVx-vdoqE-FB92h-BhiaB
+st~https://steamcommunity.com/profiles/76561198066701530
+fb~https://www.facebook.com/idkfps
+tw~https://twitter.com/iDkfps
+in~https://www.instagram.com/idkfps
+Команда~Без команды
+Страна~Бразилия

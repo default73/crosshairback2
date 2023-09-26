@@ -1,0 +1,21 @@
+Имя~Джулия Гомес (Julia Gomes)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~4:3
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-AqPE7-2mu3B-4Bhjj-Wj7DV-vJN2G
+st~https://steamcommunity.com/profiles/76561198123381402
+twitch~https://www.twitch.tv/julihcsgo
+yt~https://www.youtube.com/@JulihGomes99
+fb~https://facebook.com/julihcsgo
+tw~https://twitter.com/julihcsgo
+in~https://www.instagram.com/julihcsgo
+Команда~B4 fe
+Страна~Бразилия

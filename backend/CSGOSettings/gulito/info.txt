@@ -1,0 +1,20 @@
+Имя~Куйтим Дурмиши (Kujtim Durmishi)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.15
+Чувствительность мыши в зуме:~0.85
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-iDvL8-uoVwU-cEBFb-mscFk-4PkTL
+Параметры запуска~-tickrate 128 -noforcemaccel -noforcemparms -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198380881326
+twitch~https://www.twitch.tv/gulito
+tw~https://twitter.com/gulitocs
+in~https://www.instagram.com/gulidurmishi
+Команда~Без команды
+Страна~Албания

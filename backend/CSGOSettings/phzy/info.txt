@@ -1,0 +1,19 @@
+Имя~Лав Смидбрант (Love Smidebrant)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-huREM-fPm2W-UBHm6-kcekA-KrhrM
+Параметры запуска~+mat_disable_fancy_blending 1 -tickrate 128 -novid
+st~https://steamcommunity.com/profiles/76561198408199043
+twitch~https://www.twitch.tv/phzy1
+tw~https://twitter.com/phzycs
+Команда~Без команды
+Страна~Швеция

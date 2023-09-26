@@ -1,0 +1,18 @@
+Имя~Виктор Митев (Viktor Mitev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~1/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-SVADw-MAWFj-QcfAA-2aU6K-TA7yD
+st~https://steamcommunity.com/profiles/76561198152075689
+tw~https://twitter.com/DuplicateCS
+in~https://www.instagram.com/viktormitw
+Команда~Без команды
+Страна~Болгария

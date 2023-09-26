@@ -1,0 +1,20 @@
+Имя~Эскиль Бьёрнсен (Eskil Bjørnsen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.825
+Чувствительность мыши в зуме:~1.18
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-nSmDd-Joywu-qDYAR-oFX2R-cfq3B
+Параметры запуска~-tickrate 128 +fps_max 500-novid -nojoy -freq 240 -high
+st~https://steamcommunity.com/profiles/76561198093816306
+twitch~https://www.twitch.tv/LaXp
+yt~https://www.youtube.com/channel/UCE3NbXRTFSWZuoE2p9LE0HA
+tw~https://twitter.com/LaXBlender
+Команда~Metizport
+Страна~Норвегия

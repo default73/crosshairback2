@@ -1,0 +1,20 @@
+Имя~Борис Воробьев (Boris Vorobiev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.33
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-NjLqK-AirMP-rxErc-NHF7j-AmPJM
+st~https://steamcommunity.com/profiles/76561197961134282
+vk~https://vk.com/id557065061
+twitch~https://www.twitch.tv/magixx718
+tw~https://twitter.com/magixx772
+in~https://www.instagram.com/magixx300
+Команда~Team Spirit
+Страна~Россия

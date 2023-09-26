@@ -1,0 +1,18 @@
+Имя~Александр Трайков (Aleksandar Trajkov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.08
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~10
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wHBJO-bMJxY-nrqs2-afyfc-f59zP
+Параметры запуска~-novid -nojoy -freq 240
+st~https://steamcommunity.com/profiles/76561198150237834
+tw~https://twitter.com/eleKzCS
+Команда~Lausanne eSports
+Страна~Швейцария

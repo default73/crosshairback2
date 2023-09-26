@@ -1,0 +1,19 @@
+Имя~Джастин Сэвэйдж (Justin Savage)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-Qy8wY-vpt6K-fKQch-u6rPO-6UDND
+st~https://steamcommunity.com/profiles/76561197977105184
+twitch~https://www.twitch.tv/jks_au
+tw~https://twitter.com/100tjks
+in~https://www.instagram.com/jks_cs
+Команда~G2 Esports
+Страна~Австралия

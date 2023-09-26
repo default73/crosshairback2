@@ -1,0 +1,20 @@
+Имя~Анна Рамсинг (Anna Ramsing)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.05
+Чувствительность мыши в зуме:~0.95
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-LQTa9-MrX3o-zj2fb-cAtDN-CFCEB
+Параметры запуска~-tickrate 128 -novid -nojoy +rate 786432 -freq 240 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198382620143
+twitch~https://www.twitch.tv/annatrold0307
+tw~https://twitter.com/ramziiNCSGO
+in~https://www.instagram.com/anna_ramsing
+Команда~G2 Oya
+Страна~Дания

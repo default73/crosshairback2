@@ -1,0 +1,20 @@
+Имя~Микко Валимаа (Mikko Välimaa)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-qLn5t-3tiU8-qVVrt-ecPSZ-hYXTB
+Параметры запуска~-novid -refresh 240 -tickrate 128 -console
+st~https://steamcommunity.com/profiles/76561197986831501
+twitch~https://www.twitch.tv/xartE
+fb~https://www.facebook.com/xarteCSGO
+tw~https://twitter.com/xarteCSGO
+Команда~Без команды
+Страна~Финляндия

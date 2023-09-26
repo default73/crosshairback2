@@ -1,0 +1,21 @@
+Имя~Виталий Захарюта (Vitaly Zakharyuta)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-36GRt-wXBfD-cHHwq-TGV2O-d6BYN
+Параметры запуска~-novid -nojoy -fps_max 500 -tickrate 128 -language english -freq 240 +cl_interp_ratio 1 -allow_third_party_software +mat_queue_mode 2 +clientport 27015
+st~https://steamcommunity.com/profiles/76561198235154776
+vk~https://vk.com/id291628723
+twitch~https://www.twitch.tv/vilbyyyy
+tw~https://twitter.com/vilbyyy
+in~https://www.instagram.com/vilbyyy
+Команда~YNT
+Страна~Россия

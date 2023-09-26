@@ -1,0 +1,18 @@
+Имя~Камьяр Шатери (Kamyar Shateri)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-jJHcQ-vJzmD-8qUK4-utayF-cMwLA
+Параметры запуска~-novid -refresh 144 +mat_queue_mode 2 -d3d9ex +cl_threaded_bone_setup 1 -console -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 +fps_max 999 -freq 144 +rate 786432 +cl_interp_ratio 1 -high -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198142181829
+tw~https://twitter.com/shatericsgo
+Команда~Без команды
+Страна~Швеция

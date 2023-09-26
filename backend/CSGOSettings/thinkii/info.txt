@@ -1,0 +1,19 @@
+Имя~Мануэль Мартинес Торрес (Manuel Martínez Torres)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~144Hz
+sharecode~CSGO-oYTQf-J4h6K-xVOjQ-eNJeF-UQnMC
+Параметры запуска~-novid -high -tickrate 128 -language thinkii
+st~https://steamcommunity.com/profiles/76561198027142725
+twitch~https://www.twitch.tv/thinkiics
+tw~https://twitter.com/thinkiics
+Команда~Без команды
+Страна~Испания

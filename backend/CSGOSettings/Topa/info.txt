@@ -1,0 +1,21 @@
+Имя~Алексей Топчиенко (Alexey Topchienko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 720
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-MrUhf-LBLTJ-pDGfU-E3TZD-7ktiB
+Параметры запуска~-novid -freq 240 -console -language english -tickrate 128 +fps_max 400
+st~https://steamcommunity.com/profiles/76561198134742883
+vk~https://vk.com/id337702167
+twitch~https://www.twitch.tv/topacsgo
+tw~https://twitter.com/JuniorTopa
+in~http://instagram.com/topa_cs
+Команда~IKLA
+Страна~Украина

@@ -1,0 +1,20 @@
+Имя~Арыстан Абдрашов (Arystan Abdrashev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-SPzbO-LcbcT-F3OpF-MwcBv-ctZQM
+Параметры запуска~-novid -console -freq 144 -tickrate 128 +rate 786432 +fps_max 300
+st~https://steamcommunity.com/id/ArS-04/
+vk~https://vk.com/arscsgoo
+twitch~https://www.twitch.tv/ARS_CSGO
+in~https://www.instagram.com/arscsgo/?hl=ru
+Команда~Без команды
+Страна~Казахстан

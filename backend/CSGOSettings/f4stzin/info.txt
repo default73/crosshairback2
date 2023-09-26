@@ -1,0 +1,18 @@
+Имя~Артур Шмитт (Arthur Schmitt)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-HW7vD-e8hpa-KpqVW-bGcaX-ZHZML
+Параметры запуска~rate 786432 -nod3d9ex1 -allow_third_party_software -noforcemaccel -usenoforcedmparms -freq 240 -language english -novid -tickrate 128 +clientport 27015
+st~https://steamcommunity.com/profiles/76561198436609466
+tw~https://twitter.com/f4stzin
+Команда~Без команды
+Страна~Бразилия

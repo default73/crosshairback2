@@ -1,0 +1,19 @@
+Имя~Алексей Трофимов (Alexey Trofimov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~0.98
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-M8SD2-QWBGx-zywxm-Rw8V8-3uhCG
+Параметры запуска~-noaafonts -console -novid +cl_cmdrate 128 +rate 786432 +cl_updaterate 128 -tickrate 128 -freq 240 +mat_queue_mode 2 +fps_max 999 -high +cl_Interp_ratio 1 +cl_interp 1 +r_dynamic 0 -language english
+st~https://steamcommunity.com/profiles/76561197962148507
+vk~https://vk.com/id38655802
+twitch~https://www.twitch.tv/nickelbackkkkk
+Команда~1WIN
+Страна~Россия

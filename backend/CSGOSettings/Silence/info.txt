@@ -1,0 +1,18 @@
+Имя~Лео Ингварссон (Leo Ingvarsson)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-A2AhE-iPPMP-NFre9-BYArw-TaXTB
+Параметры запуска~-console -novid -nojoy -freq 240 +cl_updaterate 128 +cl_cmdrate 128 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198345865455
+tw~https://twitter.com/CsgoSilence
+Команда~7AM
+Страна~Швеция

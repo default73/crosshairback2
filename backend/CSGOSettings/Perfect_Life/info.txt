@@ -1,0 +1,20 @@
+Имя~Руслан Соловьев (Ruslan Solovyov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.82
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-Znqp4-A2cvo-37fw4-L77YX-MDr7C
+Параметры запуска~-allow_third_party_software -novid -heapsize 4194304 -threads 12 -tickrate 128 +fps_max 0 -refresh 144 -freq 144 +dsp_enhance_stereo 1 +mat_queue_mode 2 +rate 786432
+st~https://steamcommunity.com/profiles/76561198083222198
+vk~https://vk.com/id413348048
+twitch~https://www.twitch.tv/p3rf3ct_l1fe
+in~https://www.instagram.com/rusick_
+Команда~Без команды
+Страна~Россия

@@ -1,0 +1,18 @@
+Имя~Карсон О'Рейли (Carson O'Reilly)
+DPI:~400
+Частота мыши:~100Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~360Hz
+sharecode~CSGO-Esaji-UzaP7-HUOBp-R5kVC-z2urD
+st~https://steamcommunity.com/profiles/76561198061787931
+twitch~https://www.twitch.tv/nosrac_
+tw~https://twitter.com/nosraC_cs
+Команда~Nouns
+Страна~США

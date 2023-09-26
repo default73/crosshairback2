@@ -1,0 +1,19 @@
+Имя~Роман Стеценко (Roman Stetsenko)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-VxtEw-jysWw-eJxuj-S4R59-LAu8O
+Параметры запуска~-novid -console -language english +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 +fps_max 0 +cl_interp 1 +cl_interp_ratio 2
+st~https://steamcommunity.com/profiles/76561198158734121
+vk~https://vk.com/id161294920
+twitch~https://www.twitch.tv/h0kagecs
+Команда~GR Gaming
+Страна~Россия

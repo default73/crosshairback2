@@ -1,0 +1,19 @@
+Имя~Мартин Беранек (Martin Beránek)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-cSh45-xzmVq-sWqEH-iCOMR-udBAA
+st~https://steamcommunity.com/profiles/76561198308151025
+fb~https://www.facebook.com/csberyP
+tw~https://twitter.com/berycs_
+in~https://www.instagram.com/beryp1
+Команда~Cryptova
+Страна~Чехия

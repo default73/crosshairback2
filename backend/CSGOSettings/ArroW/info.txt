@@ -1,0 +1,18 @@
+Имя~Люк Омке (Luc Oehmke)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.6
+Чувствительность мыши в зуме:~0.6
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-iwN8w-MWwLG-PJfQE-rRety-Z4OtQ
+st~https://steamcommunity.com/profiles/76561198259727379
+yt~https://www.youtube.com/channel/UChDdMj9xJHxrb1GJvGeerNA
+tw~https://twitter.com/Arr0w0w
+Команда~BIG Academy
+Страна~Германия

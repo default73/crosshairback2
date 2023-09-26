@@ -1,0 +1,20 @@
+Имя~Дмитрий Кошевской (Dmitriy Koshevskoy)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-SLunQ-8n8zW-SSUST-hKvuE-2zpxA
+Параметры запуска~-tickrate 128 -language english -high -novid
+st~https://steamcommunity.com/profiles/76561197997611877/
+vk~https://vk.com/dmitriifiv
+twitch~https://www.twitch.tv/dmitriifiv
+tw~https://www.instagram.com/dmitriifiv/
+Команда~Ha MaSSe
+Страна~Россия

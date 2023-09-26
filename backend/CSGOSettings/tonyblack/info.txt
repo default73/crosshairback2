@@ -1,0 +1,21 @@
+Имя~Антон Колесников (Anton Kolesnikov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-kKaqK-3tDwJ-DjFPv-AZN7F-nvHCF
+Параметры запуска~-novid -language english +cl_interp_ratio 1 -freq 240 -tickrate 128 +rate 786432 +cl_cmdrate 128 +cl_upderate 128 +fps_max 0 -console -d3d9ex
+st~https://steamcommunity.com/profiles/76561197976004330
+vk~https://vk.com/anthonykolesnikov
+fb~https://www.facebook.com/Anton-kibaken-Kolesnikov-235415476612841
+tw~https://twitter.com/tonyblackCS
+in~https://www.instagram.com/anthonykolesnikov/
+Команда~Без команды
+Страна~Россия

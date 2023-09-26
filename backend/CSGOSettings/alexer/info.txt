@@ -1,0 +1,18 @@
+Имя~Алекс Лагос (Alex Lagos)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-YARRr-YySw8-AOB9n-PDfWC-Wo3cQ
+st~https://steamcommunity.com/profiles/76561198086420170
+twitch~https://www.twitch.tv/aleexcs_
+tw~https://twitter.com/aleexerCsGo
+Команда~Без команды
+Страна~Чили

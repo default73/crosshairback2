@@ -1,0 +1,19 @@
+Имя~Уильям Альмасан (William Almasan)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.71
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-itRpX-j6U2s-qbo96-3qfKR-QKuSJ
+Параметры запуска~-tickrate 128 -novid -nod3d9ex
+st~https://steamcommunity.com/profiles/76561198416814570
+tw~https://twitter.com/w1fps
+in~https://www.instagram.com/williamalmasan
+Команда~Без команды
+Страна~Бразилия

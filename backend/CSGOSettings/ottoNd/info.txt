@@ -1,0 +1,19 @@
+Имя~Отто Сихво (Otto Sihvo)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.78
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-YYh4c-Q5NYG-rBqM7-ABerF-qRkTL
+st~https://steamcommunity.com/profiles/76561198035334871
+twitch~https://www.twitch.tv/ottoNd
+tw~https://twitter.com/ottoNdCSGO
+in~https://www.instagram.com/ottonddd
+Команда~HAVU Gaming
+Страна~Финляндия

@@ -1,0 +1,18 @@
+Имя~Николай Рысаков (Nikolaj Rysakov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.77
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-UmTKu-NkU2R-ZOyH6-cj8QF-67sKG
+st~https://steamcommunity.com/profiles/76561197986750358
+twitch~https://www.twitch.tv/kalinkacs
+tw~https://twitter.com/kalinkaN1
+Команда~Без команды
+Страна~Литва

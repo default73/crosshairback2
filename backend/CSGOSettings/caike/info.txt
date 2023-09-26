@@ -1,0 +1,21 @@
+Имя~Кэйк Коста (Caike Costa)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-TcHmj-UQKLV-KRMzJ-teP7y-L4hWA
+Параметры запуска~-novid -console -freq 240 -nod3d9ex
+st~https://steamcommunity.com/profiles/76561197988396483
+twitch~https://www.twitch.tv/caikecs
+fb~https://www.facebook.com/caike1c
+tw~https://twitter.com/el_caike
+in~https://www.instagram.com/el_caikecs
+Команда~Без команды
+Страна~Бразилия

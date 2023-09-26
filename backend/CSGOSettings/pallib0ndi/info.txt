@@ -1,0 +1,18 @@
+Имя~Палл Синдри Эйнарссон (Páll Sindri Einarsson)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hGhZS-83P7d-XfvyX-V8yrN-AzZkF
+Параметры запуска~-nojoy -novid -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561197994916435
+tw~https://twitter.com/pallsindri
+Команда~DUSTY
+Страна~Исландия

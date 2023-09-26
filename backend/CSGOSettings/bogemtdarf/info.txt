@@ -1,0 +1,19 @@
+Имя~Николай Заровняев (Nikolay Zarovnyaev)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~1
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-dZF5a-2imKF-fhvPU-qxQTr-bJzMM
+Параметры запуска~+mat_queue_mode 2 +cl_interp_ratio 1 -dxlevel 81 +clientport 27006 -freq 240 -novid -console -tickrate 128 -nojoy -allow_third_party_software -noipx
+st~https://steamcommunity.com/profiles/76561198139320078
+vk~https://vk.com/id120366801
+twitch~https://www.twitch.tv/bogemtdarf
+Команда~Без команды
+Страна~Россия

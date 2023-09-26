@@ -1,0 +1,20 @@
+Имя~Томаш Штястны (Tomáš Šťastný)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.5
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6oTbk-hVeBm-kSSfC-zyXPW-hEpEM
+st~https://steamcommunity.com/profiles/76561198131690816
+twitch~https://www.twitch.tv/oskartommy
+fb~https://www.facebook.com/CSoskar
+tw~https://twitter.com/CSGOoskar
+in~https://www.instagram.com/oskartommy
+Команда~SINNERS Esports
+Страна~Чехия

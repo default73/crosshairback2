@@ -1,0 +1,20 @@
+Имя~Риналдс Османис (Rinalds Osmanis)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-PjYiV-CEBAa-AYFbS-6CG2m-ruWPA
+Параметры запуска~-tickrate 128 -freq 240 -novid
+st~https://steamcommunity.com/profiles/76561198448312018
+twitch~https://www.twitch.tv/electrix_csgo
+yt~https://www.youtube.com/channel/UClEE6nuxi58_-Mh5J2WpPmw?view_as=subscriber
+tw~https://twitter.com/ElectrixF
+Команда~Medieval
+Страна~Латвия

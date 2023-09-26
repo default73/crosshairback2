@@ -1,0 +1,18 @@
+Имя~Михкель Аламаа (Mihkel Alamaa)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~0.67
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 900
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-PjYiV-CEBAa-AYFbS-6CG2m-ruWPA
+Параметры запуска~-novid -cl_updaterate 128 -cl_cmdrate 128 -tickrate 128 -console +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561197991967008
+tw~https://twitter.com/sperrCSGO
+Команда~Без команды
+Страна~Эстония

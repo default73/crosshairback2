@@ -1,0 +1,17 @@
+Имя~Александр Гивсков (Alexander Givskov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-4EhCK-X5pEv-xUCPO-r4k6i-ehG4C
+st~https://steamcommunity.com/profiles/76561198209342312
+tw~https://twitter.com/Altekzzz
+Команда~Astralis Talent
+Страна~Дания

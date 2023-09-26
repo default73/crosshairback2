@@ -1,0 +1,22 @@
+Имя~Ян Урвалек (Jan Urválek)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-mXC2z-VZqMT-vixpq-pbsc8-k5hWA
+Параметры запуска~-novid -high -console -tickrate 128 -nojoy -freq 240 -allow_third_party_software +mat_queue_mode -2 +clientport 28190
+st~https://steamcommunity.com/profiles/76561197994657430
+twitch~https://www.twitch.tv/HONESBOSS
+yt~https://www.youtube.com/channel/UCVvOsstgaxTnAnOFMsYFcQw
+fb~https://www.facebook.com/honesboss
+tw~https://twitter.com/honesboss
+in~https://www.instagram.com/janhones_
+Команда~Без команды
+Страна~Чехия

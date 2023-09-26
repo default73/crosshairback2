@@ -1,0 +1,18 @@
+Имя~Гальерме Пачеко (Guilherme Pacheco)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-pGGYw-hHtbG-OxAuT-j6Afw-jXfOQ
+st~https://steamcommunity.com/profiles/76561198100494962
+tw~https://twitter.com/saadzin_fps
+in~https://www.instagram.com/guipachecorosa
+Команда~W7M Academy
+Страна~Бразилия

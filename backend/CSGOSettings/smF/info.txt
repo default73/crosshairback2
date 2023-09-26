@@ -1,0 +1,20 @@
+Имя~Дэнни Даг (Danni Dyg)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.73
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-TrqzJ-Uow4j-vmnV4-n47DF-oFZML
+st~https://steamcommunity.com/profiles/76561197971426269
+twitch~https://www.twitch.tv/5mf_
+fb~https://www.facebook.com/DannismfDyg
+tw~https://twitter.com/smF_go
+in~https://www.instagram.com/dygdanni
+Команда~CEPTER
+Страна~Дания

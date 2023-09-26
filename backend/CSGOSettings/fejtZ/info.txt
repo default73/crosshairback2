@@ -1,0 +1,20 @@
+Имя~Кристиан Олсаар (Kristjan Allsaar)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1.25
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-Lz9Bd-ApM3u-C8Crb-JLKs3-mD5RG
+Параметры запуска~-novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198055604641
+fb~https://www.facebook.com/fejtz
+tw~https://twitter.com/fejtZ1
+in~https://www.instagram.com/fejtzyy
+Команда~sYnck
+Страна~Эстония

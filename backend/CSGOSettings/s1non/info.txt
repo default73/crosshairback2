@@ -1,0 +1,20 @@
+Имя~Аманда Паулино (Amanda Paulino)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-DLDVK-T3pR2-eE2hr-7xEtE-WeYHK
+st~https://steamcommunity.com/profiles/76561198121195709
+twitch~https://www.twitch.tv/S1non24
+fb~https://facebook.com/amanda.sheronstone
+tw~https://twitter.com/s1non24
+in~https://www.instagram.com/sheronstone
+Команда~Black Dragons Female
+Страна~Бразилия

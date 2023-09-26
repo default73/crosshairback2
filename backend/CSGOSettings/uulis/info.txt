@@ -1,0 +1,20 @@
+Имя~Мария Василькова (Maria Vasilkova)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.391987
+Чувствительность мыши в зуме:~0.377347
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-P2n2r-ZaJQm-eazEe-DyFXT-4JDhP
+st~https://steamcommunity.com/profiles/76561199186307530
+twitch~https://www.twitch.tv/uuulis
+yt~https://www.youtube.com/channel/UCVHFi7ruPCqEzxFBJTxCJaw
+tw~https://twitter.com/1uulis
+in~https://www.instagram.com/1uulis
+Команда~Без команды
+Страна~Россия

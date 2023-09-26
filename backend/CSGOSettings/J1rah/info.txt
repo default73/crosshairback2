@@ -1,0 +1,18 @@
+Имя~Ире Йоаким (Jireh Youakim)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5fRFk-4si5z-U2Uff-pkfk5-jJCEB
+st~https://steamcommunity.com/profiles/76561198042801684
+twitch~https://www.twitch.tv/j1rah
+tw~https://twitter.com/J1rah
+Команда~e-LEMON-ators
+Страна~Австралия

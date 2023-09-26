@@ -1,0 +1,18 @@
+Имя~Хьюго Ди Боно (Hugo Di Bono)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~1.000753
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JzH2c-cbwGn-UoFpd-vtMkW-FTsFF
+st~https://steamcommunity.com/profiles/76561198274686035
+twitch~https://www.twitch.tv/brooxsy
+tw~https://twitter.com/Broox720
+Команда~Team LDLC
+Страна~Франция

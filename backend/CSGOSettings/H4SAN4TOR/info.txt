@@ -1,0 +1,19 @@
+Имя~Владислав Тучин (Vladislav Tuchin)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hrqkQ-fNsCY-pB5yc-rt9dU-iWxTC
+Параметры запуска~-freq 240 -high -novid -tickrate 128 +cl_interp_ratio 1 +fps_max 0
+st~https://steamcommunity.com/profiles/76561199001109911
+vk~https://vk.com/id332887678
+twitch~https://www.twitch.tv/h4san4tor
+Команда~Без команды
+Страна~Россия

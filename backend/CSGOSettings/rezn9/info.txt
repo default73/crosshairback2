@@ -1,0 +1,20 @@
+Имя~Андрей Вагнер (Andrei Wagner)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.779
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-jCOpp-UsO5L-ctt5d-aXKOc-uy5qB
+Параметры запуска~-novid -nojoy +fps_max 484 -freq 144 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198871538917
+vk~https://vk.com/id272535758
+yt~https://www.youtube.com/channel/UCukTpc2wgvntnBiy2CqTa5g
+in~https://www.instagram.com/qsxtwwwwwwww
+Команда~Без команды
+Страна~Россия

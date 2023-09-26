@@ -1,0 +1,19 @@
+Имя~Дмитрий Пастухов (Dmitry Pastukhov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.07
+Чувствительность мыши в зуме:~1.01
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3iRZh-H6Quj-3GoSs-9QTpR-TDhnL
+Параметры запуска~-language eng
+st~https://steamcommunity.com/profiles/76561198033578279/
+vk~https://vk.com/id13265773
+twitch~twitch.tv/h1ghnesss
+Команда~FLuffy Gangsters
+Страна~Россия

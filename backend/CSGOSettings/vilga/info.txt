@@ -1,0 +1,21 @@
+Имя~Ксения Клюенкова (Ksenia Kluenkova)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-NStUX-xO6rd-mmOwP-pA2cF-ambcP
+Параметры запуска~-tickrate 128 -freq 240 -novid -high -console +fps_max 300 -nojoy -noaafonts +mat_queue_mode 2 -untrusted -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561197977845004
+vk~https://vk.com/id36627982
+twitch~https://www.twitch.tv/vilga
+tw~https://twitter.com/vilgaCS
+in~https://www.instagram.com/vilgacs
+Команда~Nigma Galaxy Female
+Страна~Россия

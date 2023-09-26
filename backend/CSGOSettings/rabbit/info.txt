@@ -1,0 +1,18 @@
+Имя~Эдгар Бреки (Edgars Brečs)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~
+Соотношение сторон:~
+Формат изображения:~Растянутое
+Частота обновления:~Hz
+sharecode~CSGO-NnhCP-X8648-57fuW-fxBTB-cMwLA
+st~https://steamcommunity.com/profiles/76561198273383635
+twitch~https://www.twitch.tv/rabbittc
+fb~https://twitter.com/rabbitsxd
+Команда~Без команды
+Страна~Латвия

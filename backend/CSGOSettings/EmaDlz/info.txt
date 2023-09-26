@@ -1,0 +1,20 @@
+Имя~Эмануэль Лопес (Emanuel López)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.42
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FSkVJ-VJFbD-wEaWf-sU3Nx-9DmDA
+Параметры запуска~-console -freq 240 -tickrate 128 -novid -rate 786432 +fps_max 0 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198265095395
+twitch~https://www.twitch.tv/emadlzcs
+tw~https://twitter.com/Emadlzcs
+in~https://www.instagram.com/emadlz/
+Команда~Без команды
+Страна~Аргентина

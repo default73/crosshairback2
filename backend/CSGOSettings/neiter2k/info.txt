@@ -1,0 +1,20 @@
+Имя~Роман Бруль (Roman Brul)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-w3w8r-nnSEk-bCrm8-SvBpk-yrmHB
+Параметры запуска~-console -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561199008367506
+vk~https://vk.com/id626743234
+twitch~https://www.twitch.tv/neiter2k
+in~https://www.instagram.com/have.youseenme/
+Команда~Без команды
+Страна~Украина

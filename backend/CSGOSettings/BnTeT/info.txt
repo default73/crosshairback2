@@ -1,0 +1,19 @@
+Имя~Хансел Фердинанд (Hansel Ferdinand)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~144Hz
+sharecode~CSGO-YqPKO-Co7oS-GnA9f-DUcih-sY2tJ
+st~https://steamcommunity.com/profiles/76561198072083240
+twitch~https://www.twitch.tv/nxlbntet
+tw~https://twitter.com/bntetcsgo
+in~https://www.instagram.com/hanselferdinand
+Команда~Team NKT
+Страна~Индонезия

@@ -1,0 +1,19 @@
+Имя~Гарьдмагнай Бямбасурэн (Garidmagnai Byambasuren)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-uXORo-fyOb3-5vEUk-q8D73-dsUWJ
+Параметры запуска~-novid -nojoy -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198959824088
+fb~https://www.facebook.com/garidaa.garidmagnai.5
+in~https://www.instagram.com/garidmagnaii
+Команда~The Mongolz
+Страна~Монголия

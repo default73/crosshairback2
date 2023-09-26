@@ -1,0 +1,19 @@
+Имя~Джанер Кесичи (Caner Kesici)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-CyA6Y-U47b3-XzNxC-jKrE5-Y5pxA
+Параметры запуска~-novid -no-browser -nojoy -nod3d9ex +snd_use_hrtf 0 -tickrate 128 -high -freq 144
+st~https://steamcommunity.com/profiles/76561198327068178
+tw~https://twitter.com/Soulflycs
+in~https://www.instagram.com/soulflycsgo_/
+Команда~Sangal Esports
+Страна~Турция

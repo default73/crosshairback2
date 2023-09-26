@@ -1,0 +1,20 @@
+Имя~Кристофер Алесунд (Christopher Alesund)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3r7ov-Ha5sE-sYPOL-bMWGQ-5qCxH
+st~https://steamcommunity.com/id/ChristopherGeTRiGhTAlesund/
+twitch~https://www.twitch.tv/GeT_RiGhT
+fb~https://www.facebook.com/OfficialGetright
+tw~https://twitter.com/GeT_RiGhT
+in~https://www.instagram.com/get_rightcs/
+Команда~Без команды
+Страна~Швеция

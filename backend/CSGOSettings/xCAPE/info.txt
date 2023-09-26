@@ -1,0 +1,18 @@
+Имя~Лиам Редмонд (Liam Redmond)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wY8Sw-2oV4O-hintY-LQ2aj-ia4NF
+Параметры запуска~-nojoy -novid +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198823554703
+tw~https://twitter.com/xcapeCS
+Команда~Take Flyte
+Страна~США

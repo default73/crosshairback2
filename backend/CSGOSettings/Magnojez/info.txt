@@ -1,0 +1,19 @@
+Имя~Кирилл Роднов (Kirill Rodnov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~144Hz
+sharecode~CSGO-VcLCF-iKDSt-56GKR-7Vpe2-VtjjD
+Параметры запуска~-novid +rate 786432 -freq 144 +updaterate 128 +cl_cmdrate 128 -tickrate 128 -w 1920 -h 1080 +fps_max 400 +mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198372023214
+vk~https://vk.com/id237621441
+twitch~https://www.twitch.tv/magnoliab0b
+Команда~Без команды
+Страна~Россия

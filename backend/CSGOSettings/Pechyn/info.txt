@@ -1,0 +1,20 @@
+Имя~Мартин Печоушек (Martin Pechoušek)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-tVHTx-LF8D2-CixKP-iUJdG-DqmHB
+st~https://steamcommunity.com/profiles/76561198053792941
+twitch~https://www.twitch.tv/pechyn
+fb~https://www.facebook.com/Pechyn
+tw~https://twitter.com/Pechynn
+in~https://www.instagram.com/pechynn/
+Команда~Без команды
+Страна~Чехия

@@ -1,0 +1,18 @@
+Имя~Эдди Аззи (Eddie Azzi)
+DPI:~400
+Частота мыши:~10000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-OTKXZ-HJDfH-VbqqS-4QheX-dOchQ
+st~https://steamcommunity.com/profiles/76561197972045728
+twitch~https://www.twitch.tv/bowser0
+tw~https://www.twitter.com/BowserViri
+Команда~e-LEMON-ators
+Страна~Австралия

@@ -1,0 +1,19 @@
+Имя~Вадим Танасюк (Vadim Tanasiuk)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-foNkS-uPFaC-2Bhjj-Wj7DV-vJN2G
+Параметры запуска~+r_dynamic 0 +mat_queue_mode 2 +rate 786432 +cl_interp 0 +cl_interp_ratio 1 +fps_max 0 -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198131105028
+vk~https://vk.com/id75853601
+twitch~https://www.twitch.tv/h1glain
+Команда~Montecarlo Gaming
+Страна~Украина

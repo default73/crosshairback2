@@ -1,0 +1,20 @@
+Имя~Андрей Кухарский (Andrii Kukharskyi)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-9n8F3-OtAC3-E6R5t-Me7Ws-Ed7iL
+Параметры запуска~-novid -freq 144 -tickrate 128 -untrusted +cl_updaterate 128 +cl_cmdrate 128 +cl_interp 1 +cl_interp_ratio 2 +fps_max 334 -allow_third_party_software -console
+st~https://steamcommunity.com/profiles/76561198305036904
+twitch~https://www.twitch.tv/niplecs
+tw~https://twitter.com/niplcs
+in~https://www.instagram.com/niplcs
+Команда~Без команды
+Страна~Украина

@@ -1,0 +1,20 @@
+Имя~Пауль фон Эрдмансдорф (Paul von Erdmannsdorff)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1.05
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1728 x 1080
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8Xx5R-bNtVL-7o3DC-ntnYO-F3wPB
+st~https://steamcommunity.com/profiles/76561198168694063
+twitch~https://www.twitch.tv/officialperx
+yt~https://www.youtube.com/channel/UCTxTWpXuirsJvFLaSdv-ZDQ
+tw~https://twitter.com/PerX1337
+in~https://www.instagram.com/perx1337
+Команда~ALTERNATE aTTaX
+Страна~Германия

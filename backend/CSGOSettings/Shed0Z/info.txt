@@ -1,0 +1,20 @@
+Имя~Никита Салимов (Nikita Salimov)
+DPI:~800
+Частота мыши:~250Hz
+Чувствительность мыши в игре:~0.97
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-KozN5-RP7mH-yfJfK-uVAkA-pSqNO
+Параметры запуска~-novid -nojoy -noipx -tickrate 128 -console +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 +mat_queue_mode -1 +fps_max 401 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198236061938/
+vk~https://vk.com/id135670754
+twitch~https://www.twitch.tv/shed0zzz
+in~https://instagram.com/shed0z?igshid=OGQ5ZDc2ODk2ZA==
+Команда~FLuffy Gangsters
+Страна~Россия

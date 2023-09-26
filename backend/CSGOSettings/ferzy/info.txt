@@ -1,0 +1,19 @@
+Имя~Фернанда Адамес (Fernanda Adames)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-2voSi-xzqpq-YMenW-TZSJ7-uCpEM
+Параметры запуска~-novid -tickrate 128 -allow_third_party_software -high +fps_max 0 -language bananagaming
+st~https://steamcommunity.com/profiles/76561198870239178
+twitch~http://twitch.tv/ferzyfps_
+tw~https://twitter.com/FerzyAdames
+Команда~MIBR Female
+Страна~Бразилия

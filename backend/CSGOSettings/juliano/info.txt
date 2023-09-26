@@ -1,0 +1,21 @@
+Имя~Джулия Киран (Julia Kiran)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.61
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-dwjHH-OMYCU-tFLr4-A9Fc6-hmHrL
+st~https://steamcommunity.com/profiles/76561198022284035
+twitch~https://www.twitch.tv/julianoGO
+yt~https://www.youtube.com/officialjuliecs
+fb~https://facebook.com/JulieCSGO
+tw~https://twitter.com/juliakiran
+in~https://www.instagram.com/jjuliakiran
+Команда~G2 Oya
+Страна~Швеция

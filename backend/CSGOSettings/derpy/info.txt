@@ -1,0 +1,20 @@
+Имя~Эдуардо Юрген Тейтге Муньос (Eduardo Jürgen Teitge Muñoz)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1.5
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-3ciWz-KRJjm-asakk-5Khsy-RVYwP
+Параметры запуска~-novid
+st~https://steamcommunity.com/profiles/76561198342731516
+twitch~https://www.twitch.tv/d3rpyyy5
+tw~https://twitter.com/DerpyCSGO
+in~https://www.instagram.com/edu_tm01
+Команда~VivoGamerTeam (VGT)
+Страна~Испания

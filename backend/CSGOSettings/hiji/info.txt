@@ -1,0 +1,20 @@
+Имя~Артём Смолий (Artem Smoliy)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-xCbs3-47uwO-U5Er5-PqYcv-hif4D
+Параметры запуска~-noaafonts -console -novid +cl_cmdrate 128 +rate 786432 +cl_updaterate 128 -tickrate 128 -freq 240 +mat_queue_mode 2 +fps_max 340 +cl_Interp_ratio 2 +cl_interp 1
+st~https://steamcommunity.com/id/hijji/
+vk~https://vk.com/id21849797
+twitch~https://www.twitch.tv/hijji
+in~https://www.instagram.com/artem_smoliy/
+Команда~Без команды
+Страна~Россия

@@ -1,0 +1,21 @@
+Имя~Алексей Махинич (Alexey Makhinich)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1.025
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-Qyn28-P7xVJ-sAwW2-6ie6O-udBAA
+Параметры запуска~-high -console -novid -nojoy -nod3d9ex -freq 144 -tickrate 128 -noaafonts
+st~https://steamcommunity.com/profiles/76561198077774193
+vk~https://vk.com/id57211407
+twitch~https://www.twitch.tv/maha_csgo
+tw~https://twitter.com/Mahaofficial7
+in~https://www.instagram.com/alexey_makhinich/
+Команда~Без команды
+Страна~Россия

@@ -1,0 +1,19 @@
+Имя~Лукас Меиер (Lukas Meier)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jzhkk-uxA45-A5EXh-ofGyC-xAw5G
+Параметры запуска~-tickrate 128 -freq 240 -console -novid +clientport 27007 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198202855499
+twitch~https://www.twitch.tv/hadezcs
+tw~https://twitter.com/HadeZCS
+Команда~EPIC DUDES
+Страна~Германия

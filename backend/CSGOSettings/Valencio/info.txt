@@ -1,0 +1,19 @@
+Имя~Войтех Мидларж (Vojtěch Mydlář)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.73
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1720 x 1080
+Соотношение сторон:~8:5
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3a2w7-CVSLE-iOq6E-5R7iA-5BZ2Q
+st~https://steamcommunity.com/profiles/76561198123400196
+fb~https://www.facebook.com/Valenciocsgo
+tw~https://twitter.com/Valenciocsgo
+in~https://www.instagram.com/valenciocs
+Команда~Dynamo Eclot (ECLOT)
+Страна~Чехия

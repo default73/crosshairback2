@@ -1,0 +1,19 @@
+Имя~Давид Ручко (Dawid Ryczko)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-m3ca9-zqxkB-6YeL5-9wY58-ihaAB
+Параметры запуска~-novid -tickrate 128 -nojoy +fps_max 999 -freq 240
+st~https://steamcommunity.com/profiles/76561198062992429
+twitch~https://www.twitch.tv/pendzelek
+tw~https://twitter.com/pendzel_
+Команда~Без команды
+Страна~Польша

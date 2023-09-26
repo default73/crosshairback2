@@ -1,0 +1,19 @@
+Имя~Хью Андерсон (Hugh Anderson)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-vcz5k-V2cdp-iNx8n-q5SeX-kSLoD
+st~https://steamcommunity.com/profiles/76561198065008765
+twitch~https://www.twitch.tv/HUGHcsgoo
+yt~https://www.youtube.com/SmooveNewB
+tw~https://twitter.com/HUGHcsgo
+Команда~Без команды
+Страна~Австралия

@@ -1,0 +1,19 @@
+Имя~Александр Андерссон (Alexander Andersson)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.85
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JDNLo-SKdAy-QcLKQ-UCL2O-QNVGQ
+Параметры запуска~-tickrate 128 -freq 240 -novid +fps_max 999 +rate 786432
+st~https://steamcommunity.com/profiles/76561198176501275
+twitch~https://www.twitch.tv/officialalekscs
+tw~https://twitter.com/AlekScsgo
+Команда~Kappa Bar
+Страна~Швеция

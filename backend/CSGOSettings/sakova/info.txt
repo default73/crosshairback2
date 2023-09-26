@@ -1,0 +1,20 @@
+Имя~Владислав Сакович (Vladislav Sakovich)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-CSMqx-kjkaW-uGVew-izVX4-bZJGG
+Параметры запуска~+mat_queue_mode 2 +cl_forcepreload 1 +rate 786432 +cl_interp_ratio 2 +cl_interp 1 -novid -console -tickrate 128 +fps_max 300 -high +cl_cmdrate 128 -freq 144 +r_dynamic 0 +con_filter_text_out "DispatchAsyncEvent backlog" +con_filter_enable 1
+st~https://steamcommunity.com/profiles/76561198091912774
+vk~https://vk.com/vlad_sakova
+twitch~https://www.twitch.tv/sakovacsgo
+in~https://www.instagram.com/vlad_sakova
+Команда~Без команды
+Страна~Беларусь

@@ -1,0 +1,21 @@
+Имя~Александр Гуркин (Aleksandr Gurkin)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.775
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-zHB4X-RArWn-PspZZ-RmXKq-EaVvD
+Параметры запуска~-novid -freq 240 -high +cl_updaterate 128 +cmdrate 128 +cl_interp_ratio 1 +rate 786432 -language english -tickrate 128
+st~https://steamcommunity.com/profiles/76561198400646282
+vk~https://vk.com/id204580377
+twitch~https://www.twitch.tv/kensicsgo
+tw~https://twitter.com/kensi_cs
+in~https://www.instagram.com/kensi1337
+Команда~Aurora
+Страна~Россия

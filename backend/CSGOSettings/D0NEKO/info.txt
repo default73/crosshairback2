@@ -1,0 +1,18 @@
+Имя~Владислав Сидоров (Vladislav Sidorov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-6UCX9-Mo4WK-uxfmU-3Duqt-msLDR
+Параметры запуска~-freq 240 -novid -tickrate 128 -rate 786432 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561199032094061
+tw~https://twitter.com/d0nekocsgo
+Команда~Montecarlo Gaming
+Страна~Украина

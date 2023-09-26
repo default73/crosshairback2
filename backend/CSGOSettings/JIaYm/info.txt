@@ -1,0 +1,19 @@
+Имя~Никита Панюшкин (Nikita Panyushkin)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.55
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1350 x 1080
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Phjtx-vR6c3-PLbPJ-GpnVE-H4qmJ
+st~https://steamcommunity.com/profiles/76561198077608198
+vk~https://vk.com/id59188262
+twitch~https://www.twitch.tv/jiaym
+in~https://www.instagram.com/jiaym919
+Команда~Forward
+Страна~Россия

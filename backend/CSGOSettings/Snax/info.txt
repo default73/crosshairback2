@@ -1,0 +1,20 @@
+Имя~Януш Погожельски (Janusz Pogorzelski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~0.91
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~800 x 600
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-5GNGt-rRvTk-vB42a-wvz7K-j3UrC
+st~https://steamcommunity.com/profiles/76561197982141573
+twitch~https://www.twitch.tv/snax
+fb~https://www.facebook.com/snaxfz
+tw~https://twitter.com/cios_snax
+in~https://www.instagram.com/snax1337
+Команда~Let us cook
+Страна~Польша

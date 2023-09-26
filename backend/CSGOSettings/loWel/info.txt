@@ -1,0 +1,19 @@
+Имя~Кристиан Гарсия (Christian Garcia)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.15
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-TcQ29-5hUij-XKGTw-SE77Z-H4NQC
+st~https://steamcommunity.com/id/loweloN/
+twitch~https://www.twitch.tv/lowelcs
+tw~https://twitter.com/lowelcs
+in~https://www.instagram.com/lowelcs/
+Команда~Без команды
+Страна~Испания

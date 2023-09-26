@@ -1,0 +1,19 @@
+Имя~Педро Кампос (Pedro Campos)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~0.78
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-zFxPL-E8Cam-3fN3z-7YxtJ-iRunC
+st~https://steamcommunity.com/profiles/76561197996321741
+fb~https://twitter.com/Pedro_Maluk3
+tw~https://twitter.com/Pedro_Maluk3
+in~https://www.instagram.com/Pedro_Maluk3
+Команда~Без команды
+Страна~Бразилия

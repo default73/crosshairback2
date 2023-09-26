@@ -1,0 +1,20 @@
+Имя~Владислав Пивкин (Vladislav Pivkin)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-53cPY-VaYeZ-Tjxhp-288NJ-XDYXC
+Параметры запуска~-freq 240 -console -novid -tickrate 128 +fps_max 400 +cl_interp_ratio 1 -language english -w 1280 -h 960
+st~https://steamcommunity.com/profiles/76561199075616105
+vk~https://vk.com/id132766035
+twitch~https://www.twitch.tv/qweall666
+in~https://www.instagram.com/deadstarqweall
+Команда~Taipan
+Страна~Украина

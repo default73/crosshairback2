@@ -1,0 +1,19 @@
+Имя~Энрике Соарес (Henrique Soares)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-aFb5Z-dnVsp-WFRKr-9iWLc-ByeKP
+Параметры запуска~-console -refresh 240 -freq 240 -novid -tickrate 128 +fps_max 500 -w 1280 -h 960 +mat_queue_mode 2 -emac
+st~https://steamcommunity.com/profiles/76561198307975279
+tw~https://twitter.com/hpscs
+in~https://www.instagram.com/hpsfps
+Команда~Без команды
+Страна~Бразилия

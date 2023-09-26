@@ -1,0 +1,21 @@
+Имя~Винициус Морейра (Vinicius Moreira)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Yqufa-rQrH7-AabHt-Q2oDA-OM6FP
+Параметры запуска~-novid -refresh 240 -freq 240 -tickrate 128 +mat_queue_mode 2 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198011732823
+twitch~https://www.twitch.tv/vsmzin
+fb~https://facebook.com/viinicius1
+tw~https://twitter.com/vsmzin
+in~https://www.instagram.com/vsmzin
+Команда~Fluxo
+Страна~Бразилия

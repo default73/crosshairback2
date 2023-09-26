@@ -1,0 +1,21 @@
+Имя~Йонас Олофссон (Jonas Olofsson)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-GNqMC-ohVBW-dKrfj-S9LJ4-WXvaL
+Параметры запуска~-novid -refresh 240
+st~https://steamcommunity.com/profiles/76561197961358863
+twitch~https://www.twitch.tv/Lekr0
+fb~https://www.facebook.com/lekr0cs
+tw~https://twitter.com/Lekr0
+in~https://www.instagram.com/lekr0csgo
+Команда~Без команды
+Страна~Швеция

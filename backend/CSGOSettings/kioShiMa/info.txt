@@ -1,0 +1,20 @@
+Имя~Фабьен Фье (Fabien Fiey)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6GaA2-d85hp-27LWU-zGi5i-XNh8E
+st~https://steamcommunity.com/profiles/76561198000782895
+twitch~https://www.twitch.tv/kiocsgo
+fb~https://www.facebook.com/kiocsgo
+tw~https://twitter.com/kiocsgoo
+in~https://www.instagram.com/kioshimax/
+Команда~Без команды
+Страна~Франция

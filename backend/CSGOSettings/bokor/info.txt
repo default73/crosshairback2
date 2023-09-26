@@ -1,0 +1,20 @@
+Имя~Габриэла Бокор (Gabriela Bokor)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~0.85
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-nVpZc-rqLEE-bAz9T-bGLc5-L4hWA
+st~https://steamcommunity.com/profiles/76561198255623269
+twitch~https://www.twitch.tv/gabibokor
+fb~https://www.facebook.com/gabibokorpage
+tw~https://twitter.com/gabibokor
+in~http://instagram.com/gabi.bokor
+Команда~Без команды
+Страна~Бразилия

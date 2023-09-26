@@ -1,0 +1,21 @@
+Имя~Айдос Хайржан (Aydos Khayrzhan)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~0.95
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-o3JE4-jyK87-efSwR-zQ8MJ-HLAfD
+Параметры запуска~-freq 240 -novid -tickrate 128
+st~https://steamcommunity.com/id/kade0/
+vk~https://vk.com/a.khairzhan
+twitch~https://www.twitch.tv/kade0csgo
+tw~https://twitter.com/kade0csgo
+in~https://www.instagram.com/kade0csgo
+Команда~Без команды
+Страна~Казахстан

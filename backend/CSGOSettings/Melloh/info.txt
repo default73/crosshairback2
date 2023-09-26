@@ -1,0 +1,18 @@
+Имя~Брендан Мелло (Brendan Mello)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-MHZ2h-jp8p2-ZjpMF-XBFY8-XTFuA
+st~https://steamcommunity.com/profiles/76561198150037027
+twitch~https://www.twitch.tv/MellohCS
+tw~https://twitter.com/MellohCS
+Команда~Без команды
+Страна~США

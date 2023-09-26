@@ -1,0 +1,18 @@
+Имя~Юхо Лампинен (Juho Lampinen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-2uyRr-HokfF-bZMJM-CWPKK-E7c7L
+st~https://steamcommunity.com/profiles/76561198098536184
+twitch~https://www.twitch.tv/juhob1w0w
+tw~https://twitter.com/juhobcs
+Команда~Без команды
+Страна~Финляндия

@@ -1,0 +1,21 @@
+Имя~Маргарита Ильина (Margarita Ilyina)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.41
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-XP4dM-79eKE-A8B9h-JDK6i-n3pxA
+Параметры запуска~-novid -no-browser -nojoy -tickrate 128 -allow_third_party_software +fps_max 0
+st~https://steamcommunity.com/profiles/76561198845934675
+vk~https://vk.com/id602163364
+twitch~https://www.twitch.tv/margo_cs
+yt~https://www.youtube.com/channel/UCW7Pj2nqNRq7x2sHqJvYMFw
+in~https://www.instagram.com/margarita_shvest
+Команда~VP.Angels
+Страна~Россия

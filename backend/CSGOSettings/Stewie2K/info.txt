@@ -1,0 +1,22 @@
+Имя~Джейк Йип (Jake Yip)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-vDoAz-DRpHn-6krOS-iLDCc-G847M
+Параметры запуска~-freq 240 -high -novid -nod3d9ex
+st~https://steamcommunity.com/profiles/76561197999004010
+twitch~https://www.twitch.tv/stewie2k
+yt~https://www.youtube.com/stewie2ktv
+fb~https://facebook.com/Stewie2k
+tw~https://twitter.com/Stewie
+in~https://www.instagram.com/stew2k
+Команда~Без команды
+Страна~США

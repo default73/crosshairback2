@@ -1,0 +1,19 @@
+Имя~Макс Уоллес (Max Wallace)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.33
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-BXSCe-j6c9B-8A3R8-pTGDt-Kj5BO
+Параметры запуска~-tickrate 128 -novid -console
+st~https://steamcommunity.com/profiles/76561198076324571
+twitch~https://www.twitch.tv/SolGoat
+tw~https://twitter.com/SolGoat
+Команда~Без команды
+Страна~США

@@ -1,0 +1,20 @@
+Имя~Мадс Хермансен (Mads Hermansen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VAzip-ZyBnu-eadN5-kqxPA-AYeuB
+Параметры запуска~-console -novid -tickrate 128 +mat_disable_fancy_blending -nojoy -freq 240 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198151241054
+twitch~https://www.twitch.tv/zyp_ztw
+tw~https://twitter.com/zypztw
+in~https://www.instagram.com/madsvhermansen/
+Команда~Без команды
+Страна~Дания

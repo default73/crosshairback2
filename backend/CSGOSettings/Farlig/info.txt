@@ -1,0 +1,18 @@
+Имя~Асгер Йенсен (Asger Jensen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.14
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-D7fvK-fwn8A-NYaWq-MM8qR-TA7yD
+st~https://steamcommunity.com/id/velkommentil/
+tw~https://twitter.com/farligcs
+in~https://www.instagram.com/asgerjensenn
+Команда~Без команды
+Страна~Дания

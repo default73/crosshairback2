@@ -1,0 +1,18 @@
+Имя~Карол Радович (Karol Rodowicz)
+DPI:~1800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~1/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-F9DDS-aCWpw-Nr9Dz-RrEBs-hLN2G
+st~https://steamcommunity.com/profiles/76561197991432466
+fb~https://www.facebook.com/rallenstar
+tw~https://twitter.com/rallenHulk
+Команда~Into the Breach
+Страна~Польша

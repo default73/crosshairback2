@@ -1,0 +1,20 @@
+Имя~Святослав Маско (Svyatoslav Masko)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.14
+Чувствительность мыши в зуме:~0.83
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-bp9cD-HbwVK-fhTT6-sdpds-HDpcG
+st~https://steamcommunity.com/profiles/76561198217410319
+vk~https://vk.com/masvalfp
+twitch~https://www.twitch.tv/masval_cs
+tw~https://twitter.com/MaSvAl12
+in~https://www.instagram.com/masvalcs
+Команда~Iron Branch
+Страна~Беларусь

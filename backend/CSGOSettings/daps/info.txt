@@ -1,0 +1,18 @@
+Имя~Дэмиен Стил (Damian Steele)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 720
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-R9kmb-GUqir-WfvyX-V8yrN-AzZkF
+st~https://www.twitch.tv/daps
+twitch~https://www.twitch.tv/daps
+tw~https://twitter.com/daps
+Команда~Без команды
+Страна~Канада

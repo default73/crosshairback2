@@ -1,0 +1,22 @@
+Имя~Елизавета Ащина (Elizaveta Ashchina)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~250Hz
+sharecode~CSGO-3pdvY-UReut-7UXcf-QSKMN-dfiaB
+Параметры запуска~-novid -console -tickrate 128 -freq 240 +rate 786432 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp_ratio 2 +cl_interp 1 +mat_queue_mode 2 -allow_third_party_software -nojoy -language colormod
+st~https://steamcommunity.com/profiles/76561198037661952
+vk~https://vk.com/id130024341
+twitch~https://www.twitch.tv/elizabeth__csgo
+fb~https://www.facebook.com/Elizabethpnz
+tw~https://twitter.com/Elizabethcsgo
+in~https://www.instagram.com/elizabeth.csgo
+Команда~9 Pandas Fearless
+Страна~Россия

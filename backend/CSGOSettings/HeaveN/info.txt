@@ -1,0 +1,18 @@
+Имя~Егор Ковалёв (Egor Kovalev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~0.89
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~144Hz
+sharecode~CSGO-oDPNw-a7rX8-4szMX-E3Omk-FrNkO
+Параметры запуска~-novid -high +cl_updaterate 128 +cl_cmdrate 128 +cl_interp_ratio 1 +rate 786432 -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198166795457
+vk~https://vk.com/id270790229
+Команда~Без команды
+Страна~Россия

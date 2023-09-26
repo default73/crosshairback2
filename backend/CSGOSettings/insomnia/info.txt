@@ -1,0 +1,21 @@
+Имя~Стелла Ким (Stella Kim)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-kTi4Q-PYwfH-nkNDH-pUujx-JTDND
+Параметры запуска~-novid -tickrate 128 -freq 240 -language english +cl_interp_ratio 1 +cl_interp 0
+st~https://steamcommunity.com/id/insomniacsgo/
+vk~https://vk.com/stella_stk
+twitch~https://www.twitch.tv/insomnia_s
+tw~https://twitter.com/insomnia_csgo
+in~https://www.instagram.com/stella.stk
+Команда~Без команды
+Страна~Казахстан

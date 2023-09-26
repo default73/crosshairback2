@@ -1,0 +1,21 @@
+Имя~Артём Архипов (Artyom Arhipov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-v4eRr-iwAQt-jK35U-aA2xF-2bVvD
+Параметры запуска~-novid -console -tickrate 128 -sdr_spew_level 3 -freq 240 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561199194056687
+vk~https://vk.com/id599837032
+twitch~https://www.twitch.tv/kandaro1337
+yt~https://www.youtube.com/@kANDARO
+in~https://www.instagram.com/arhipov1769
+Команда~GameAgents
+Страна~Россия

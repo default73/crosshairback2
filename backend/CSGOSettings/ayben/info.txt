@@ -1,0 +1,20 @@
+Имя~Йован Муцибабич (Jovan Mucibabic)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-qJQRu-UDYFE-26MXA-dPDZK-QGKeB
+Параметры запуска~-novid -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198129900169
+twitch~https://www.twitch.tv/aybentv
+tw~https://twitter.com/aybencsgo
+in~https://www.instagram.com/jugojovan/
+Команда~Без команды
+Страна~Швеция

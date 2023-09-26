@@ -1,0 +1,19 @@
+Имя~Маркус Кьельдсен (Marcus Kjeldsen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:9
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-esn3h-qMPwk-EpKfa-Yevca-SHjeC
+Параметры запуска~-novid -console -cl_updaterate 128 -cl_cmdrate 128
+st~https://steamcommunity.com/profiles/76561198042070812
+twitch~https://www.twitch.tv/mankz
+tw~https://twitter.com/mankzcs
+Команда~ECSTATIC
+Страна~Дания

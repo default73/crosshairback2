@@ -1,0 +1,22 @@
+Имя~Бруно Камара (Bruno Câmara)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-zVD9t-zkSLM-txiCx-fPzYC-vWXTB
+Параметры запуска~-novid -freq 240 -tickrate 128 -refresh 240 -high -noforcemaccel -noforcemparms -noforcemspd -nod3d9ex -tickrate 128 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198130084582
+twitch~https://www.twitch.tv/bartinfps
+yt~https://www.youtube.com/channel/UC1oIK6oyIFC1kJxNSBvinjw
+fb~https://www.facebook.com/b4rtiN
+tw~https://twitter.com/b4rtiN
+in~https://www.instagram.com/b4rtinfps
+Команда~Без команды
+Страна~Бразилия

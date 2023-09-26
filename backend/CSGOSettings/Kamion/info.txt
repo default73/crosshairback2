@@ -1,0 +1,20 @@
+Имя~Юрус Жолт (Jurus Zsolt)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-KXS5e-u9uF5-W9O3o-pcF9P-dOSFE
+Параметры запуска~-tickrate 128  -console -freq 240 -hz 240
+st~https://steamcommunity.com/profiles/76561198180875034
+twitch~https://www.twitch.tv/kamion
+fb~https://www.facebook.com/Kamioncsgo/
+tw~https://twitter.com/kamioncs
+Команда~Без команды
+Страна~Венгрия

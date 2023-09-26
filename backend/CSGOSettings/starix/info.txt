@@ -1,0 +1,20 @@
+Имя~Сергей Ищук (Sergey Ischuk)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.9
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-7b4hE-qfkw8-mHPOV-CsVNZ-7FFdH
+st~https://steamcommunity.com/id/officialstarix/
+vk~https://vk.com/starix
+twitch~https://www.twitch.tv/starix
+tw~https://twitter.com/starixCS
+in~https://www.instagram.com/Starixcsgo/
+Команда~Без команды
+Страна~Украина

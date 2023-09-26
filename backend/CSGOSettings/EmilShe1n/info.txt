@@ -1,0 +1,20 @@
+Имя~Эмиль Мамедов (Emil Mamedov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-r6rMb-4aPeE-wMrBJ-3uChw-pevvE
+Параметры запуска~-novid -tickrate 128 -freq 144 +mat_queue_mode 2 +cl_interp_ratio 1 -refresh 144
+st~https://steamcommunity.com/id/she1n/
+twitch~https://www.twitch.tv/emilshe1n
+tw~https://twitter.com/emilshe1n
+in~https://www.instagram.com/emilshe1noff/
+Команда~Без команды
+Страна~Азербайджан

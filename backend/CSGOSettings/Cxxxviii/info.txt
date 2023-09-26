@@ -1,0 +1,18 @@
+Имя~Патрисио Кабрио (Patricio Cabrio)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-StGEK-2K22s-JoWrn-co558-MdJaA
+st~https://steamcommunity.com/profiles/6561199213369020
+tw~https://twitter.com/cxxxviiicsgo
+in~https://www.instagram.com/patguercio
+Команда~Без команды
+Страна~Аргентина

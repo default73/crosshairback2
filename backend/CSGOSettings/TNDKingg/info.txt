@@ -1,0 +1,20 @@
+Имя~Темирлан Нурмагамет (Temirlan Nurmagamet)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Hs3ET-dwQFS-3OF9x-dd9ef-97DRE
+Параметры запуска~+clientport 27025 -freq 240 -high -nojoy -novid -threads 4 -tickrate 128 +cl_forcepreload 0 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198815227883
+vk~https://vk.com/id177901894
+twitch~https://www.twitch.tv/tndkingg
+in~https://www.instagram.com/tndkingg
+Команда~AVANGAR
+Страна~Казахстан

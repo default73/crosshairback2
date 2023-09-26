@@ -1,0 +1,21 @@
+Имя~Рикардо Пачеко (Ricardo Pacheco)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~4.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FK9WX-X2YxF-fsBSG-GpFfH-LqbxJ
+Параметры запуска~-freq 240 -novid -console -tickrate 128 +cl_updaterate 128 +cl_interp 0
+st~https://steamcommunity.com/profiles/76561197962205264
+twitch~https://www.twitch.tv/Officialfoxcn
+fb~https://www.facebook.com/foxcnofficial
+tw~https://twitter.com/foxgringoCS
+in~https://www.instagram.com/foxcn543
+Команда~Без команды
+Страна~Португалия

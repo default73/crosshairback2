@@ -1,0 +1,20 @@
+Имя~Себастьян Огарев (Sebastian Ogarev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-wB8Ub-js8sa-HxNxN-x5iv9-tTtOH
+Параметры запуска~allow_third_party_software -console -novid -freq 240 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198124022613
+twitch~https://www.twitch.tv/florenceuwu
+yt~https://www.youtube.com/channel/UCuaR1sQznAkakKbC2ZJ-Vrg
+tw~https://twitter.com/heyitsFlorence
+Команда~Без команды
+Страна~Россия

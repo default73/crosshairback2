@@ -1,0 +1,18 @@
+Имя~Роберт Браун (Robert Brown)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-SatJa-ZJoBA-6U8dL-vSvsA-TDWzE
+st~https://steamcommunity.com/profiles/76561198142128078
+yt~https://www.youtube.com/channel/UC3Vh_gX_YLqoCxgNPNSI3nA/featured
+tw~https://twitter.com/robbbbby3
+Команда~Без команды
+Страна~США

@@ -1,0 +1,19 @@
+Имя~Габриэль Томаз (Gabriel Thomaz)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-XVuLc-QPxqu-2qsqb-jon7z-DOQNN
+Параметры запуска~-refresh 240 -freq 240 -novid -high -tickrate 128 -d3d9ex -nojoy -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198026565498
+tw~https://twitter.com/sundaycsgo
+in~https://www.instagram.com/sundayfps_
+Команда~Intense
+Страна~Бразилия

@@ -1,0 +1,21 @@
+Имя~Артём Редчук (Artem Redchuk)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5OkOs-yTJAe-ZwKpD-3uf9b-wHH8D
+Параметры запуска~-tickrate 128 -novid -freq 240 +r_dynamic 0 -mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198174944451
+vk~https://vk.com/id278873320
+twitch~https://www.twitch.tv/1mpactcsgod
+tw~https://twitter.com/1mpactcsgod
+in~https://www.instagram.com/1mpactcsgod
+Команда~Taipan
+Страна~Украина

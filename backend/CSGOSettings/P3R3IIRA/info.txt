@@ -1,0 +1,19 @@
+Имя~Дэвид Перейра (David Pereira)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-MrUrm-kmrQA-sDb2t-H5LbQ-qseKP
+Параметры запуска~+clientport 201067 -novid -tickrate 128 -high -refresh 144 -freq 144 mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198324576669
+twitch~https://www.twitch.tv/p3r3iira
+tw~https://twitter.com/P3R3IIRACS
+Команда~Make Your Destiny
+Страна~Португалия

@@ -1,0 +1,21 @@
+Имя~Мариано Санта Мария (Mariano Santa Maria)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rcEKW-x8qE9-Fjaht-iNk5S-7T8SA
+Параметры запуска~-freq 240 -refresh 240 -nojoy -novid -high -tickrate 128
+st~https://steamcommunity.com/profiles/76561198136638580
+twitch~https://twitter.com/MRN1GG
+fb~https://www.facebook.com/MRN1GG
+tw~https://www.twitch.tv/MRN1
+in~https://www.instagram.com/mariano.santamaria
+Команда~Без команды
+Страна~Аргентина

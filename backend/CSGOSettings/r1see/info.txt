@@ -1,0 +1,19 @@
+Имя~Николас Кубица (Nicolas Kubitza)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-qJmZP-on9GW-tZWOY-TkqMh-MXkoE
+Параметры запуска~-novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198124543269
+tw~https://twitter.com/r1seefps
+in~https://www.instagram.com/r1seefps/
+Команда~ODDIK
+Страна~Бразилия

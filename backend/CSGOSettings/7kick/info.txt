@@ -1,0 +1,19 @@
+Имя~Радут Драгош Кристиан (Radut Dragos Cristian)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.77
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-Esaji-UzaP7-HUOBp-R5kVC-z2urD
+Параметры запуска~-freq 240 -novid -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561199189100088
+tw~https://twitter.com/7kickcsgo
+in~https://www.instagram.com/7kickcsgo
+Команда~Nexus Academy
+Страна~Румыния

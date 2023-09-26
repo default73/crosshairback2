@@ -1,0 +1,20 @@
+Имя~Анастасия Хлобыстина (Anastasia Khlobystina)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.48
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FDMrR-uSA6h-ZJwen-fz7Af-MdmwG
+st~https://steamcommunity.com/profiles/76561198196575619
+vk~https://vk.com/kr4sy
+twitch~https://www.twitch.tv/kr4sycs
+tw~https://twitter.com/kr4sy
+in~https://www.instagram.com/kr4sy_
+Команда~G2 Oya
+Страна~Россия

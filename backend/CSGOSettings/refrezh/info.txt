@@ -1,0 +1,21 @@
+Имя~Исмаил Али (Ismail Ali)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1366 x 768
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-BuwYf-qcOXM-Od5bv-q7QD9-8w5qB
+Параметры запуска~+cl_forcepreload 1 -novid -tickrate 128 +mat_queue_mode -1 +fps_max 400 +cl_interp_ratio 1 +cl_interp 0.1 -refresh 240 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198064864198
+twitch~https://www.twitch.tv/refrezhcs
+yt~https://www.youtube.com/channel/UCWMBi0YSyqABrr_-B0gX9oA
+tw~https://twitter.com/refrezhcs
+in~https://www.instagram.com/refrezhCS
+Команда~Без команды
+Страна~Дания

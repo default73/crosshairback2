@@ -1,0 +1,20 @@
+Имя~Яркко Рахья (Jarkko Rahja)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-cmJR7-wGWQX-sCQWt-whZtE-eDPEL
+Параметры запуска~-console -novid -high -tickrate 128 -nojoy +rate 786432 +fps_max 400 +fps_max_menu 400 -d3d9ex -threads 8
+st~https://steamcommunity.com/profiles/76561198069862260
+twitch~https://www.twitch.tv/spargocs
+tw~https://twitter.com/spargoCS
+in~https://www.instagram.com/jarkkorahja
+Команда~Без команды
+Страна~Финляндия

@@ -1,0 +1,19 @@
+Имя~Патрик Бода (Patrik Boda)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3a2w7-CVSLE-iOq6E-5R7iA-5BZ2Q
+st~https://steamcommunity.com/profiles/76561198075173188
+twitch~https://www.twitch.tv/bodito1337
+fb~https://www.facebook.com/bod1to
+tw~https://twitter.com/bodicsgo
+Команда~Без команды
+Страна~Венгрия

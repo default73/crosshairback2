@@ -1,0 +1,20 @@
+Имя~Ховард Найгард (Håvard Nygaard)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.65
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-otNCZ-XQYm7-MP2LA-oYiDt-CPVGQ
+st~https://steamcommunity.com/profiles/76561197997351207
+twitch~https://www.twitch.tv/raingomg
+fb~https://facebook.com/csgorain
+tw~https://twitter.com/FaZe_rainCS
+in~https://www.instagram.com/faze_raincs
+Команда~FaZe Clan
+Страна~Норвегия

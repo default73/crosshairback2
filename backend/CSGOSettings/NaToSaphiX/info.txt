@@ -1,0 +1,20 @@
+Имя~Нильс-Кристиан Силлассен (Niels-Christian Sillassen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-RrSde-QOTKX-NtUML-QUP9W-LbRVP
+st~https://steamcommunity.com/profiles/76561198001596252
+twitch~https://www.twitch.tv/natosaphix
+fb~https://www.facebook.com/NaToSaphiXcs
+tw~https://twitter.com/NaToSaphiX
+in~https://www.instagram.com/NaToSaphiX
+Команда~Ambush
+Страна~Дания

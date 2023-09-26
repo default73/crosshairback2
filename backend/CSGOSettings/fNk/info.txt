@@ -1,0 +1,18 @@
+Имя~Михай Костаке (Mihai Costache)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~16:10
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-3LOem-EXHax-uLVfq-JbmEY-5EWzE
+Параметры запуска~-console -freq 240 -novid -tickrate 128 +mat_queue_mode 2 -no-browser -nojoy +cl_interp_ratio 1 +cl_interp 1 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198175704447
+tw~https://twitter.com/fNkcsgo
+Команда~The Prodigies
+Страна~Румыния

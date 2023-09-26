@@ -1,0 +1,18 @@
+Имя~Йохан Энгблом (Johan Engblom)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-sNMBQ-riQGG-hwZT4-5VKVn-Y2syM
+st~https://steamcommunity.com/profiles/76561198115413318
+twitch~https://www.twitch.tv/JusTMogglY
+tw~https://twitter.com/Hyyppe_
+Команда~00 Prospects
+Страна~Швеция

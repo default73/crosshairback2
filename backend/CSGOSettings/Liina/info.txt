@@ -1,0 +1,18 @@
+Имя~Каролина Каспржик (Karolina Kasprzyk)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-dDeKd-iW4qw-DOciL-JjZmM-YuLDR
+st~https://steamcommunity.com/profiles/76561197996875761
+tw~https://twitter.com/LiinaCSGO
+in~https://www.instagram.com/linszyn/
+Команда~NAVI Javelins
+Страна~Польша

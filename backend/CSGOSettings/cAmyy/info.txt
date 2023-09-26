@@ -1,0 +1,21 @@
+Имя~Камила Натале (Camila Natale)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hFs7A-hhZd3-baDQT-H7mkk-5Kk9Q
+Параметры запуска~-freq 240 -novid -tickrate 128 +rate 786432 +clientport 27023 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198078618475
+twitch~https://www.twitch.tv/camyyfps
+fb~https://www.facebook.com/camyyfps
+tw~https://www.twitter.com/camyyfps
+in~https://www.instagram.com/camyyfps
+Команда~Black Dragons Female
+Страна~Бразилия

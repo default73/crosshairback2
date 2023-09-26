@@ -1,0 +1,19 @@
+Имя~Адам Бергквист (Adam Bergqvist)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ZtbSk-jt6P2-bUJJd-jV2qz-HpCxH
+Параметры запуска~-novid -freq 240 -console -tickrate 128 +cl_cmdrate 128+cl_cmdrate 128 +cl_updaterate 128 -refresh 240
+st~https://steamcommunity.com/profiles/76561198200499598
+twitch~https://www.twitch.tv/bq_cs
+tw~https://twitter.com/bqCSGO
+Команда~Lilmix
+Страна~Швеция

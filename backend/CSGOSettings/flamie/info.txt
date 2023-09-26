@@ -1,0 +1,22 @@
+Имя~Егор Васильев (Egor Vasilyev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-VTMy4-2pEKU-aeoG5-PfAMN-ykEVF
+Параметры запуска~-tickrate 128 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198116523276
+vk~https://vk.com/id65694177
+twitch~https://www.twitch.tv/flamie
+fb~https://facebook.com/flamiecsgo
+tw~https://twitter.com/flamieCS
+in~https://www.instagram.com/flamieCS
+Команда~Boston crab
+Страна~Россия

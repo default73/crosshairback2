@@ -1,0 +1,19 @@
+Имя~Николай Кристенсен (Nikolaj Kristensen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-S2Hjf-XGo4n-HaKtz-wRQbe-PRX9G
+st~https://steamcommunity.com/profiles/76561197989736583
+twitch~https://www.twitch.tv/nikocs
+tw~https://twitter.com/OfficialnikoCS
+in~https://www.instagram.com/officialnikocs
+Команда~Без команды
+Страна~Дания

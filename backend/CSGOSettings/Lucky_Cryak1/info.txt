@@ -1,0 +1,19 @@
+Имя~Александр Романюк (Alexander Romanyuk)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1.11
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-9Edz9-hLkdp-r9qAX-4adAO-JyLXL
+Параметры запуска~+fps_max 300 -freq 240 -language english -novid -tickrate 128 allow_third_party_software +rate 786432
+st~https://steamcommunity.com/profiles/76561198887237971
+twitch~https://www.twitch.tv/lucky_cryaki
+in~https://www.instagram.com/lucky_cryak1
+Команда~IKLA UA
+Страна~Украина

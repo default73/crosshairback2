@@ -1,0 +1,20 @@
+Имя~Шон Кайвай (Sean Kaiwai)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.18
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-QNUsz-jy9Br-QRxqS-Z8hY5-iKH8D
+Параметры запуска~-novid -cl_cmdrate 128 -cl_updaterate 128 -tickrate 128 +fps_max 999
+st~https://steamcommunity.com/profiles/76561197965809411
+twitch~https://www.twitch.tv/gratisfaction
+tw~https://twitter.com/Gratisfaction
+in~https://www.instagram.com/seankaiwai
+Команда~Team NKT
+Страна~Новая Зеландия

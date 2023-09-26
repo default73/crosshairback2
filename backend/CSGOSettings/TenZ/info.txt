@@ -1,0 +1,20 @@
+Имя~Тайсон Нго (Tyson Ngo)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-PRjDP-xUWoR-GscmD-jX8nU-JK5mA
+Параметры запуска~-freq 240 -novid -tickrate 128
+st~https://steamcommunity.com/id/TenZOfficial/
+twitch~https://www.twitch.tv/tenz
+tw~https://twitter.com/TenZ_CS
+in~https://www.instagram.com/tenz_cs/
+Команда~Без команды
+Страна~Канада

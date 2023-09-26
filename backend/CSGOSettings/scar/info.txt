@@ -1,0 +1,18 @@
+Имя~Мэттью Бруни (Matthew Bruni)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6wzb7-iEP57-ajBNi-xFHk9-Y5pxA
+st~https://steamcommunity.com/profiles/76561198377868603
+twitch~https://www.twitch.tv/1scarcs
+tw~https://twitter.com/scaarCS
+Команда~Без команды
+Страна~Канада

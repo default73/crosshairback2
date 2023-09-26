@@ -1,0 +1,21 @@
+Имя~Пётр Татерка (Piotr Taterka)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.36
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-iAcd4-jOH8O-rtaxf-7WoH2-bZJGG
+Параметры запуска~-freq 240 -console -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198082474142
+twitch~https://www.twitch.tv/morelzo
+fb~https://www.facebook.com/morelzyi
+tw~https://twitter.com/morelzyi
+in~https://www.instagram.com/morelz
+Команда~Illuminar Gaming
+Страна~Польша

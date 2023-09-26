@@ -1,0 +1,18 @@
+Имя~Мартин Наконечны (Martin Nakonieczny)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~6
+Чувствительность мыши в Windows:~0.8/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-zGFFc-BDVxJ-4pAwe-sLc6O-QGKeB
+st~https://steamcommunity.com/profiles/76561198148986856
+twitch~https://www.twitch.tv/maaryyy
+tw~https://twitter.com/maaryyycs
+Команда~AGO
+Страна~Польша

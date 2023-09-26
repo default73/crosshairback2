@@ -1,0 +1,20 @@
+Имя~Натали до Насименто Кавальканте (Nataly do Nascimento Cavalcante)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-3ZHuv-TJAm3-XXMyK-XrMYj-EGnfO
+st~https://steamcommunity.com/profiles/76561198083740657
+twitch~https://www.twitch.tv/nanifps
+fb~https://facebook.com/nataly.cavalcante
+tw~https://twitter.com/nanicsgo
+in~https://www.instagram.com/nanicsgo
+Команда~B4 fe
+Страна~Бразилия

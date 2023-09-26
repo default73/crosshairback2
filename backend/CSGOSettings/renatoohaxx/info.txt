@@ -1,0 +1,20 @@
+Имя~Ренато Гонсалвес (Renato Gonçalves)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-86MfC-qNEAM-6V2ie-Xc9wm-FC7yD
+Параметры запуска~-novid -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561197999432166
+twitch~https://www.twitch.tv/renatoohaxx
+tw~https://twitter.com/renatoohaxxCSGO
+in~https://www.instagram.com/renatoohaxx_
+Команда~Без команды
+Страна~Португалия

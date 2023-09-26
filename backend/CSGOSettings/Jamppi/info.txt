@@ -1,0 +1,18 @@
+Имя~Элиас Олкконен (Elias Olkkonen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-P8H8f-G8A5K-Xo2Zn-MsF7G-4cEZG
+st~https://steamcommunity.com/id/jamppics/
+twitch~https://www.twitch.tv/superjamppi
+tw~https://twitter.com/Jamppicsgo
+Команда~Без команды
+Страна~Финляндия

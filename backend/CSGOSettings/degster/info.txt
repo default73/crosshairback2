@@ -1,0 +1,21 @@
+Имя~Абдул Гасанов (Abdul Gasanov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-aTHmy-BKe8h-qucRP-WmUnU-4cvvE
+Параметры запуска~-freq 240 -tickrate 128 -novid
+st~https://steamcommunity.com/profiles/76561198799340122
+vk~https://vk.com/id289827744
+twitch~https://www.twitch.tv/degst3r
+tw~https://twitter.com/degst3r
+in~https://www.instagram.com/degstercsgo
+Команда~Без команды
+Страна~Россия

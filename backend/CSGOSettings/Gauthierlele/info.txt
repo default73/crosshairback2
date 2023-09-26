@@ -1,0 +1,19 @@
+Имя~Готье Карон (Gauthier Caron)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7hqZu-y5xSH-3AkD8-u7yRu-pevvE
+st~https://steamcommunity.com/profiles/76561197995997394
+twitch~https://www.twitch.tv/gauthierlele
+tw~https://twitter.com/gauthierlele
+in~https://www.instagram.com/gauthiercrn/
+Команда~The Dice
+Страна~Франция

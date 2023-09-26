@@ -1,0 +1,18 @@
+Имя~Матиас Мэдсен (Mathias Madsen)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.56
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-zkOxc-L9Odo-jqrMO-6WBsh-Wm74E
+Параметры запуска~+mat_queue_mode 2 -tickrate 128 -console -untrusted -allow_third_party_software -novid -nojoy -freq 144 +fps_max 400 +cl_forcepreload 1 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198205264152
+tw~https://twitter.com/MaccenCSGO
+Команда~Без команды
+Страна~Дания

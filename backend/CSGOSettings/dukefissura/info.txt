@@ -1,0 +1,20 @@
+Имя~Сулеймен Оразалы (Suleımen Orazaly)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-zSUsn-Gq6eR-rAkRj-ejsTr-8t8rN
+Параметры запуска~-freq 240 -novid -tickrate 128 -language english
+st~https://steamcommunity.com/id/dukefissura/
+vk~https://vk.com/dukefissure
+twitch~https://www.twitch.tv/dukefissura
+in~https://www.instagram.com/dukefissura/
+Команда~Без команды
+Страна~Казахстан

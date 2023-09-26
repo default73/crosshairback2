@@ -1,0 +1,22 @@
+Имя~Фернандо Альваренга (Fernando Alvarenga)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Ur9zM-hGs8N-h2Xaw-8Z54O-ey3JE
+Параметры запуска~-noforcemaccel -noforcemparms -novid -freq 240 -refresh 240 -tickrate 128 -console -high
+st~https://steamcommunity.com/profiles/76561197999186947
+twitch~https://www.twitch.tv/fer
+yt~https://www.youtube.com/channel/UCZJPemX9Kei9u8ejPxSlVRg
+fb~https://facebook.com/fpsfer
+tw~https://twitter.com/fer
+in~https://www.instagram.com/fergod
+Команда~Без команды
+Страна~Бразилия

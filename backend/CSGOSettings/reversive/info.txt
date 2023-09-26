@@ -1,0 +1,21 @@
+Имя~Роберто Темтам (Roberto Themtham)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-VraVJ-ycyyq-fzh4k-4B4V8-48xDK
+Параметры запуска~-refresh 240 -freq 240 -novid -console -tickrate 128 +clientport 27007 -allow_third_party_software -untrusted
+st~https://steamcommunity.com/profiles/76561198189600467
+twitch~https://www.twitch.tv/reversivecs
+fb~https://www.facebook.com/RVSGO
+tw~https://twitter.com/reversive_10
+in~https://www.instagram.com/reversive10
+Команда~Без команды
+Страна~Аргентина

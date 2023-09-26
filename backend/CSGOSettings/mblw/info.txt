@@ -1,0 +1,21 @@
+Имя~Анастасия Рузавина (Anastasia Ruzavina)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-eo6FU-uQNS4-WDoio-uaOnt-ruWPA
+Параметры запуска~-threads 4 -high -freq 144 -tickrate 128 -novid +cl_cmdrate 128 +cl_updaterate 128 -noforcemspd -noforcemaccel -allow_third_party_software +fps_max_menu 0 +fps_max 0 +rate 786432
+st~https://steamcommunity.com/profiles/76561198406533636
+vk~https://vk.com/id347629323
+twitch~https://www.twitch.tv/mb1w
+tw~https://twitter.com/mblww
+in~https://www.instagram.com/mb1ww
+Команда~Без команды
+Страна~Россия

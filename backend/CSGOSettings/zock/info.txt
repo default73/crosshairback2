@@ -1,0 +1,20 @@
+Имя~Мауро Да Силва (Mauro Da Silva)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-9JMRq-KHOzf-oELbe-K9eWr-ruWPA
+Параметры запуска~-tickrate 128 -console -freq 240 +r_dynamic "0" -allow_third_party_software +mat_queue_mode 2 +cl_threaded_bone_setup "1"
+st~https://steamcommunity.com/profiles/76561198839451691
+twitch~https://www.twitch.tv/zockCS
+yt~https://www.youtube.com/channel/UCogk5B89CQIiGlwOrh22hlg
+tw~https://twitter.com/zockdood
+Команда~Без команды
+Страна~Уругвай

@@ -1,0 +1,21 @@
+Имя~Рустем Телепов (Rustem Telepov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-qh6ai-Sv2nG-PmE8n-HR9iz-RPXoN
+st~https://steamcommunity.com/profiles/76561198012944495
+vk~https://vk.com/moucsgo
+twitch~https://www.twitch.tv/mou_csgo
+yt~https://www.youtube.com/channel/UCQHrUaJKwAPINi5z8FmC-VQ
+tw~https://twitter.com/moucsgo
+in~https://www.instagram.com/moucsgo
+Команда~Forward
+Страна~Казахстан

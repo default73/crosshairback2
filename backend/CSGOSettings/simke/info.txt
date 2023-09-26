@@ -1,0 +1,20 @@
+Имя~Саса Симик (Saša Simić)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1.05
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-PFNzs-mwX2t-JjSoZ-GGy9j-9UXTB
+Параметры запуска~-novid -tickrate 128 -freq 240 +mat_queue_mode 2
+st~http://steamcommunity.com/profiles/76561198335534043
+twitch~https://www.twitch.tv/simkecsgo
+yt~https://www.youtube.com/channel/UCNasWGhGPRHSus1nEPsckCg
+tw~https://twitter.com/simkeCS
+Команда~Zero Tenacity
+Страна~Босния и Герцеговина

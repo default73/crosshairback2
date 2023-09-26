@@ -1,0 +1,21 @@
+Имя~Ричард Сейди Йошита (Richard Seidy Yoshita)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.37
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~1.05
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-ShixZ-sCciy-iAMSZ-O7nxh-KMk9Q
+Параметры запуска~-refresh 240 -freq 240 -novid -high -tickrate 128 -d3d9ex -nojoy +clientport 27007 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198251931752
+twitch~https://www.twitch.tv/chayziK
+fb~https://www.facebook.com/chayfps
+tw~https://twitter.com/chayfps
+in~https://www.instagram.com/chayfps
+Команда~Без команды
+Страна~Бразилия

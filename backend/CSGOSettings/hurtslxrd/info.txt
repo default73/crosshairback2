@@ -1,0 +1,21 @@
+Имя~Ренат Сапаров (Renat Saparov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~255Hz
+sharecode~CSGO-8R5qp-wEZHw-qPSM7-9rURu-SbcNE
+Параметры запуска~-novid -tickrate 128 -freq 255 +fps_max 350 -nojoy +clientport 27015 +cl_interp 0 +cl_interp_ratio 1 +cl_interpolate 1 -noaafonts +mat_queue_mode 2 -nosplash -forcepack -allow_third_party_software +cl_threaded_bone_setup 1
+st~https://steamcommunity.com/profiles/76561198095504459
+vk~https://vk.com/id249649341
+twitch~https://www.twitch.tv/hurtslxrd
+yt~https://www.youtube.com/channel/UC9QM8tY4hDKrtcFze1UDoLQ
+tw~https://twitter.com/hurtslxrd
+Команда~ARCRED
+Страна~Беларусь

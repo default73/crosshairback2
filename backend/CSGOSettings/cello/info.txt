@@ -1,0 +1,19 @@
+Имя~Марсель Руд (Marcel Roode)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.45
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-pHsnN-WydbP-HcNbW-kkDab-P4D7K
+Параметры запуска~-novid -nojoy -tickrate 128
+st~https://steamcommunity.com/profiles/76561197978384461
+twitch~https://www.twitch.tv/cello415
+tw~https://twitter.com/cello4_1_5
+Команда~Sissi State Punks (SSP)
+Страна~Германия

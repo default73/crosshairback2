@@ -1,0 +1,20 @@
+Имя~Шерстюк Константин (Konstantin Sherstiuk)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Широкоформатный
+Частота обновления:~280Hz
+sharecode~CSGO-69j2A-3WQCr-3nR9L-FGkvC-c2D7K
+Параметры запуска~-novid -freq 280 -refresh 280 +cl_forcepreload 1 -high  -tickrate 128 -noforcemparms -noforcemaccel -noforcemspd -threads 8 +clientport 27015
+st~https://steamcommunity.com/id/unshi
+vk~https://vk.com/choppah8
+twitch~https://www.twitch.tv/unshi_csgo
+in~https://www.instagram.com/unshicsgo
+Команда~Без команды
+Страна~Украина

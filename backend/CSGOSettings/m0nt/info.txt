@@ -1,0 +1,20 @@
+Имя~Джейк Ван Дорссен (Jake Van Dorssen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-W2f5N-BvAZC-ufUZs-62cpp-hFKeB
+st~https://steamcommunity.com/profiles/76561197992843976
+twitch~https://www.twitch.tv/m0ntlyf
+yt~https://www.youtube.com/mental2p
+tw~https://twitter.com/m0ntw0t
+in~https://www.instagram.com/ssssw0t
+Команда~Без команды
+Страна~Австралия

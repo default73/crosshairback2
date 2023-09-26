@@ -1,0 +1,20 @@
+Имя~Павел Прокопьев (Pavel Prokopiev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-qLcFk-5FfzU-TtAxw-TLWDh-Rf9aC
+Параметры запуска~-novid -nojoy -refresh 240 -console -tickrate 128 +cl_threaded_bone_setup 1 +mat_queue_mode 2 +r_dynamic 0 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198237043662
+vk~https://vk.com/id64614291
+twitch~https://www.twitch.tv/z1nnyy
+in~https://www.instagram.com/unlukoworld
+Команда~YNT
+Страна~Россия

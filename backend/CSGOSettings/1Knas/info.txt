@@ -1,0 +1,18 @@
+Имя~Герман Хаттевиг (Herman Hattevig)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~0.7
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-TYM8H-dChwz-6Wt9W-22kdk-pL3ED
+Параметры запуска~+fps_max 0 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198165967286
+tw~https://twitter.com/1KnasCSGO
+Команда~7AM
+Страна~Швеция

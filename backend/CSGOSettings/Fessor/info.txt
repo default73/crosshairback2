@@ -1,0 +1,20 @@
+Имя~Фредерик Серенсен (Frederik Sørensen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8tmqT-HxYjm-SWiMb-vG2Sv-o8veM
+st~https://steamcommunity.com/profiles/76561198271683669
+twitch~https://www.twitch.tv/FessorCS
+yt~https://www.youtube.com/user/computerhackern
+tw~https://twitter.com/FessorCS
+in~https://www.instagram.com/fessorcs
+Команда~Preasy Esport
+Страна~Дания

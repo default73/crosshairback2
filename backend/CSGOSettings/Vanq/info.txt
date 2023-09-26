@@ -1,0 +1,18 @@
+Имя~Яков Бжезик (Jakub Brzezik)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rcEKW-x8qE9-Fjaht-iNk5S-7T8SA
+st~https://steamcommunity.com/profiles/76561198020737641
+fb~https://www.facebook.com/VanqSzef/
+tw~https://twitter.com/VanqSzef
+Команда~Без команды
+Страна~Польша

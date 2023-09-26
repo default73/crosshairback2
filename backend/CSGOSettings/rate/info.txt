@@ -1,0 +1,21 @@
+Имя~Болдбаатар Тенгис (Boldbaatar Tengis)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1440
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-46pQw-Xo9Rm-eachG-TwENQ-UTDRE
+st~https://steamcommunity.com/profiles/76561198402322152
+twitch~https://www.twitch.tv/temukacsasia
+yt~https://www.youtube.com/channel/UCCvaSuOTs00u7-KDrsEahaA
+fb~https://www.facebook.com/rateMGL
+tw~https://twitter.com/ratebert
+in~https://www.instagram.com/ratecsgo/
+Команда~Без команды
+Страна~Монголия

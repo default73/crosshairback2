@@ -1,0 +1,19 @@
+Имя~Матиас Муньис Куси (Matias Muñiz Cusi)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-S9tdy-Pte9w-PstfE-JuTda-ZbJaA
+Параметры запуска~-high -threads 6 -nod9d3ex1 -d3d9ex -novid -console -nojoy -freq 240 +snd_use_hrtf 0 -tickrate 128 -allow_third_party_software cl_showloadout 1
+st~https://steamcommunity.com/profiles/76561198361613212
+twitch~https://www.twitch.tv/abizzfps
+tw~https://twitter.com/abizzfps
+Команда~River Plate Gaming
+Страна~Аргентина

@@ -1,0 +1,20 @@
+Имя~Антонио Монтанез (Antonio Montañez)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-NnhCP-X8648-57fuW-fxBTB-cMwLA
+Параметры запуска~-noforcemaccel -noforcemparms -noforcemspd -console -high -full -novid -tickrate 128 -d3d9ex -freq 144 +cl_forcepreload 1
+st~https://steamcommunity.com/profiles/76561198067615374
+fb~https://www.facebook.com/zockiecs
+tw~https://twitter.com/zockiecs
+in~https://www.instagram.com/zockiecs
+Команда~Без команды
+Страна~Перу

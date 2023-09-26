@@ -1,0 +1,19 @@
+Имя~Никита Квочкин (Nikita Kvochkin)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~3.5
+Чувствительность мыши в зуме:~0.98
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-U8E3D-aVq85-YdkS9-oYQes-WswTC
+Параметры запуска~-novid -console -tickrate 128 -refresh 240
+st~https://steamcommunity.com/id/fabiw0w/
+vk~https://vk.com/id385526256
+twitch~https://www.twitch.tv/fabstahh
+Команда~Без команды
+Страна~Россия

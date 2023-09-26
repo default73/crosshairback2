@@ -1,0 +1,21 @@
+Имя~Брэкстон Пирс (Braxton Pierce)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-2DJ8D-vEtnK-DrzOi-ieeNJ-PeiaB
+Параметры запуска~-freq 240 -novid -console
+st~https://steamcommunity.com/profiles/76561197960284752
+twitch~https://www.twitch.tv/brax
+fb~https://www.facebook.com/BraxtonswagPierce
+tw~https://twitter.com/brax1wnl
+in~https://www.instagram.com/bpierce78/
+Команда~Без команды
+Страна~США

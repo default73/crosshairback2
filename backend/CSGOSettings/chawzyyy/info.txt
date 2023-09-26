@@ -1,0 +1,20 @@
+Имя~Хьюго Гюнтер (Hugo Günther)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.36
+Чувствительность мыши в зуме:~0.64
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-8Gkvb-aphzt-aB9Au-uAMUG-CrrBE
+Параметры запуска~-high -novid -refresh 240 +mat_queue_mode 2 -d3d9ex +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198166157419
+twitch~https://www.twitch.tv/chawzyyy
+yt~https://www.youtube.com/channel/UCiwHuGKdUs6drVIrbSO1ikw
+tw~https://twitter.com/chawzyyy
+Команда~Без команды
+Страна~Швеция

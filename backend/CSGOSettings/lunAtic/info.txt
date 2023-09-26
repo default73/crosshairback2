@@ -1,0 +1,20 @@
+Имя~Давид Чиешлак (Dawid Cieślak)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-tqYt3-ZGYOc-Nbdnt-vMzio-wbBpF
+st~https://steamcommunity.com/profiles/76561197987468443
+twitch~https://www.twitch.tv/lunaticdave
+fb~https://www.facebook.com/lunaticcsgo
+tw~https://twitter.com/lunatic_CS
+in~https://www.instagram.com/lunaticcsgo_
+Команда~Anonymo
+Страна~Польша

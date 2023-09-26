@@ -1,0 +1,21 @@
+Имя~Владислав Роменский (Vladislav Romenskiy)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.16
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 1024
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-KHzDL-XY6xT-AVGNQ-eJ4oH-j66dK
+Параметры запуска~-language english -novid -tickrate 128 +rate 786432 +fps_max 301 -freq 240
+st~https://steamcommunity.com/profiles/76561198247668642
+vk~https://vk.com/id54125088
+twitch~https://www.twitch.tv/falsheeie
+tw~https://twitter.com/falsheeie
+in~https://www.instagram.com/falshee/
+Команда~Без команды
+Страна~Украина

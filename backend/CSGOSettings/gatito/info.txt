@@ -1,0 +1,20 @@
+Имя~Саша Карруччо (Sacha Carruccio)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.15
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-A6dpv-Wtan4-pW95Y-cypJJ-XKk9Q
+Параметры запуска~-novid -console -high -tickrate 128 +client_port 27021
+st~https://steamcommunity.com/profiles/76561198035370212
+yt~https://www.youtube.com/channel/UCrtqijoNwT-q-W2Cuw6h-0Q
+tw~https://twitter.com/gatitocsg0
+in~https://www.instagram.com/sacha_carruccio/
+Команда~Без команды
+Страна~Аргентина

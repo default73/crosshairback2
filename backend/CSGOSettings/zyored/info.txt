@@ -1,0 +1,20 @@
+Имя~Томаш Цванига (Tomáš Cvaniga)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-74DCp-Tf85O-MCMwW-YHqvx-aVVaK
+Параметры запуска~-novid -freq 240 -tickrate 128 -high
+st~https://steamcommunity.com/profiles/76561198119619416
+twitch~https://www.twitch.tv/zyored
+tw~https://twitter.com/zyoredCS
+in~https://www.instagram.com/zyored
+Команда~Cryptova
+Страна~Словакия

@@ -1,0 +1,20 @@
+Имя~Исса Мурад (Issa Murad)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~0.95
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Gv5yo-pLMmP-rrCtv-n4Pjj-knEVF
+st~https://steamcommunity.com/id/OfficiaLISSA/
+twitch~https://www.twitch.tv/issaa2
+fb~https://www.facebook.com/Official.ISSAA
+tw~https://twitter.com/OG_ISSAA
+in~https://www.instagram.com/OG_ISSAA
+Команда~Без команды
+Страна~Иордания

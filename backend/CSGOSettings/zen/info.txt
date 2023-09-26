@@ -1,0 +1,19 @@
+Имя~Хьюго Линдквист (Hugo Lindhqvist)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-wC7E3-NwXNt-kQbmz-UbhHQ-JK5mA
+Параметры запуска~-freq 240 -novid -console -tickrate 128 +cl_updaterate 128 -threads 4 -high +mat_queue_mode 2 -d3d9ex -no-browser
+st~https://steamcommunity.com/profiles/76561198088887195
+twitch~https://www.twitch.tv/zenHL
+tw~https://twitter.com/t3_zen
+Команда~Без команды
+Страна~Швеция

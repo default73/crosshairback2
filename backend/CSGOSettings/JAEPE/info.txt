@@ -1,0 +1,19 @@
+Имя~Диого Фернандес (Diogo Fernandes)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rpMou-Vdhmn-3QU4s-8v7Py-VtjjD
+Параметры запуска~-novid -freq 240 -tickrate 128 +clientport 27027 +cl_showfps 1 +fps_max 0 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198211707588
+tw~https://twitter.com/JAEPEcs
+in~https://www.instagram.com/diogojaepe
+Команда~Make Your Destiny
+Страна~Португалия

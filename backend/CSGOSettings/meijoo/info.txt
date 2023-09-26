@@ -1,0 +1,19 @@
+Имя~Владимир Шерстнёв (Vladimir Sherstnev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-GMvin-drujC-5VxHE-dFSvZ-9mUCP
+Параметры запуска~-tickrate 128 -novid -freq 144 +rate 786432 +cl_interp 1 +cl_interp_ratio 2 +cl_cmdrate 128 +cl_updaterate 128 -allow_third_party_software +voice_mixer_volume 0.93 -maxplayers_override 64 -nojoy -language english
+st~https://steamcommunity.com/profiles/76561198049437592
+vk~https://vk.com/id93241015
+twitch~https://www.twitch.tv/24meijoo
+Команда~Без команды
+Страна~Россия

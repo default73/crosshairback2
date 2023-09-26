@@ -1,0 +1,21 @@
+Имя~Владимир Карелин (Vladimir Karelin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-DDu4J-GaLFm-cwHPK-eD3BY-pbywQ
+Параметры запуска~-tickrate 128 -novid -console -freq 240 -high -threads 16 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198096372312
+vk~https://vk.com/id150647813
+twitch~https://www.twitch.tv/sh4dywow
+yt~https://www.twitch.tv/sh4dywow
+in~https://www.instagram.com/sh4dywow/
+Команда~VP.Prodigy
+Страна~Россия

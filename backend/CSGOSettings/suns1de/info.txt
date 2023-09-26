@@ -1,0 +1,21 @@
+Имя~Светлана Мевлид (Svetlana Mevlid)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ZthNq-tFAs7-qQvcj-BQXdw-Yq8rN
+Параметры запуска~-nothreadedsockets -novid -freq 240 -tickrate 128 +cl_interp 1 +cl_interp_ratio 1 -language english
+st~https://steamcommunity.com/profiles/76561198971749043
+vk~https://vk.com/id721247942
+twitch~https://www.twitch.tv/suns1dee
+tw~https://twitter.com/suns1dee
+in~https://www.instagram.com/suns1dee
+Команда~Без команды
+Страна~Украина

@@ -1,0 +1,20 @@
+Имя~Николай Тюльпин (Nikolay Tyulpin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-HSjWZ-3F4Qs-HBVzd-TasfH-ZVkoE
+Параметры запуска~-freq 240 -high -novid -tickrate 128
+st~https://steamcommunity.com/id/spat1ch/
+vk~https://vk.com/spatich
+twitch~https://www.twitch.tv/spat1chcs
+in~https://www.instagram.com/spat1ch/
+Команда~Без команды
+Страна~Россия

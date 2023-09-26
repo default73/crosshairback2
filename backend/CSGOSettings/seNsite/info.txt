@@ -1,0 +1,22 @@
+Имя~Кирилл Сыцевич (Kiryl Sytsevich)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1.25
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-sSKkn-MkRKh-2teyo-3RBQL-V8Y2Q
+Параметры запуска~-novid -freq 240 +fps_max 400 +cl_cmdrate 128 -tickrate 128 -language english
+st~https://steamcommunity.com/profiles/76561198306018382
+vk~https://vk.com/id125246778
+twitch~https://www.twitch.tv/sensitecs
+yt~https://www.youtube.com/channel/UCRFKXy8amXsQspEzzrbNU6Q
+tw~https://twitter.com/seNsitecs
+in~https://www.instagram.com/sytsevichhh/
+Команда~Без команды
+Страна~Беларусь

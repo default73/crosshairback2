@@ -1,0 +1,20 @@
+Имя~Энзо Энрике (Enzo Henrique)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-nzCfh-GZt8A-NYaWq-MM8qR-TA7yD
+Параметры запуска~-tickrate 128 -novid +cl_interp_ratio 2 +clientport 27010 +mat_queue_mode 2 +fps_max 400 -allow_third_party_software -noforcemaccel -noforcemspd -noforcemparms
+st~https://steamcommunity.com/profiles/76561198098407000
+twitch~https://www.twitch.tv/enzoxns
+tw~https://twitter.com/xnsfps
+in~https://www.instagram.com/xnsfps1
+Команда~Без команды
+Страна~Бразилия

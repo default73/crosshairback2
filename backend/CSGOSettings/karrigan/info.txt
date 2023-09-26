@@ -1,0 +1,21 @@
+Имя~Финн Андерсен (Finn Andersen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-DM7h8-DZeY9-urvjj-cw2hX-sntiB
+st~https://steamcommunity.com/profiles/76561197989430253
+twitch~https://www.twitch.tv/karrigango
+yt~https://www.youtube.com/channel/UCQXh6vzwMiwVj8azesLoKng
+fb~https://facebook.com/karriganCSGO
+tw~https://twitter.com/karriganCSGO
+in~https://www.instagram.com/karrigancsgo
+Команда~FaZe Clan
+Страна~Дания

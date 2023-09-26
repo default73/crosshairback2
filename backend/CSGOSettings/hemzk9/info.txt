@@ -1,0 +1,18 @@
+Имя~Йонас Рантамяки (Jonas Rantamäki)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1440
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-NBrEY-8BkNe-2LDxS-7FnGU-U9z6A
+st~https://steamcommunity.com/profiles/76561198043863025
+twitch~https://www.twitch.tv/hemzk9
+tw~https://twitter.com/hemzk9
+Команда~Lemondogs
+Страна~Швеция

@@ -1,0 +1,18 @@
+Имя~Матеуш Витман (Mateusz Witman)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.33
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6nHeU-WBJLW-QeHCM-KrVrd-2mdVG
+Параметры запуска~-novid -console -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198091819631
+tw~https://twitter.com/ex1st_witman
+Команда~ThunderFlash
+Страна~Польша

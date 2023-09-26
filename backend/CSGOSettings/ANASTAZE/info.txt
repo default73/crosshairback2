@@ -1,0 +1,20 @@
+Имя~Абрамкин Никита (Abramkin Nikita)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-QTn9r-aGVz2-Xj2rO-TjQbv-LiyHL
+Параметры запуска~-console -novid -freq 144 +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 +cl_interp 1 +cl_interp_ratio 1 +mat_queue_mode 2 +fps_max 300
+st~https://steamcommunity.com/profiles/76561198065635453
+vk~https://vk.com/id446072443
+twitch~https://www.twitch.tv/anastaze
+in~https://www.instagram.com/nikitamaltsev__
+Команда~POLET
+Страна~Россия

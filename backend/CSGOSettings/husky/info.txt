@@ -1,0 +1,20 @@
+Имя~Оливер Голлингс (Oliver Gollings)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.65
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-DT86E-4dacE-Vdf9t-B9XMN-ykEVF
+Параметры запуска~-novid -tickrate 128 -freq 240 -high -no3d9ex -nojoy
+st~https://steamcommunity.com/profiles/76561198084354639
+twitch~https://www.twitch.tv/huskycs
+yt~https://www.youtube.com/c/huskycs
+tw~https://twitter.com/husky_cs
+Команда~7AM
+Страна~Великобритания

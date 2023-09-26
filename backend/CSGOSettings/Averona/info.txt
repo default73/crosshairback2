@@ -1,0 +1,21 @@
+Имя~Анастасия Шевченко (Anastasia Shevchenko)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.5
+Чувствительность мыши в зуме:~0.86
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1536
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-CUpuE-oPcfj-3cbJs-8pUoP-54ZkF
+Параметры запуска~-mat_queue_mode -1 -freq 144 -novid -console -tickrate 128 -allow_third_party_software +cl_interp_ratio 1 +clientport 27015 -language colormod
+st~https://steamcommunity.com/profiles/76561198854576826
+vk~https://vk.com/id298065243
+twitch~https://www.twitch.tv/averonacsgo
+yt~https://www.youtube.com/channel/UC9I1tQUcB32zWDAEyG4YFjA
+in~https://instagram.com/averonacsgo
+Команда~East Legends
+Страна~Россия

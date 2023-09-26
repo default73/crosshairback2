@@ -1,0 +1,21 @@
+Имя~Фредрик Стернер (Fredrik Sterner)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5kwQP-WFcGp-X8tpQ-nCRXo-n92YP
+st~https://steamcommunity.com/profiles/76561198034172415
+twitch~https://www.twitch.tv/rezcsgo
+yt~https://www.youtube.com/user/HeyImZippo
+fb~https://facebook.com/REZcsgo
+tw~https://twitter.com/REZcsgo
+in~https://www.instagram.com/rezcsgo
+Команда~Ninjas in Pyjamas
+Страна~Швеция

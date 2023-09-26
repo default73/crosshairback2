@@ -1,0 +1,20 @@
+Имя~Давид Милянич (David Miljanić)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~3.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-DPzBa-QmYos-NqRaN-AueEj-CJKeB
+Параметры запуска~-freq 144 -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198004152811
+fb~https://www.facebook.com/davkobra
+tw~https://twitter.com/dav1csgo
+in~https://www.instagram.com/dav1csgo
+Команда~Без команды
+Страна~Сербия

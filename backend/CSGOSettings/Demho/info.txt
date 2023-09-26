@@ -1,0 +1,19 @@
+Имя~Патрик Томашевский (Patryk Tomaszewski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-aFtdR-xP6MJ-2xioJ-LeYUa-Q6XXC
+Параметры запуска~-novid -nojoy -tickrate 128 -nocrashdialog +cl_interp_ratio 1 +cl_interp 0 +mat_queue_mode -2
+st~https://steamcommunity.com/profiles/76561198107012488
+fb~https://www.facebook.com/DemhoCS/
+tw~https://twitter.com/DemhoH
+Команда~Illuminar Gaming
+Страна~Польша

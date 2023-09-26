@@ -1,0 +1,19 @@
+Имя~Лука Эклунд (Luka Eklund)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6Dnif-Ua2RX-DvmCw-sDYPi-pL3ED
+Параметры запуска~-novid +fps_max 0 -tickrate 128 -freq 240 -console -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198248745402
+twitch~https://www.twitch.tv/1puuha
+tw~https://twitter.com/1puuha
+Команда~Enhanced
+Страна~Финляндия

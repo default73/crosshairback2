@@ -1,0 +1,18 @@
+Имя~Исмаэль Салгейру Чаморро (Ismael Salgueiro Chamorro)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-2x6UE-jwz4r-vPiJR-Hdd24-fqbNE
+Параметры запуска~-high +cl_forcepreload 1 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198123652327
+tw~https://twitter.com/CykLo0
+Команда~Souldazz
+Страна~Испания

@@ -1,0 +1,18 @@
+Имя~Николин Грёндаль Хансен (Nicoline Grøndahl Hansen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.02
+Чувствительность мыши в зуме:~1.22
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3UFKZ-5ospN-x2x2n-tR5Z2-ZO88F
+Параметры запуска~-tickrate 128 -allow_third_party_software cl_righthand 1 cl_radar_scale 0.300000 -novid -no-browser -nojoy -freq 165 +snd_use_hrtf 0
+st~https://steamcommunity.com/profiles/76561198267511319
+tw~https://twitter.com/zygimage
+Команда~Без команды
+Страна~Дания

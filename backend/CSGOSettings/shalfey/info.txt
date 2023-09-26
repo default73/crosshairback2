@@ -1,0 +1,20 @@
+Имя~Александр Маренов (Alexandr Marenov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-BjwTk-76QnC-dixtd-8YHjE-VfdBN
+Параметры запуска~-novid -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 1 -language english +rate 786432 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198207472632
+vk~https://vk.com/rdyxszafe
+twitch~https://www.twitch.tv/shalfey111
+in~https://www.instagram.com/rdyxszafe
+Команда~FORZE
+Страна~Россия

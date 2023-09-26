@@ -1,0 +1,21 @@
+Имя~Виктория Укасова (Victoria Ukasova)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.6
+Чувствительность мыши в зуме:~1.0
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-B4Gv7-HCnAU-RuL3e-rocTy-uHhnL
+Параметры запуска~-novid -console -freq 240+cl_updrate 128 +cl_cmdrate 128 -tickrate 128 -no -browser +cl_interp 0 +r_dynamic 0 +rate 786432 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561197965929550
+vk~https://vk.com/id165944652
+twitch~https://www.twitch.tv/vicua
+tw~https://twitter.com/victoria_csgo
+in~https://www.instagram.com/victoria_cs
+Команда~9 Pandas Fearless
+Страна~Россия

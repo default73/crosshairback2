@@ -1,0 +1,20 @@
+Имя~Густаво Книттел (Gustavo Knittel)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6Gidw-ovo4B-NP6X9-YXFQ8-cEU8N
+st~https://steamcommunity.com/profiles/76561198050335184
+twitch~https://www.twitch.tv/yelzao
+fb~https://www.facebook.com/yelfps
+tw~https://twitter.com/gustavoyel
+in~https://www.instagram.com/gustavoyel
+Команда~Без команды
+Страна~Бразилия

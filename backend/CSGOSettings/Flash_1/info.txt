@@ -1,0 +1,20 @@
+Имя~Владислав Быков (Vladislav Bykov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-2m5j4-ntY63-kijQX-dyRXL-KxXHK
+Параметры запуска~-noaafonts -high -refresh 240 -novid -freq 240 -tickrate 128 -language english +cl_cmdrate 128 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 +rate 786432
+st~https://steamcommunity.com/profiles/76561198038104735
+vk~https://vk.com/id89820117
+tw~https://twitter.com/bykov_1
+in~https://www.instagram.com/flash_1_csgo
+Команда~Без команды
+Страна~Россия

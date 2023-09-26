@@ -1,0 +1,20 @@
+Имя~Аман Сейткалиев (Aman Seitkaliyev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~9/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-y3rYc-qsJ72-NHB5u-FCk7z-63qRP
+Параметры запуска~-language English -tickrate 128 -console -novid -threads 6 -freq 144 -refresh 144 +rate 786432 +fps_max 301 +fps_max_menu 120 +cl_cmdrate 128 +cl_updaterate 128
+st~https://steamcommunity.com/profiles/76561198316213980
+vk~https://vk.com/id193788321
+twitch~https://www.twitch.tv/icem4NF
+in~https://www.instagram.com/icecsgo_
+Команда~Без команды
+Страна~Казахстан

@@ -1,0 +1,18 @@
+Имя~Каспер Андерсен (Casper Andersen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-pMeL7-O9jDN-Xtoxj-WyBxZ-8VcNE
+Параметры запуска~-console -novid -tickrate 128 -high +cl_updaterate 128 +cl_cmdrate 128
+st~https://steamcommunity.com/id/celrate/
+tw~https://twitter.com/Celrate
+Команда~Без команды
+Страна~Дания

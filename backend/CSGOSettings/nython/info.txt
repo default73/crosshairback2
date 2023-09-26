@@ -1,0 +1,19 @@
+Имя~Габриэль Лино (Gabriel Lino)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Qm9RO-XCLpK-kTvWX-GN8p3-HsnkP
+Параметры запуска~-noforcemaccel -noforcemparms -novid -freq 240 -refresh 240 -console -tickrate 128 -high -console
+st~https://steamcommunity.com/profiles/76561198130490651
+tw~https://twitter.com/nythonfps
+in~https://www.instagram.com/nythonfps
+Команда~Paqueta Gaming
+Страна~Бразилия

@@ -1,0 +1,20 @@
+Имя~Пол Ниэль (Paul Niel)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.42
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-EVNGz-viWvC-Fy4fd-Qia2n-bueKP
+Параметры запуска~-freq 240 -console -tickrate 128 -novid -rate 786432 +cl_interp_ratio 1 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198254027876
+twitch~https://www.twitch.tv/DAY0STV
+tw~https://twitter.com/day0s_
+in~https://www.instagram.com/day0stv
+Команда~Без команды
+Страна~Франция

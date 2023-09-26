@@ -1,0 +1,20 @@
+Имя~Тимоти Та (Timothy Ta)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.87
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5fkDS-UMEMq-or6mQ-V7YTC-VfdBN
+st~https://steamcommunity.com/profiles/76561198054870849
+twitch~https://www.twitch.tv/autimaticTV
+fb~https://www.facebook.com/autimaticTV
+tw~https://twitter.com/autimaticTV
+in~https://www.instagram.com/timothytaa/
+Команда~Evil Geniuses
+Страна~США

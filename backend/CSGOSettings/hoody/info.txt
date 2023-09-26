@@ -1,0 +1,19 @@
+Имя~Ааро Пелтокангас (Aaro Peltokangas)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.85
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-CO98T-4Ezef-rGzKh-Q2vMx-tXcNE
+st~https://steamcommunity.com/id/hoodycsgo/
+twitch~https://www.twitch.tv/hoodycs
+tw~https://twitter.com/HoodyCSGO
+in~https://www.instagram.com/aarope/
+Команда~Без команды
+Страна~Финляндия

@@ -1,0 +1,19 @@
+Имя~Кенни Кристенсен (Kenni Christensen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-L7sKp-8wQUf-PuaDj-8VnjU-Rx6KQ
+Параметры запуска~-tickrate 128 -freq 240 +rate 786432 +cl_interp_ratio 1 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp 0 -novid -nojoy -console -d3d9ex
+st~https://steamcommunity.com/profiles/76561198859265514
+twitch~https://www.twitch.tv/kenniw0w/about
+tw~https://twitter.com/kenniw0w
+Команда~Без команды
+Страна~Дания

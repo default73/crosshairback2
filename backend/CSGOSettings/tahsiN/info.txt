@@ -1,0 +1,18 @@
+Имя~Тахсин Брошк (Tahsin Broschk)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-Rhd8Y-KDyEE-BwmsB-BaJxc-ajf4D
+Параметры запуска~-novid -freq 144 -tickrate 128 -console
+st~https://steamcommunity.com/profiles/76561198034826115
+tw~https://twitter.com/tahsiNcsg0
+Команда~Entropy Gaming
+Страна~Германия

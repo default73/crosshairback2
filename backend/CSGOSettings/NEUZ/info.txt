@@ -1,0 +1,18 @@
+Имя~Ууганбаяр Ньям-Отгон (Uuganbayar Nyam-Otgon)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7dZ9t-kivAD-BepFL-Z3SFQ-fcEBM
+Параметры запуска~-freq 240 -console -tickrate 128 -novid -w 1024 +clientport 1337
+st~https://steamcommunity.com/profiles/76561198074388537
+fb~https://www.facebook.com/dragoneuz
+Команда~Team Renewal
+Страна~Монголия

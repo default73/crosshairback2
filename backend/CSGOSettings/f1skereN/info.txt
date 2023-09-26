@@ -1,0 +1,20 @@
+Имя~Ной Фишер Расмуссен (Noah Fischer Rasmussen)
+DPI:~440
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.55
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JQXwi-yHch7-RMamr-Gw93C-vWXTB
+Параметры запуска~-nojoy -allow_third_party_software -novid -console -cl_updaterate 128 -cl_cmdrate 128 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198303173087
+twitch~https://www.twitch.tv/fiskerentv
+yt~https://www.youtube.com/channel/UCWVJeWtfF2DwdRtUGuR9zLw
+tw~https://twitter.com/f1skereN?lang=da
+Команда~Без команды
+Страна~Дания

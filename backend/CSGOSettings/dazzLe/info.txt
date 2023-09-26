@@ -1,0 +1,19 @@
+Имя~Вилл Лофман (Will Loafman)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-53BSO-2P9Dm-iOtvq-bXnGk-QQSFE
+st~https://steamcommunity.com/id/dazzLeGO/
+twitch~https://www.twitch.tv/dazzle
+tw~https://twitter.com/dazzLeGO
+in~https://www.instagram.com/willloaf/
+Команда~Без команды
+Страна~США

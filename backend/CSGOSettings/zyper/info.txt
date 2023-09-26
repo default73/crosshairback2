@@ -1,0 +1,21 @@
+Имя~Доминик Маркек (Dominik Marček)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.89
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-9OysP-sFw9b-dHiXx-VXUA2-hif4D
+Параметры запуска~-tickrate 128 -nogammaramp -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198119210433
+twitch~https://www.twitch.tv/zyperx7
+yt~https://www.youtube.com/c/zyperCS
+tw~https://twitter.com/zyper_cs
+in~https://www.instagram.com/zyper_cs
+Команда~Без команды
+Страна~Словакия

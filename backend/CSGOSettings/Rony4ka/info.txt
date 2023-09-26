@@ -1,0 +1,20 @@
+Имя~Вероника Муназыпова (Veronika Munazypova)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.78
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-bdkC9-BtStj-aKN4q-TwpAt-equCQ
+Параметры запуска~+fps_max 300 -high -noforcemaccel -novid -freq 240 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 +cl_interp_ratio –d3d9ex -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198102957529
+vk~https://vk.com/id171698678
+twitch~https://www.twitch.tv/rony4ka
+in~https://www.instagram.com/irony4ka
+Команда~Insilio Female
+Страна~Россия

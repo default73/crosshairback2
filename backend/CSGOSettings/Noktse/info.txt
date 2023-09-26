@@ -1,0 +1,19 @@
+Имя~Николай Давила (Nicolás Dávila)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.19
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Yjf2t-W3nsU-2MdJZ-9SAPZ-SwzQN
+st~https://steamcommunity.com/profiles/76561198014498951
+fb~https://www.facebook.com/NoktseCSGO
+tw~https://twitter.com/noktseCS
+in~https://www.instagram.com/noktsecs
+Команда~BESTIA
+Страна~Аргентина

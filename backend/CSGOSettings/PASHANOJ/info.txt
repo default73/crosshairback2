@@ -1,0 +1,21 @@
+Имя~Павел Легостаев (Pavel Legostaev)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~0.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JZYXi-6vvJF-A3X6a-yJZnU-ByUrC
+Параметры запуска~-novid -language en -tickrate 128
+st~https://steamcommunity.com/profiles/76561198009176907
+vk~https://vk.com/id31187884
+twitch~https://www.twitch.tv/pashanojxd
+tw~https://twitter.com/PASHANOJ1
+in~https://www.instagram.com/pashanojxd/
+Команда~Без команды
+Страна~Россия

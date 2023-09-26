@@ -1,0 +1,19 @@
+Имя~Хуан Шехтель (Juan Schechtel)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-EyeaH-GWA9S-2sLb3-FG8zr-kXYwP
+Параметры запуска~-refresh 240 -freq 240 -tickrate 128 -allow_third_party -high
+st~https://steamcommunity.com/profiles/76561199054090576
+tw~https://twitter.com/pablekcs
+in~https://www.instagram.com/juanschechtel
+Команда~9z Academy
+Страна~Аргентина

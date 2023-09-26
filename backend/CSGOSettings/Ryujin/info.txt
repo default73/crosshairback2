@@ -1,0 +1,20 @@
+Имя~Борис Ким (Boris Kim)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-sYjfV-42m6y-FbJDR-Qz92n-jFFFN
+Параметры запуска~-novid -tickrate 128 +cL_interp_ratio 2
+st~https://steamcommunity.com/profiles/76561198116280987
+vk~https://vk.com/id654503165
+twitch~https://www.twitch.tv/ryujincs1
+in~https://www.instagram.com/bori8lav
+Команда~ARCRED
+Страна~Узбекистан

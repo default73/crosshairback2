@@ -1,0 +1,21 @@
+Имя~Ана Думбравэ (Ana Dumbravă)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-QFjh6-nfWXW-K4Wyw-jejFW-KudqA
+Параметры запуска~-novid -tickrate 128 +cl_interp_ratio 1 +fps_max 999 +mat_queue_mode 2 +cl_show_team_equipment 1 cl_teamid_overhead_always 1 -refresh 240
+st~https://steamcommunity.com/profiles/76561198116899423
+twitch~https://www.twitch.tv/anaofficial
+yt~https://www.youtube.com/channel/UCqvrAwn327tD-_gRdPBwQHQ
+tw~https://twitter.com/ANa_CSGO
+in~https://www.instagram.com/ana.dumbrava
+Команда~Nigma Galaxy Female
+Страна~Румыния

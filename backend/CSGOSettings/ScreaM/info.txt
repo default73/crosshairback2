@@ -1,0 +1,20 @@
+Имя~Адиль Бенрлитом (Adil Benrlitom)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-u5u6c-9L5Xt-8je8W-ELfAb-diMwF
+st~https://steamcommunity.com/profiles/76561197988768248
+twitch~https://www.twitch.tv/ScreaM
+fb~https://www.facebook.com/ScreaMdAK1nG
+tw~https://twitter.com/ScreaM_
+in~https://www.instagram.com/screamdak1ng/
+Команда~Без команды
+Страна~Бельгия

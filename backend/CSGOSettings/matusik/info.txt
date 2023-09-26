@@ -1,0 +1,20 @@
+Имя~Никита Матусевич (Nikita Matusevich)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1.16
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-CiLaL-pPS7M-uvSKC-cub8d-XyN6H
+Параметры запуска~-novid -freq 240 +cl_interp_ratio 1 +cl_updaterate 128 +cl_cmdrate 128 +rate 786432 -tickrate 128 +cl_interp 1 -cl_interp 0 -high -language en
+st~https://steamcommunity.com/profiles/76561198191406851
+vk~https://vk.com/id153749717
+twitch~https://www.twitch.tv/matusik
+in~https://www.instagram.com/matusik.dll/
+Команда~SHIPACHI
+Страна~Беларусь

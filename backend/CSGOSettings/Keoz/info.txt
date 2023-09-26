@@ -1,0 +1,20 @@
+Имя~Николас Джус (Nicolas Dgus)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~6
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-XERDP-sY4Lr-o9rcw-6xuUo-7FwzF
+st~https://steamcommunity.com/profiles/76561198098344244
+vk~https://vk.com/id467751225
+twitch~https://www.twitch.tv/keoz
+tw~https://twitter.com/KeozBEAST
+in~https://www.instagram.com/keozcsgo
+Команда~GamerLegion
+Страна~Бельгия

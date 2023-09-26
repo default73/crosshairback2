@@ -1,0 +1,18 @@
+Имя~Алекс Перейра (Alex Pereira)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-fBSrW-FdDK7-5PyDT-44XfM-2zpxA
+Параметры запуска~-console -novid -tickrate 128 -freq 144 -threads 6 -high -untrusted +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198417781255
+tw~https://twitter.com/ra1se2k9
+Команда~Без команды
+Страна~Португалия

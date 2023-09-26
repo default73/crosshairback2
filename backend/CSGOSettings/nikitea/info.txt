@@ -1,0 +1,19 @@
+Имя~Никита Чаховский (Nikita Chakhovskiy)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.88
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-moAHZ-yauCS-d4NAw-Y7oqN-nysyM
+Параметры запуска~-freq 240 -novid -tickrate 128 -nojoy +cl_interp_ratio 1 +rate 786432 -console +cl_cmdrate 128 +cl_updaterate 128 +fps_max 315 +mat_queue_mode -1 -noforcemaccel -noforcemparms -noforcemspd +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561198240113250
+twitch~https://www.twitch.tv/nikiteacs
+tw~https://twitter.com/nikitea7
+Команда~NAVI Junior
+Страна~Украина

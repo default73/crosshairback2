@@ -1,0 +1,18 @@
+Имя~Адриан Лис (Adrian Lis)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FRsHi-ox42x-vCcqu-GHho7-Thj5P
+Параметры запуска~-freq 240 -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198045817040
+tw~https://twitter.com/kadziucsgo
+Команда~PGE Turow
+Страна~Польша

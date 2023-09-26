@@ -1,0 +1,20 @@
+Имя~Жуан Фрейтас (João Freitas)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-fX2c5-Vpyzf-huum7-Nt5fP-mRXXC
+Параметры запуска~-freq 144 -refresh 144 -tickrate 128 -novid -high -untrusted
+st~https://steamcommunity.com/profiles/76561197975775965
+fb~https://www.facebook.com/joao.freitas.54584
+tw~https://twitter.com/WatsonJoao
+in~https://www.instagram.com/joaowatsn
+Команда~Без команды
+Страна~Португалия

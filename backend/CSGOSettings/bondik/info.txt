@@ -1,0 +1,21 @@
+Имя~Владислав Нечипорчук (Vladyslav Nechyporchuk)
+DPI:~1800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~3/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-64Zc2-frNCa-a3QEX-ZUUEP-pVnMC
+Параметры запуска~-console -novid -nojoy -freq 240 -tickrate 128 +rate 786432 -w 1024 +cl_interp_ratio 1 +cl_interp 0 +fps_max 999
+st~https://steamcommunity.com/profiles/76561198007184371
+vk~https://vk.com/id12798099
+twitch~https://www.twitch.tv/bondik_csgo
+tw~https://twitter.com/bondik_csgo
+in~https://www.instagram.com/bondikcsgo
+Команда~ESC Gaming
+Страна~Украина

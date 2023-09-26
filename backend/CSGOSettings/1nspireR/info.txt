@@ -1,0 +1,17 @@
+Имя~Даниилс Михайленко (Daniils Mihailenko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-mHOVO-EDLae-8ExWb-BGQfn-ZwCJC
+st~https://steamcommunity.com/profiles/76561198392140572
+tw~https://twitter.com/1nspireRed
+Команда~Medieval
+Страна~Латвия

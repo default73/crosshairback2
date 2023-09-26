@@ -1,0 +1,18 @@
+Имя~Космин Теодореску (Cosmin Teodorescu)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-sQ5rv-Dw82v-KBBWt-oMHCb-tOUnB
+st~https://steamcommunity.com/profiles/76561198070199303
+tw~https://twitter.com/ragga_csgo
+in~https://www.instagram.com/cosmin.ragga
+Команда~Nexus Gaming
+Страна~Румыния

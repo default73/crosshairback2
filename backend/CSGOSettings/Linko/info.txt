@@ -1,0 +1,18 @@
+Имя~Хосе Дуро (José Duro)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-fuKud-vhqqh-V7YPx-eHN7y-qdq3B
+Параметры запуска~-console +clientport 27088 -tickrate 128 -freq 240 -refresh 240 +cmdrate 128 -language english +clientport 27011 -allow_third_party_software -d3d9ex
+st~https://steamcommunity.com/profiles/76561198147062836
+tw~https://twitter.com/linkocsgo
+Команда~Make Your Destiny
+Страна~Португалия

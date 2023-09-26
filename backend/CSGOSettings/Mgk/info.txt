@@ -1,0 +1,20 @@
+Имя~Руслан Гафиев (Ruslan Gafiev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-yoYUQ-NvovY-UEtz8-9aS3N-RrtiB
+Параметры запуска~-freq 144 -console -novid -tickrate 128 -allow_third_party_software +mat_queue_mode 2 +fps_max 0
+st~https://steamcommunity.com/profiles/76561198361592840
+twitch~https://www.twitch.tv/mgkstx
+yt~https://www.youtube.com/channel/UCPowN5MHfA5P4gVyU-8Zgng
+in~https://www.instagram.com/ruslangafiev15
+Команда~Без команды
+Страна~Россия

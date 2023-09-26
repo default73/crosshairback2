@@ -1,0 +1,20 @@
+Имя~Айзек Зиглер (Isaac Zeigler)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-eo3PE-546K4-XGB6s-pHEPy-mpjPK
+Параметры запуска~-novid -tickrate 128 +fps_max 999 +rate 786432 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198438614286
+twitch~https://www.twitch.tv/izikcs
+tw~https://twitter.com/IzikGG
+in~https://www.instagram.com/izikgg
+Команда~Без команды
+Страна~США

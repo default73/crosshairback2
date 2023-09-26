@@ -1,0 +1,18 @@
+Имя~Кори Фримарк (Cory Frymark)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.36
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-HfWGa-tXHYM-PrHLU-VkW8a-dmwjN
+Параметры запуска~-novid -tickrate 128 +fps_max 999 +fps_max_menu 999 +exec autoexec.cfg -refresh 360 +rate 786432 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198310650658
+tw~https://twitter.com/shutoutcsgo
+Команда~Torch
+Страна~Польша

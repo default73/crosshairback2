@@ -1,0 +1,20 @@
+Имя~Филип Яркич (Filip Jarkić)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-62BQz-ZysQc-Tcu4z-po8uu-sbK5O
+Параметры запуска~-novid -nojoy -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198329484688
+twitch~https://www.twitch.tv/DEPRESHNN
+tw~https://twitter.com/DEPRESHNNcs
+in~https://www.instagram.com/fjarkic
+Команда~Без команды
+Страна~Хорватия

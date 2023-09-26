@@ -1,0 +1,18 @@
+Имя~Зайнаб Турки (Zainab Turkie)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~Hz
+sharecode~CSGO-mABAs-PvoiH-5N8PU-YDKAf-xsrBE
+st~https://steamcommunity.com/profiles/76561197990140855
+twitch~https://www.twitch.tv/zaazturkie
+tw~https://twitter.com/ZainabTurkie
+Команда~G2 Oya
+Страна~Швеция

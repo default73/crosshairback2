@@ -1,0 +1,19 @@
+Имя~Эрик Густафссон (Erik Gustafsson)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-DbBTk-Xak4W-Pcb7R-7VtWw-p4FyB
+Параметры запуска~-novid -freq 144 -console -tickrate 128 +cl_cmdrate 128 +cl_cmdrate 128 +cl_updaterate 128 -refresh 144
+st~https://steamcommunity.com/profiles/76561198080441210
+twitch~https://www.twitch.tv/ztrr
+tw~https://twitter.com/ztrcss
+Команда~GODSENT
+Страна~Швеция

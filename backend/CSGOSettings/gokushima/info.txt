@@ -1,0 +1,19 @@
+Имя~Эрхан Багынанов (Erkhan Bagynanov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1.25
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-DDu4J-GaLFm-cwHPK-eD3BY-pbywQ
+Параметры запуска~-freq 240 -refresh 240 -novid +cl_cmdrate 128 +cl_updaterate 128 +cl_show_team_equipment 1 -tickrate 128 +cl_interp 1 +cl_interp_ratio 2 -allow_third_party_software +clientport 27023 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198262313668
+vk~https://vk.com/id230434077
+twitch~https://www.twitch.tv/g0kushima
+Команда~HOTU eSports
+Страна~Россия

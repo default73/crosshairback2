@@ -1,0 +1,21 @@
+Имя~Светлана Шидловская (Svetlana Shidlovskaia)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-DtR3b-7EqRZ-RZss7-YOfsh-AioUE
+Параметры запуска~-novid -console -tickrate 128 -freq 240 +rate 786432 +cl_updaterate 128 +fps_max 400 +cl_cmdrate 128 +cl_interp_ratio 1 -allow_third_party_software -nojoy
+st~https://steamcommunity.com/id/fatalexe666
+vk~https://vk.com/fatalexe
+twitch~https://www.twitch.tv/f6tal
+tw~https://twitter.com/fatalexe666
+in~https://www.instagram.com/f6tal_csgo/
+Команда~9 Pandas Fearless
+Страна~Россия

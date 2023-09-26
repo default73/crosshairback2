@@ -1,0 +1,20 @@
+Имя~Юлия Семенова (Julia Semenova)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1.05
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~165Hz
+sharecode~CSGO-5MsTe-j8vyb-H5LRD-VzWRS-Gf9GJ
+Параметры запуска~-refresh 165 -freq 165 +fps_max 0 -novid -console +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 +mat_queue_mode 2 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561199002555529
+vk~https://vk.com/id306947358
+twitch~https://www.twitch.tv/akiyanoraa
+in~https://www.instagram.com/akiyanora
+Команда~East Legends
+Страна~Россия

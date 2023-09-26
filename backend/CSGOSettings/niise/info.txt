@@ -1,0 +1,20 @@
+Имя~Бенджамин Молдин (Benjamin Mauldin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~0.82
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-pTXGp-Vfuaz-yUef7-RVeru-OESZQ
+Параметры запуска~-novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561197967180708
+twitch~https://www.twitch.tv/csniise
+yt~https://www.youtube.com/user/Witchbirth
+tw~https://twitter.com/csniise
+Команда~Без команды
+Страна~США

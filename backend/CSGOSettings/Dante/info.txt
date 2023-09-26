@@ -1,0 +1,21 @@
+Имя~Томас Перейра (Tomás Pereira)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-H99ye-7MNnA-snLqs-RZRNh-aDtdA
+Параметры запуска~-novid -tickrate 128 -high +cl_interp 0 +cl_interp_ratio 1 +rate 128000  +cl_cmdrate 128 +mat_queue_mode 2 -freq 240
+st~https://steamcommunity.com/profiles/76561198035418572
+twitch~https://www.twitch.tv/dantefdd
+yt~https://www.youtube.com/channel/UC_lI5NMq92w7tHaIARQJvNg
+tw~https://twitter.com/Dantefdd
+in~https://www.instagram.com/dantefdd/
+Команда~Без команды
+Страна~Португалия

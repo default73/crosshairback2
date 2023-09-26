@@ -1,0 +1,20 @@
+Имя~Артур Дерксен (Arthur Derksen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.85
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-xG3NG-78hbM-VrxbR-2LJrZ-6shrM
+Параметры запуска~-novid -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561198180072669
+yt~https://www.youtube.com/channel/UCu6km6DVN7YQLynmW2esrKw
+tw~https://twitter.com/mavvecs
+in~https://www.instagram.com/mavvecs
+Команда~Без команды
+Страна~Германия

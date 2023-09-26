@@ -1,0 +1,18 @@
+Имя~Владислав Степанов (Vladyslav Stepanov)
+DPI:~400
+Частота мыши:~100Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Q2YRB-Jb7X9-4OLGO-jVZud-SwzQN
+st~https://steamcommunity.com/profiles/76561199026065461
+twitch~https://www.twitch.tv/leen_csgo
+in~https://www.instagram.com/stpnv.vlad/
+Команда~L&G
+Страна~Украина

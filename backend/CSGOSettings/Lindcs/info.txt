@@ -1,0 +1,19 @@
+Имя~Мелькер Линдмарк (Melker Lindmark)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~0.85
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-PzjeY-MGWTJ-VALRJ-EQFJY-qSFuA
+Параметры запуска~-tickrate 128
+st~https://steamcommunity.com/profiles/76561198799281933
+twitch~https://www.twitch.tv/lindcs_
+tw~https://twitter.com/Lindcs1
+Команда~Young Gods
+Страна~Швеция

@@ -1,0 +1,21 @@
+Имя~Дмитрий Токарев (Dmitry Tokarev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wQ3YO-Bs4bn-Rrmxj-CTd8Z-POwLA
+Параметры запуска~-novid -tickrate 128 -untrusted +clientport 27015
+st~https://steamcommunity.com/profiles/76561199005294982
+twitch~https://www.twitch.tv/theek1ps
+yt~https://www.youtube.com/channel/UCl-MwVjZTK5GvqMamIUlyYQ
+tw~https://twitter.com/ek1ps
+in~https://www.instagram.com/dmitriythedragon/
+Команда~Без команды
+Страна~Эстония

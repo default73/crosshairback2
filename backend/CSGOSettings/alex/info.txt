@@ -1,0 +1,19 @@
+Имя~Алекс МакМикин (Alex McMeekin)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-cBnQj-KhA2J-LhkNC-6A6Dx-8Er7C
+st~https://steamcommunity.com/profiles/76561198004871434
+twitch~https://www.twitch.tv/csgoalex
+tw~https://twitter.com/Vitality_ALEX
+in~https://www.instagram.com/alex_mcmeekin
+Команда~Без команды
+Страна~Великобритания

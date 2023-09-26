@@ -1,0 +1,21 @@
+Имя~Андреас Хойслет (Andreas Højsleth)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-D7JYc-fwCWJ-wThKn-ReFfT-478WB
+Параметры запуска~-freq 240 -console -novid -high -tickrate 128
+st~https://steamcommunity.com/profiles/76561197990682262
+twitch~https://www.twitch.tv/Xyp9x
+fb~https://facebook.com/Xyp9x
+tw~https://twitter.com/Xyp9x
+in~https://www.instagram.com/xyp9x
+Команда~Без команды
+Страна~Дания

@@ -1,0 +1,21 @@
+Имя~Нико Кембицки (Nico Kembitzky)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-P5OJ3-AaMuO-W9naQ-nHLmh-yW43L
+Параметры запуска~-console -novid -freq 240 -tickrate 128 -nojoy -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561197979620397
+twitch~https://www.twitch.tv/aquaxax
+yt~https://www.youtube.com/channel/UCfQmmi1pA1SnJXlx-k3Y2nw
+tw~https://twitter.com/_Aqua_cs
+in~https://www.instagram.com/nico_kembitzky/
+Команда~Без команды
+Страна~Германия

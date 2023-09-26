@@ -1,0 +1,17 @@
+Имя~Бартош Ниебиш (Bartosz Niebisz)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-UJWWi-hcijA-i7fEz-2ZL3X-sN8SA
+st~https://steamcommunity.com/profiles/76561198360682773
+twitch~https://www.twitch.tv/bnoxxx
+Команда~Illuminar Gaming
+Страна~Польша

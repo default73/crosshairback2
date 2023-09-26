@@ -1,0 +1,18 @@
+Имя~Саймон Уильямс (Simon Williams)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-UK5nx-Du5Up-RdrLw-9wQQS-2zzQN
+st~https://steamcommunity.com/profiles/76561197999532274
+tw~https://twitter.com/sico_csgo
+in~https://www.instagram.com/simonsico
+Команда~Grayhound Gaming
+Страна~Новая Зеландия

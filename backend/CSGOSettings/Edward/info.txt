@@ -1,0 +1,20 @@
+Имя~Иоанн Сухарев (Ioann Sukhariev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Qfyxt-GC7mR-YXOZC-8Kewr-UupcG
+st~https://steamcommunity.com/profiles/76561197983695262
+vk~https://vk.com/id7807530
+twitch~https://www.twitch.tv/edward
+tw~https://twitter.com/EdwardCSGOD
+in~https://www.instagram.com/edwardcsgo
+Команда~ESC Gaming
+Страна~Украина

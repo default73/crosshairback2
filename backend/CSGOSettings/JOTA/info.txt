@@ -1,0 +1,20 @@
+Имя~Джонатан Виллиан (Jhonatan Willian)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~0.72
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6yoXe-TEw9O-c8Nso-iW2hM-8jyHL
+st~https://steamcommunity.com/profiles/76561198054820484
+twitch~https://www.twitch.tv/jotaacs
+fb~https://www.facebook.com/jotaafps
+tw~https://twitter.com/jotafps
+in~https://www.instagram.com/jotaacs
+Команда~Imperial Esports
+Страна~Бразилия

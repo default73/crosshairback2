@@ -1,0 +1,21 @@
+Имя~Озгюр Экер (Özgür Eker)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-zhjce-fxfyW-FQe8S-ywurx-6vdqA
+st~https://steamcommunity.com/profiles/76561198083485506
+twitch~https://www.twitch.tv/w0xic
+yt~https://www.youtube.com/channel/UCTjSYcN3TAShC5x8zgSqsdg
+fb~https://www.facebook.com/woxic
+tw~https://twitter.com/w0xic
+in~https://www.instagram.com/woxic
+Команда~Eternal Fire
+Страна~Турция

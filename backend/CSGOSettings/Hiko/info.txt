@@ -1,0 +1,20 @@
+Имя~Спенсер Мартин (Spencer Martin)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.07
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 768
+Соотношение сторон:~5:3
+Формат изображения:~Растянутое
+Частота обновления:~360Hz
+sharecode~CSGO-JtPGo-kbCc3-6jjNe-VPneX-G847M
+st~https://steamcommunity.com/profiles/76561197960268519
+twitch~https://www.twitch.tv/hiko
+fb~https://www.facebook.com/OfficialHiko
+tw~https://twitter.com/hiko
+in~https://www.instagram.com/hiko36/
+Команда~Без команды
+Страна~США

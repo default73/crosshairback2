@@ -1,0 +1,19 @@
+Имя~Максим Терехов (Maxim Terekhov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-TYM8H-dChwz-6Wt9W-22kdk-pL3ED
+Параметры запуска~-novid -tickrate 128 +fps_max 400
+st~https://steamcommunity.com/profiles/76561198181957697
+vk~https://vk.com/mterekhov01
+twitch~https://www.twitch.tv/kre1nnn
+Команда~Без команды
+Страна~Россия

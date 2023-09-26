@@ -1,0 +1,19 @@
+Имя~Джейсон Нгуен (Jayson Nguyen Van)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-vqxKf-Ms2JG-3Xd3s-57kNM-xcq3B
+st~https://steamcommunity.com/profiles/76561198005967969
+twitch~https://www.twitch.tv/Kyojinnn
+tw~https://twitter.com/KyojinCSGO
+in~https://www.instagram.com/kyojincsgo
+Команда~Без команды
+Страна~Франция

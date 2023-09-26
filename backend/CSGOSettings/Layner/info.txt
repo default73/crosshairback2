@@ -1,0 +1,18 @@
+Имя~Давид Фальчинский (Dawid Falczyński)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-UryZT-4LQ5q-nGWNh-9Q3qh-AmPJM
+Параметры запуска~-tickrate 128 -freq 240 -novid -nojoy +cl_forcepreload 1
+st~https://steamcommunity.com/profiles/76561198263620127
+tw~https://twitter.com/LaynerCs
+Команда~Ignis Serpens
+Страна~Польша

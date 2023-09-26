@@ -1,0 +1,21 @@
+Имя~Лукас Телес (Lucas Teles)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-Z4oGr-CvmYE-WEGZ9-zR6nk-jCdRF
+Параметры запуска~-novid -freq 240 -refresh 240 -tickrate 128 -console -high
+st~https://steamcommunity.com/id/lucAs-/
+twitch~https://www.twitch.tv/lucasteles2
+fb~https://www.facebook.com/lucastelesff2
+tw~https://twitter.com/Lucas1
+in~https://www.instagram.com/lucastelesf
+Команда~Без команды
+Страна~Бразилия

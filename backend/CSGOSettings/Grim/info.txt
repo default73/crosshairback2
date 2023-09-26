@@ -1,0 +1,20 @@
+Имя~Майкл Винс (Michael Wince)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-dqqQ8-fKLsc-9bsZs-omdCX-DBfyC
+Параметры запуска~-novid -freq 240 -tickrate 128 +cl_interp_ratio 1 +fps_max 999 +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561198191236195
+twitch~https://www.twitch.tv/1grimcs
+tw~https://twitter.com/1grimcs
+in~https://www.instagram.com/1grimcs
+Команда~Complexity
+Страна~США

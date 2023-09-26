@@ -1,0 +1,20 @@
+Имя~Алекси Ялли (Aleksi Jalli)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-MwbWE-VTXrX-BOnj9-JXKA9-VEdRF
+st~https://steamcommunity.com/profiles/76561197961610974
+twitch~https://www.twitch.tv/allub
+fb~https://www.facebook.com/allucsgo
+tw~https://twitter.com/alluCSGO
+in~https://www.instagram.com/allucsgo
+Команда~JANO
+Страна~Финляндия

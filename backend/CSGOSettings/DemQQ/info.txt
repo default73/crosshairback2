@@ -1,0 +1,18 @@
+Имя~Сергей Демченко (Sergiy Demchenko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-F2u8L-Os7Cv-Ztaai-2KGwO-O58WB
+Параметры запуска~-forcemspd -noforcemparms -tickrate 128 -cl_forcepreload 1 -freq 144 -d3d9ex +rate 786432 +cl_updrate 128 +cl_cmdrate 128 -console cl_interp 0 cl_interpratio 1 cl_langcompensation 1
+st~https://steamcommunity.com/id/Universestudent
+twitch~https://www.twitch.tv/demqqqqq
+Команда~Monte
+Страна~Украина

@@ -1,0 +1,18 @@
+Имя~Филип Шёквист (Philip Sjökvist)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.37
+Чувствительность мыши в зуме:~1.06
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rFjCr-r6Qtp-USvTH-Qn4xR-85hWA
+Параметры запуска~-novid -no-browser -nojoy -tickrate 128 -freq 240 +max_fps 400 -heapsize -threads +cl_updaterate 128
+st~https://steamcommunity.com/profiles/76561198151041002
+tw~https://twitter.com/FjanT_
+Команда~Без команды
+Страна~Швеция

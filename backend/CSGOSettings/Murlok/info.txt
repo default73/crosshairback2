@@ -1,0 +1,18 @@
+Имя~Доминик Балавендер (Dominik Balawender)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-s5Zid-n6JAK-9PAYU-5GhwB-q4QRO
+Параметры запуска~-refresh 240 -tickrate 128 -novid +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp 0 +cl_interp_ratio 1 -console
+st~https://steamcommunity.com/profiles/76561198214129660
+tw~https://twitter.com/Murlok01
+Команда~Без команды
+Страна~Польша

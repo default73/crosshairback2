@@ -1,0 +1,19 @@
+Имя~Эйден Эванс (Aiden Evans)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-uBSik-kWRGJ-HOhdR-joi3q-DFmDA
+st~https://steamcommunity.com/profiles/76561198797743148
+twitch~https://www.twitch.tv/spend33
+yt~https://www.youtube.com/channel/UCz_zduE641TUK5nAL0IQ9Cg
+tw~https://twitter.com/spend33cs
+Команда~Без команды
+Страна~Австралия

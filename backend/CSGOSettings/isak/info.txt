@@ -1,0 +1,18 @@
+Имя~Исак Фален (Isak Fahlén)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wPAkQ-34Dj6-NEPDx-QXtpm-cTopQ
+Параметры запуска~-novid -refresh 240 +mat_queue_mode 2 -d3d9ex -tickrate 128
+st~https://steamcommunity.com/profiles/76561198071910365
+tw~https://twitter.com/isaaakkkk
+Команда~GamerLegion
+Страна~Швеция

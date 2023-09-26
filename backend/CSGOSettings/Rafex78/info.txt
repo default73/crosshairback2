@@ -1,0 +1,19 @@
+Имя~Рафаэль Педрахас Мендоса (Rafael Pedrajas Mendoza)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~0.92
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-QocXw-qkfjd-6CdHJ-syn7G-AerVQ
+Параметры запуска~-d3d9ex -refresh 144 -high -freq 240 -novid -nojoy -tickrate 128 -noforcemaccel -noforcemspd -noforcemparms +fps_max 0 +cl_forcepreload 1 -limitvsconst -forcenovsync -r_emulate_g -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198134559141
+twitch~https://www.twitch.tv/rafexx_x
+tw~https://twitter.com/rafex78
+Команда~VivoGamerTeam (VGT)
+Страна~Испания

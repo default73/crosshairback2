@@ -1,0 +1,18 @@
+Имя~Майкл Миллсапс (Michael Millsaps)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~0.99
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-sqzPu-c4CUM-EfR8s-iMYtc-TUzfF
+st~https://steamcommunity.com/profiles/76561198068647874
+twitch~https://www.twitch.tv/millz_Cs
+tw~https://twitter.com/Millz_CS
+Команда~Без команды
+Страна~США

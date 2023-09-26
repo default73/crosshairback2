@@ -1,0 +1,19 @@
+Имя~Диого Диас (Diogo Dias)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-iGeps-eWVjf-nmjk3-tvOjV-yCAMK
+Параметры запуска~-high +clientport 27007 -tickrate 128 -console -novid -freq 144 -refresh 144
+st~https://steamcommunity.com/profiles/76561198122750299
+twitch~https://www.twitch.tv/d10s_
+tw~https://twitter.com/D10S_Official
+Команда~For The Win Esports (FTW)
+Страна~Португалия

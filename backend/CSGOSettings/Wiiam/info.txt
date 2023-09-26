@@ -1,0 +1,19 @@
+Имя~Уильям О'Ши (William O'Shea)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-xvnUR-C9tAY-OCZmM-34wt3-9DmDA
+Параметры запуска~-allow_third_party_software -tickrate 128 +fps_max 300 -novid -nojoy -high -refresh 144 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198251630884
+twitch~https://www.twitch.tv/wiiam
+tw~https://twitter.com/WiiamCS
+Команда~K10
+Страна~Ирландия

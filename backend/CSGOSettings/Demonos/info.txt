@@ -1,0 +1,20 @@
+Имя~Брунно Небрега (Brunno Nóbrega)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-YN2wm-CM9hT-4mnxk-toEwB-hVaUN
+st~https://steamcommunity.com/profiles/76561198132948107
+twitch~https://www.twitch.tv/demonoscs
+fb~https://facebook.com/demonoscs
+tw~https://twitter.com/demonoscs
+in~https://www.instagram.com/bubunobrega
+Команда~Без команды
+Страна~Бразилия

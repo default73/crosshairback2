@@ -1,0 +1,20 @@
+Имя~Бруно Ребелатто (Bruno Rebelatto)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7zLi6-RqtMP-G626d-4Ot5n-yrmHB
+Параметры запуска~-novid -tickrate 128 -freq 240 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198850020186
+twitch~https://www.twitch.tv/lattofps
+tw~https://twitter.com/lattofps
+in~https://www.instagram.com/lattofps
+Команда~00Nation
+Страна~Бразилия

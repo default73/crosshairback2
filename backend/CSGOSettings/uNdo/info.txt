@@ -1,0 +1,20 @@
+Имя~Александр Кизюкевич (Alexander Kiziukevich)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.15
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 900
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-EpY7H-aKsh7-EY4fF-rHovA-Ln2AC
+Параметры запуска~-novid -console -w 1600 -h 900 -freq 240 +fps_max 0 -tickrate 128 -m_rawinput 1 -language english +cl_interp_ratio 1
+st~https://steamcommunity.com/id/by_uNdo/
+vk~https://vk.com/by_undo
+twitch~https://www.twitch.tv/by_undo
+in~https://www.instagram.com/by_undo/
+Команда~VRTX Esports
+Страна~Беларусь

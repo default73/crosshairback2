@@ -1,0 +1,21 @@
+Имя~Рамона Азвин (Ramona Azween)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-9wNEn-vZJQh-xKkJd-tQpFY-YcOUD
+Параметры запуска~-novid -console -tickrate 128 -high
+st~https://steamcommunity.com/profiles/76561197998055106
+twitch~https://www.twitch.tv/ramonaazween
+yt~https://www.youtube.com/RamonaAzween
+tw~https://twitter.com/RamonaAzween
+in~https://www.instagram.com/ramonaazween
+Команда~HSG fe
+Страна~Малайзия

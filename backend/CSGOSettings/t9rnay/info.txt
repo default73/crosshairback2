@@ -1,0 +1,19 @@
+Имя~Энрике Меначо (Henrique Menacho)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-vLERM-fXFTi-UWRTC-seZrh-H7xDK
+Параметры запуска~-noforcemaccel -noforcemparms -novid -freq 240 -console -tickrate 128 -high -console
+st~https://steamcommunity.com/profiles/76561198324810333
+tw~https://twitter.com/t9rnay
+in~https://www.instagram.com/t9rnay
+Команда~RED Canids
+Страна~Бразилия

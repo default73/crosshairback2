@@ -1,0 +1,20 @@
+Имя~Кристиан Пендлтон (Christian Pendleton)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~0.85
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ncReX-StOen-Novjq-Bqduc-iA9WB
+Параметры запуска~-freq 240 -noaafonts -novid -high -console -nojoy -d3d9ex +mat_queue_mode 2 +mat_vignette_enable 0 -allow_third_party_software -tickrate 128
+st~https://steamcommunity.com/profiles/76561198067762481
+twitch~https://www.twitch.tv/addictcsgo
+yt~https://www.youtube.com/channel/UCHYtcoFEdrtrumiYFhsBRCg
+tw~https://twitter.com/addicts_csgo
+Команда~VERTEX Esports Club
+Страна~Новая Зеландия

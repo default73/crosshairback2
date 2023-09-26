@@ -1,0 +1,20 @@
+Имя~Пауло Баллардини (Paulo Ballardini)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-B95Jp-5uZCe-jkMzS-NWUZT-ey3JE
+Параметры запуска~-novid +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561198098166757
+twitch~https://www.twitch.tv/shortfps
+yt~https://www.youtube.com/shortfps
+tw~https://www.twitter.com/shortfps_
+Команда~Без команды
+Страна~Бразилия

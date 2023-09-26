@@ -1,0 +1,17 @@
+Имя~Габриэль Милитару (Gabriel Militaru)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wq2iU-9QtPh-G87WU-2c3qh-nh7iL
+Параметры запуска~-refresh 240 -novid -console -tickrate 128 +mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561199091980531
+Команда~Infinite Gaming
+Страна~Румыния

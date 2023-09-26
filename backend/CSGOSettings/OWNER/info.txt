@@ -1,0 +1,20 @@
+Имя~Михаил Лымарь (Mykhailo Lymar)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rUjw6-pkYBx-67bos-ppF9P-HLAfD
+Параметры запуска~-novid -noforcemaccel -noforcemparms -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -rate 786432 +cl_interp_ratio 2 +fps_max 0 -console -freq 240 +clientport 27015 -untrusted -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198096933265
+vk~https://vk.com/id136010405
+twitch~https://www.twitch.tv/0wnerrr
+in~https://www.instagram.com/1337chill_killer1337
+Команда~B8 Esports
+Страна~Украина

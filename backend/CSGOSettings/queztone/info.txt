@@ -1,0 +1,20 @@
+Имя~Ричард Стрнатко (Richard Strnátko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jsHw5-Sf7bn-Rrmxj-CTd8Z-POwLA
+st~https://steamcommunity.com/profiles/76561199161452558
+twitch~https://www.twitch.tv/queztone
+fb~https://www.facebook.com/queztone
+tw~https://twitter.com/queztonecsgo
+in~https://www.instagram.com/richard.strnatko
+Команда~Без команды
+Страна~Словакия

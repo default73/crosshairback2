@@ -1,0 +1,20 @@
+Имя~Рикардо Оливейра (Ricardo Oliveira)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.28
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-unLXD-4QTsV-MKBcb-tsTUa-RJpYF
+Параметры запуска~-high -novid -tickrate 128 -freq 240 -no-browser
+st~https://steamcommunity.com/profiles/76561197994395491
+twitch~https://www.twitch.tv/rmn_csgo
+tw~https://twitter.com/rmn_csgo
+in~https://www.instagram.com/rmncs
+Команда~sAw
+Страна~Португалия

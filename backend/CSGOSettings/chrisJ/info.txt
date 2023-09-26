@@ -1,0 +1,20 @@
+Имя~Крис де Йонг (Chris de Jong)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.19
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-mZpuH-kbL6P-WbUVj-z2h3K-OPLsE
+st~https://steamcommunity.com/id/chrisJcs/
+twitch~https://www.twitch.tv/chrisjcsgo
+fb~https://www.facebook.com/chrisJcs
+tw~https://www.twitch.tv/chrisjcsgo
+in~https://www.instagram.com/chrisjcsgo_/
+Команда~Без команды
+Страна~Нидерланды

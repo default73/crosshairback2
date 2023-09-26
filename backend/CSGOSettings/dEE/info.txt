@@ -1,0 +1,20 @@
+Имя~Милош Марчета (Miloš Marčeta)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~1/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-EzGOU-X38JY-QDZfT-yXuHN-kScRF
+Параметры запуска~-novid -tickrate 128 -high -freq 240
+st~https://steamcommunity.com/profiles/76561197999352668
+twitch~https://www.twitch.tv/deeface123
+fb~https://www.facebook.com/csgodee
+tw~https://twitter.com/MilosDee
+Команда~Без команды
+Страна~Сербия

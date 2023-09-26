@@ -1,0 +1,20 @@
+Имя~Роман Голубев (Roman Golubev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-cqRb7-JjKhU-cck5s-DAKRZ-StPcF
+Параметры запуска~-novid +fps_max 300 -console -tickrate 128 -freq 144 +cl_interp_ratio 1 +cl_Interp 0 +rate 786432 -no-browser +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561197979084089
+vk~https://vk.com/id21457062
+twitch~https://www.twitch.tv/rommicsgo
+in~https://www.instagram.com/roman_golubevv
+Команда~Без команды
+Страна~Россия

@@ -1,0 +1,21 @@
+Имя~Генрих Хевеси (Henrich Hevesi)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-K4EkX-axvpm-SbcQ2-HypwJ-w5hWA
+Параметры запуска~-novid -tickrate 128 -high -freq 240
+st~https://steamcommunity.com/profiles/76561198098071693
+twitch~https://www.twitch.tv/sl3ndd
+yt~https://www.youtube.com/channel/UCdS5CKSPnExapcqYqcSUZyg
+tw~https://twitter.com/sl3ndd?lang=hu
+in~https://www.instagram.com/henrich_hevesi
+Команда~Без команды
+Страна~Венгрия

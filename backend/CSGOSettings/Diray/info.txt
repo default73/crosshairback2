@@ -1,0 +1,20 @@
+Имя~Дмитрий Никончук (Dmitry Nikonchuk)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-S48yA-U8e8O-ef9cR-SF9EE-CrrBE
+Параметры запуска~-novid -tickrate 128 -console -freq 240 +fps_max 505
+st~https://steamcommunity.com/id/DirayKA/
+vk~https://vk.com/d1r4y
+twitch~https://www.twitch.tv/dirayka
+in~https://www.instagram.com/diraycsgo/
+Команда~Nightmare
+Страна~Россия

@@ -1,0 +1,19 @@
+Имя~Арни Бент Трайнссон (Árni Bent Þráinsson)
+DPI:~400
+Частота мыши:~2Hz
+Чувствительность мыши в игре:~1000
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ndio9-zDeNp-5ZTp7-tCYrA-ZacNE
+st~https://steamcommunity.com/profiles/76561198047548781
+twitch~https://www.twitch.tv/lefluff
+yt~https://www.youtube.com/c/leFluff/featured
+tw~https://twitter.com/leFluffCS
+Команда~Без команды
+Страна~Исландия

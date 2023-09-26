@@ -1,0 +1,19 @@
+Имя~Карло Пивац (Karlo Pivac)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-UnOT6-FvCVx-vdoqE-FB92h-BhiaB
+st~https://steamcommunity.com/profiles/76561197979168983
+twitch~https://www.twitch.tv/ustilo
+tw~https://twitter.com/USTILO
+in~https://www.instagram.com/karlopivac_/
+Команда~Без команды
+Страна~Австралия

@@ -1,0 +1,18 @@
+Имя~Уильям Йоханссон (William Johansson)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-SU4Wt-Rp3ZM-PZL8c-OsqL6-dmTiA
+st~https://steamcommunity.com/profiles/76561197975377492
+twitch~https://www.twitch.tv/s1ckn
+tw~https://twitter.com/s1ckkCS
+Команда~Без команды
+Страна~Швеция

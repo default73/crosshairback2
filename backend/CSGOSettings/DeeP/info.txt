@@ -1,0 +1,18 @@
+Имя~Лиам Кауппи (Liam Kauppi)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-DqY9Y-9WPbU-TnC7E-cxbUC-c2D7K
+Параметры запуска~-refresh 240 -novid -freq 240  -tickrate 128 -console -allow_third_party_software -language english +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198049580043
+tw~https://twitter.com/DeePcsgoo
+Команда~Без команды
+Страна~Швеция

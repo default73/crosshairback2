@@ -1,0 +1,21 @@
+Имя~Адам Нагорный (Adam Nagorny)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8kb65-aMz3s-hNurR-9mCM7-WsdqA
+Параметры запуска~-allow_third_party_software -freq 240 -novid +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 +fps_max 0 -language english +cl_interp_ratio 1 +cl_interp 1 -maxdownloadfilesizemb 300
+st~https://steamcommunity.com/profiles/76561198834543007
+vk~https://vk.com/id630306615
+twitch~https://www.twitch.tv/froz1koko
+tw~https://twitter.com/froz1k1ng
+in~https://www.instagram.com/froz1k1ng
+Команда~NAVI Junior
+Страна~Украина

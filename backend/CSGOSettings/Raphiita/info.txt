@@ -1,0 +1,19 @@
+Имя~Рафаэль Серро (Rafael Cerro)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hqm5f-CLvHd-mEMjj-zs86O-QGKeB
+st~https://steamcommunity.com/profiles/76561198132378367
+twitch~https://www.twitch.tv/raphiita
+tw~https://twitter.com/RafaaCerro
+in~https://www.instagram.com/rafaacerro/
+Команда~WAP Esports
+Страна~Аргентина

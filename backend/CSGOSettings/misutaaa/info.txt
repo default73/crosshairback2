@@ -1,0 +1,22 @@
+Имя~Кевин Рабье (Kévin Rabier)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hohh4-aWmsx-qaCpy-nJ9wK-hqKjC
+Параметры запуска~-console -novid -tickrate 128 -nojoy  +cl_forcepreload 1 -freq 240
+st~https://steamcommunity.com/profiles/76561198081528911
+twitch~https://www.twitch.tv/misutaaa
+yt~https://www.youtube.com/channel/UCCs3ONPa7D5pLSUJVzIaxJw
+fb~https://www.facebook.com/Misutaaa
+tw~https://twitter.com/misutaaaCSGO
+in~https://www.instagram.com/misutaaacsgo
+Команда~Без команды
+Страна~Франция

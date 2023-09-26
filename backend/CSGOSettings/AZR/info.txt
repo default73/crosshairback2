@@ -1,0 +1,19 @@
+Имя~Аарон Вард (Aaron Ward)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-YCQEc-No5Vm-iORcP-SA4Gh-ztZpG
+st~https://steamcommunity.com/profiles/76561197985097994
+twitch~https://www.twitch.tv/azr_au
+tw~https://twitter.com/azr
+in~https://www.instagram.com/azr_csgo
+Команда~Без команды
+Страна~Австралия

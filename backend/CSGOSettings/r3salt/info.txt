@@ -1,0 +1,21 @@
+Имя~Евгений Фролов (Evgeny Frolov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1.3
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6TvVr-Vi9v6-uCd3F-7xuUo-7FwzF
+Параметры запуска~-nojoy -noaafonts -novid -tickrate 128 -refresh 240 -freq 240 +fps_max 400 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198350362302
+vk~https://vk.com/id184693200
+twitch~https://www.twitch.tv/r3salt
+tw~https://twitter.com/r3saltCSGO
+in~https://www.instagram.com/r3salt
+Команда~FORZE
+Страна~Россия

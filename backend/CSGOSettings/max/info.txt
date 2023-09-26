@@ -1,0 +1,20 @@
+Имя~Максимилиано Гонсалес (Maximiliano Gonzalez)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 720
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-pGXRV-Cnmvv-3au4H-tPDsF-xmKPJ
+st~https://steamcommunity.com/profiles/76561198242950384
+twitch~https://www.twitch.tv/maxujasz
+fb~https://www.facebook.com/maxujasz
+tw~https://twitter.com/maxgzez
+in~https://www.instagram.com/maxgzez
+Команда~9z Team
+Страна~Уругвай

@@ -1,0 +1,20 @@
+Имя~Виктор Войтас (Wiktor Wojtas)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-QPbOA-4fAvH-Jsb7P-RdOkk-cEbJD
+st~https://steamcommunity.com/profiles/76561197960499780
+twitch~https://www.twitch.tv/g5taz
+fb~https://www.facebook.com/g5taz
+tw~https://twitter.com/g5taz
+in~https://www.instagram.com/viccotaz
+Команда~Без команды
+Страна~Польша

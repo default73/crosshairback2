@@ -1,0 +1,21 @@
+Имя~Миккель Спарват (Mikkel Sparvath)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-QrEcq-woOcU-Zh8UK-3A7ZL-Ja2UO
+Параметры запуска~-high -novid -refresh 240 +mat_queue_mode 2 -d3d9ex -allow_third_party_software -console
+st~https://steamcommunity.com/profiles/76561198212412773
+twitch~https://www.twitch.tv/MazeCSGO1
+yt~https://www.youtube.com/channel/UCS1bhIiQhsiWJwIF0-uMqQw
+tw~https://twitter.com/MazeCSGO
+in~https://www.instagram.com/mikkel_sparvath
+Команда~Ambush
+Страна~Дания

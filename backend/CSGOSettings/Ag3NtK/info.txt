@@ -1,0 +1,18 @@
+Имя~Хавьер Педрахас Мендоса (Javier Pedrajas Mendoza)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~0.84
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-BPXkC-wpjBh-sWpYT-QJdJh-FZieC
+st~https://steamcommunity.com/profiles/76561198378226439
+twitch~https://www.twitch.tv/ag3ntkk
+tw~https://twitter.com/Ag3NtKK
+Команда~VivoGamerTeam (VGT)
+Страна~Испания

@@ -1,0 +1,20 @@
+Имя~Марк Варакута (Mark Varakuta)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-Hh2qz-n6rEn-aduuM-tOEX9-Q2LXL
+Параметры запуска~-freq 240 -tickrate 128 +fps_max 400
+st~https://steamcommunity.com/profiles/76561199139721286
+twitch~https://www.twitch.tv/unbr0ken15
+tw~https://twitter.com/UNBR0KEN15
+in~https://www.instagram.com/m4rk_kk
+Команда~NAVI Junior
+Страна~Украина

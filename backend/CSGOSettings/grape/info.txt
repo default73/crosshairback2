@@ -1,0 +1,19 @@
+Имя~Бреннан Грир (Brennan Greer)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FFGxt-vj9Ui-pVDrm-hKvuE-2zpxA
+st~https://steamcommunity.com/profiles/76561198090430405
+twitch~https://www.twitch.tv/grapecs
+yt~https://www.youtube.com/user/TheRealGrapeGatsby
+tw~https://twitter.com/grapecsgo
+Команда~Без команды
+Страна~США

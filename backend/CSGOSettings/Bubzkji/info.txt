@@ -1,0 +1,19 @@
+Имя~Лукас Андерсен (Lucas Andersen)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.41
+Чувствительность мыши в зуме:~0.81
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~16:10
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-7RCch-PuQfN-SMJuG-SvkD6-ApMHA
+st~https://steamcommunity.com/id/BubzkjiXD/
+twitch~https://www.twitch.tv/bubzkji
+tw~https://twitter.com/Bubzkji
+in~https://www.instagram.com/bubzkji/
+Команда~Без команды
+Страна~Дания

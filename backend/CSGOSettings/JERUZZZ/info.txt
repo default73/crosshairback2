@@ -1,0 +1,20 @@
+Имя~Иероним Марино (Jerónimo Marino)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Osb3U-SPOGC-V7vvw-fcRiX-G5SKF
+Параметры запуска~-novid -freq 240 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198140003805
+twitch~twitch.tv/jeruzzzcsgo
+tw~https://twitter.com/jeruzzzfps
+in~https://instagram.com/jeromarino
+Команда~Без команды
+Страна~Аргентина

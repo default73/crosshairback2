@@ -1,0 +1,19 @@
+Имя~Эдуард Гальченко (Eduard Galchenko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-DqU2q-T6bAO-fDDcc-fSOTr-UxQRO
+Параметры запуска~-console -novid -tickrate 128 +cl_cmdrate 128 +rate 786432 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 -language english -freq 144 cl_teamid_overhead_always 1
+st~https://steamcommunity.com/id/Raider17/
+vk~https://vk.com/raidercsgo
+in~https://www.instagram.com/raidercsgo/
+Команда~Без команды
+Страна~Россия

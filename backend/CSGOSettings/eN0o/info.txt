@@ -1,0 +1,20 @@
+Имя~Максим Курилов (Maksim Kurilov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-noRA3-KuG5G-QSNc3-Ubmqp-Xk2AC
+Параметры запуска~-novid -tickrate 128 -freq 240 -console +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0.03100 +mat_queue_mode -2 +fps_max_menu 0 +fps_max 0 +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561198155831302
+vk~https://vk.com/id156359200
+twitch~https://www.twitch.tv/en0o300
+in~https://www.instagram.com/en0o300
+Команда~Без команды
+Страна~Россия

@@ -1,0 +1,20 @@
+Имя~Cэдрик Гойпуэ (Cédric Guipouy)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.13
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6j47W-eUsVo-jeiup-OUpBs-K5nQD
+st~https://steamcommunity.com/id/RpKKKK/
+twitch~https://www.twitch.tv/rpk
+fb~https://www.facebook.com/RpKTANK
+tw~https://twitter.com/RpKTANKK
+in~https://www.instagram.com/rpktank/
+Команда~Без команды
+Страна~Франция

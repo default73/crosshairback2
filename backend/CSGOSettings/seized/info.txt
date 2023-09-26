@@ -1,0 +1,20 @@
+Имя~Денис Костин (Denis Kostin)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~3.1
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-oEMWJ-C4qHW-tQ23k-2bSWn-v2ZkF
+st~https://steamcommunity.com/profiles/76561197963914156
+vk~https://vk.com/id7361073
+twitch~https://www.twitch.tv/seizedwf
+tw~https://twitter.com/seizedwf
+in~https://www.instagram.com/seizedwf
+Команда~9 Pandas
+Страна~Россия

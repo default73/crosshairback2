@@ -1,0 +1,19 @@
+Имя~Фелипе Ричиоли (Felipe Ricioli)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 1024
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-4JPBE-ft3Jc-BedC2-ESXpQ-7T8SA
+st~https://steamcommunity.com/profiles/76561198061789000
+twitch~https://www.twitch.tv/RICIOLI
+tw~https://twitter.com/RICIOLI_
+in~https://www.instagram.com/flpricioli/
+Команда~ODDIK
+Страна~Бразилия

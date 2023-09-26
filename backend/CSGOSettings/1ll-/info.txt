@@ -1,0 +1,21 @@
+Имя~Илья Воронов (Ilya Voronov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-N75N3-kVnLt-ZVRhG-JeT7a-tUfOQ
+Параметры запуска~-freq 240 -novid -console -tickrate 128 +clientport 27027 +fps_max 0
+st~https://steamcommunity.com/profiles/76561198799643789
+vk~https://vk.com/id233143688
+twitch~https://www.twitch.tv/1llusha_cs
+tw~https://twitter.com/1l_CSGO
+in~https://www.instagram.com/il_voronoff/
+Команда~Без команды
+Страна~Россия

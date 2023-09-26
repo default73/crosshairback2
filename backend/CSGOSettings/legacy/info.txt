@@ -1,0 +1,19 @@
+Имя~Кэмерон Паркхерст (Cameron Parkhurst)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-aBnfa-PTBHp-HKaiT-hNk5S-7T8SA
+Параметры запуска~-freq 144 -novid -high
+st~https://steamcommunity.com/profiles/76561198275184933
+twitch~https://www.twitch.tv/legacyxxo
+yt~https://www.youtube.com/channel/UCBM3D5GN_G9Eevuwh_XSOIA
+Команда~Без команды
+Страна~США

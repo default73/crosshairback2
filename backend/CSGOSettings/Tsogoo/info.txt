@@ -1,0 +1,17 @@
+Имя~Цог Машбат (Tsog Mashbat)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.32
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5W23O-9CSY4-GTMAW-zbVwq-pLDhP
+st~https://steamcommunity.com/id/tsogoonoo/
+yt~https://www.youtube.com/channel/UCct56FZEpg-uCbvuk2Hz0iA?view_as=subscriber
+Команда~Без команды
+Страна~Монголия

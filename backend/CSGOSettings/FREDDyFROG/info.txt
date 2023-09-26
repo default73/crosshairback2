@@ -1,0 +1,19 @@
+Имя~Фредрик Густафссон (Fredrik Gustafsson)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-P8H8f-G8A5K-Xo2Zn-MsF7G-4cEZG
+Параметры запуска~-novid -freq 240 -tickrate 128 -console
+st~https://steamcommunity.com/profiles/76561197985802927
+twitch~https://www.twitch.tv/freddyfrogcsgo
+tw~https://twitter.com/FREDDyFROGcsgo
+Команда~Без команды
+Страна~Швеция

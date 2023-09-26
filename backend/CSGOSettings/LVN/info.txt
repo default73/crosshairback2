@@ -1,0 +1,20 @@
+Имя~Оскар Левин (Oscar Levin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wHvbF-HkeZy-yLrdW-Rm9QZ-m9b3K
+Параметры запуска~-novid -tickrate 128 -high -threads 6 +fps_max 400 +cl_interp 0 +cl_interp_ratio 1 +rate 786432 +cl_updaterate 128 +cl_cmdrate 128 +mat_queue_mode 2 -freq 240 -d3d9ex -refresh 240 voice_mixer_volume 0.25
+st~https://steamcommunity.com/profiles/76561198881298747
+twitch~https://www.twitch.tv/lvncsgo
+yt~https://www.youtube.com/channel/UCnblgPljrVh0XMBk3RfcGEQ
+tw~https://twitter.com/lvnCSGO
+Команда~7AM
+Страна~Великобритания

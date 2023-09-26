@@ -1,0 +1,21 @@
+Имя~Мартин Молина (Martin Molina)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-NOWqd-ufvU4-A5eB5-Cq8nk-EaVvD
+Параметры запуска~-novid -freq 240 -console -tickrate 128 +fps_max 400 -allow_third_party_software -mat_queue_mode 2 -cl_forcepreload 0
+st~https://steamcommunity.com/profiles/76561198857331174
+twitch~https://www.twitch.tv/roxcsgo1
+yt~https://www.youtube.com/channel/UCVT6KN90fwJy0PlEfSy6N9w
+tw~https://twitter.com/roxfps
+in~https://www.instagram.com/_molinamartin
+Команда~Без команды
+Страна~Уругвай

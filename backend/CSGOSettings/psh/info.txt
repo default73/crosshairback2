@@ -1,0 +1,20 @@
+Имя~Даниэль Алвес (Daniel Alves)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.43
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-Esaji-UzaP7-HUOBp-R5kVC-z2urD
+Параметры запуска~-freq 144 -novid -tickrate 128 +clientport 27015 -console
+st~https://steamcommunity.com/profiles/76561197987986523
+twitch~https://www.twitch.tv/pshtruktah
+yt~https://www.youtube.com/c/DanielAlvespsh
+tw~https://www.twitter.com/pshcsgo
+Команда~Без команды
+Страна~Португалия

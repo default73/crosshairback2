@@ -1,0 +1,20 @@
+Имя~Матеус Дантас (Matheus Dantas)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JTSJO-XuEW5-ob8zv-8Qemp-v2ZkF
+st~https://steamcommunity.com/profiles/76561197998992058
+twitch~https://www.twitch.tv/kurgancsgo
+fb~https://facebook.com/kurgancsgo
+tw~https://twitter.com/kurgancsgo
+in~https://www.instagram.com/matheusrdantas
+Команда~Intense
+Страна~Бразилия

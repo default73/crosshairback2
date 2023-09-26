@@ -1,0 +1,20 @@
+Имя~Ере Сало (Jere Salo)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-BpdVc-dVvGz-AZEan-R5kVC-z2urD
+Параметры запуска~-tickrate 128 -novid +fps_max 0 -high -refresh 240 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp_ratio 2 +cl_interp 0.0310
+st~https://steamcommunity.com/id/Sergejjz/
+twitch~https://www.twitch.tv/sergejjz
+tw~https://twitter.com/sergej_cs
+in~https://www.instagram.com/sergejcs/
+Команда~Без команды
+Страна~Финляндия

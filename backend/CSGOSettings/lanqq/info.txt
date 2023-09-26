@@ -1,0 +1,21 @@
+Имя~Павел Насенник (Pavel Nasennik)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-j6m52-Mktei-z87c9-jiUWW-U9z6A
+Параметры запуска~-freq 144
+st~https://steamcommunity.com/profiles/76561198235071548
+vk~https://vk.com/id154454447
+twitch~https://www.twitch.tv/lanqqcs
+yt~https://www.youtube.com/channel/UCFUy-qUHNWhqV0iA7hmGVsQ
+in~https://www.instagram.com/pashalanqq/
+Команда~Без команды
+Страна~Беларусь

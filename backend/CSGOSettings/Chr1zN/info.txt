@@ -1,0 +1,19 @@
+Имя~Кристоффер Сторгаард (Christoffer Storgaard)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.85
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6WnkE-OuVjW-oAw2u-MtJeG-qmTiA
+st~https://steamcommunity.com/profiles/76561198292598811
+twitch~https://www.twitch.tv/chr1zn
+yt~https://www.youtube.com/channel/UCsJs-zoSHxNGhdssgaZLrOQ?view_as=subscriber
+tw~https://twitter.com/Chr1zN
+Команда~mouz NXT
+Страна~Дания

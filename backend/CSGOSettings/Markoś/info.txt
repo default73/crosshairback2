@@ -1,0 +1,21 @@
+Имя~Куба Марковски (Kuba Markowski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.22
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 900
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-p4G4z-dXT8P-xiX28-WiB98-jpybE
+Параметры запуска~-novid -tickrate 128 -freq 144 -refresh 144 -high -d3d9ex
+st~https://steamcommunity.com/profiles/76561198028522662
+twitch~https://www.twitch.tv/maarkoos
+fb~https://www.facebook.com/officialmarkos
+tw~https://twitter.com/markos_csgo
+in~https://www.instagram.com/markos_csgo/
+Команда~Без команды
+Страна~Польша

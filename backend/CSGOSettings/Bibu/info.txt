@@ -1,0 +1,20 @@
+Имя~Бебу Аадил (Bebu Aadil)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-d6soy-uTCDn-cyEAB-bGVFt-YMbEC
+Параметры запуска~-noaafonts -nod3d9ex1 +mat_queue_mode 2 -refresh 240 -console  -tickrate 128 +cl_forcepreload 1 -novid -nojoy +zoom_sensitivity_ratio_mouse 1 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198110839613
+twitch~https://www.twitch.tv/b1bu_
+tw~https://twitter.com/Bibu_cs
+in~https://www.instagram.com/bibu_shred/
+Команда~Без команды
+Страна~Ирак

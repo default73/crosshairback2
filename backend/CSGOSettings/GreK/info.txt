@@ -1,0 +1,19 @@
+Имя~Игорь Шебзухов (Igor Shebzukhov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-kOtqa-u7GGu-sEF9c-CoYyV-5EWzE
+Параметры запуска~-novid -console -tickrate 128 -freq 144, +cl_updaterate 128 +cl_cmdrate 128 -high +cl_forcepreload 1 +cl_interp_ratio 1 -refresh 144 -rate 786432 -language english
+st~https://steamcommunity.com/id/12354864732187/
+vk~https://vk.com/igorshebzuhov
+in~https://www.instagram.com/hotlinegrek/
+Команда~Без команды
+Страна~Россия

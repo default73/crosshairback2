@@ -1,0 +1,21 @@
+Имя~Владислав Горшков (Vladislav Gorshkov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Mody6-S7mhz-uwfR4-FQ585-tXcNE
+Параметры запуска~-novid -language english -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 -refresh 240 +cl_interp_ratio 2
+st~https://steamcommunity.com/profiles/76561198059714128
+vk~https://vk.com/id337910469
+twitch~https://www.twitch.tv/nafany_
+tw~https://twitter.com/nafanyGOD
+in~https://www.instagram.com/nafany_god
+Команда~Cloud9
+Страна~Россия

@@ -1,0 +1,20 @@
+Имя~Дмитрий Кондратьев (Dmitry Kondratev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-ECHLS-4vK5o-FQ6KJ-BZkbM-272YP
+Параметры запуска~-novid -tickrate 128 -console +cl_interp 1 +cl_interp_ratio 2 +cl_cmdrate 128 +cl_updaterate 128 +rate 786432 -language english +fps_max 400 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198153097618
+vk~https://vk.com/id185888434
+twitch~https://www.twitch.tv/mizuzzzz
+in~https://www.instagram.com/mizuzzz_
+Команда~HOTU eSports
+Страна~Россия

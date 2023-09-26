@@ -1,0 +1,19 @@
+Имя~Кристофер Нонг (Christopher Nong)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6wntB-YPoyc-UfibP-LxL5n-EaVvD
+st~https://steamcommunity.com/profiles/76561198061801241
+twitch~https://www.twitch.tv/dexterjs
+tw~https://twitter.com/dextersJOURNEY
+in~https://www.instagram.com/nong_diaries
+Команда~Без команды
+Страна~Австралия

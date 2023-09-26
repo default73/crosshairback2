@@ -1,0 +1,21 @@
+Имя~Антон Титов (Anton Titov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.54
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-DAyK9-wewCj-ShFuU-O4FE7-jxSyL
+Параметры запуска~-tickrate 128 -freq 240 +rate 786432 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp_ratio 2 +cl_interp 1 +fps_max 300 -novid -language english +exec autoexec.cfg +cl_show_team_equipment +cl_color 4
+st~https://steamcommunity.com/profiles/76561198040194649
+vk~https://vk.com/id3195856
+twitch~https://www.twitch.tv/speed4k
+tw~https://twitter.com/speed4kcsgo
+in~https://www.instagram.com/speed4k_cs
+Команда~Без команды
+Страна~Россия

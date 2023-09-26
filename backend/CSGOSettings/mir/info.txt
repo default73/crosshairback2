@@ -1,0 +1,21 @@
+Имя~Николай Битюков (Nikolay Bityukov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hEzDS-MyRK9-TyZzJ-72SFQ-fcEBM
+Параметры запуска~-noforcemaccel -noforcemspd -noforcemparms -freq 240 -console -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198000827804
+vk~https://vk.com/mircsgo
+twitch~https://www.twitch.tv/mircsgo
+tw~https://twitter.com/mircsg0
+in~https://www.instagram.com/mircsgo
+Команда~Без команды
+Страна~Россия

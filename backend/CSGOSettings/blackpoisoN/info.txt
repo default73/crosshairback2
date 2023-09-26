@@ -1,0 +1,20 @@
+Имя~Робби Да Лока (Robby Da Loca)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JE2pq-W5ZtF-TKOHV-qzbrR-TA7yD
+Параметры запуска~-novid -console -tickrate 128 -freq 240 -refresh 240 +exec autoexec
+st~https://steamcommunity.com/profiles/76561197965743043
+twitch~https://www.twitch.tv/blackpoisoncs
+tw~https://twitter.com/blackpoisoNcs
+in~https://www.instagram.com/robbydaloca
+Команда~Без команды
+Страна~Южная Африка

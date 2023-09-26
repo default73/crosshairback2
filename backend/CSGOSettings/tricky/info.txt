@@ -1,0 +1,20 @@
+Имя~Михаил Крутов (Mikhail Krutov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.77
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-dkopd-WNA72-kcxim-AHSoQ-Ukf4D
+Параметры запуска~-language english -tickrate 128 -freq 240 -novid +fps_max 301
+st~https://steamcommunity.com/id/trickycsgo/
+vk~https://vk.com/trickyof
+twitch~https://www.twitch.tv/trickyof
+in~https://www.instagram.com/trickycsgo/
+Команда~Без команды
+Страна~Россия

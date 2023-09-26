@@ -1,0 +1,18 @@
+Имя~Оливер Расмуссен (Oliver Rasmussen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-HC8T2-ZqDaB-uwkXh-7XzSq-FZQ3A
+st~https://steamcommunity.com/profiles/76561198070459137
+twitch~https://www.twitch.tv/kwezzlingen
+tw~https://twitter.com/kwezzcsgo
+Команда~Espionage
+Страна~Дания

@@ -1,0 +1,21 @@
+Имя~Даниэль Моргадо (Daniel Morgado)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-bmBQs-ecYeq-HbyFJ-mLpWS-fZcNE
+Параметры запуска~-freq 240 -allow_third_party_software -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561197994888003
+twitch~https://www.twitch.tv/danoc0
+fb~https://www.facebook.com/danoco0
+tw~https://twitter.com/danoco
+in~https://www.instagram.com/danoco
+Команда~Без команды
+Страна~Бразилия

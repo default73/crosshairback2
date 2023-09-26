@@ -1,0 +1,18 @@
+Имя~Расмус Стинсборг (Rasmus Steensborg)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-LqCpm-Cbbzx-sAK5z-75jhw-K5nQD
+st~https://steamcommunity.com/profiles/76561197996060155
+twitch~https://www.twitch.tv/raalzcs
+tw~https://twitter.com/RAALZCS
+Команда~Без команды
+Страна~Дания

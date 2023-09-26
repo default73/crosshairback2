@@ -1,0 +1,22 @@
+Имя~Габриэль Толедо (Gabriel Toledo)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FJxAC-OAamJ-oZ9bO-2W4BT-YiG4C
+Параметры запуска~-tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561197960690195
+twitch~https://www.twitch.tv/gafallen
+yt~https://www.youtube.com/c/Fallen
+fb~https://facebook.com/FalleNcs
+tw~https://twitter.com/FalleNCS
+in~https://www.instagram.com/fallen
+Команда~Imperial Esports
+Страна~Бразилия

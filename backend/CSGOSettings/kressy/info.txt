@@ -1,0 +1,19 @@
+Имя~Марко Дордевич (Marko Đorđević)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-QEMiz-H7TyJ-DVKTf-493Pu-SeEBM
+st~https://steamcommunity.com/profiles/76561198010975327
+twitch~https://www.twitch.tv/kressy
+tw~https://twitter.com/kressy
+in~https://www.instagram.com/kressycsgo
+Команда~Без команды
+Страна~Германия

@@ -1,0 +1,18 @@
+Имя~Филип Собеский (Filip Sobierski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1.4
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-U77YR-NqVbo-EYsN6-Tipb5-L4hWA
+Параметры запуска~-freq 240 -tickrate 128 -novid -nojoy -rate 786432 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198117260394
+tw~https://twitter.com/noise_csgo
+Команда~Ungentium
+Страна~Польша

@@ -1,0 +1,18 @@
+Имя~Кейд Миллер (Kaid Miller)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-cyNFQ-ESPvp-To4Ne-LWRiX-G5SKF
+st~https://steamcommunity.com/profiles/76561198145559662
+twitch~https://www.twitch.tv/1bootylord
+tw~https://twitter.com/bootylord
+Команда~Без команды
+Страна~США

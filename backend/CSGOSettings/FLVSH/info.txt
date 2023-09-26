@@ -1,0 +1,18 @@
+Имя~Юлиан Пирвулеску (Iulian Pirvulescu)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-WdtZi-EscHe-tDYjn-Mnx9L-JFAMK
+Параметры запуска~-freq 240 -refresh 240 -d3d9ex -novid -high -tickrate 128 +mat_queue_mode -2
+st~https://steamcommunity.com/profiles/76561198065782063
+tw~https://twitter.com/flvshcsgo
+Команда~Без команды
+Страна~Румыния

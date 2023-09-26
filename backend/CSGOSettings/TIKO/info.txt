@@ -1,0 +1,18 @@
+Имя~Лаутаро Толе (Lautaro Thöle)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ObXUL-yaEEV-QzAKK-nCirD-XDYXC
+st~https://steamcommunity.com/profiles/76561198129727918
+tw~https://twitter.com/tiko_lau
+in~https://www.instagram.com/tiko_lau/
+Команда~Без команды
+Страна~Аргентина

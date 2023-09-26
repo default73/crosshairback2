@@ -1,0 +1,20 @@
+Имя~Михал Гловаты (Michal Glowaty)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-HHzcc-pMeD9-Lt2Pi-OMKBb-kqdqA
+st~https://steamcommunity.com/profiles/76561198025749082
+twitch~https://www.twitch.tv/okoliciouz
+fb~https://www.facebook.com/okoliciouztheone
+tw~https://twitter.com/okoliciouz
+in~https://www.instagram.com/okoliciouzz/
+Команда~No Limit Gaming (NLG)
+Страна~Польша

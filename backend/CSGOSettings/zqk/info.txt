@@ -1,0 +1,20 @@
+Имя~Кайо Фонсека (Caio Fonseca)
+DPI:~500
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.66
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~2/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-AqkVE-efmeX-ZsFbb-Y4LUG-CrrBE
+Параметры запуска~-w 1024 -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561197964297736
+fb~https://www.facebook.com/zqkcsgo
+tw~https://twitter.com/caiozqk
+in~https://www.instagram.com/caiozqk
+Команда~Без команды
+Страна~Бразилия

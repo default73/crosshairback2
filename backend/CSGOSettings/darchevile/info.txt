@@ -1,0 +1,18 @@
+Имя~Войцех Клаба (Wojciech Klęba)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-A6dpv-Wtan4-pW95Y-cypJJ-XKk9Q
+Параметры запуска~-freq 240 -tickrate 128 -console -novid
+st~https://steamcommunity.com/profiles/76561198215765908
+tw~https://twitter.com/darchevile
+Команда~AGO
+Страна~Польша

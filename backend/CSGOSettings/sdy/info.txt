@@ -1,0 +1,21 @@
+Имя~Виктор Оруджев (Viktor Orudjev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-RfM7o-3fuOa-P2GwF-r22u4-sw3JE
+Параметры запуска~-console -freq 240 -refresh 240 -novid -tickrate 128 -tick 128 -processheap +cl_interp_ratio 1 +rate 786432 +cl_cmdrate 128 +cl_updaterate 128
+st~https://steamcommunity.com/profiles/76561198040577200
+vk~https://vk.com/id169070166
+twitch~https://www.twitch.tv/somed1eyoung
+tw~https://twitter.com/somedieyoungCS
+in~https://www.instagram.com/somedieyoungcs
+Команда~Monte
+Страна~Украина

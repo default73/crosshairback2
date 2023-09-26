@@ -1,0 +1,21 @@
+Имя~Николас Миоцци (Nicolas Miozzi)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7dOOV-fwSy5-ysODA-RMJiU-LwSOG
+st~https://steamcommunity.com/profiles/76561198389435855
+twitch~https://www.twitch.tv/nikomfps
+yt~https://www.youtube.com/channel/UCQdX0PE--FE3Ep8nq8bexCA
+fb~https://www.facebook.com/Nikomonsterr
+tw~https://twitter.com/NikoMcsgo
+in~https://www.instagram.com/nicomiozzi
+Команда~Без команды
+Страна~Аргентина

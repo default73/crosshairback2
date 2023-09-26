@@ -1,0 +1,19 @@
+Имя~Купер Фелпс (Cooper Phelps)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1080 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-2GUiq-RWfHL-LSuMB-jdYOF-CL5mA
+st~https://steamcommunity.com/profiles/76561198119513781
+yt~https://www.youtube.com/channel/UCMlKRHwY5cFv6ExSGB-2WXw
+fb~https://www.twitch.tv/trucklover86_
+tw~https://twitter.com/Trucklover86
+Команда~Mythic
+Страна~США

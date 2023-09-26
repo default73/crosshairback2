@@ -1,0 +1,20 @@
+Имя~Виталий Любарец (Vitaly Lyubarets)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-4h5sU-d2DqE-nUoNk-ob2fb-StPcF
+Параметры запуска~-allow_third_party_software -language colormod -processheap -nojoy -refresh 144 -novid +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 +fps_max 400
+st~https://steamcommunity.com/profiles/76561198111258492
+vk~https://vk.com/idl1ghtn1ng
+twitch~https://www.twitch.tv/l1gh7n1ng1
+in~https://www.instagram.com/l1gh7n1ngofficial
+Команда~Без команды
+Страна~Россия

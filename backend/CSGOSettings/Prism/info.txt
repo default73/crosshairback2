@@ -1,0 +1,20 @@
+Имя~Войцех Зиеба (Wojciech Zięba)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-cSh45-xzmVq-sWqEH-iCOMR-udBAA
+st~https://steamcommunity.com/profiles/76561198077677671
+twitch~https://www.twitch.tv/prism_iwnl
+fb~https://www.facebook.com/prismiwnl
+tw~https://twitter.com/Prismiwnl
+in~https://www.instagram.com/prismcsgo
+Команда~Без команды
+Страна~Польша

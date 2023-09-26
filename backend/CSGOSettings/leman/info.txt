@@ -1,0 +1,19 @@
+Имя~Эрик Косеба (Eryk Kocęba)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Q722O-bA9Sd-vnbjt-emfFU-FTsFF
+Параметры запуска~-novid -console -freq 240
+st~https://steamcommunity.com/profiles/76561198000664245
+fb~https://www.facebook.com/lemanix23
+tw~https://twitter.com/lemanCSGO
+Команда~Без команды
+Страна~Польша

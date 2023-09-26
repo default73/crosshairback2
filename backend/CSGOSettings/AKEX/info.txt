@@ -1,0 +1,19 @@
+Имя~Александр Шмидт Руис Диас (Alexander Schmidt Ruiz Diaz)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-CdMSb-ZKpic-zQKHv-FGwwt-8n74E
+Параметры запуска~-freq 240 -console -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198032632385
+twitch~https://www.twitch.tv/csakex
+tw~https://twitter.com/Cs_Akex
+Команда~Без команды
+Страна~Парагвай

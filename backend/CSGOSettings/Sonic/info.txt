@@ -1,0 +1,20 @@
+Имя~Аран Грусбек (Aran Groesbeek)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-EjGDS-LHNqX-VUkBk-jp9o2-QkMwF
+st~http://steamcommunity.com/profiles/76561197975129851
+twitch~https://www.twitch.tv/SonicZA
+fb~https://facebook.com/AranSonic
+tw~https://twitter.com/Sonic_cs
+in~https://www.instagram.com/sonic_csgo
+Команда~Без команды
+Страна~Южная Африка

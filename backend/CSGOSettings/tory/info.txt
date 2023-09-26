@@ -1,0 +1,21 @@
+Имя~Виктория Казиева (Victoria Kazieva)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.88
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-S8YUT-rkrQ6-AwM6s-xVuKV-MDr7C
+Параметры запуска~-tickrate 128 -novid -noforcemaccel -noforcemparms -freq 240 -console +rate 786432 +cl_interp 0 +cl_interp_ratio 1 -language english +exec .cfg -mat_queue_mode 2 -port 27025 -allow_third_party_software -mat_monitorgamma 120 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198047829655
+vk~https://vk.com/id41713017
+twitch~https://www.twitch.tv/torycs
+tw~https://twitter.com/torycsgo
+in~https://www.instagram.com/_tory__tory_
+Команда~Nigma Galaxy Female
+Страна~Россия

@@ -1,0 +1,18 @@
+Имя~Хампус Позер (Hampus Poser)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.67
+Чувствительность мыши в зуме:~0.78
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-o7hPx-NGTtE-HR47f-Pespq-PprBE
+st~https://steamcommunity.com/profiles/76561198086945950
+tw~https://twitter.com/hampuscsgo
+in~https://www.instagram.com/hampuscsgo
+Команда~Ninjas in Pyjamas
+Страна~Швеция

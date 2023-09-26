@@ -1,0 +1,21 @@
+Имя~Дмитрий Хлебников (Dmitry Khlebnikov)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-DAyK9-wewCj-ShFuU-O4FE7-jxSyL
+Параметры запуска~-novid -freq 144 -tickrate 128 +cl_interp_ratio 2 -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128
+st~https://steamcommunity.com/profiles/76561198143856298
+vk~https://vk.com/id366676709
+twitch~https://www.twitch.tv/sstinix
+tw~https://twitter.com/sstiNiX
+in~https://www.instagram.com/sstinixx/?hl=ru
+Команда~Без команды
+Страна~Россия

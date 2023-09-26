@@ -1,0 +1,22 @@
+Имя~Клаудио Кунья (Cláudio Cunha)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-s7toR-DtVCQ-BOWN8-NWufK-BDrmJ
+Параметры запуска~-noforcemaccel -usenoforcedmparms -novid -w 1152 -h 864 -refresh 144 -freq 144 -lv
+st~https://steamcommunity.com/profiles/76561198163666325
+twitch~https://www.twitch.tv/cunhanik
+yt~https://www.youtube.com/channel/UCcrEPjdSGD77E2QrmEOvYrg/videos
+fb~https://www.facebook.com/Cunhacsgo
+tw~https://twitter.com/Cunha_csgo
+in~https://www.instagram.com/cunha_csgo/
+Команда~Без команды
+Страна~Португалия

@@ -1,0 +1,18 @@
+Имя~Эдгар Мальдонадо (Edgar Maldonado)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-aMnUH-nHqhF-36HRV-nGHFY-5EWzE
+st~https://steamcommunity.com/id/Markeee1/
+twitch~https://www.twitch.tv/marke_1
+tw~https://twitter.com/MarkeCSGO
+Команда~Nouns
+Страна~Мексика

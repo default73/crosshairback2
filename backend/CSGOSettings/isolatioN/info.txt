@@ -1,0 +1,20 @@
+Имя~Артём Хвостиков (Artem Khvostikov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.77
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5atDQ-z45S5-iwROn-chnGP-4JDhP
+Параметры запуска~-novid -freq 240 -tickrate 128 +rate 786432 +cl_updaterate 128 +cl_cmdrate 128 -refresh 240 -theards 8 +fps_max 500 +cl_interp 1 +cl_interp_ratio 2
+st~https://steamcommunity.com/profiles/76561198086969311
+vk~https://vk.com/id136053196
+twitch~https://www.twitch.tv/isolationn1
+in~https://www.instagram.com/artyom39_
+Команда~Без команды
+Страна~Россия

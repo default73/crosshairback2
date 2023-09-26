@@ -1,0 +1,19 @@
+Имя~Виктор Андраде (Victor Andrade)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rTGNR-HTS2n-o4Z4O-FYUvK-LqbxJ
+Параметры запуска~-freq 240 -console -novid -tickrate 128 -clientport 27025 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198135228658
+twitch~https://www.twitch.tv/Gafolo
+tw~https://twitter.com/gafolo1
+Команда~Sharks Esports
+Страна~Бразилия

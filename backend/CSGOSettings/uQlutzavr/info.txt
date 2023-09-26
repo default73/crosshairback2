@@ -1,0 +1,21 @@
+Имя~Павел Белов (Pavel Belov)
+DPI:~1500
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FA4Yn-abS4W-X384B-qc9BH-dwWPA
+Параметры запуска~-notrusted -allow_third_party_software -novid -high -language english -tickrate 128 -freq 240 -refresh 240 +cl_updaterate 128 +cl_cmdrate 128 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198272168467
+vk~https://vk.com/id44148650
+twitch~https://www.twitch.tv/uqlutzavr
+tw~https://twitter.com/uqlutzavr
+in~https://www.instagram.com/uqlutzavr
+Команда~Без команды
+Страна~Украина

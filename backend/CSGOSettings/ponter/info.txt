@@ -1,0 +1,19 @@
+Имя~Габриэль Амарал (Gabriel Amaral)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-KVATW-aArZp-sRTww-J3qpc-iGL9P
+Параметры запуска~-novid -refresh 144 -nojoy -noaafonts -tickrate 128 -console -d3d9ex
+st~https://steamcommunity.com/profiles/76561198161674889
+tw~https://twitter.com/ponterzin
+in~https://www.instagram.com/ponterzin
+Команда~ARCTIC
+Страна~Бразилия

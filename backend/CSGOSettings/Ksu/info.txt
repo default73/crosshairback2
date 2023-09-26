@@ -1,0 +1,21 @@
+Имя~Ксения Волкова (Ksenia Volkova)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-wVuxb-YjXkA-zHBDr-2UwrN-3d2pH
+Параметры запуска~-console -freq 144 -tickrate 128 +cl_updaterate 128 +cl_interp 0 +cl_interp_ratio 1 -allow_third_party_software -untrusted
+st~https://steamcommunity.com/profiles/76561197989010446
+vk~https://vk.com/id159964031
+twitch~https://www.twitch.tv/ksucsgo
+tw~https://twitter.com/ksucsgo
+in~https://www.instagram.com/ksucsgo
+Команда~9 Pandas Fearless
+Страна~Россия

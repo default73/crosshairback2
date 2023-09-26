@@ -1,0 +1,18 @@
+Имя~Коннор Б. (Connor B.)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-bGuOv-F5YLq-UfibP-LxL5n-EaVvD
+st~https://steamcommunity.com/profiles/76561198239025414
+twitch~https://www.twitch.tv/jermaine_cs
+tw~https://twitter.com/jermaine_cs
+Команда~Без команды
+Страна~США

@@ -1,0 +1,20 @@
+Имя~Митко Костов (Mitko Kostov)
+DPI:~600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~360Hz
+sharecode~CSGO-mTcBY-YHKWT-GkWvf-d3dSW-cn3cQ
+Параметры запуска~-tickrate 128 -novid -high -freq 360
+st~https://steamcommunity.com/profiles/76561198056037927
+twitch~https://www.twitch.tv/hybridhack
+yt~https://www.youtube.com/channel/UC_ITWaFm8z-M6ajogtiwIXg
+tw~https://twitter.com/hybrIDd1g
+Команда~Без команды
+Страна~Болгария

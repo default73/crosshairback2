@@ -1,0 +1,18 @@
+Имя~Брайан Лемех (Brajan Lemech)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-WZPhr-TFOuG-yjGrm-hKvuE-2zpxA
+Параметры запуска~-tickrate 128 -refresh 240 -nod3d9ex -novid -nojoy
+st~https://steamcommunity.com/profiles/76561198238366860
+tw~https://twitter.com/DglMeister1
+Команда~Illuminar Gaming
+Страна~Польша

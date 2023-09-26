@@ -1,0 +1,17 @@
+Имя~Рубен Феррейра (Rúben Ferreira)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.15
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-FWzuB-mcUmW-yDJyz-Vs95y-yFHnK
+Параметры запуска~-novid -console -tickrate 128 -high -freq 144 -allow_third_party_software +cl_threaded_bone_setup 1 +mat_queue_mode -2
+st~https://steamcommunity.com/profiles/76561198025795166
+Команда~Без команды
+Страна~Португалия

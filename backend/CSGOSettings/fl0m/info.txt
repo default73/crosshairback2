@@ -1,0 +1,21 @@
+Имя~Эрик Флом (Erik Flom)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-RHXHx-UXZaK-UmP9s-rEDkQ-GS6yD
+Параметры запуска~-freq 240 -refresh 240 -high -tickrate 128 -d3d9ex -novid -console
+st~https://steamcommunity.com/profiles/76561197992220633
+yt~https://www.youtube.com/channel/UCVXA3FX3fCv-YEuBlxpeFVg
+fb~https://www.facebook.com/gofl0m
+tw~https://twitter.com/fl0mtv
+in~https://www.instagram.com/fl0mn0m/
+Команда~Mythic
+Страна~США

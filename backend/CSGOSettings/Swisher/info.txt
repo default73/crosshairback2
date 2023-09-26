@@ -1,0 +1,19 @@
+Имя~Майкл Шмид (Michael Schmid)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-TcHmj-UQKLV-KRMzJ-teP7y-L4hWA
+Параметры запуска~-novid -freq 240 +cl_interp_ratio 2 -tickrate 128 +fps_max 999 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198183003671
+twitch~https://www.twitch.tv/swishercs
+tw~https://twitter.com/swishcs
+Команда~ATK
+Страна~США

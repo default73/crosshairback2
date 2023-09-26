@@ -1,0 +1,18 @@
+Имя~Каспер Дженсен (Casper Jensen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-siuvu-csD2X-RqMNd-b2HLR-JvjjD
+st~https://steamcommunity.com/profiles/76561198190930470
+twitch~https://www.twitch.tv/cabbi_cs
+tw~https://twitter.com/Cabbi_cs
+Команда~Espionage
+Страна~Дания

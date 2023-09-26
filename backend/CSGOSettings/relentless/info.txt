@@ -1,0 +1,19 @@
+Имя~Сантьяго Баркиеси (Santiago Barchiesi)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ZSouh-tqNFo-EqXo8-FdNwV-wwXsO
+Параметры запуска~-novid -high -d3d9ex -refresh 240 -freq 240 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198152794801
+tw~https://twitter.com/relentlessfps1
+in~https://www.instagram.com/santi.barchiesi
+Команда~9z Academy
+Страна~Аргентина

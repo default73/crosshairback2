@@ -1,0 +1,20 @@
+Имя~Тимо Рихтер (Timo Richter)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1.12
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-YwVRU-MdfCa-TdPuf-3SEEp-FFhnL
+st~https://steamcommunity.com/profiles/76561197973730803
+twitch~https://www.twitch.tv/spiidiwhaam
+fb~https://www.facebook.com/SpiidiCS
+tw~https://twitter.com/SpiidiCS
+in~https://www.instagram.com/timo_spiidi
+Команда~ALTERNATE aTTaX
+Страна~Германия

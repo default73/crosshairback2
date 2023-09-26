@@ -1,0 +1,20 @@
+Имя~Сандер Иверсен (Sander Iversen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-th3kP-DNjGK-PrB6z-j9cK7-maOUD
+Параметры запуска~+cl_interp_ratio 1 -novid -nojoy -tickrate 128 -console -D3D9EX -freq 240
+st~https://steamcommunity.com/profiles/76561197994899299
+twitch~https://www.twitch.tv/Grusarn
+tw~https://twitter.com/GrusCSGO
+in~https://www.instagram.com/gruscs
+Команда~GEEKZ ENERGY
+Страна~Норвегия

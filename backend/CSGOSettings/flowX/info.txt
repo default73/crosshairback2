@@ -1,0 +1,20 @@
+Имя~Аарон Сампедро (Aarón Sampedro)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.44
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-rwaUA-CWXVt-k8LUc-L53ht-NcrVQ
+Параметры запуска~-novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198188892467
+twitch~https://www.twitch.tv/flowxcs
+tw~https://twitter.com/flowXcs
+in~https://www.instagram.com/aaronsampdro/
+Команда~Без команды
+Страна~Испания

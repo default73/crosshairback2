@@ -1,0 +1,21 @@
+Имя~Владислав Шилов (Vladislav Shilov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-Qj5RE-2JZpe-ijeNJ-G7K65-HsnkP
+Параметры запуска~-novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -freq 144 -threads 12 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198168987887
+vk~https://vk.com/id259612543
+twitch~https://www.twitch.tv/k4nfuz
+tw~https://twitter.com/k4nfuz
+in~https://www.instagram.com/vlad1slav_sh1lov
+Команда~Без команды
+Страна~Россия

@@ -1,0 +1,19 @@
+Имя~Маршан Смит (Marchahn Smith)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-oFpEt-BMSDN-v9Mq3-ain3O-fFu8O
+Параметры запуска~-freq 240 -novid -no-browser -nojoy -tickrate 128 -d3d9ex -high
+st~https://steamcommunity.com/profiles/76561198051922966
+yt~https://www.youtube.com/channel/UCOylfwA4kwv58cK3aE_1koA
+tw~https://twitter.com/marchza_
+Команда~Bravado
+Страна~Южная Африка

@@ -1,0 +1,20 @@
+Имя~Михал Рудзски (Michał Rudzki)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~800 x 600
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-S48yA-U8e8O-ef9cR-SF9EE-CrrBE
+st~https://steamcommunity.com/profiles/76561198071702537
+twitch~https://www.twitch.tv/snatchieeee
+fb~https://facebook.com/snatchiee
+tw~https://twitter.com/snatchiecsgo
+in~https://www.instagram.com/snatchiecsgo
+Команда~Entropiq
+Страна~Польша

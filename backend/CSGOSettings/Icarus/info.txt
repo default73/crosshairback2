@@ -1,0 +1,19 @@
+Имя~Диого Крус (Diogo Cruz)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-iFh4A-rkp4T-OG2mV-xh4zn-8VopQ
+Параметры запуска~-novid -console -tickrate 128 -high -freq 240
+st~https://steamcommunity.com/profiles/76561198251575480
+tw~https://twitter.com/Icaruscs10
+in~https://www.instagram.com/diogoc._
+Команда~GTZ.ESPORTS
+Страна~Португалия

@@ -1,0 +1,19 @@
+Имя~Гарет Риес (Gareth Ries)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5pfty-Rr37G-beVGw-RNfo2-HDWzE
+st~https://steamcommunity.com/profiles/76561198135415618
+twitch~https://www.twitch.tv/mistem
+fb~https://www.facebook.com/MisteMCSGO
+tw~https://twitter.com/MisteMtv
+Команда~ATK
+Страна~Южная Африка

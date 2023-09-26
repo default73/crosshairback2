@@ -1,0 +1,20 @@
+Имя~Сергей Скляренко (Sergey Sklyarenko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.6
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jX82S-SPoD7-qGJLp-OLQtJ-a7LsE
+st~https://steamcommunity.com/profiles/76561198036704646
+vk~https://vk.com/ldsmike
+twitch~https://www.twitch.tv/smikekeke
+tw~https://twitter.com/smikello
+in~https://www.instagram.com/smikello
+Команда~Без команды
+Страна~Украина

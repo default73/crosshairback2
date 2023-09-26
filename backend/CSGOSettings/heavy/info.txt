@@ -1,0 +1,19 @@
+Имя~Филип Висс (Filip Wiss)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.65
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Kzpqf-AiQFm-YUoTa-LK4Ft-4jTiA
+st~https://steamcommunity.com/profiles/76561198164332808
+twitch~https://www.twitch.tv/heavycsgoo
+yt~https://www.youtube.com/channel/UCwdYuV8jKhny0p8TncVVuMg
+in~https://www.instagram.com/filipwiss/
+Команда~Без команды
+Страна~Швеция

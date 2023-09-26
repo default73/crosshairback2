@@ -1,0 +1,19 @@
+Имя~Макс Кугенер (Max Kugener)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-9Wexq-hZZxu-FN2Tt-FCk7z-63qRP
+Параметры запуска~-tickrate 128 -novid -language english
+st~https://steamcommunity.com/profiles/76561198176422667
+twitch~https://www.twitch.tv/marixcs
+tw~https://twitter.com/marixcsgo
+Команда~Без команды
+Страна~Люксембург

@@ -1,0 +1,20 @@
+Имя~Адам Ахмад (Adam Ahmad)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-H5h2L-SnFTY-eafei-E6NDB-RCHnK
+Параметры запуска~-novid -nojoy -freq 240 +exec autoexec -tickrate 128 +mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198040547485
+twitch~https://www.twitch.tv/adam9130
+yt~https://www.youtube.com/channel/UC_PZQWVKEKM-BiiwYX2IU8A
+tw~https://twitter.com/Adam9130
+Команда~Без команды
+Страна~Великобритания

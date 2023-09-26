@@ -1,0 +1,21 @@
+Имя~Патрик Жан Заремба (Patrick Jan Zaremba)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-WJ2ZH-7EuAE-uZFFU-TbcKu-2XT4M
+Параметры запуска~-console -refresh 240 +fps_max 400 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198020418216
+twitch~https://www.twitch.tv/p4trick_cs
+fb~https://www.facebook.com/P4TriCKcs
+tw~https://twitter.com/P4TriCK_cs
+in~https://www.instagram.com/p4trick.z
+Команда~The Prodigies
+Страна~Германия

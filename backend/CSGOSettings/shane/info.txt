@@ -1,0 +1,18 @@
+Имя~Шейн Дресслер (Shane Dressler)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-L96t3-Tttvh-ZZb7Q-cWdRW-zqLDR
+Параметры запуска~-novid -console -tickrate 128 -high +fps_max 999 -rate 786432 +cl_updaterate 128 +cl_cmdrate 128 +mat_queue_mode 2 +cl_forcepreload 1 -nod3d9ex -nojoy -freq 240
+st~https://steamcommunity.com/profiles/76561198370264168
+tw~https://www.twitter.com/_shanecs
+Команда~Без команды
+Страна~США

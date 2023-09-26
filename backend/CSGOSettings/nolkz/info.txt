@@ -1,0 +1,20 @@
+Имя~Фелипе Родригес (Felipe Rodrigues)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VZ9Hr-9VOQx-OstfE-JuTda-ZbJaA
+Параметры запуска~-noforcemaccel -noforcemparms -novid -freq 240 -refresh 240 -tickrate 128 -console -high -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198800332820
+twitch~https://www.twitch.tv/nolkz
+tw~https://twitter.com/nolkzfelipe
+in~https://www.instagram.com/felipe_nolkz
+Команда~Solid
+Страна~Бразилия

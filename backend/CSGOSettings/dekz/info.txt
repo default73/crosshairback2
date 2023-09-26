@@ -1,0 +1,21 @@
+Имя~Максим Королев (Maksim Korolev)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~280Hz
+sharecode~CSGO-t2PEc-JqeQG-FpZvQ-Zmrds-OESZQ
+Параметры запуска~-freq 280 -novid -language english -tickrate 128 -no-browser +cl_cmdrate 128 +cl_updaterate 128 +fps_max 401 +fps_max_menu 250 -allow_third_party_software +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198195034662
+vk~https://vk.com/id556728017
+twitch~https://www.twitch.tv/dekzzf
+tw~https://twitter.com/dekzcs
+in~https://www.instagram.com/ogdekz
+Команда~Без команды
+Страна~Россия

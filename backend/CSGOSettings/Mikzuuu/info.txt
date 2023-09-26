@@ -1,0 +1,19 @@
+Имя~Микаэль Селандер (Mikael Selander)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 900
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Tv8YE-OA7tO-Lo883-Tmj7z-iyXsO
+Параметры запуска~-novid -high -console -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198075518731
+twitch~https://www.twitch.tv/mikzuuuu
+tw~https://twitter.com/MikzuuuCSGO
+Команда~Без команды
+Страна~Финляндия

@@ -1,0 +1,20 @@
+Имя~Санжар Талгат (Sanzhar Talgat)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-z8K6F-SwAFj-yN4t7-VT2sO-mOJvM
+Параметры запуска~-freq 240 -tickrate 128 -novid -console +r_dynamic 0 +cl_interp_ratio 2 +mat_queue_mode 2 -allow_third_party_software -trusted_blockall
+st~https://steamcommunity.com/profiles/76561198222819764
+vk~https://vk.com/id185487219
+twitch~https://www.twitch.tv/def1zer
+in~https://www.instagram.com/def1zer
+Команда~AVANGAR
+Страна~Казахстан

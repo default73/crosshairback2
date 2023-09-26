@@ -1,0 +1,18 @@
+Имя~Вилли Стейн (Willie Steyn)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.51
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3e57V-kNpCD-TZE3F-6d3GR-QNVGQ
+st~https://steamcommunity.com/profiles/76561198169094772
+tw~https://twitter.com/wipeoutZa
+in~https://www.instagram.com/willie_za_/
+Команда~Без команды
+Страна~Южная Африка

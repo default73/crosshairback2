@@ -1,0 +1,19 @@
+Имя~Никита Завертайло (Nikita Zavertaylo)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.2
+Чувствительность мыши в зуме:~0.71
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1080 x 1080
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-PD6kb-bj6Do-rF2FJ-wFMRK-2zpxA
+Параметры запуска~-refresh 240 +cl_interp_ratio 1 -novid -console +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198306633362
+vk~https://vk.com/id138299325
+twitch~https://www.twitch.tv/xven1k
+Команда~Без команды
+Страна~Россия

@@ -1,0 +1,18 @@
+Имя~Филипп Эстергаард Нербек (Phillip Østergaard Nørbæk)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-XS5AW-wOq8u-FQzWO-pUujx-JTDND
+Параметры запуска~-console -tickrate 128 -allow_third_party_software -novid -tickrate 128 +cl_interp 1 +cl_interp_ratio 1 +cl_cmdrate 128 +cl_updaterate 128 -freq 240 +fps_max 400 +rate 999999 -noubershader
+st~https://steamcommunity.com/profiles/76561198369328968
+tw~https://twitter.com/foamcsgo
+Команда~Без команды
+Страна~Дания

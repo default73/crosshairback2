@@ -1,0 +1,18 @@
+Имя~Эдгарас Луксас (Edgaras Luksas)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-evdaT-yFYrw-97UG7-aWOD9-zbVvD
+st~https://steamcommunity.com/profiles/76561198020161616
+twitch~https://www.twitch.tv/entzCS
+tw~https://twitter.com/entzCSGO
+Команда~GEEKZ ENERGY
+Страна~Великобритания

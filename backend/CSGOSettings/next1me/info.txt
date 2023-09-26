@@ -1,0 +1,18 @@
+Имя~Каспер Параковский (Kacper Parakowski)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-MWvHD-RixoQ-Sw76L-HXvWo-n92YP
+st~https://steamcommunity.com/profiles/76561199237188983
+tw~https://twitter.com/next1mecs
+in~https://www.instagram.com/next1mecs/
+Команда~Без команды
+Страна~Польша

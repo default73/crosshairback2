@@ -1,0 +1,20 @@
+Имя~Евгений Плотцов (Evgeny Plottsov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~144Hz
+sharecode~CSGO-7OrN7-qrzLs-TaZNG-RP5ce-POwLA
+Параметры запуска~-novid -tickrate 128 -freq 144 +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561198444232511
+vk~https://vk.com/id478830801
+twitch~https://www.twitch.tv/delus1onnya
+in~https://www.instagram.com/delus1onn7
+Команда~Без команды
+Страна~Россия

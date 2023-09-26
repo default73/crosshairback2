@@ -1,0 +1,20 @@
+Имя~Омар Чаккор (Omar Chakkor)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.11
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ZrAjp-hu46n-vnB7F-oHfJB-U3SKF
+Параметры запуска~-freq 240 -console -novid -no-browser -nojoy -tickrate 128 -high +fps_max 500
+st~https://steamcommunity.com/profiles/76561197978321481
+twitch~https://www.twitch.tv/arkics
+tw~https://twitter.com/arkics
+in~https://www.instagram.com/arkicsgo
+Команда~Без команды
+Страна~Испания

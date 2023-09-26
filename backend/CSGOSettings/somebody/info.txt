@@ -1,0 +1,18 @@
+Имя~Хаовэнь Сюй (HaoWen Xu)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-HwoLe-K2aAp-3xC2y-sVzoQ-b6FyB
+Параметры запуска~-noforcemaccel -noforcemparms -refresh 144 -processheap -tickrate 128 -novid -threads 4 -freq 144
+st~https://steamcommunity.com/id/SOMEBODYGO1/
+tw~https://twitter.com/tyloosomebody
+Команда~Без команды
+Страна~Китай

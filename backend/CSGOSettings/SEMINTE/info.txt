@@ -1,0 +1,21 @@
+Имя~Валентин Бодеа (Valentin Bodea)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Qdk6t-LXrZj-OKjXK-AEOQT-2OLTK
+Параметры запуска~-novid -freq 240 -tickrate 128 -console +cl_interp_ratio 1 +mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561197996436741
+twitch~https://www.twitch.tv/seminte
+fb~https://www.facebook.com/OfficialSEMINTE/
+tw~https://twitter.com/semintecs
+in~https://www.instagram.com/valentinbodea
+Команда~Без команды
+Страна~Румыния

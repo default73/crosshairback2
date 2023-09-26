@@ -1,0 +1,18 @@
+Имя~Хуан Родригес (Juan Rodriguez)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-kFtCp-nj6tj-BobUZ-i9TV3-NFtdA
+st~https://steamcommunity.com/profiles/76561198277725019
+twitch~https://www.twitch.tv/slayerhz
+tw~https://twitter.com/MK_Slayerhz
+Команда~Без команды
+Страна~Колумбия

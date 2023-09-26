@@ -1,0 +1,19 @@
+Имя~Максим Чуриков (Maksim Churikov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 900
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-SUVxj-kYvJM-ryJH4-oK8nJ-BDrmJ
+Параметры запуска~-w 1440 -h 900 -full -freq 240 -console -tickrate 128 -novid -nojoy +cl_threaded_bone_setup 1 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198889240025
+vk~https://vk.com/id269362734
+twitch~https://www.twitch.tv/riskyb0b
+Команда~Insilio
+Страна~Россия

@@ -1,0 +1,21 @@
+Имя~Питер Расмуссен (Peter Rasmussen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-YCxM4-eXkLV-58HZc-oX7w7-NM6FP
+Параметры запуска~-console -freq 240 -tickrate 128 +rate 786432 +cl_interp_ratio 1 +fps_max 0 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp 0
+st~https://steamcommunity.com/profiles/76561198004854956
+twitch~http://www.twitch.tv/dupreeh
+fb~https://www.facebook.com/dupreehcsgo
+tw~https://twitter.com/dupreehCSGO
+in~https://www.instagram.com/itsdupreeh
+Команда~Без команды
+Страна~Дания

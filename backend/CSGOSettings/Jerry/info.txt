@@ -1,0 +1,20 @@
+Имя~Андрей Мехряков (Andrey Mekhryakov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-68E4L-SaUPM-Gs5AW-jX8nU-JK5mA
+Параметры запуска~-console -novid +cl_updaterate 128 +cl_cmdrate 128 -tickrate 128 +cl_interp_ratio 1 +mat_queue_mode 2 +cl_interp 0.1 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198026088156
+vk~https://vk.com/id15007338
+tw~https://twitter.com/Jerrycsgo1
+in~https://www.instagram.com/jerry256csgo
+Команда~FORZE
+Страна~Россия

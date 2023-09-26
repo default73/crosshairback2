@@ -1,0 +1,19 @@
+Имя~Тайлер Рейли (Tyler Reilly)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-kznMo-cx5mY-bbf5u-sFmza-ZkmwG
+st~https://steamcommunity.com/profiles/76561198156063307
+twitch~https://www.twitch.tv/tucks1
+tw~https://twitter.com/tucks403
+in~https://www.instagram.com/tyler.tucks/
+Команда~Без команды
+Страна~Австралия

@@ -1,0 +1,18 @@
+Имя~Кацпер Виржевски (Kacper Wierzewski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-A6dpv-Wtan4-pW95Y-cypJJ-XKk9Q
+st~https://steamcommunity.com/profiles/76561198090459061
+fb~https://www.facebook.com/Killkapi/
+tw~https://twitter.com/Killkapi
+Команда~Без команды
+Страна~Польша

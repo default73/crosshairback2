@@ -1,0 +1,18 @@
+Имя~Джонатан Рюйтер (Jonatan Ruyter)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.175
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-CVKOW-JRde3-RKkOH-eS3iX-VjaAB
+Параметры запуска~-console -full -novid -tickrate 128 -freq 240 -refresh 240 -nojoy +cl_showfps 1 +cl_interp 1 +cl_interp_ratio 1 -d3d9x +cl_interpolate 1 +fps_max 400 +exec autoexec.cfg -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198812071682
+tw~https://twitter.com/ruytercs
+Команда~Без команды
+Страна~Норвегия

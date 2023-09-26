@@ -1,0 +1,18 @@
+Имя~Александр Вукичевиц (Alexander Wukicsevits)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-PJjs6-MTaFR-ymnaW-fptHq-Ed7iL
+Параметры запуска~-console -novid -freq 144 -language english -tickrate 128 -untrusted -allow_third_party_software
+st~http://steamcommunity.com/profiles/76561198038387770
+tw~https://twitter.com/masta_cs
+Команда~Без команды
+Страна~Австрия

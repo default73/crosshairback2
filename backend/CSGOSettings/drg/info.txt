@@ -1,0 +1,21 @@
+Имя~Родриго Аусенка (Rodrigo Ausenka)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.42
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-MXL9n-iKmqx-xH85k-JXvWo-n92YP
+Параметры запуска~-freq 240 -novid -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561198154095163
+twitch~https://www.twitch.tv/DRG_cs
+fb~https://www.facebook.com/DrGGcs
+tw~https://twitter.com/DRG_cs
+in~https://www.instagram.com/drg_cs
+Команда~Sharks Esports
+Страна~Бразилия

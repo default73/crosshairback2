@@ -1,0 +1,21 @@
+Имя~Фелипе Мартинс (Fillipe Martins)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-DDu4J-GaLFm-cwHPK-eD3BY-pbywQ
+Параметры запуска~-novid -high -tickrate 128 -d3d9ex -language english -freq 144 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198045722458
+twitch~https://www.twitch.tv/panccfps
+fb~https://www.facebook.com/pancfps
+tw~https://twitter.com/panccfps
+in~https://www.instagram.com/panccfps
+Команда~Без команды
+Страна~Бразилия

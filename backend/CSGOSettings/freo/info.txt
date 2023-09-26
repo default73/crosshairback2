@@ -1,0 +1,18 @@
+Имя~Томаш Вольски (Tomasz Wolski)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.65
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-24VF6-BkseD-eaMTH-UsDmA-RCHnK
+Параметры запуска~-language english -high -novid -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198069696357
+tw~https://twitter.com/freocs
+Команда~Singularity
+Страна~Польша

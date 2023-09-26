@@ -1,0 +1,19 @@
+Имя~Себастьян Малос (Sebastian Malos)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5xKhR-6jAT3-MZXOr-AwcRm-wembN
+Параметры запуска~-novid -tickrate 128 +exec autoexec +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198155754447
+twitch~https://www.twitch.tv/voltcss
+tw~https://twitter.com/voltcss
+Команда~Into the Breach
+Страна~Великобритания

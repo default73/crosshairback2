@@ -1,0 +1,19 @@
+Имя~Хуго Петтерссон (Hugo Pettersson)
+DPI:~1200
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~1.05
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5TYQx-HrOPi-uf4YS-ybmpp-PmRqJ
+st~https://steamcommunity.com/profiles/76561198148658145
+twitch~https://www.twitch.tv/panpandan
+yt~https://www.youtube.com/channel/UCfj8vhhUxXTN_D-L29a_ADg
+tw~https://twitter.com/HugoBEASTcs
+Команда~Без команды
+Страна~Швеция

@@ -1,0 +1,22 @@
+Имя~Дмитрий Червак (Dmitriy Chervak)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3mdwh-bXs8v-2RVxD-G4Py4-5AnkP
+Параметры запуска~-refresh 240 -tickrate 128 +cl_interp 0 +rate 786432 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp_ratio 1 +fps_max 999 -noaafots -console -d3d9ex
+st~https://steamcommunity.com/profiles/76561198003756239
+vk~https://vk.com/id21490571
+twitch~https://www.twitch.tv/jR_off
+yt~https://www.youtube.com/channel/UCS6pXT7nRUqn3DVPu5ZYlug
+tw~https://twitter.com/jrcsgo
+in~https://www.instagram.com/jr.off
+Команда~Без команды
+Страна~Украина

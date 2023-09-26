@@ -1,0 +1,18 @@
+Имя~Оливье Янус (Oliwier Janus)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~0.99
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-DwTmj-O8q6E-MyrEa-Ds9kN-bkWjM
+Параметры запуска~-novid -tickrate 128 -nod3d9ex +mat_queue_mode 2 -d3d9ex -freq 144 -high
+st~https://steamcommunity.com/profiles/76561198242885242/
+tw~https://twitter.com/swizekcs
+Команда~Без команды
+Страна~Польша

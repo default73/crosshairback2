@@ -1,0 +1,19 @@
+Имя~Тимур Гузаиров (Timur Guzairov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.6
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-au9cQ-zAn8m-OzAMq-RLdxZ-G5SKF
+Параметры запуска~-novid -tickrate 128 -nojoy -allow_third_party_software +cl_cmdrate 128 +cl_updaterate 128
+st~https://steamcommunity.com/profiles/76561199160742584
+vk~https://vk.com/id671115547
+twitch~https://www.twitch.tv/keeegaaannn
+Команда~Без команды
+Страна~Россия

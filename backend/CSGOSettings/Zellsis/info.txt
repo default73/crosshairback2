@@ -1,0 +1,20 @@
+Имя~Джордан Монтемурро (Jordan Montemurro)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-nzyKh-cxL8F-9Hzh8-idm6y-EvPcF
+st~https://steamcommunity.com/id/Zellsis/
+twitch~https://www.twitch.tv/zellsis
+fb~https://www.facebook.com/Zellsis
+tw~https://twitter.com/zellsis
+in~https://www.instagram.com/zellsis/
+Команда~Без команды
+Страна~США

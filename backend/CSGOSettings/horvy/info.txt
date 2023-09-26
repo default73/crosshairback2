@@ -1,0 +1,22 @@
+Имя~Жоао Хорват (João Horvath)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-j6m52-Mktei-z87c9-jiUWW-U9z6A
+Параметры запуска~-freq 240 -novid -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561197971316261
+twitch~https://www.twitch.tv/horvyfps
+yt~https://www.youtube.com/c/Joaomatheusrh/featured
+fb~https://www.facebook.com/HorvyFPS/
+tw~https://twitter.com/horvyfps
+in~https://www.instagram.com/horvyfps/
+Команда~Без команды
+Страна~Бразилия

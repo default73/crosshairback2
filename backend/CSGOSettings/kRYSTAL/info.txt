@@ -1,0 +1,21 @@
+Имя~Кевин Аменд (Kevin Amend)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-hkA3S-zHYmT-8um4t-DmUUO-GS6yD
+Параметры запуска~-console -freq 240 -refresh 240 -novid -tickrate 128 -high
+st~https://steamcommunity.com/id/therealkRYSTAL/
+twitch~https://www.twitch.tv/krystal
+fb~https://www.facebook.com/2307kRYSTAL
+tw~https://twitter.com/kRYSTALcsgoo
+in~https://www.instagram.com/krystal_kevinamend/
+Команда~Без команды
+Страна~Германия

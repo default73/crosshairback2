@@ -1,0 +1,19 @@
+Имя~Андреас Валленберг (Andreas Wallenberg)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-pHDqk-sSpJS-29G75-6XKxp-hw3xK
+Параметры запуска~-freq 240 -console -tickrate 128 -novid
+st~https://steamcommunity.com/profiles/76561197963478402
+twitch~https://www.twitch.tv/addicsgo
+tw~https://twitter.com/addiicsgo
+Команда~Без команды
+Страна~Швеция

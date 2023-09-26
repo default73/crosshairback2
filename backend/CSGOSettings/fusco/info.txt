@@ -1,0 +1,19 @@
+Имя~Лукас Фаско (Lucas Fusco)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.97
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~3/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-p2v5O-STraG-EXbNR-CYk5n-kNchQ
+st~https://steamcommunity.com/profiles/76561198423366928
+twitch~https://www.twitch.tv/fuscofps
+tw~https://www.twitter.com/fuscolucas
+in~https://www.instagram.com/fuscolucas
+Команда~Без команды
+Страна~Аргентина

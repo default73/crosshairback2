@@ -1,0 +1,20 @@
+Имя~Ренато Моралес (Renato Morales)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.5
+Чувствительность мыши в зуме:~0.85
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-p6Kyp-yYNGh-tQMBD-cqdSW-zqLDR
+Параметры запуска~-novid -console -freq 240 +mat_queue_mode 2 +mat_vignette_enable 0 +exec autoexec -tickrate 128 -d3d9ex -allow_third_party_software -language bananagaming +fps_max 999 -maxdownloadsizemb 1000
+st~https://steamcommunity.com/profiles/76561198446908874
+fb~https://facebook.com/pacmancsgo
+tw~https://twitter.com/pacmancs
+in~https://www.instagram.com/renatoma97/
+Команда~Без команды
+Страна~Перу

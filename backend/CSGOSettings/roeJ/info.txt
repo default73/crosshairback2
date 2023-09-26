@@ -1,0 +1,19 @@
+Имя~Фредрик Йоргенсен (Fredrik Jørgensen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.85
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-BvexB-6qCRK-YCN9r-mD5om-EGnfO
+st~https://steamcommunity.com/profiles/76561197991234691
+twitch~https://www.twitch.tv/roejcsgo
+tw~https://twitter.com/roejcsgo
+in~https://www.instagram.com/fredroej
+Команда~fnatic
+Страна~Дания

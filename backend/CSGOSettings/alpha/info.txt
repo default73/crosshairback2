@@ -1,0 +1,20 @@
+Имя~Даниил Дёмин (Daniil Demin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wYDeB-iUtyM-vBqi2-ddMYj-FZieC
+Параметры запуска~-novid -freq 240 +cl_interp 1 +cl_interp_ratio 2 +fps_max 0 -rate 786432 -tickrate 128 mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198845426189
+vk~https://vk.com/id150764611
+twitch~https://www.twitch.tv/alpha0f
+tw~https://twitter.com/alphacs1337
+Команда~Boston crab
+Страна~Россия

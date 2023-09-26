@@ -1,0 +1,19 @@
+Имя~Лукас Брунсвиг (Lucas Brunsvig)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.85
+Чувствительность мыши в зуме:~6
+Чувствительность мыши в Windows:~1/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-Wb8fm-nfE75-BVsx4-VTSkT-KudqA
+Параметры запуска~-tickrate 128 +fps_max 0 -freq 240
+st~https://steamcommunity.com/profiles/76561197994021936
+tw~https://twitter.com/GnoffeCSGO
+in~https://www.instagram.com/gnoffe/
+Команда~Без команды
+Страна~Дания

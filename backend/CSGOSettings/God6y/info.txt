@@ -1,0 +1,21 @@
+Имя~Семён Чайка (Semyon Chaika)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~1.05
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~360Hz
+sharecode~CSGO-Uzs2T-pTJbS-4NCW9-PMFUR-KudqA
+Параметры запуска~-tickrate 128 -novid -freq 360 +rate 786432 +fps_max 0 -untrusted
+st~https://steamcommunity.com/profiles/76561198125759149
+vk~https://vk.com/id240256741
+twitch~https://www.twitch.tv/god6y
+tw~https://twitter.com/God6yof
+in~https://www.instagram.com/goddy.cs/
+Команда~Без команды
+Страна~Россия

@@ -1,0 +1,21 @@
+Имя~Ярослав Буряк (Yaroslav Buryak)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-iOU8m-99CeO-4zAZa-7ooeG-TiBAA
+st~https://steamcommunity.com/profiles/76561198084999291
+vk~https://vk.com/byr9csgo
+twitch~https://www.twitch.tv/byr9_csgo
+yt~https://www.youtube.com/channel/UCx3-tHrp7fdyenp28DPQ8Xg
+tw~https://twitter.com/byr9_csgo
+in~https://www.instagram.com/byr9_csgo
+Команда~IKLA UA
+Страна~Украина

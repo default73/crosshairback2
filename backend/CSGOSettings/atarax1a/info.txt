@@ -1,0 +1,20 @@
+Имя~Хоакин Биглиери (Joaquin Biglieri)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.65
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-pYvGK-bKbBZ-fr4s4-hvNGt-xnA6Q
+Параметры запуска~-high -freq 240 -refresh 240 -console -novid -tickrate 128 +mat_queue_mode "2" +r_dynamic "0"
+st~https://steamcommunity.com/profiles/76561198192191289
+twitch~https://www.twitch.tv/atarax1ab
+yt~https://www.youtube.com/channel/UCuqsxy8HgAYtjHAO5To6u_A
+tw~https://twitter.com/atarax1ab
+Команда~Boca Juniors
+Страна~Аргентина

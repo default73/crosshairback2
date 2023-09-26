@@ -1,0 +1,20 @@
+Имя~Кауэ Кашук (Kaue Kaschuk)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-TOmzE-jXRft-qUEmM-Ynwrc-xvSyL
+Параметры запуска~-novid -tickrate 128 +cl_interp_ratio 1 +mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198385657675
+twitch~https://www.twitch.tv/kauezcs
+tw~https://twitter.com/kauezcs
+in~http://instagram.com/kauekaschuk
+Команда~FURIA Academy
+Страна~Бразилия

@@ -1,0 +1,20 @@
+Имя~Робин Ронквест (Robin Rönnquist)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~0.87
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JVAih-XBhFk-JUF2z-ktav7-rmEVF
+Параметры запуска~-novid -console -refresh 240 -high
+st~https://steamcommunity.com/profiles/76561197991348083
+twitch~https://www.twitch.tv/flusha
+fb~https://www.facebook.com/flushaCSGO
+tw~https://twitter.com/flusha
+Команда~EYEBALLERS
+Страна~Швеция

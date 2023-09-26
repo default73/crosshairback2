@@ -1,0 +1,21 @@
+Имя~Джо Стеасил (Joey Steusel)
+DPI:~500
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-xspRe-jMJAp-u8wYZ-zYHjE-VfdBN
+Параметры запуска~-tickrate 128 -freq 120 -console -novid
+st~https://steamcommunity.com/profiles/76561198119098292
+twitch~https://www.twitch.tv/cruc1alcsgo
+fb~https://facebook.com/CRUC1ALcsgo
+tw~https://twitter.com/CRUC1ALcsgo
+in~https://www.instagram.com/CRUC1ALcsgo
+Команда~Into the Breach
+Страна~Нидерланды

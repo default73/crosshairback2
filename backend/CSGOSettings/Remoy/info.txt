@@ -1,0 +1,19 @@
+Имя~Эмиль Шлихтер (Emil Schlichter)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-U9CY2-YbzRe-phvFs-jTUyW-o2OtQ
+st~https://steamcommunity.com/id/remoyofficial/
+twitch~https://www.twitch.tv/remoy
+tw~https://twitter.com/RemoyCS
+in~https://www.instagram.com/emilschlichter/
+Команда~Без команды
+Страна~Дания

@@ -1,0 +1,20 @@
+Имя~Региан Сантос (Regiane Santos)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-WaWfN-qiv7O-msyHc-fM9EE-CrrBE
+Параметры запуска~w 1440 -h 1080 -novid  -refresh 144 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198283992188
+twitch~https://www.twitch.tv/regianefps
+tw~https://twitter.com/regianefps1
+in~https://www.instagram.com/regianefps1
+Команда~MIBR Female
+Страна~Бразилия

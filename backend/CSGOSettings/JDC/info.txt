@@ -1,0 +1,19 @@
+Имя~Джон де Кастро (Jon de Castro)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5UGqB-Z4nxh-UPbA8-h5L5n-EaVvD
+st~https://steamcommunity.com/profiles/76561198078771373
+twitch~https://www.twitch.tv/official_JDC
+tw~https://twitter.com/JDC_CSGO
+in~https://www.instagram.com/JDC_CS/
+Команда~Без команды
+Страна~Германия

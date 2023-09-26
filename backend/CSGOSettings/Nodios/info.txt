@@ -1,0 +1,20 @@
+Имя~Магнус Ольсен (Magnus Olsen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.51
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rE4aO-YzoZJ-ijfAa-2dATW-cn3cQ
+Параметры запуска~-freq 240 -allow_third_party_software -novid -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561198070876270
+twitch~https://www.twitch.tv/nodios
+tw~https://twitter.com/NodiosCSGO
+in~https://www.instagram.com/nodioscs
+Команда~ECSTATIC
+Страна~Дания

@@ -1,0 +1,21 @@
+Имя~Даурен Кыстаубаев (Dauren Kystaubayev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8wv8M-BYmYy-P6dZf-TasfH-ZVkoE
+Параметры запуска~-freq 240 -novid
+st~https://steamcommunity.com/profiles/76561198006466707
+vk~https://vk.com/dakosha
+twitch~https://www.twitch.tv/adren
+tw~https://twitter.com/AdreNcs
+in~https://www.instagram.com/adrencsgo/
+Команда~Без команды
+Страна~Казахстан

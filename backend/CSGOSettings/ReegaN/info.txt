@@ -1,0 +1,19 @@
+Имя~Риган Уорд (Reegan Ward)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-hVxfM-Sm6u2-C5bhx-So9W8-Jo74E
+Параметры запуска~-nojoy -tickrate 128 -novid +fps_max 0 -high -refresh 144 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp_ratio 2 +cl_interp 0.0310  -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198102745622
+twitch~https://www.twitch.tv/reegan
+tw~https://twitter.com/ReegaNjk
+Команда~Arctic Raptors
+Страна~Великобритания

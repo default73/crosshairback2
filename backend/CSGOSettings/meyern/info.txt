@@ -1,0 +1,21 @@
+Имя~Игнасио Мейер (Ignacio Meyer)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Oj7Dh-Chw5e-ubo2V-MEEUW-sSBUM
+Параметры запуска~-console -tickrate 128 -freq 240 -refresh 240 -high -novid -d3d9ex
+st~https://steamcommunity.com/profiles/76561198195642865
+twitch~https://www.twitch.tv/meyerntv
+fb~https://www.facebook.com/meyerncs
+tw~https://twitter.com/meyern
+in~https://www.instagram.com/nachomeyern
+Команда~BESTIA
+Страна~Аргентина

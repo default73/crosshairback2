@@ -1,0 +1,18 @@
+Имя~Эндрю Коут (Andrew Cote)
+DPI:~800
+Частота мыши:~100Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Ry9vE-5QKYU-xtTU5-a7x48-T3SKF
+st~https://steamcommunity.com/profiles/76561197993724724
+twitch~https://www.twitch.tv/tender_cs
+tw~https://twitter.com/tendercs
+Команда~WITHOUT WARNING
+Страна~США

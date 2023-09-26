@@ -1,0 +1,18 @@
+Имя~Михня Гэца (Mihnea Gheață)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-bzYJB-XHP4H-uuJSq-xXC4x-rFR7B
+Параметры запуска~-lv -cl_disablehtmlmotd 1 -allow_third_party_software -setting.mem_level 0 +r_drawparticles 0 -softparticlesdefaultoff -console -freq 240 -novid -tickrate 128 +mat_queue_mode 2 -no-browser -nojoy  +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198155962995
+tw~https://twitter.com/mhNcsgo
+Команда~Без команды
+Страна~Румыния

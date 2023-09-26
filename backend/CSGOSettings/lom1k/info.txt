@@ -1,0 +1,20 @@
+Имя~Иван Овсяник (Ivan Ovsyanik)
+DPI:~500
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.47
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-UUxDb-ACkx7-ViaaF-zHJPd-P4D7K
+Параметры запуска~-freq 144 -nofresh 144 -noforcemaccel -novid -tickrate 128 +cl_interp 0 +cl_interp_ratio 1 +mat_queue_mode 2 +fps_max 300
+st~https://steamcommunity.com/profiles/76561198164337029
+vk~https://vk.com/id160684049
+twitch~https://www.twitch.tv/vanya_lomik
+in~https://www.instagram.com/ovsyaw
+Команда~Без команды
+Страна~Россия

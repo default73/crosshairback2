@@ -1,0 +1,19 @@
+Имя~Изан Паскуаль (Izan Pascual)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-v49vv-HV3ZS-Ymfjp-aaFuX-znjPK
+Параметры запуска~-console -refresh 240 -novid -tickrate 128 -nojoy
+st~https://steamcommunity.com/profiles/76561198122291204
+tw~https://twitter.com/mikCSGO
+in~http://instagram.com/izanpascualb
+Команда~Без команды
+Страна~Испания

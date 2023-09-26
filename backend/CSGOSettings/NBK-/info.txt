@@ -1,0 +1,20 @@
+Имя~Натан Шмитт (Nathan Schmitt)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5FQ6x-oLHmh-F5ByL-m97Qy-VtjjD
+st~https://steamcommunity.com/profiles/76561197960710573
+twitch~https://www.twitch.tv/NBK
+fb~https://facebook.com/NathaNizzle
+tw~https://twitter.com/NBK
+in~https://www.instagram.com/nbk_csgo
+Команда~Falcons
+Страна~Франция

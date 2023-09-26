@@ -1,0 +1,19 @@
+Имя~Али Хайнус (Ali Haïnouss)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-N9qWR-78mnY-6ZnLo-nxNMF-nXx9H
+st~https://steamcommunity.com/profiles/76561197980944787
+twitch~https://www.twitch.tv/hadji_tv
+fb~https://www.facebook.com/hAdjicsgo
+tw~https://twitter.com/hAdjiCSGO
+Команда~Без команды
+Страна~Франция

@@ -1,0 +1,21 @@
+Имя~Адриан Королев (Adrian Korolev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.93
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~4/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-KBQxP-shMEw-uewZm-xpPzS-bCSZQ
+Параметры запуска~-novid -freq 240 -tickrate 128 -high -language english -d3d9ex
+st~https://steamcommunity.com/profiles/76561198115271902
+vk~https://vk.com/id102194587
+twitch~https://www.twitch.tv/fennycsgo
+tw~https://twitter.com/fennycsgo
+in~https://www.instagram.com/fenny_of/
+Команда~Без команды
+Страна~Эстония

@@ -1,0 +1,19 @@
+Имя~Энес Йылдыран (Enes Yıldıran)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-i5PwB-88fdt-MJVdS-Fn3A2-p4FyB
+st~https://steamcommunity.com/profiles/76561198972760455
+twitch~https://www.twitch.tv/colorzz_cs
+tw~https://twitter.com/colorzzcs
+in~https://www.instagram.com/enesrofl/
+Команда~The Chosen Few
+Страна~Турция

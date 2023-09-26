@@ -1,0 +1,21 @@
+Имя~Марсело Давид (Marcelo David)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3Ppuw-omUQp-VYbMN-CKMnA-frPcF
+Параметры запуска~-noforcemaccel -usenoforcedmparms -novid -w 1280 -h 960 -refresh 240 -freq 240 -high -d3d9ex -tickrate 128
+st~https://steamcommunity.com/profiles/76561198039986599
+twitch~https://www.twitch.tv/coldzin
+fb~https://www.facebook.com/rmkcoldzera
+tw~https://twitter.com/coldzera
+in~https://www.instagram.com/coldzera
+Команда~00Nation
+Страна~Бразилия

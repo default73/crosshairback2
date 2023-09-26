@@ -1,0 +1,21 @@
+Имя~Максим Семёнов (Maksim Semenov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-cbGTq-wbaWj-c5OFq-jiUWW-U9z6A
+Параметры запуска~-freq 240 -novid +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 +fps_max 400 -language ukrainian +cl_interp_ratio 1 +cl_interp 1
+st~https://steamcommunity.com/id/throne2h/
+vk~https://vk.com/throne2h
+twitch~https://www.twitch.tv/throne2h
+tw~https://twitter.com/throne2h
+in~https://www.instagram.com/throne2h/
+Команда~Без команды
+Страна~Украина

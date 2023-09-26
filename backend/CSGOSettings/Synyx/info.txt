@@ -1,0 +1,20 @@
+Имя~Даниил Мазур (Daniil Mazur)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-UboZx-RPhDQ-EiGLW-fomBb-tOUnB
+Параметры запуска~-freq 240 -tickrate 128 +fps_max 400 -allow_third_party_software -language english
+st~https://steamcommunity.com/profiles/76561198231549032
+vk~https://vk.com/id279490799
+twitch~https://www.twitch.tv/synyxd
+in~https://www.instagram.com/SYNYXZWER
+Команда~Nemiga Gaming
+Страна~Украина

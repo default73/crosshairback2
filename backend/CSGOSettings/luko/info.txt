@@ -1,0 +1,20 @@
+Имя~Лукаш Грабчик (Lukáš Hrabčík)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-aN9Dp-72LbR-B3PZh-yrdvc-EjyHL
+st~https://steamcommunity.com/profiles/76561198050427475
+twitch~https://www.twitch.tv/lukocs
+fb~https://www.facebook.com/lukocs
+tw~https://twitter.com/lukocsgo
+in~https://www.instagram.com/luko221
+Команда~Без команды
+Страна~Словакия

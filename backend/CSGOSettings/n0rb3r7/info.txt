@@ -1,0 +1,21 @@
+Имя~Давид Даниелян (David Danielyan)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-SGGZu-f6UFO-m2d2o-hABHV-jW2UO
+Параметры запуска~-freq 240 -tickrate 128 -novid
+st~https://steamcommunity.com/profiles/76561198222442504
+vk~https://vk.com/id31411694
+twitch~https://www.twitch.tv/n0rb3r7
+tw~https://twitter.com/n0rb3r7_CSGO
+in~https://www.instagram.com/n0rb3r7_cs
+Команда~Virtus.pro
+Страна~Россия

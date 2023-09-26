@@ -1,0 +1,20 @@
+Имя~Хавард Итреланд (Håvard Ytreland)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-B3XVB-cb2UV-U4Fne-v5xhH-pBtdA
+Параметры запуска~-novid -tickrate 128 -freq 240 -d3d9ex -console -nojoy +cl_forcepreload 1 +mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198091064417
+twitch~https://www.twitch.tv/kfreq_?lang=ru
+yt~https://www.youtube.com/channel/UC2EaV_AZRlmVGgQiSiANWaQ?view_as=subscriber
+tw~https://twitter.com/KFREQ_
+Команда~Без команды
+Страна~Норвегия

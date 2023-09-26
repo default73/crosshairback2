@@ -1,0 +1,18 @@
+Имя~Тайсон Патерсон (Tyson Paterson)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-aHFXH-wMJ8b-9rknF-XvE28-rMchQ
+st~https://steamcommunity.com/profiles/76561198028656944
+twitch~https://www.twitch.tv/asapaus
+tw~https://twitter.com/asapcsgo
+Команда~Rooster
+Страна~Австралия

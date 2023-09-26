@@ -1,0 +1,20 @@
+Имя~Валера Горевой (Valera Gorevoy)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-AahkB-VyPEk-bCrm8-SvBpk-yrmHB
+Параметры запуска~-novid -console -tickrate 128 -freq 144
+st~https://steamcommunity.com/profiles/76561198058377876
+vk~https://vk.com/id60823934
+twitch~https://www.twitch.tv/dagladik
+in~https://www.instagram.com/dagladik/
+Команда~Без команды
+Страна~Россия

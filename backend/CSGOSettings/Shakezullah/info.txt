@@ -1,0 +1,18 @@
+Имя~Алан Хардеман (Alan Hardeman)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-X3fCd-DMWDZ-fZbcD-2iaGE-rHUrC
+st~https://steamcommunity.com/profiles/76561198028514655
+twitch~https://www.twitch.tv/shakezullah
+tw~https://twitter.com/Shakezullah
+Команда~Без команды
+Страна~США

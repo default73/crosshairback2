@@ -1,0 +1,19 @@
+Имя~Даниел Монтейру (Daniel Monteiro)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-s7wyz-RA6DL-2kyiG-EvMvU-StPcF
+Параметры запуска~-freq 144 -console -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198307734468
+twitch~https://www.twitch.tv/rdnzao
+tw~https://www.twitter.com/rdnzao
+Команда~Sharks Esports
+Страна~Бразилия

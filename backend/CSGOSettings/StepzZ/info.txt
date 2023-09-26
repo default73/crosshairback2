@@ -1,0 +1,18 @@
+Имя~Матис Бовенс (Mathis Bovens)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-U2zvd-dHs2r-RGMJD-APOY9-WsdqA
+Параметры запуска~-tickrate 128 +fps_max 0 -novid -nojoy +mat_queue_mode 2 -refresh 144 -d3d9ex +exec jumpbind
+st~https://steamcommunity.com/profiles/76561198151673200
+tw~https://twitter.com/StepzZGOD
+Команда~Без команды
+Страна~Бельгия

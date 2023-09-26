@@ -1,0 +1,19 @@
+Имя~Педро Амаро (Pedro Amaro)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-c7MWZ-FmzpC-qnAQG-2wtsW-sturD
+Параметры запуска~-tickrate 128 -freq 240 -d3d9ex -novid -console
+st~https://steamcommunity.com/profiles/76561197991584421
+tw~https://twitter.com/whatzcs
+in~https://www.instagram.com/whatzcs
+Команда~Без команды
+Страна~Португалия

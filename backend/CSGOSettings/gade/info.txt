@@ -1,0 +1,19 @@
+Имя~Никлас Гейд (Nicklas Gade)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-X77bQ-dj2wO-U5Er5-PqYcv-hif4D
+st~https://steamcommunity.com/id/nicklasgadE/
+twitch~https://www.twitch.tv/gadecs
+tw~https://twitter.com/gadeCS_
+in~https://www.instagram.com/nicklasgade_/
+Команда~Без команды
+Страна~Дания

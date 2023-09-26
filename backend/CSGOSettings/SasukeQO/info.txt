@@ -1,0 +1,19 @@
+Имя~Николай Жуков (Nikolay Zhukov)
+DPI:~500
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6h9aL-yyaWy-jDzEJ-HZhcz-dptiB
+st~https://steamcommunity.com/profiles/76561198041379059
+vk~https://vk.com/id101444631
+twitch~https://steamcommunity.com/id/SUPANEDOTAG/
+in~https://www.instagram.com/sasukeqo
+Команда~GameAgents
+Страна~Россия

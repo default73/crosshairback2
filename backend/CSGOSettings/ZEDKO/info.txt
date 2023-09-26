@@ -1,0 +1,19 @@
+Имя~Йиндрич Чуба (Jindřich Chyba)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~0.5
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-QEryD-Mnzoh-N92B5-Cq8nk-EaVvD
+st~https://steamcommunity.com/profiles/76561198134164683
+fb~https://www.facebook.com/zedkocsgo
+tw~https://twitter.com/zedkonator
+in~https://www.instagram.com/extzedko
+Команда~SINNERS Esports
+Страна~Чехия

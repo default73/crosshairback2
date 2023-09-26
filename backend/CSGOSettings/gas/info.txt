@@ -1,0 +1,17 @@
+Имя~Йи Дин (Yi Ding)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-zCo8B-xd9KN-qFbrH-cbreW-WLCEB
+Параметры запуска~-noforcemaccel -noforcemparms -freq 240 -novid -worldwide -tickrate 128
+st~https://steamcommunity.com/profiles/76561198002087738
+Команда~Wings Up Gaming
+Страна~Китай

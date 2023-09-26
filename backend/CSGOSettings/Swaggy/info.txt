@@ -1,0 +1,21 @@
+Имя~Кайл Уилсон (Kyle Wilson)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.875
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-98sq5-za3NV-YaQcc-n7JZ9-HDWzE
+Параметры запуска~-high -console -novid -console -tickrate 128 -freq 240 +rate 786432 cl_updaterate 128 cl_cmdrate 128 -nojoy
+st~https://steamcommunity.com/profiles/76561198190351467
+twitch~https://www.twitch.tv/Swaggyavi
+yt~https://www.youtube.com/user/kylew1ls0n
+tw~https://twitter.com/Swaggyavi
+in~https://www.instagram.com/kylewi/
+Команда~GEEKZ ENERGY
+Страна~Великобритания

@@ -1,0 +1,20 @@
+Имя~Максим Илюшин (Maksim Ilyushin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 900
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-pwwBw-Ak8rb-TPqpc-PpT5G-4MchQ
+Параметры запуска~-novid -tickrate 128 +fps_max 350 +cl_interp 0 +cl_interp_ratio 1 +rate 786432 +cl_updaterate 128 +cl_cmdrate 128 +mat_queue_mode 2 -freq 240 -refresh 240 +cl_forcepreload 1 +cl_lagcompensation 1 +cl_interpolate 1 -nod3d9ex -nojoy
+st~https://steamcommunity.com/profiles/76561198024275160
+vk~https://vk.com/id28406397
+twitch~https://www.twitch.tv/qrushcsgo
+in~https://www.instagram.com/qrushcs
+Команда~Ha MaSSe
+Страна~Россия

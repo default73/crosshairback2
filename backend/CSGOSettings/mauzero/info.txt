@@ -1,0 +1,21 @@
+Имя~Даулет Турганбаев (Daulet Turganbayev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-quuct-DY9qh-nq68L-iPmo6-7xAkE
+Параметры запуска~-freq 240 -tickrate 128 -novid -console
+st~https://steamcommunity.com/id/mauzero
+vk~https://vk.com/mauzero
+twitch~https://www.twitch.tv/mauz7ero
+tw~https://twitter.com/mauz7ero
+in~https://www.instagram.com/mauz7ero/
+Команда~Без команды
+Страна~Казахстан

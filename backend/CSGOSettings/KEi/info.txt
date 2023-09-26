@@ -1,0 +1,18 @@
+Имя~Камиль Петкун (Kamil Pietkun)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-FrJCB-sQAfF-BccHQ-Nu3sN-HLAfD
+st~https://steamcommunity.com/profiles/76561198081687729
+fb~https://www.facebook.com/KEiiilulz
+tw~https://twitter.com/KEiiCS
+Команда~9INE
+Страна~Польша

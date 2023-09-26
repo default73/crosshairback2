@@ -1,0 +1,20 @@
+Имя~Вилл Виерзба (William Wierzba)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-uWubh-9bvo6-9oDo5-zEcdv-6vdqA
+st~https://steamcommunity.com/profiles/76561198023592320
+twitch~https://www.twitch.tv/RUSHcs
+fb~https://www.facebook.com/RushCSGO
+tw~https://twitter.com/RUSH
+in~https://www.instagram.com/willwierzba
+Команда~Без команды
+Страна~США

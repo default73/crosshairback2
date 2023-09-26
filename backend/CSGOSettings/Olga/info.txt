@@ -1,0 +1,21 @@
+Имя~Ольга Родригес (Olga Rodrigues)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.94
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-uc5Fx-OkEhE-bOZOE-NhVm3-MKZML
+Параметры запуска~-console -novid -nojoy -noaafonts -high -freq 144 -refresh 144 -tickrate 128 +cl_forcepreload 1 -snd_headphone_pan_exponent 2 -snd_front_headphone_position 45 -snd_rear_headphone_position 135
+st~https://steamcommunity.com/profiles/76561198891125045
+twitch~https://www.twitch.tv/olgacs
+fb~https://facebook.com/olgacsgo
+tw~https://twitter.com/olgacsgo
+in~https://www.instagram.com/olgatransborda
+Команда~HSG fe
+Страна~Бразилия

@@ -1,0 +1,19 @@
+Имя~Хосе Гил (José Gil)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.16
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FSkVJ-VJFbD-wEaWf-sU3Nx-9DmDA
+st~https://steamcommunity.com/profiles/76561198026724513
+twitch~https://www.twitch.tv/shrcs
+tw~https://twitter.com/Shrcs27
+in~https://www.instagram.com/j.gil06/
+Команда~GTZ.ESPORTS
+Страна~Португалия

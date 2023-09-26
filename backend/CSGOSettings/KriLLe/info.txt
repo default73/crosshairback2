@@ -1,0 +1,18 @@
+Имя~Кристиан Экрот (Kristian Ekroth)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8tbmr-QKEWK-N8GL7-fzDfE-5VJGG
+Параметры запуска~-allow_third_party_software -trusted -console -high -novid -tickrate 128 +mat_queue_mode 2 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp 0 +cl_interp_ratio 1 +rate 786432 +fps_max 999
+st~https://steamcommunity.com/profiles/76561198124935018
+tw~https://twitter.com/KriLLeCS
+Команда~Lemondogs
+Страна~Швеция

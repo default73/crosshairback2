@@ -1,0 +1,21 @@
+Имя~Богдан Черников (Bogdan Chernikov)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-pVenk-xbq9T-dUbYO-7OaBH-WbxTC
+Параметры запуска~-novid -refresh 240 -high +cl_interp_ratio 1 +rate 786432 -tickrate 128 -cl_updaterate 128 +fps_max 500 +cl_forcepreload 1
+st~https://steamcommunity.com/profiles/76561198072279954
+vk~https://vk.com/id74336618
+twitch~https://www.twitch.tv/xsepower
+tw~https://twitter.com/xsepower
+in~https://www.instagram.com/xsepower
+Команда~Nemiga Gaming
+Страна~Россия

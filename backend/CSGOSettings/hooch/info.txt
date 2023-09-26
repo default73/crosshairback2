@@ -1,0 +1,21 @@
+Имя~Дмитрий Богданов (Dmitry Bogdanov)
+DPI:~500
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-kEM49-Ehnj5-yGCKn-5EMf5-GLSKF
+Параметры запуска~-freq 240 -ticrate 128 -console +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561197966075661
+vk~https://vk.com/id641341
+twitch~https://www.twitch.tv/hoochrrr
+tw~https://twitter.com/hoochr
+in~https://www.instagram.com/hoochr
+Команда~Без команды
+Страна~Россия

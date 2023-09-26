@@ -1,0 +1,19 @@
+Имя~Питер Яргуз (Peter Jarguz)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8BU6L-DZkXE-8wmHO-pkfk5-jJCEB
+st~https://steamcommunity.com/profiles/76561197981849043
+twitch~https://www.twitch.tv/stanislaw
+tw~https://twitter.com/peterjarguz
+in~https://www.instagram.com/pjarguz/
+Команда~Без команды
+Страна~Канада

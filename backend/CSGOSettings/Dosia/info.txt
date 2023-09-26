@@ -1,0 +1,21 @@
+Имя~Михаил Столяров (Mihail Stolyarov)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-nV3vi-cfdUU-eLD9u-L4qkU-fcEBM
+Параметры запуска~-freq 240 -novid
+st~https://steamcommunity.com/profiles/76561198106907258
+vk~https://vk.com/id10928397
+twitch~https://www.twitch.tv/dosia_csgo
+tw~https://twitter.com/xgoddosia
+in~https://www.instagram.com/dosiav
+Команда~Без команды
+Страна~Россия

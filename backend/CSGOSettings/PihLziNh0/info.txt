@@ -1,0 +1,20 @@
+Имя~Расмус Пиль (Rasmus Pihl)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-TbbWS-sbYZV-uCH9L-6iikC-z2urD
+Параметры запуска~-freq 240 -high -console -novid -tickrate 128 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp_ratio 1 +cl_interp 0 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198277353799
+twitch~https://www.twitch.tv/PihLziNh0
+yt~https://www.youtube.com/channel/UCZlQDBWft7Z-2wDaycHpVsg
+tw~https://twitter.com/PihLziNh0
+Команда~Без команды
+Страна~Дания

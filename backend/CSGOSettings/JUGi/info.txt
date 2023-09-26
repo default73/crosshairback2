@@ -1,0 +1,20 @@
+Имя~Джейкоб Хансен (Jakob Hansen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-Dq7sh-qKXjf-RqiDM-ktYM3-Di9aC
+st~https://steamcommunity.com/id/JUGizan/
+twitch~https://www.twitch.tv/jugi
+fb~https://www.facebook.com/JUGiCSGO
+tw~https://twitter.com/JUGiOfficial
+in~https://www.instagram.com/jugizan/
+Команда~Без команды
+Страна~Дания

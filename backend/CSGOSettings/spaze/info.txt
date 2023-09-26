@@ -1,0 +1,20 @@
+Имя~Иван Обрежан (Ivan Obrezhan)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-cYZfK-cqNf7-GDDM7-9hYW9-3ZywQ
+Параметры запуска~-freq 240 -tickrate 128 -novid -console -threads 4 -high +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198069763254
+vk~https://vk.com/id199332870
+twitch~https://www.twitch.tv/spaze_csgo
+in~https://www.instagram.com/spazeof/
+Команда~MayBe
+Страна~Россия

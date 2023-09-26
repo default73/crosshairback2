@@ -1,0 +1,21 @@
+Имя~Филипе Диас (Filipe Dias)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~10/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-pTZVe-6QTLs-8DaiG-SSatN-3aQ3A
+Параметры запуска~-freq 240 -novid -console
+st~https://steamcommunity.com/profiles/76561198160794709
+twitch~https://www.twitch.tv/nopeej
+fb~https://www.facebook.com/OfficialNOPEEj
+tw~https://twitter.com/NOPEEjcs
+in~https://www.instagram.com/nopeejcs
+Команда~For The Win Esports (FTW)
+Страна~Португалия

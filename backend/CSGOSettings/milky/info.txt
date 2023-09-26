@@ -1,0 +1,20 @@
+Имя~Милен Илиев (Milen Iliev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-uRDrR-H9V9T-DXp8X-AzWHB-U647M
+Параметры запуска~-novid -tickrate 128 -high -threads 4 +mat_queue_mode 2 -freq 240 -nojoy +r_dynamic 0 +cl_resend 6 -maxdownloadsizemb 300
+st~https://steamcommunity.com/profiles/76561198196275185
+twitch~https://www.twitch.tv/milkyy_cs
+tw~https://twitter.com/milky_csgo
+in~https://www.instagram.com/milkycsgo
+Команда~Ambush
+Страна~Болгария

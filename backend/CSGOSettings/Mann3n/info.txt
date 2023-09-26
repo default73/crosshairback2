@@ -1,0 +1,19 @@
+Имя~Тим Исак (Tim Isak)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.48
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-JXoZW-qBn9m-PrMLX-Kip5q-FZQ3A
+Параметры запуска~-novid -allow_third_party_software -tickrate 128 -console
+st~https://steamcommunity.com/profiles/76561197963784921
+twitch~https://www.twitch.tv/mann3ncsgo
+tw~https://twitter.com/Mann3nCSGO
+Команда~Без команды
+Страна~Швеция

@@ -1,0 +1,21 @@
+Имя~Кирилл Михайлов (Kirill Mikhailov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.45
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-ThYXy-WZm4E-H8Pn4-QrqtK-xpuCQ
+Параметры запуска~-tickrate 128 -freq 240 +rate 786432 -novid -high -cl_updaterate 128 -cl_cmdrate 128 +cl_interp_ratio 1 +cl_interp 0 +fps_max 999
+st~https://steamcommunity.com/profiles/76561198146207066
+vk~https://vk.com/id157635961
+twitch~https://www.twitch.tv/boombl4
+tw~https://twitter.com/Boombl4CS
+in~https://www.instagram.com/boombl4
+Команда~1WIN
+Страна~Россия

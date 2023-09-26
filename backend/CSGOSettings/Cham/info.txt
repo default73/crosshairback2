@@ -1,0 +1,18 @@
+Имя~Чарли Алм (Charlie Ahlm)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.75
+Чувствительность мыши в зуме:~0.818
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-Q4ZFH-LQbG9-UGQVb-sWeq3-PDNfN
+Параметры запуска~-novid -nojoy -tickrate 128 -nothreadedsockets -high +fps_max 999 -language english -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198150448896
+tw~https://twitter.com/CharlieAhlm
+Команда~9INE Academy
+Страна~Швеция

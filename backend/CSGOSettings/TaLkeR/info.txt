@@ -1,0 +1,20 @@
+Имя~Алексей Ерошкин (Aleksey Eroshkin)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~144Hz
+sharecode~CSGO-uiXtV-Vw4iy-57eFj-O5RQR-xGUrC
+Параметры запуска~-console -novid
+st~https://steamcommunity.com/profiles/76561197980069671
+vk~https://vk.com/id77773626
+tw~https://twitter.com/talker4cs
+in~https://www.instagram.com/talker4_/
+Команда~Без команды
+Страна~Россия

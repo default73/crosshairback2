@@ -1,0 +1,20 @@
+Имя~Александр Миклагард (Alexander Miklagard)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Ohj7j-wKexK-jRMsx-NVvnx-5uSyL
+Параметры запуска~+fps_max 300 -freq 240 -console -tickrate 128 -novid -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198421301842
+twitch~https://www.twitch.tv/topzofficial
+yt~https://www.youtube.com/@topzofficial1192
+tw~https://twitter.com/tOPZCSGO
+Команда~Preasy Esport
+Страна~Дания

@@ -1,0 +1,20 @@
+Имя~Кристофф Горский (Krzysiek Gorski)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-GMBbJ-v45rA-mFdQn-oqko6-7xAkE
+Параметры запуска~-novid -console -tickrate 128 -freq 240 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp_ratio 1 -refresh 240
+st~https://steamcommunity.com/id/45384726359374657
+twitch~https://www.twitch.tv/goofy_1337
+fb~https://www.facebook.com/Goofiacz
+in~https://www.instagram.com/goofiacz
+Команда~9INE
+Страна~Польша

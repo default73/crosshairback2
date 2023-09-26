@@ -1,0 +1,21 @@
+Имя~Александр Костылев (Aleksandr Kostyliev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-tOrPm-ikEJs-aAtuv-wSopN-Ja2UO
+Параметры запуска~-freq 240 -novid -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561198034202275
+vk~https://vk.com/id32957931
+twitch~https://www.twitch.tv/s1mple
+tw~https://twitter.com/s1mpleo
+in~https://www.instagram.com/s1mpleo
+Команда~Natus Vincere
+Страна~Украина

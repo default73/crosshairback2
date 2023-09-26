@@ -1,0 +1,21 @@
+Имя~Лукас Фрейтас (Lucas Freitas)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.65
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-4DePb-WybmN-Sywqw-Jo2AD-choUE
+Параметры запуска~-novid -allow_third_party_software -language english -tickrate 128 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561199241953370
+twitch~https://www.twitch.tv/cutzmeretz
+yt~https://www.youtube.com/channel/UC-wPksrnpvRVzmnQSEBN0vA?view_as=subscriber
+tw~https://twitter.com/CutzMeretz
+in~https://www.instagram.com/cutzmeretz
+Команда~Meta Gaming
+Страна~Бразилия

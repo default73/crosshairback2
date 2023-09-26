@@ -1,0 +1,21 @@
+Имя~Семён Лисицын (Semyon Lisitsyn)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-NV5cX-UjpYE-WEGZ9-zR6nk-jCdRF
+Параметры запуска~-novid -high -console -clientport 27015 -tickrate 128
+st~https://steamcommunity.com/id/vsempacanamprivet/
+vk~https://vk.com/kinqie
+twitch~https://www.twitch.tv/kinqie44
+tw~https://twitter.com/kinqie44
+in~https://www.instagram.com/kinqie44/
+Команда~MOON
+Страна~Россия

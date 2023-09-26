@@ -1,0 +1,19 @@
+Имя~Егор Поляков (Egor Polyakov)
+DPI:~500
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-9RfE6-Hje6E-o6GsX-24Yk6-zz8aC
+Параметры запуска~-refresh 240 + cl_cmdrate 128 +cl_updaterate 128 + cl_interp 0.031000 +cl_interp_ratio 2 -tickrate 128 -novid +fps_max 0 +rate 786432
+st~https://steamcommunity.com/profiles/76561198448289118
+vk~https://vk.com/id293496922
+twitch~https://www.twitch.tv/zlymorrow
+Команда~Без команды
+Страна~Россия

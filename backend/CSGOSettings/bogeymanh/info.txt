@@ -1,0 +1,22 @@
+Имя~Аниш Сингх (Anish Singh)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8cBAq-Ld6L4-PXRMP-86qct-CPVGQ
+Параметры запуска~-freq 240 -novid -tickrate 128
+st~https://steamcommunity.com/profiles/76561198291426466
+twitch~https://www.twitch.tv/bogeymanhg
+yt~https://www.youtube.com/bogeymanhgaming
+fb~https://www.facebook.com/Bogeymanh
+tw~https://twitter.com/bogeygaming
+in~https://www.instagram.com/bogeymanhgaming
+Команда~DeadWeight
+Страна~Индия

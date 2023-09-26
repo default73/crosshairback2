@@ -1,0 +1,19 @@
+Имя~Юэн Мур (Euan Moore)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~Hz
+sharecode~CSGO-4uCPp-jsrwu-VP42m-6N5Fk-YnMHA
+st~https://steamcommunity.com/profiles/76561198060490349
+twitch~https://www.twitch.tv/sterl1ngcs
+tw~https://twitter.com/sterl1ngcs
+in~https://www.instagram.com/sterl1ng_cs
+Команда~Encore
+Страна~Австралия

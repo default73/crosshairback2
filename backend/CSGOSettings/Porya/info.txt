@@ -1,0 +1,20 @@
+Имя~Данил Порядин (Daniil Poryadin)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-S48yA-U8e8O-ef9cR-SF9EE-CrrBE
+Параметры запуска~-tickrate 128 +rate 786432 +fps_max 401 -freq 240 -novid +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198033533067
+vk~https://vk.com/id163596372
+twitch~https://www.twitch.tv/porya_off
+in~https://www.instagram.com/poryacs
+Команда~Без команды
+Страна~Россия

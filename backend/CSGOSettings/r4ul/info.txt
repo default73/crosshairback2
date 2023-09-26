@@ -1,0 +1,20 @@
+Имя~Рауль Брузака (Raul Bruzaca)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.25
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-cR2aw-ddLrA-nTCR6-6v4X4-7xAkE
+Параметры запуска~-novid -tickrate 128 -console
+st~https://steamcommunity.com/profiles/76561198027229236
+twitch~https://www.twitch.tv/r4ulcs
+tw~https://twitter.com/r4ulCS
+in~https://www.instagram.com/r4ulcs/
+Команда~Без команды
+Страна~Бразилия

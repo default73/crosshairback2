@@ -1,0 +1,21 @@
+Имя~Эмиль Кристенсен (Emil Kristensen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Rh6dD-xoTMB-NTFp8-JNBao-PprBE
+Параметры запуска~-console -novid -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198268756950
+twitch~https://www.twitch.tv/fez_csgo
+yt~https://www.youtube.com/channel/UCZmwNdJZAE7jnjcJ-GXnyZQ
+tw~https://twitter.com/fezcs_
+in~https://www.instagram.com/emilejgk
+Команда~Без команды
+Страна~Дания

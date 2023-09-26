@@ -1,0 +1,21 @@
+Имя~Павел Белиньски (Paweł Bieliński)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~360Hz
+sharecode~CSGO-X8BDZ-RoGUk-eWdLC-2Nm2b-qhuCQ
+Параметры запуска~-novid -nojoy -tickrate 128 -freq 360 +cl_threaded_bone_setup 1 +mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561197979126082
+twitch~https://www.twitch.tv/byalli
+fb~https://www.facebook.com/officialbyali
+tw~https://twitter.com/byalics
+in~https://www.instagram.com/byalkoo
+Команда~Без команды
+Страна~Польша

@@ -1,0 +1,20 @@
+Имя~Габриэль Синополи (Gabriel Sinopoli)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-cSh45-xzmVq-sWqEH-iCOMR-udBAA
+st~https://steamcommunity.com/profiles/76561198281767680
+twitch~https://www.twitch.tv/1962cs
+fb~https://www.facebook.com/1962twm
+tw~https://twitter.com/1962cs
+in~https://www.instagram.com/1962cs/
+Команда~Без команды
+Страна~Аргентина

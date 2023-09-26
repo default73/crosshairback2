@@ -1,0 +1,20 @@
+Имя~Деян Копривица (Dejan Koprivica)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-YiOEP-B22ts-Gr2pc-M8Yxa-zqLDR
+Параметры запуска~-freq 240 -novid -tickrate 128 +mat_queue_mode 2 +cl_forcepreload 1
+st~https://steamcommunity.com/profiles/76561198004901994
+twitch~https://www.twitch.tv/katalic
+tw~https://twitter.com/csgokatalic
+in~https://www.instagram.com/katalicc
+Команда~Без команды
+Страна~Босния и Герцеговина

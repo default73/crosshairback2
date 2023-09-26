@@ -1,0 +1,21 @@
+Имя~Дмитрий Мирошниченко (Dmytro Myroshnychenko)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.7
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ki7iR-r2Rx4-vfYwD-MUQyu-FZQ3A
+Параметры запуска~-high -nod3d9ex1 -freq 240 -refresh 240 -noforcemaccel -noforcemspd -noforcemparms -tickrate 128 -console -novid -language english +cl_forcepreload 1 +cl_interp 0 +cl_interp_ratio 1 +cl_updaterate 128 -rate 786432 -allow_third_party_software +clientport 2
+st~https://steamcommunity.com/profiles/76561198875633179
+vk~https://vk.com/id241670544
+twitch~https://www.twitch.tv/dem0nisio
+tw~https://twitter.com/dem0nisio
+in~https://www.instagram.com/mirosh_dmitriy
+Команда~NAVI Junior
+Страна~Украина

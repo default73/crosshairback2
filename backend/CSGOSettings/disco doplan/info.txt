@@ -1,0 +1,19 @@
+Имя~Йоаким Гидетун (Joakim Gidetun)
+DPI:~1800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~4/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-poUJs-CMUUc-XBEPc-S4iOY-6DR7B
+st~https://steamcommunity.com/profiles/76561198121528635
+twitch~https://www.twitch.tv/discodoplan
+tw~https://twitter.com/disco_doplan
+in~https://www.instagram.com/jockegidetun/
+Команда~Без команды
+Страна~Швеция

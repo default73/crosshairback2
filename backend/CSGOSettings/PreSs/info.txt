@@ -1,0 +1,20 @@
+Имя~Преслав Пламенов (Preslav Plamenov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.94
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-whfiS-TmhDe-LrrKy-DeyH6-45NQC
+Параметры запуска~-high -freq 144 +cl_interp_ratio 1 -tickrate 128 +fps_max 999 -allow_third_party_software -threads 10
+st~https://steamcommunity.com/profiles/76561198357114340
+twitch~https://www.twitch.tv/press_cs
+tw~https://twitter.com/PreSsCSGO_
+in~https://www.instagram.com/presley.vlc/
+Команда~Без команды
+Страна~Болгария

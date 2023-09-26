@@ -1,0 +1,18 @@
+Имя~Педро Соуза (Pedro Sousa)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ODsym-b43Q9-n97VO-NSZCY-wwXsO
+st~https://steamcommunity.com/profiles/76561198057114595
+tw~https://twitter.com/fakes2csgo
+in~https://www.instagram.com/fakes2csgo
+Команда~Без команды
+Страна~Португалия

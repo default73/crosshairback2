@@ -1,0 +1,20 @@
+Имя~Ригон Гаши (Rigon Gashi)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hWFEk-kW6cS-Z7Z6z-tmpC7-UfTiA
+st~https://steamcommunity.com/profiles/76561198172837021
+twitch~https://www.twitch.tv/rigoncs
+yt~https://www.youtube.com/channel/UCTiKeERcV7WQ_mnrzz1bJvQ
+tw~https://twitter.com/rigoNcs
+in~https://www.instagram.com/gashirigonn
+Команда~Bad News Eagles
+Страна~Швейцария

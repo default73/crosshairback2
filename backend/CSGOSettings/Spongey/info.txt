@@ -1,0 +1,17 @@
+Имя~Гейб Грейнер (Gabe Greiner)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-aMxq2-a9AhA-qYENU-xoXHh-ztZpG
+st~https://steamcommunity.com/profiles/76561198045482283
+tw~https://twitter.com/spongeygod
+Команда~WITHOUT WARNING
+Страна~США

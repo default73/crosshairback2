@@ -1,0 +1,20 @@
+Имя~Евгений Богатырев (Evgeniy Bogatyrev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 900
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-LGpzr-vEyXq-kQni5-maZ7C-F6qqK
+Параметры запуска~- novid -console -tickrate 128 -freq 240
+st~https://steamcommunity.com/id/dreaM4w/
+vk~https://vk.com/cyberdreamkz
+twitch~https://www.twitch.tv/dream_4w
+in~https://www.instagram.com/yevgeniy.bogatyrev/
+Команда~Без команды
+Страна~Казахстан

@@ -1,0 +1,21 @@
+Имя~Константин Булычев (Konstantin Bulychev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.32
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-BdZbw-uGudp-RaFe4-vw8Ex-FZQ3A
+Параметры запуска~-cl_interp 1 -novid +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -nojoy +mat_queue_mode 2 +cl_interp_ratio 2 -tickrate 128 +fps_max 300
+st~https://steamcommunity.com/profiles/76561198836322811
+vk~https://vk.com/id507582632
+twitch~https://www.twitch.tv/olymp1cs
+yt~https://www.youtube.com/channel/UChP3fZtj7hTkCAf9PrIRgZw
+in~https://www.instagram.com/olymp1csgo
+Команда~WHYKICK
+Страна~Россия

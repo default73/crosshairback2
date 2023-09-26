@@ -1,0 +1,21 @@
+Имя~Тарик Целик (Tarik Celik)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ZDHCp-rn9xi-Z2JmT-aqEfS-DBfyC
+Параметры запуска~-noforcemspd -noforcemparms -noforcemaccel -freq 240 -novid -console
+st~https://steamcommunity.com/id/tarikcsgo/
+twitch~https://www.twitch.tv/tarik
+fb~https://www.facebook.com/tarikcsgo
+tw~https://twitter.com/tarik
+in~https://www.instagram.com/officialtarik/
+Команда~Без команды
+Страна~США

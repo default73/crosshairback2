@@ -1,0 +1,18 @@
+Имя~Уокер Харрис (Walker Harris)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~144Hz
+sharecode~CSGO-FFWLO-MPuZj-YXFdr-w5RaP-LbG4C
+st~https://steamcommunity.com/profiles/76561198189327079
+twitch~https://www.twitch.tv/walkero_o
+tw~https://twitter.com/walkero_o
+Команда~Без команды
+Страна~Канада

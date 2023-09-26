@@ -1,0 +1,19 @@
+Имя~Яни Юссила (Jani Jussila)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-k864G-xBRbD-hHQuG-pKCVy-CSksF
+Параметры запуска~-novid -tickrate 128 -console -refresh 240
+st~https://steamcommunity.com/profiles/76561197962710908
+tw~https://twitter.com/AerialCSGO
+in~https://www.instagram.com/jussilajani
+Команда~Без команды
+Страна~Финляндия

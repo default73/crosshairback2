@@ -1,0 +1,21 @@
+Имя~Алехандро Кано (Alejandro Cano)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-7fp8d-Ao7pT-xZoBc-v9qAf-SHjeC
+Параметры запуска~-novid -refresh 240 -freq 240 -threads 4 -high -tickrate 128
+st~https://steamcommunity.com/profiles/76561197998197366
+twitch~https://www.twitch.tv/officialmopoz
+fb~https://www.facebook.com/officialmopozz
+tw~https://twitter.com/AlejandroMopoz
+in~https://www.instagram.com/mopozw
+Команда~Movistar Riders
+Страна~Испания

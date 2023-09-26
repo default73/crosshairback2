@@ -1,0 +1,18 @@
+Имя~Дрю Лэмб (Drew Lamb)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-kahz6-wFYxy-Vjaa4-CfiVC-Vc4NF
+st~https://steamcommunity.com/profiles/76561198316544916
+twitch~https://www.twitch.tv/drewtheshrew1
+tw~https://twitter.com/drewtheshrew1
+Команда~Без команды
+Страна~США

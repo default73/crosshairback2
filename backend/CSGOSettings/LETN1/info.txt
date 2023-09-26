@@ -1,0 +1,20 @@
+Имя~Нестор Танич (Nestor Tanić)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.65
+Чувствительность мыши в зуме:~0.7
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7chm9-Nxomk-D2NO3-tpsXi-N9LsE
+st~https://steamcommunity.com/profiles/76561198042092011
+twitch~https://www.twitch.tv/inletn1
+fb~https://facebook.com/officialLETN1
+tw~https://twitter.com/LETN1CSGO
+in~https://www.instagram.com/letn1csgo
+Команда~Без команды
+Страна~Сербия

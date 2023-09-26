@@ -1,0 +1,19 @@
+Имя~Эету Астикайнен (Eetu Astikainen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-P9pGN-pATEz-iLSmZ-zmOvE-AYeuB
+Параметры запуска~-novid -no-browser -nojoy -freq 240 -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561198017997306
+tw~https://twitter.com/eDi_CSGO
+in~https://www.instagram.com/ediieetu
+Команда~VISU Gaming
+Страна~Финляндия

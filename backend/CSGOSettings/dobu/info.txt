@@ -1,0 +1,21 @@
+Имя~Ган-Эрдэнэ Батболд (Gan-Erdene Batbold)
+DPI:~400
+Частота мыши:~100Hz
+Чувствительность мыши в игре:~2.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5fRFk-4si5z-U2Uff-pkfk5-jJCEB
+st~https://steamcommunity.com/profiles/76561198120157641
+twitch~https://www.twitch.tv/dobumergenl
+yt~https://www.youtube.com/c/dobumergenl
+fb~https://www.facebook.com/dobuMergenl
+tw~https://twitter.com/dobuMergenl
+in~https://www.instagram.com/dobuMergenl
+Команда~ATOX
+Страна~Монголия

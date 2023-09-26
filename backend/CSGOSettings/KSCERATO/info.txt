@@ -1,0 +1,21 @@
+Имя~Кайке Керато (Kaike Cerato)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.6
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-GyvMm-KGciO-KRN3M-tBEUi-ajf4D
+Параметры запуска~-console -novid -tickrate 128 +clientport 27022 -d3d9ex -noaafonts -nojoy +mat_queue_mode 2 +cl_forcepreload 1
+st~https://steamcommunity.com/profiles/76561198058500492
+twitch~https://www.twitch.tv/kscerato
+fb~https://facebook.com/kscerato1337
+tw~https://twitter.com/kscerato
+in~https://www.instagram.com/kscerato
+Команда~FURIA
+Страна~Бразилия

@@ -1,0 +1,19 @@
+Имя~Лукас Булло (Lucas Bullo)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.03
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-kZeEo-63ZUs-W9jDE-JRPVW-sPZfE
+st~https://steamcommunity.com/profiles/76561198130490651
+fb~https://www.facebook.com/destinyycs
+tw~https://twitter.com/destinyycsgo
+in~https://www.instagram.com/destinycsgo
+Команда~Paqueta Gaming
+Страна~Бразилия

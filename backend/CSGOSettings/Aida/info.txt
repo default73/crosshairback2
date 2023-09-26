@@ -1,0 +1,19 @@
+Имя~Аида Симон (Aida Simão)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.39
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-AWs9V-SKkyi-cL4e2-ZNzdH-4wAkE
+Параметры запуска~+clientport 2259 -freq 144 -novid -high -tickrate 128 +rate 786432 +cl_updaterate 128 +cl_cmdrate 128 -language english -d3d9ex
+st~https://steamcommunity.com/profiles/76561198149482328
+twitch~https://www.twitch.tv/aida__cs
+tw~https://twitter.com/aida__cs
+Команда~BIG EQUIPA
+Страна~Португалия

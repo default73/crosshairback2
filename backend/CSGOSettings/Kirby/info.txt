@@ -1,0 +1,20 @@
+Имя~Андре Кемпа (André Kempa)
+DPI:~1600
+Частота мыши:~0.3Hz
+Чувствительность мыши в игре:~1000
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~3/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-kLMLA-aujTv-DLOHD-J2Rm2-JTOpP
+Параметры запуска~-novid -tickrate 128
+st~http://steamcommunity.com/profiles/76561197970964266
+twitch~https://www.twitch.tv/Kirby
+tw~https://twitter.com/NPKirbyy
+in~http://instagram.com/NPKirbyy
+Команда~Без команды
+Страна~Германия

@@ -1,0 +1,18 @@
+Имя~Эндрю Уоркентин (Andrew Warkentin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-WQtwT-Oosoh-qbTTy-YXS7j-mRFuA
+st~https://steamcommunity.com/profiles/76561198147414643
+twitch~https://www.twitch.tv/drew_ftg
+tw~https://twitter.com/drew_ftg
+Команда~Без команды
+Страна~США

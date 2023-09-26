@@ -1,0 +1,19 @@
+Имя~Андрей Сарибекян (Andrey Saribekyan)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-nrjGY-ryrzY-AUBWv-Uwb9L-xAdRF
+st~https://steamcommunity.com/id/ansar_ua/
+vk~https://vk.com/ansar_ua
+twitch~https://www.twitch.tv/whitesmith_csgo
+in~https://www.instagram.com/andrewhitesmith/
+Команда~Без команды
+Страна~Украина

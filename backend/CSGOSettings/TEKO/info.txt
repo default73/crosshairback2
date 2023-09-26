@@ -1,0 +1,19 @@
+Имя~Элитом Лоуренсо (Elitom Lourenço)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~4.1
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1350 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-CsamU-BdKeE-kSjQR-7Mp55-dv6KQ
+st~https://steamcommunity.com/profiles/76561198116222443
+twitch~https://www.twitch.tv/TEKOcN
+fb~http://www.fb.com/FPSTEKO
+tw~https://twitter.com/TEKOFPS
+Команда~Без команды
+Страна~Бразилия

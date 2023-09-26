@@ -1,0 +1,20 @@
+Имя~Денис Шепелюк (Denis Shepelyuk)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~165Hz
+sharecode~CSGO-r8T8b-AdWAH-Rn7ja-hUpRv-4qeKP
+Параметры запуска~-novid -tickrate 128 -language English +fps_max 301-refresh 165
+st~https://steamcommunity.com/profiles/76561198083569614
+twitch~https://www.twitch.tv/k0nanj
+yt~https://www.youtube.com/channel/UC2B6P03LcvCQ8pNOpM5MhUQ
+in~https://instagram.com/k0nanyoyo
+Команда~Без команды
+Страна~Россия

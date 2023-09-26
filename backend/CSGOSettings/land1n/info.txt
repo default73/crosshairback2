@@ -1,0 +1,19 @@
+Имя~Пауло Фелипе (Paulo Felipe)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-SyPw7-9bKtM-V4E8r-cBFeX-A7QBD
+st~https://steamcommunity.com/profiles/76561198139312718
+yt~https://www.youtube.com/channel/UC3UUa8dQin9JDnmoa5k3tpw
+tw~https://twitter.com/land1ncs
+in~https://www.instagram.com/land1n
+Команда~TropiCaos
+Страна~Бразилия

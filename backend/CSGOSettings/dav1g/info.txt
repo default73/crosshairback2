@@ -1,0 +1,20 @@
+Имя~Давид Гранадо Бермудо (David Granado Bermudo)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-LaocV-zFKkU-CxMsc-mUm38-ENLTK
+Параметры запуска~-console -novid -tickrate 128 -high -nod3d9ex1 -threads 8 -refresh 144 -refreshrate 144 -freq 144 -language bananagaming -no-browser -nojoy +snd_use_hrtf 0
+st~https://steamcommunity.com/profiles/76561198417348056
+twitch~https://www.twitch.tv/dav1gcs1
+tw~https://twitter.com/dav1gCS
+in~https://www.instagram.com/dav1g_
+Команда~Movistar Riders
+Страна~Испания

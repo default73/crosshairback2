@@ -1,0 +1,17 @@
+Имя~Томас Нильсен (Thomas Nielsen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.92
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 768
+Соотношение сторон:~5:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-OQQSX-b3QmH-WWCbo-ZvDCA-AzsOH
+st~https://steamcommunity.com/id/HougenJeromeTesshinKyoshiroWeed/
+tw~https://twitter.com/ryxxo96
+Команда~CEPTER
+Страна~Дания

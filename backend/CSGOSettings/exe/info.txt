@@ -1,0 +1,19 @@
+Имя~Эйдан Форстер (Aidan Vorster)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.6
+Чувствительность мыши в зуме:~0.7
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-poUJs-CMUUc-XBEPc-S4iOY-6DR7B
+st~https://steamcommunity.com/profiles/76561198263064056
+twitch~https://www.twitch.tv/exePOV
+tw~https://twitter.com/bvdexe
+in~https://www.instagram.com/bvdexe/
+Команда~Без команды
+Страна~Южная Африка

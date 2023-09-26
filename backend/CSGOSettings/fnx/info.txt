@@ -1,0 +1,20 @@
+Имя~Линкольн Лау (Lincoln Lau)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-2WSyf-sEtt9-PdJxe-53K8j-6KchQ
+st~https://steamcommunity.com/profiles/76561198130444302
+twitch~https://www.twitch.tv/fnxlntc
+fb~https://facebook.com/lincolnfnxcs
+tw~https://twitter.com/linfnx
+in~https://www.instagram.com/linfnx
+Команда~Без команды
+Страна~Бразилия

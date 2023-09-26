@@ -1,0 +1,19 @@
+Имя~Дмитрий Кириллин (Dmitriy Kirillin)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VrNqJ-fvsqu-A8XmN-LUbM7-4dmbN
+Параметры запуска~-novid -tickrate 128 -language english
+st~https://steamcommunity.com/profiles/76561198095744377
+vk~https://vk.com/id185675948
+twitch~https://www.twitch.tv/anttzz
+Команда~Без команды
+Страна~Россия

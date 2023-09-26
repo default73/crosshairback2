@@ -1,0 +1,21 @@
+Имя~Стефан Гудьонссон (Stefán Guðjónsson)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-A434e-vUy9V-rzH6U-exBG2-eaQ3A
+Параметры запуска~-freq 240 -novid -console -tickrate 128 +fps_max 0
+st~http://steamcommunity.com/profiles/76561197985684463
+twitch~https://www.twitch.tv/stebbic0c0
+yt~https://www.youtube.com/channel/UCYBe7jIBrZUM-Q_PvbHo5sQ
+tw~https://twitter.com/stebbic0c0
+in~https://www.instagram.com/stebbic0c0
+Команда~DUSTY
+Страна~Австралия

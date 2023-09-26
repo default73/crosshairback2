@@ -1,0 +1,20 @@
+Имя~Хокон Фьярли (Håkon Fjærli)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-DjnCp-PkH7N-E84Rd-Npyr7-Di9aC
+Параметры запуска~-console -freq 240 -high -novid -nojoy -no-browser -tickrate 128 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198060367310
+twitch~https://www.twitch.tv/hallzerk
+tw~https://twitter.com/hallzerk
+in~https://www.instagram.com/hallzerk
+Команда~Complexity
+Страна~Норвегия

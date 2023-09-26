@@ -1,0 +1,20 @@
+Имя~Джеймс Х. (James H.)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.89
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-LdXHk-hatWX-JjEa8-tuLDN-5tbJD
+Параметры запуска~-novid  -tickrate 128  -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198157693983
+twitch~https://www.twitch.tv/jaamm
+yt~https://www.youtube.com/channel/UCsgfgGjhK_QOb9M80aBEuCg
+tw~https://twitter.com/jam_csgo
+Команда~Без команды
+Страна~США

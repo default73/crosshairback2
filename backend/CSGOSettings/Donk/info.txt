@@ -1,0 +1,19 @@
+Имя~Данил Крышковец (Danil Kryshkovets)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.25
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-mJeVJ-XJ7mS-Ez6JV-Sko6i-n3pxA
+Параметры запуска~-novid -freq 144 -console +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198386265483
+vk~https://vk.com/id499539130
+twitch~https://www.twitch.tv/donkcs
+Команда~Team Spirit Academy
+Страна~Россия

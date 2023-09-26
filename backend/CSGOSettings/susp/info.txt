@@ -1,0 +1,18 @@
+Имя~Тим Ангстрем (Tim Ångström)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.55
+Чувствительность мыши в зуме:~0.876031
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~280Hz
+sharecode~CSGO-RB9pD-WSmvb-uKSkC-4cznV-ukNkO
+Параметры запуска~-high -novid -refresh 280 +mat_queue_mode 2 -d3d9ex -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198342718168
+tw~https://twitter.com/susp111
+Команда~Без команды
+Страна~Швеция

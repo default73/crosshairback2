@@ -1,0 +1,19 @@
+Имя~Бруно Кастодио де Мендонса (Bruno Custodio de Mendonça)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-viPpi-tdK7c-UH5iE-BkdTh-7uDmQ
+st~https://steamcommunity.com/profiles/76561198043882667
+twitch~https://www.twitch.tv/brnz1k
+tw~https://twitter.com/Brnz1k
+in~https://www.instagram.com/brnz1k_
+Команда~Без команды
+Страна~Бразилия

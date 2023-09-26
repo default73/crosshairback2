@@ -1,0 +1,20 @@
+Имя~Артём Клищевский (Artem Klischevskiy)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.19
+Чувствительность мыши в зуме:~6
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wWuCc-phdn4-pW95Y-cypJJ-XKk9Q
+Параметры запуска~-freq 240 -novid -nojoy -console -tickrate 128 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561197964753509
+vk~https://vk.com/id246682881
+twitch~https://www.twitch.tv/yaphhh
+in~https://www.instagram.com/yaphhhhh/
+Команда~Без команды
+Страна~Украина

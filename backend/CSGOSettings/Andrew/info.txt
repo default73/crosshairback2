@@ -1,0 +1,20 @@
+Имя~Андрес Клавихо (Andrés Clavijo)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-z3O6D-933bq-vGC4X-jzLzU-fcEBM
+Параметры запуска~-novid -nojoy -language english -freq 240 -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561198012174501
+twitch~https://www.twitch.tv/andrewforpi
+fb~https://facebook.com/andrufps
+tw~https://twitter.com/andrewruruu
+Команда~Furious Gaming
+Страна~Уругвай

@@ -1,0 +1,20 @@
+Имя~Камен Костадинов (Kamen Kostadinov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.45
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-5kmBW-Kfqcj-dwfKK-Q36Ff-kzGnK
+st~https://steamcommunity.com/profiles/76561198000968105
+twitch~https://www.twitch.tv/onfirebubble
+fb~https://www.facebook.com/gpbubble
+tw~https://twitter.com/bubblen1CSGO
+in~https://www.instagram.com/bubbleCSGO/
+Команда~Без команды
+Страна~Болгария

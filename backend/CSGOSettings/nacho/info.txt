@@ -1,0 +1,20 @@
+Имя~Игнасио Родригес (Ignacio Rodriguez)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6OjQk-n5CbM-crUAM-ecKvV-pbywQ
+Параметры запуска~-high -novid -tickrate 128 -freq 240 -nod9d3ex1 -d3d9ex -nojoy -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198939861318
+twitch~https://www.twitch.tv/nachocsgo1
+tw~https://twitter.com/nachocsg0
+in~https://www.instagram.com/nacho.rdg
+Команда~Boca Juniors
+Страна~Аргентина

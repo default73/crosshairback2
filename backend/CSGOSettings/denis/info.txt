@@ -1,0 +1,20 @@
+Имя~Денис Хоувел (Denis Howell)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~0.75
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-RB7B8-33UnP-EaonE-xa6sN-PeiaB
+st~https://steamcommunity.com/profiles/76561197991451104
+twitch~https://www.twitch.tv/denis
+fb~https://www.facebook.com/csgodenis
+tw~https://twitter.com/deniscsgo
+in~https://www.instagram.com/denishowell
+Команда~Без команды
+Страна~Германия

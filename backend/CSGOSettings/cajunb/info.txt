@@ -1,0 +1,20 @@
+Имя~Рене Борг (René Borg)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-8wv8M-BYmYy-P6dZf-TasfH-ZVkoE
+st~https://steamcommunity.com/profiles/76561197978328043
+twitch~https://www.twitch.tv/cajunb
+fb~https://www.facebook.com/cajunbCS/
+tw~https://twitter.com/cajunbCS
+in~https://www.instagram.com/cajunbcs/
+Команда~Без команды
+Страна~Дания

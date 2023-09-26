@@ -1,0 +1,22 @@
+Имя~Максим Скаль (Maxim Skal)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-KLeAX-NNf87-jTTzN-m43nk-FomwG
+Параметры запуска~-novid -freq 240 +fps_max 0 -tickrate 128 -rate 786432
+st~https://steamcommunity.com/id/sparrowcsgo/
+vk~https://vk.com/sparrowpage
+twitch~https://www.twitch.tv/ktosparrow
+yt~https://www.youtube.com/channel/UCHkaWeoYbNj4skUwuDsxZcA
+tw~https://twitter.com/sparrowcsgo
+in~https://www.instagram.com/ktosparrow
+Команда~Без команды
+Страна~Россия

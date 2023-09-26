@@ -1,0 +1,21 @@
+Имя~Дмитрий Гладских (Dmitriy Gladskikh)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-KWOJt-mAY22-hz4j6-LGbQn-OnWjM
+Параметры запуска~-language english +mat_queue_mode 2 +r_dynamic 0 -tickrate 12800
+st~https://steamcommunity.com/profiles/76561198969296251
+vk~https://vk.com/id172531434
+twitch~https://www.twitch.tv/fen2kcs
+tw~https://twitter.com/fen2k2
+in~https://www.instagram.com/_fen2k
+Команда~Без команды
+Страна~Россия

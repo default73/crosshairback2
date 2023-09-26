@@ -1,0 +1,21 @@
+Имя~Тимур Сабиров (Timur Sabirov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~144Hz
+sharecode~CSGO-rHZzJ-xUDtB-j2ySx-a3wM4-63qRP
+Параметры запуска~-freq 144 -console -tickrate 128 -novid
+st~https://steamcommunity.com/profiles/76561198129084615
+vk~https://vk.com/id284543652
+twitch~https://www.twitch.tv/justaclaxie
+tw~https://twitter.com/clax1ecs
+in~https://www.instagram.com/justaclaxie
+Команда~9 Pandas
+Страна~Россия

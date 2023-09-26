@@ -1,0 +1,20 @@
+Имя~Георг Бауэр (Georg Bauer)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-RrS2j-BOcuc-hzYE4-oofSc-Wm74E
+st~https://steamcommunity.com/profiles/76561197992268324
+twitch~https://www.twitch.tv/officialfarmag
+fb~https://www.facebook.com/OfficialfarmaG
+tw~https://twitter.com/OfficialfarmaG
+in~https://www.instagram.com/officialfarmag
+Команда~Sissi State Punks (SSP)
+Страна~Австрия

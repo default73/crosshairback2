@@ -1,0 +1,21 @@
+Имя~Оуэн Верон (Owen Veron)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.5
+Чувствительность мыши в зуме:~0.85
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-LeV5G-QnYjx-QHNHD-PUpWi-yuN6H
+Параметры запуска~-high -console -threads 6 -tickrate 128 -untrusted -novid -freq 240 +mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198358309513
+twitch~https://www.twitch.tv/owensinhom
+yt~https://www.youtube.com/channel/UCbJZDdO7EqiZ3mt_t2qHAHQ
+tw~https://twitter.com/OwensinhoM
+in~https://www.instagram.com/mathiasowen
+Команда~Без команды
+Страна~Аргентина

@@ -1,0 +1,20 @@
+Имя~Лидор Алмаси (Lidor Almasi)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.45
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VocKs-8Oc5k-SLObw-boSZG-MUopQ
+Параметры запуска~-refresh 240 -freq 240 -novid +mat_queue_mode -2 -allow_third_party_software -tickrate 128
+st~https://steamcommunity.com/profiles/76561198116193867
+twitch~https://www.twitch.tv/lanrefnicsgo
+yt~https://www.youtube.com/c/lanrefnicsgo
+tw~https://twitter.com/LaNrefNiCSGO
+Команда~Без команды
+Страна~Израиль

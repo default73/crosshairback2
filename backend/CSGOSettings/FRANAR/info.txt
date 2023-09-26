@@ -1,0 +1,17 @@
+Имя~Франко Альварадо (Franco Alvarado)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-XuBA4-apBf9-nWVGZ-FOCvw-4BPYE
+Параметры запуска~-tickrate 128 -console +r_dynamic "0" +cl_forcepreload "1" -freq 240 -allow_third_party_software -untrusted +cl_sanitize_muted_players 0 +fps_max 0
+st~https://steamcommunity.com/profiles/76561198134103396
+Команда~Без команды
+Страна~Аргентина

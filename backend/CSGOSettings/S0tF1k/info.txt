@@ -1,0 +1,20 @@
+Имя~Дмитрий Форостянко (Dmitry Forostyanko)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-Jt6qz-Kd5LE-AHnAT-LbJiD-OfoUE
+Параметры запуска~+cl_interp 1 +cl_interp_ratio 1 +cl_color 2 +rate 786432 +cl_updaterate 128 +cl_cmdrate 128 -tickrate 128 -novid +fps_max 0 -freq 240
+st~https://steamcommunity.com/profiles/76561198135123440
+vk~https://vk.com/id53489643
+twitch~https://www.twitch.tv/s0tf1k
+tw~https://twitter.com/dimasotf
+Команда~Без команды
+Страна~Россия

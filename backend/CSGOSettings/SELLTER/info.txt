@@ -1,0 +1,20 @@
+Имя~Иван Мирошников (Ivan Miroshnikov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.337
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-B6URO-wUc9N-XJ4XH-E4qsv-YSopQ
+Параметры запуска~-novid -console -tickrate 128 -freq 240 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp_ratio 1 -refresh 240 -rate 176969
+st~https://steamcommunity.com/profiles/76561198119088041
+vk~https://vk.com/id167894289
+twitch~https://www.twitch.tv/selltercs
+in~https://www.instagram.com/selltercs
+Команда~Aurora
+Страна~Россия

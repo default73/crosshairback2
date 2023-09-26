@@ -1,0 +1,18 @@
+Имя~Бартош Миколаевич (Bartosz Mikołajewicz)
+DPI:~2000
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-jsHw5-Sf7bn-Rrmxj-CTd8Z-POwLA
+st~https://steamcommunity.com/profiles/76561198194031838
+fb~https://www.facebook.com/baljscsgo
+in~https://www.instagram.com/baljs_
+Команда~Без команды
+Страна~Польша

@@ -1,0 +1,21 @@
+Имя~Эпитасио де Мело (Epitacio de Melo)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8wv8M-BYmYy-P6dZf-TasfH-ZVkoE
+st~https://steamcommunity.com/profiles/76561198013142296
+twitch~https://www.twitch.tv/tacocs
+yt~https://www.youtube.com/channel/UCIMkiMjg-MbF7zP5n9xwG9g
+fb~https://www.facebook.com/tacocs
+tw~https://twitter.com/TACOCS
+in~https://www.instagram.com/taco
+Команда~Без команды
+Страна~Бразилия

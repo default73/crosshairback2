@@ -1,0 +1,20 @@
+Имя~Адам Уолквист (Adam Wahlqvist)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-yVJbs-2NbFz-yvcpD-27Awp-5L5mA
+Параметры запуска~-console -novid -nojoy -noforcemparms -noforcemaccel -noforcemspd -tickrate 128 -refresh 144 -nod3d9ex -d3d9ex
+st~https://steamcommunity.com/profiles/76561197995422314
+twitch~https://www.twitch.tv/dezoncsgo
+tw~https://twitter.com/dezoncsgo
+in~https://www.instagram.com/dezoncsgo
+Команда~Без команды
+Страна~Швеция

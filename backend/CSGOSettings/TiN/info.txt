@@ -1,0 +1,19 @@
+Имя~Антонио Гарридо Эскобар (Antonio Garrido Escobar)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.65
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-2vaby-rHbVx-NHiK9-OqTVP-OSveM
+Параметры запуска~-noforcemaccel -noforcemspd -noforcemparms -freq 144 -novid -tickrate 128 -language competitivov2
+st~https://steamcommunity.com/profiles/76561198303089484
+yt~https://www.youtube.com/channel/UCKeJHIl5sNQdGcSFuiOO5iw/videos
+tw~https://twitter.com/TiNcs__
+Команда~Без команды
+Страна~Испания

@@ -1,0 +1,21 @@
+Имя~Ховик Товмасян (Hovik Tovmassian)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.79
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-j2VXD-3uxGu-tBTQ4-HiEou-ENc7L
+st~https://steamcommunity.com/profiles/76561197980912763
+twitch~https://www.twitch.tv/kqly
+yt~https://www.youtube.com/user/kqlyprod
+fb~https://www.facebook.com/KQLYY
+tw~https://twitter.com/KQLY_
+in~https://www.instagram.com/VEM_KQLY
+Команда~Без команды
+Страна~Франция

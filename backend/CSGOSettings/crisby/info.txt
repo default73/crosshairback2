@@ -1,0 +1,20 @@
+Имя~Кристиан Шмитт (Christian Schmitt)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-5pfty-Rr37G-beVGw-RNfo2-HDWzE
+Параметры запуска~-console -novid -refresh 144 -tickrate 128 -high -w 1280 -h 960
+st~https://steamcommunity.com/profiles/76561197973392984
+twitch~https://www.twitch.tv/crisby
+fb~https://www.facebook.com/crisbyyy
+tw~https://twitter.com/crisbyyy
+Команда~Без команды
+Страна~Германия

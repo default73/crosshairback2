@@ -1,0 +1,19 @@
+Имя~Александр Дейли (Alexander Deily)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8TfUX-EXMx9-Wi7LZ-6soNc-uy5qB
+st~https://steamcommunity.com/profiles/76561197962957566
+twitch~https://www.twitch.tv/LeXCS
+tw~https://twitter.com/TheUltraLex
+in~https://www.instagram.com/theultralex/
+Команда~Без команды
+Страна~США

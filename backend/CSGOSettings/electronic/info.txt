@@ -1,0 +1,20 @@
+Имя~Денис Шарипов (Denis Sharipov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-b5saU-9Vi4A-QBHeb-BowUb-JQGOP
+st~https://steamcommunity.com/profiles/76561198044045107
+vk~https://vk.com/id373652093
+twitch~https://www.twitch.tv/electronic
+tw~https://twitter.com/electronicCSGO
+in~https://www.instagram.com/electronicsgo
+Команда~Без команды
+Страна~Россия

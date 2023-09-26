@@ -1,0 +1,20 @@
+Имя~Майкл Геутебрук (Michael Geutebrück)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-F4dbQ-JqW9j-7D5FF-qex9r-MKPYE
+st~https://steamcommunity.com/profiles/76561198164807385
+twitch~https://www.twitch.tv/devrann
+yt~https://www.youtube.com/devrann
+tw~https://twitter.com/DevraNNCSGO
+in~https://www.instagram.com/devrannooo
+Команда~Entropy Gaming
+Страна~Германия

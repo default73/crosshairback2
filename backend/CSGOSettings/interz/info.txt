@@ -1,0 +1,21 @@
+Имя~Тимофей Якушин (Timofey Yakushin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-faOLP-TddAt-XY5dS-AD4QF-xmKPJ
+Параметры запуска~-console -novid -freq 240 -tickrate 128 +cl_interp_ratio 1 +rate 768432 -language english +fps_max 0
+st~https://steamcommunity.com/profiles/76561198208074320
+vk~https://vk.com/id150918641
+twitch~https://www.twitch.tv/1nterz
+tw~https://twitter.com/interzgod
+in~https://www.instagram.com/1nterz
+Команда~Без команды
+Страна~Россия

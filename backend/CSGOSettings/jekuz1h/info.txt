@@ -1,0 +1,20 @@
+Имя~Эмиль Грегерсен (Emil Gregersen)
+DPI:~400
+Частота мыши:~2Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3a2w7-CVSLE-iOq6E-5R7iA-5BZ2Q
+Параметры запуска~-console -freq 240 -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561199006612211
+twitch~https://www.twitch.tv/jekuz1hof
+tw~https://twitter.com/jekuz1hCS
+in~https://www.instagram.com/jekuz1hof/
+Команда~Без команды
+Страна~Дания

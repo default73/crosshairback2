@@ -1,0 +1,20 @@
+Имя~Денис Калачёв (Denis Kalachev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.09
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-oqAdV-cU5G6-3em7p-SHh4S-MDr7C
+Параметры запуска~-allow_third_party_software -cl_color 0 -high -tickrate 128
+st~https://steamcommunity.com/profiles/76561198293974689
+vk~https://vk.com/id563276669
+twitch~https://www.twitch.tv/n0tineki
+in~https://www.instagram.com/n0tineki
+Команда~Без команды
+Страна~Украина

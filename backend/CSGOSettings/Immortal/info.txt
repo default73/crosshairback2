@@ -1,0 +1,19 @@
+Имя~Максим Ковальчук (Maksim Kovalchuk)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.49
+Чувствительность мыши в зуме:~1.4
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-KVZZ7-Gbbuw-e8OZj-NcuXS-JK5mA
+Параметры запуска~-novid -freq 144 -tickrate 128 +cl_interp_ratio 2 -rate 786432 -cl_updaterate 128 -cl_cmdrate 128 +cl_interp 1 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198194769919
+vk~https://vk.com/id233099533
+twitch~https://www.twitch.tv/immortalddd
+Команда~VRTX Esports
+Страна~Россия

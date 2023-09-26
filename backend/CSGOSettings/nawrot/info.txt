@@ -1,0 +1,19 @@
+Имя~Петр Навроцки (Piotr Nawrocki)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7OrN7-qrzLs-TaZNG-RP5ce-POwLA
+st~https://steamcommunity.com/profiles/76561198034444294
+twitch~https://www.twitch.tv/nawrocikofficial
+fb~https://www.facebook.com/nawrotwywrot
+tw~https://twitter.com/nawrot_cs
+Команда~Без команды
+Страна~Польша

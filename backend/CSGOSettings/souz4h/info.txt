@@ -1,0 +1,20 @@
+Имя~Луис де Соуза (Luiz de Souza)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-dGh9x-m4kV8-utDin-S2Bj9-BrrBE
+Параметры запуска~-novid -freq 240 -tickrate 128 -console -rate 786432 +cl_interp_ratio 1 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198362812806
+twitch~https://www.twitch.tv/souz4h
+tw~https://twitter.com/souz4h_
+in~https://www.instagram.com/souz4h_/
+Команда~Без команды
+Страна~Бразилия

@@ -1,0 +1,19 @@
+Имя~Дилан Форстер (Dylan Vorster)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-KfO4C-VU8mJ-VW2GF-DqBEp-8t8rN
+st~https://steamcommunity.com/profiles/76561198132868119
+twitch~https://www.twitch.tv/dyvothegreat
+tw~https://twitter.com/officialdyvo
+in~https://www.instagram.com/officialdyvo/
+Команда~DNMK Esports
+Страна~Южная Африка

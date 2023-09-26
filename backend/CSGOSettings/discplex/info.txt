@@ -1,0 +1,20 @@
+Имя~Даниил Биезиньш (Daniēls Bieziņš)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-HyJBV-cP5Pw-AKmR7-zUPBf-ZbJaA
+Параметры запуска~-novid -allow_third_party_software +exec autoexec.cfg -tickrate 128 -freq 240
+st~https://steamcommunity.com/profiles/76561198212318784
+twitch~https://www.twitch.tv/discplex
+yt~https://www.youtube.com/channel/UCx-CRZrQbD5-VP-U6wGIDVg
+tw~https://twitter.com/discplex
+Команда~Без команды
+Страна~Латвия

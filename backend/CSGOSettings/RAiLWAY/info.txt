@@ -1,0 +1,19 @@
+Имя~Артём Градович (Artem Gradovich)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.34
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-xUZun-SeOX3-dH4Kc-jZqrZ-DEHnK
+Параметры запуска~-noforcemspd -noforcemaccel -useforcedmparms -tickrate 128 -freq 144 -refresh 144
+st~https://steamcommunity.com/profiles/76561197980936538
+vk~https://vk.com/id4125008
+in~https://www.instagram.com/gradovichartem
+Команда~Без команды
+Страна~Россия

@@ -1,0 +1,19 @@
+Имя~Алекса Станкич (Aleksa Stankić)
+DPI:~800
+Частота мыши:~100Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1600 x 1024
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Ri6f6-mNVxv-zXFNC-tMHK3-7cRVP
+Параметры запуска~-novid -d3d9ex -tickrate 128 +cl_updaterate 128  -freq 240 +mat_queue_mode 2 -language textmodorel
+st~https://steamcommunity.com/profiles/76561198076388653
+tw~https://twitter.com/CSGOImpulse
+in~https://www.instagram.com/csgoimpulse
+Команда~Без команды
+Страна~Сербия

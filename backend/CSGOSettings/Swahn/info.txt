@@ -1,0 +1,20 @@
+Имя~Кристофер Сван (Christopher Swahn)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.15
+Чувствительность мыши в зуме:~6
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ho6dZ-Lcznv-FJeOE-oK8c9-ZAFKO
+Параметры запуска~-allow_third_party_software -freq 240 -nojoy -tickrate 128 -novid -high
+st~https://steamcommunity.com/profiles/76561198043014311
+twitch~https://www.twitch.tv/cmswahn
+yt~https://www.youtube.com/channel/UCTj7w8vjDYG9M79jrRokQCg
+tw~https://twitter.com/CMSwahn
+Команда~Без команды
+Страна~США

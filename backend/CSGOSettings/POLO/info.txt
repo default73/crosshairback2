@@ -1,0 +1,18 @@
+Имя~Ян Полак (Jan Polak)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~800 x 600
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~144Hz
+sharecode~CSGO-AYPGR-T6xDp-3oFTM-KSOTr-UxQRO
+Параметры запуска~-novid -tickrate 128 -freq 144
+st~https://steamcommunity.com/profiles/76561198806854565
+tw~https://twitter.com/csgoPOLO
+Команда~Singularity
+Страна~Польша

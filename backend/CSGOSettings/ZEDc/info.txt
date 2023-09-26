@@ -1,0 +1,20 @@
+Имя~Адам Бартко (Adam Bartko)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-A6dpv-Wtan4-pW95Y-cypJJ-XKk9Q
+Параметры запуска~-novid -freq 240 -refresh 240 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198068998055
+twitch~https://www.twitch.tv/zedc_
+tw~https://twitter.com/zedc_csgo
+in~https://www.instagram.com/zed1s/
+Команда~Без команды
+Страна~Словакия

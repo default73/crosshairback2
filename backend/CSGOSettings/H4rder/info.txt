@@ -1,0 +1,19 @@
+Имя~Кэтэлин Хардулеа (Cătălin Hardulea)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-chRxK-CN9LL-vC9Qp-jUEx6-ktmHB
+Параметры запуска~-novid -tickrate 128 -high +cl_updaterate 128 +cl_cmdrate 128 -noubershader
+st~https://steamcommunity.com/profiles/76561198163207696
+twitch~https://www.twitch.tv/h4rder8
+tw~https://twitter.com/_H4rder
+Команда~Без команды
+Страна~Румыния

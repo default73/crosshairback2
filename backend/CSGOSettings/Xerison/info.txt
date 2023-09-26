@@ -1,0 +1,19 @@
+Имя~Никита Сергеев (Nikita Sergeev)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.715
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-zPdkz-NbyU4-VTT7D-Jk5M3-qdq3B
+Параметры запуска~-novid -tickrate 128 +rate 786432 -freq 240 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198211030531
+vk~https://vk.com/id132356987
+twitch~https://www.twitch.tv/xerison
+Команда~Без команды
+Страна~Россия

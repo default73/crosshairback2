@@ -1,0 +1,18 @@
+Имя~Тобиас Сетер (Tobias Sæther)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-dALHZ-PE4Ea-FNhzc-7t3oQ-7T8SA
+Параметры запуска~-freq 240 -console -novid -noforcemaccel -noforcemparms -tickrate 128 -cl_updaterate 128 -cl_cmdrate 128 -rate 786432 -d3d9ex
+st~https://steamcommunity.com/profiles/76561198027020808
+tw~https://twitter.com/shyyneCS
+Команда~Без команды
+Страна~Норвегия

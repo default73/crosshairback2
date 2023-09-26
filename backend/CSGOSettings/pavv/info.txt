@@ -1,0 +1,18 @@
+Имя~Матиас Павон (Matias Pavón)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7GtaT-7MTCm-zGfoX-z8dWy-oqybE
+st~https://steamcommunity.com/profiles/76561198072143352
+tw~https://twitter.com/pavvcs
+in~instagram.com/matipavvon
+Команда~Boca Juniors
+Страна~Аргентина

@@ -1,0 +1,19 @@
+Имя~Сондре Гьерде (Sondre Gjerde)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-QZf2M-wn5Uk-aCrm8-SvBpk-yrmHB
+Параметры запуска~-console -novid -nojoy -fullscreen -nod3d9ex -tickrate 128
+st~https://steamcommunity.com/profiles/76561197965568264
+twitch~https://www.twitch.tv/fibb0
+tw~https://twitter.com/fibb0cs
+Команда~Без команды
+Страна~Норвегия

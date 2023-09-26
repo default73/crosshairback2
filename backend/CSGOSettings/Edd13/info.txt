@@ -1,0 +1,19 @@
+Имя~Глеб Юн (Gleb Yun)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~0.6
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-rcEKW-x8qE9-Fjaht-iNk5S-7T8SA
+Параметры запуска~-freq 240 -console -novid -noforcemaccel -noforcemparms -tickrate 128 -cl_updaterate 128 -cl_cmdrate 128 -rate 786432 +fps_max 400
+st~https://steamcommunity.com/profiles/76561198147238746
+vk~https://vk.com/id318764944
+twitch~https://www.twitch.tv/edd13csgo
+Команда~Без команды
+Страна~Россия

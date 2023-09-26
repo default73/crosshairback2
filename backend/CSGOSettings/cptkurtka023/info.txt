@@ -1,0 +1,19 @@
+Имя~Арсений Деревинский (Arseniy Derevinskiy)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3TKH4-Xo7JV-msywp-X5aL7-HDWzE
+Параметры запуска~-novid -threads 4 -console -tickrate 128 + rate 786432 -cl_cmdrate 128 -cl_updaterate 128 +ex_interpratio 1 -high +mat_queue_mode 2 -freq 240 -refresh 240 +cl_interp_ratio 1 -alloy_third_party_software
+st~https://steamcommunity.com/profiles/76561198136488014
+vk~https://vk.com/id56086210
+in~https://www.instagram.com/cptkurtka023/
+Команда~B8 Esports
+Страна~Украина

@@ -1,0 +1,18 @@
+Имя~Уильям Кьерсгаард (William Kjærsgaard)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-bMCvS-VfXb8-zuDDw-chZmp-BkKPJ
+Параметры запуска~-tickrate 128 -freq 240 -novid +cl_forcepreload 1 -console
+st~https://steamcommunity.com/profiles/76561198308941038
+tw~https://twitter.com/sirahcs
+Команда~MASONIC
+Страна~Дания

@@ -1,0 +1,22 @@
+Имя~Олександр Ярошенко (Oleksandr Yaroshenko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-QZf2M-wn5Uk-aCrm8-SvBpk-yrmHB
+Параметры запуска~-novid -tickrate 128 -freq 240 -allow_third_party_software +cl_threaded_bone_setup 1 +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561198188276511
+vk~https://vk.com/id298724738
+twitch~https://www.twitch.tv/sashquacs
+yt~https://www.youtube.com/channel/UCo8lVMzqfTFyGnfx8Zqch7w
+tw~https://twitter.com/sashquacs
+in~https://www.instagram.com/sashquacs/
+Команда~Sestri
+Страна~Украина

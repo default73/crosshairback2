@@ -1,0 +1,20 @@
+Имя~Алексей Пестов (Alexey Pestov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.33
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~1.05
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-aFb5Z-dnVsp-WFRKr-9iWLc-ByeKP
+Параметры запуска~-novid -freq 240 -console -tickrate 128 -cl_updaterate 128 -cl_cmdrate 128 -rate 786432
+st~https://steamcommunity.com/profiles/76561198154726241
+vk~https://vk.com/id102422406
+twitch~https://www.twitch.tv/l4ffff
+in~https://www.instagram.com/azekcay666/
+Команда~Без команды
+Страна~Россия

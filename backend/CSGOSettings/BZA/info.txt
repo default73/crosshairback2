@@ -1,0 +1,17 @@
+Имя~Цзюньчи Ян (Junchi Yang)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.55
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-NmvPS-nV8F7-u3EPX-QD8HR-EbJaA
+Параметры запуска~-worldwide -noforcemaccel -noforcemspd -noforcemparms -freq 240 -console -novid -tickrate 128 -language english
+st~https://steamcommunity.com/profiles/76561198354631329
+Команда~Без команды
+Страна~Китай

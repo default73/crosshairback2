@@ -1,0 +1,20 @@
+Имя~Бартек Трибула (Bartek Trybuła)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-qB7Xb-WPTmZ-H84uS-yiYmz-45NQC
+Параметры запуска~-novid -tickrate 128 -d3d9ex -nojoy -allow_third_party_software -no-browser -console -high
+st~https://steamcommunity.com/profiles/76561198245773992
+fb~https://www.facebook.com/maskedcs
+tw~https://twitter.com/maskedcs
+in~https://www.instagram.com/maskedcs
+Команда~Anonymo
+Страна~Польша

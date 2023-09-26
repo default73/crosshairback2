@@ -1,0 +1,21 @@
+Имя~Натанаэль Роденас Бетанкорт (Natanael Ródenas Betancort)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~0.897926
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-8ZeUD-euSr7-rvm3u-V8JhJ-wEL9P
+Параметры запуска~-refresh 240 -console -novid -tickrate 128 -threads 6 -high
+st~https://steamcommunity.com/profiles/76561198025128067
+twitch~https://www.twitch.tv/kanarito
+yt~https://www.youtube.com/channel/UCmSzEQzhSXNGDzuL0nKnKNg
+tw~https://twitter.com/kanarito
+in~https://www.instagram.com/_kanarito
+Команда~Без команды
+Страна~Португалия

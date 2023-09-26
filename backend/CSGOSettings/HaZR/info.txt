@@ -1,0 +1,19 @@
+Имя~Джаред О'Бри (Jared O'Bree)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-JpJJz-oA6zB-OXimN-RrF3O-YfoUE
+st~https://steamcommunity.com/profiles/76561198024347602
+twitch~https://www.twitch.tv/hazr_cs
+yt~https://www.youtube.com/channel/UCugwfzeKAxGA40MHeKtAJFg
+tw~https://twitter.com/hazr_cs
+Команда~VERTEX Esports Club
+Страна~Австралия

@@ -1,0 +1,18 @@
+Имя~Артур Кравченко (Artur Kravchenko)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-aePwi-JWWRH-YcqXu-LUQyu-FZQ3A
+st~https://steamcommunity.com/id/darks1decsgo
+vk~https://vk.com/id115048951
+twitch~https://www.twitch.tv/darks1deofficial
+Команда~Без команды
+Страна~Украина

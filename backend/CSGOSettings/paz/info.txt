@@ -1,0 +1,19 @@
+Имя~Ахмет Карахока (Ahmet Karahoca)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5QQLa-WRa4i-Ma5hF-WxRjT-fxwPB
+st~https://steamcommunity.com/profiles/76561198028790343
+fb~https://www.facebook.com/pazcsgo
+tw~https://twitter.com/pazzcsgo
+in~https://www.instagram.com/pazcsgo_
+Команда~Без команды
+Страна~Турция

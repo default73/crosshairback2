@@ -1,0 +1,21 @@
+Имя~Александр Нагорный ( Alexander Nagorny)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-9AeJ7-YB4r9-NaOjQ-8UNiY-cn3cQ
+Параметры запуска~-freq 240 -novid -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198837117408
+vk~https://vk.com/1eeer24
+twitch~https://www.twitch.tv/1eer24
+yt~https://www.youtube.com/channel/UCGeIRw5f-QzBGQejlhMGoBQ
+in~https://www.instagram.com/1eer24
+Команда~Nemiga Gaming
+Страна~Беларусь

@@ -1,0 +1,18 @@
+Имя~Эрик Пенни (Erik Penny)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-cJpN9-FFFnb-uzm4P-N4bpJ-FTBtG
+Параметры запуска~-novid -tickrate 128 -freq 240 -rate 786432 -cl_cmdrate 128 -cl_updaterate 128
+st~https://steamcommunity.com/id/1pen
+tw~https://twitter.com/pennycsgo
+Команда~Без команды
+Страна~Канада

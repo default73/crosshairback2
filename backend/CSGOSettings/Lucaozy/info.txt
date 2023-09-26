@@ -1,0 +1,20 @@
+Имя~Лукас Невес (Lucas Neves)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~0.75
+Чувствительность мыши в Windows:~9/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-wAswE-sxMd4-JRVN7-a5UFt-vPunC
+Параметры запуска~-high +mat_queue_mode 2 -novid -tickrate 128 -d3d9ex -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198157388473
+twitch~https://www.twitch.tv/lucaozyfps
+tw~https://twitter.com/Lucaozy
+in~https://www.instagram.com/lucaozy
+Команда~Fluxo
+Страна~Бразилия

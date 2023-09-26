@@ -1,0 +1,18 @@
+Имя~Огнен Перович (Ognjen Perovic)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-UuhR6-MdK5B-VBu9f-AWyXo-XQJvM
+Параметры запуска~-freq 240 -novid -tickrate 128 +mat_queue_mode 2 -allow_third_party_software -high
+st~https://steamcommunity.com/profiles/76561198165397591
+tw~https://twitter.com/OGYcsgo
+Команда~Без команды
+Страна~Монтенегро

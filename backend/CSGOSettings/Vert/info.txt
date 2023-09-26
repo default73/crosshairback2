@@ -1,0 +1,21 @@
+Имя~Георгий Кинзягулов (Georgiy Kinzyagulov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~280Hz
+sharecode~CSGO-3YRh2-L2cn4-QRzsr-pNswd-WROpP
+Параметры запуска~-novid -language russian -freq 280 -tickrate 128 -console -no-browser +cl_cmdrate 128 +cl_updrate 128 +fps_max 400 +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561198170561831
+vk~https://vk.com/id366158438
+twitch~https://www.twitch.tv/cheaterhs
+tw~https://twitter.com/gbc_ghostboy1
+in~https://www.instagram.com/gbc.ghostboy
+Команда~HYDRA
+Страна~Россия

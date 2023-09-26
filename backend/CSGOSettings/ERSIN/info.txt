@@ -1,0 +1,20 @@
+Имя~Эрсин Кирияк (Ersin Chiriac)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-bdDtD-6fqL9-fd3fi-pVfD6-4BZ2Q
+Параметры запуска~-tickrate 128 -novid -freq 240 -console
+st~https://steamcommunity.com/profiles/76561198028290316
+yt~https://www.youtube.com/channel/UCWUFreiqeOstlri2zj6IDew
+tw~https://twitter.com/ChiriacErsin
+in~https://www.instagram.com/ersinchiriac
+Команда~Без команды
+Страна~Румыния

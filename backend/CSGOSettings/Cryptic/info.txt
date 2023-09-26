@@ -1,0 +1,18 @@
+Имя~Мэтью Уитмор (Matthew Whitmore)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-bHKMp-tP89Z-AYFbS-6CG2m-ruWPA
+st~https://steamcommunity.com/profiles/76561198029235071
+twitch~https://www.twitch.tv/cryptictw
+tw~https://twitter.com/CrypticTW
+Команда~Wildcard
+Страна~США

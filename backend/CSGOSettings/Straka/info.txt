@@ -1,0 +1,20 @@
+Имя~Науэль Васкес (Nahuel Vazquez)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-GE4ee-CPmYD-yJAH3-FwnVj-Q38CH
+st~https://steamcommunity.com/profiles/76561198011410673
+twitch~https://www.twitch.tv/strakatv
+fb~https://www.facebook.com/strakacsgo
+tw~https://twitter.com/Strakacsgo
+in~https://www.instagram.com/nahueevazquez/
+Команда~Без команды
+Страна~Аргентина

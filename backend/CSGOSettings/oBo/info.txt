@@ -1,0 +1,20 @@
+Имя~Оуэн Склаттер (Owen Schlatter)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-isZmo-Zsiya-WtLAW-5rTzB-w88WB
+Параметры запуска~-tickrate 128 -novid -freq 240 -noforcemaccel -tickrate 128 +rate 786432 +fps_max 0 +cl_updaterate 128 +cl_cmdrate 128
+st~https://steamcommunity.com/id/oBoCSGO/
+twitch~https://www.twitch.tv/oBoTV
+tw~https://twitter.com/oBocsgo
+in~https://www.instagram.com/obocsgo
+Команда~Без команды
+Страна~США

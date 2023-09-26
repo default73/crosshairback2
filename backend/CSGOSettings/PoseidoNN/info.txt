@@ -1,0 +1,19 @@
+Имя~Николаос Антониу (Nikolaos Antoniou)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-uUn8L-WWxfT-3wo2A-CnpNy-msLDR
+Параметры запуска~-freq 240 -novid -tickrate 128 -high -d3d9ex -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198050437265
+twitch~https://www.twitch.tv/poseidonncs
+tw~https://twitter.com/Pose1doNNo
+Команда~Detonate
+Страна~Греция

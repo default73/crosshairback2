@@ -1,0 +1,21 @@
+Имя~Тамилла Баширова (Tamilla Bashirova)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~165Hz
+sharecode~CSGO-F25TO-Lz9kv-C3v67-5b5aW-nKnfO
+Параметры запуска~-novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 +rate 786432 -console -allow_third_party_software -nojoy -freq 165 +fps_max 401 +logaddress_add 1 +mat_queue_mode -2 -refresh 165
+st~https://steamcommunity.com/profiles/76561198985777852
+vk~https://vk.com/id405107394
+twitch~https://www.twitch.tv/irbitka
+yt~https://www.youtube.com/channel/UC1W8Bk4Xb_F5dUZtOtMh-nA
+in~https://www.instagram.com/tamilla.bashirova
+Команда~Без команды
+Страна~Азербайджан

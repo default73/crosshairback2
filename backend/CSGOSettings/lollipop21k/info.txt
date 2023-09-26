@@ -1,0 +1,21 @@
+Имя~Игорь Солодков (Igor Solodkov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.21
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-E7PNG-mZ5r3-DwE5n-GNiyN-pB57M
+Параметры запуска~-novid -nojoy -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198014818598
+vk~https://vk.com/id12021729
+twitch~https://www.twitch.tv/lollipop21k
+tw~https://twitter.com/lollipop21k
+in~https://www.instagram.com/lollipop21k
+Команда~Iron Branch
+Страна~Беларусь

@@ -1,0 +1,21 @@
+Имя~Хуан Рейес (Juan Reyes)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-JNVCH-eRswQ-cvMBW-jX8nU-JK5mA
+Параметры запуска~-freq 144 -refresh 144 -nod3d9ex1 -d3d9ex +mat_disable_fancy_blending  -novid -high -threads 6
+st~https://steamcommunity.com/profiles/76561198116363162
+twitch~https://www.twitch.tv/dillion10
+fb~https://www.facebook.com/dillionplayer
+tw~https://twitter.com/juannreyess
+in~https://www.instagram.com/juanreyess1
+Команда~Без команды
+Страна~Уругвай

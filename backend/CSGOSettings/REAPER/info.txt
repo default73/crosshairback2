@@ -1,0 +1,18 @@
+Имя~Сандер Адаль (Sander Aadal)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.98
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hWtBO-8kPqS-n8TWZ-4y7Ue-txsyM
+st~https://steamcommunity.com/profiles/76561198406680858
+twitch~https://www.twitch.tv/reaperrr_cs
+tw~https://twitter.com/REAPERRR_98
+Команда~Без команды
+Страна~Норвегия

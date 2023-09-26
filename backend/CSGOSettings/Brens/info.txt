@@ -1,0 +1,19 @@
+Имя~Кристерс Бренсонс (Kristers Brensons)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-YXxMs-TtTF2-ecPT4-rAGNN-ERNMB
+Параметры запуска~-novid -refresh 240
+st~https://steamcommunity.com/profiles/76561198875641022
+twitch~https://www.twitch.tv/official_brens
+tw~https://twitter.com/OfficialBrens
+Команда~Tranquillum eSports
+Страна~Латвия

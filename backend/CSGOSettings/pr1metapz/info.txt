@@ -1,0 +1,19 @@
+Имя~Лука Фойгт (Luca Voigt)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-MFB8D-877jm-57iDC-ADaGC-uyXDJ
+st~https://steamcommunity.com/profiles/76561198158709510
+twitch~https://www.twitch.tv/pr1metapz
+yt~https://www.youtube.com/channel/UCnRfb94XK1RzYonqFLaJOIg
+tw~https://twitter.com/pr1metapz
+Команда~SNOGARD Dragons
+Страна~Германия

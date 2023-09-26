@@ -1,0 +1,21 @@
+Имя~Святослав Довбах (Svyatoslav Dovbakh)
+DPI:~1200
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.83
+Чувствительность мыши в зуме:~0.875
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-e3RhD-nWLYZ-3TX3t-5jcWr-NWeuB
+Параметры запуска~-novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 +cl_updaterate 128 +cl_interp_ratio 2 +cl_interp 0 +voice_mixer_volume 0.9 +fps_max 500
+st~https://steamcommunity.com/id/svyat/
+vk~https://vk.com/samiychetkiy
+twitch~https://www.twitch.tv/samiychetkiy
+tw~https://twitter.com/samiychetkiy
+in~https://www.instagram.com/samiychetkiy/
+Команда~Без команды
+Страна~Россия

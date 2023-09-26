@@ -1,0 +1,20 @@
+Имя~Данила Тихомиров (Danila Tikhomirov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~144Hz
+sharecode~CSGO-rpMou-Vdhmn-3QU4s-8v7Py-VtjjD
+Параметры запуска~-novid -language english -freq 144 -tickrate 128 +fps_max 301
+st~https://steamcommunity.com/profiles/76561198170267106
+vk~https://vk.com/id172119577
+twitch~https://www.twitch.tv/rexx1eee
+in~https://www.instagram.com/rexxie104
+Команда~YNT
+Страна~Россия

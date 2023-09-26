@@ -1,0 +1,19 @@
+Имя~Жоао Лоренсу (Joao Lourenço)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.22
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-WCc7M-MGXtj-wyziO-SCyUP-inmHB
+Параметры запуска~-freq 240 -novid -high +fps_max 0 +cl_threaded_bone_setup 1 +r_dynamic 0 -tickrate 128 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198370794239
+twitch~http://www.twitch.tv/jzfps_
+tw~https://twitter.com/jzfps_
+Команда~W7M Academy
+Страна~Бразилия

@@ -1,0 +1,20 @@
+Имя~Хусейн Хиджази (Hussein Hijazi)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.55
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-fM898-79ss9-wPzNY-o6y86-cLVGQ
+Параметры запуска~-tickrate 128 -console -novid -freq 240
+st~https://steamcommunity.com/profiles/76561198422389693
+twitch~https://www.twitch.tv/m1n1cs
+tw~https://twitter.com/m1N1_cs
+in~https://www.instagram.com/m1n1cs
+Команда~Invictus International
+Страна~Ливан

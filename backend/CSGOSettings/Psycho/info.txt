@@ -1,0 +1,21 @@
+Имя~Александр Злобин (Alexandr Zlobin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5X93a-qTuuw-sLArS-bnbFE-KCR7B
+Параметры запуска~-language english -tickrate 128 -novid -freq 240+rate 786432 +cl_interp 0 -d3d9ex
+st~https://steamcommunity.com/id/TTFY/
+vk~https://vk.com/idadad
+twitch~https://www.twitch.tv/psychol33t
+tw~https://twitter.com/c4Psycho
+in~https://www.instagram.com/psycho_csgo/
+Команда~Без команды
+Страна~Украина

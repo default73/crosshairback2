@@ -1,0 +1,18 @@
+Имя~Пауло Лима (Paulo Lima)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-GGVof-oDZ5V-MCnbU-6wFTn-BouCQ
+Параметры запуска~-novid -refresh 144 -freq 144 -high -tickrate 128 -language english
+st~https://steamcommunity.com/profiles/76561198219644779
+tw~https://twitter.com/reibiics
+Команда~Без команды
+Страна~Португалия

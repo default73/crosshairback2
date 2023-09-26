@@ -1,0 +1,19 @@
+Имя~Шон Кнатссон (Sean Knutsson)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-CU2eD-7hNPt-iOpS5-crHjU-Rx6KQ
+Параметры запуска~-novid -freq 240 -console -tickrate 128 +cl_cmdrate 128+cl_cmdrate 128 +cl_updaterate 128 -refresh 240
+st~https://steamcommunity.com/profiles/76561198374154451
+twitch~https://www.twitch.tv/eraab0b
+tw~https://twitter.com/eraacsgo
+Команда~Young Ninjas
+Страна~Швеция

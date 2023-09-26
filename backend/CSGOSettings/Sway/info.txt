@@ -1,0 +1,18 @@
+Имя~Остин Поллок (Austin Pollock)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~0.92
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~144Hz
+sharecode~CSGO-5zs2J-RvThS-k5WE2-MDBVi-bueKP
+Параметры запуска~-novid +fps_max 999 -tickrate 128 -rate 786432 -d3d9ex -freq 144 -nomicsettings -nojoy
+st~https://steamcommunity.com/profiles/76561198138859592
+tw~https://twitter.com/SwayAP
+Команда~Без команды
+Страна~США

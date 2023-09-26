@@ -1,0 +1,18 @@
+Имя~Матиас Карлсен (Mathias Carlsen)
+DPI:~800
+Частота мыши:~100Hz
+Чувствительность мыши в игре:~0.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Q7AyF-WHARX-tU68H-bs6OE-qmTiA
+Параметры запуска~-novid -no-browser -nojoy -freq 240 +snd_use_hrtf 0 -tickrate 128
+st~https://steamcommunity.com/profiles/76561197987038596
+tw~https://twitter.com/PR1mECSGO
+Команда~Без команды
+Страна~Дания

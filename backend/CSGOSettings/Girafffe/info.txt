@@ -1,0 +1,19 @@
+Имя~Каллум Джонс (Callum Jones)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.74
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1680 x 1050
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-heydW-Jhn85-YdkS9-oYQes-WswTC
+st~https://steamcommunity.com/profiles/76561198298496976
+twitch~https://www.twitch.tv/girafffe
+yt~https://www.youtube.com/channel/UCaWk41G3_ZNWv3ceK-Hl7Tg
+tw~https://twitter.com/Girafffe1
+Команда~Viperio
+Страна~Великобритания

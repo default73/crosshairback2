@@ -1,0 +1,19 @@
+Имя~Алеф Перейра (Alef Pereira)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-CyA6Y-U47b3-XzNxC-jKrE5-Y5pxA
+st~https://steamcommunity.com/profiles/76561197995102212
+fb~https://www.facebook.com/tatazinfps
+tw~https://twitter.com/el_tatazin
+in~https://www.instagram.com/el_tatazin
+Команда~TropiCaos
+Страна~Бразилия

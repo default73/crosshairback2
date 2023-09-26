@@ -1,0 +1,20 @@
+Имя~Джерри Роберг (Jerry Råberg)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-A6dpv-Wtan4-pW95Y-cypJJ-XKk9Q
+st~https://steamcommunity.com/id/xelos/
+twitch~https://www.twitch.tv/xelos1337
+fb~https://www.facebook.com/Officialxelos
+tw~https://twitter.com/xeloscs
+in~https://www.instagram.com/jraberg/
+Команда~Lemondogs
+Страна~Швеция

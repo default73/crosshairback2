@@ -1,0 +1,19 @@
+Имя~Дилан Фрерикс (Dylan Frericks)
+DPI:~800
+Частота мыши:~125Hz
+Чувствительность мыши в игре:~1.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~1.05
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-u9qzu-BSauD-HaFUs-D2R59-LAu8O
+Параметры запуска~-tickrate 128
+st~https://steamcommunity.com/profiles/76561198012390625
+twitch~https://www.twitch.tv/irishcs
+tw~https://www.twitter.com/Irish1227
+Команда~Без команды
+Страна~США

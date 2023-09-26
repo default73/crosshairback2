@@ -1,0 +1,19 @@
+Имя~Никлас Плессен (Niclas Plessen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-6LSDG-tDzKZ-aoUhd-k48sR-hEpEM
+st~https://steamcommunity.com/profiles/76561198017982577
+twitch~https://www.twitch.tv/plessen
+fb~https://www.facebook.com/Plessencsgo
+tw~https://twitter.com/Plessencsgo
+Команда~Entropiq
+Страна~Швеция

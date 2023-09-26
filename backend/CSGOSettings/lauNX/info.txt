@@ -1,0 +1,20 @@
+Имя~Лауренциу Цырля (Laurențiu Țârlea)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VKEfZ-9YXKo-iHDVP-HktoT-uhmwG
+Параметры запуска~-noaafonts +cl_forcepreload 1 -tickrate 128 +fps_max 0 -novid -nojoy -fullscreen -limitvsconst -forcenovsync -softparticlesdefaultoff +r_dynamic 0 -freq 240 -allow_third_party_software -nohltv -r_emulate_gl -novid -lv -cl_disablehtmlmotd 1
+st~https://steamcommunity.com/profiles/76561198972795853
+yt~https://www.youtube.com/channel/UCua5BVUABI65rFDPd3HUfWw
+tw~https://twitter.com/lauNXcs_
+in~https://www.instagram.com/launx_cs
+Команда~Falcons
+Страна~Румыния

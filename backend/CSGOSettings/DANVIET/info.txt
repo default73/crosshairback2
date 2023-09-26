@@ -1,0 +1,21 @@
+Имя~Даниэль Маркес (Daniel Marques)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.51
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-nKoCU-DAEdM-3fHxq-atRMn-WphrM
+Параметры запуска~-noforcemaccel -noforcemspd -noforcemparms -novid -freq 240 -console -tickrate 128
+st~https://steamcommunity.com/profiles/76561198078729750
+twitch~https://www.twitch.tv/danviet
+yt~https://www.youtube.com/c/DANVIETCSGO
+tw~https://twitter.com/danvietcsgo
+in~https://www.instagram.com/danvietcsgo
+Команда~Solid
+Страна~Бразилия

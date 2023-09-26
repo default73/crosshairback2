@@ -1,0 +1,18 @@
+Имя~Сергелен Джигджидсурен (Sergelen Jigjidsuren)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.05
+Чувствительность мыши в зуме:~1.1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-dNwmd-NLNYm-ctcNC-7SFdJ-V5xDK
+Параметры запуска~-tickrate 128 -novid
+st~https://steamcommunity.com/profiles/76561198271081231
+fb~https://facebook.com/jigjidsuren.sergelen
+Команда~Без команды
+Страна~Монголия

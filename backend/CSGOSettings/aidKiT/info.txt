@@ -1,0 +1,22 @@
+Имя~Джейн Апостолоски (Jane Apostoloski)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.35
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0.7
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-VKzQ6-ReYsO-CqJud-h3bXu-GVDRE
+Параметры запуска~-tickrate 128 -novid -high +clientport 27015 -allow_third_party_software -console
+st~https://steamcommunity.com/profiles/76561198201921879
+twitch~https://www.twitch.tv/aidKiT
+yt~https://www.youtube.com/channel/UCuJAGk_a7AJmrUEtObqKOvg
+fb~https://www.facebook.com/aidKiTTT
+tw~https://twitter.com/aidkitcsgo
+in~https://www.instagram.com/aidkitcsgo
+Команда~Без команды
+Страна~Македония

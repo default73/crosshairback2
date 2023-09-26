@@ -1,0 +1,19 @@
+Имя~Мария Балышева (Maria Balysheva)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.88
+Чувствительность мыши в зуме:~0.85
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1350 x 1080
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-7vrSU-G3ckB-Wvshp-Zb5jA-htjjD
+Параметры запуска~-freq 240 -novid +rate 786432 -novid -console -tickrate 128 -allow_third_party_software -threads 4 -nod3d9ex1 +cl_interp_ratio 1 -language english
+st~https://steamcommunity.com/profiles/76561198257130245
+vk~https://vk.com/id297757846
+twitch~https://www.twitch.tv/leace76
+Команда~The Legion
+Страна~Россия

@@ -1,0 +1,19 @@
+Имя~Эрик Жубулис (Eriks Zubulis)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1.4
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-He6jM-xSKE5-GtzOT-LAM5n-rWDND
+Параметры запуска~-novid -tickrate 128 -high -threads 6 +fps_max 0 +cl_interp 0 +cl_interp_ratio 1 +rate 128000 +cl_updaterate 128 +cl_cmdrate 128 +mat_queue_mode 2 -freq 240 -refresh 240 -d3d9ex -nojoy -language bananagaming -allow_third_party_software
+st~https://steamcommunity.com/id/Whizerspoon/
+vk~https://vk.com/whizerspo0n
+tw~https://twitter.com/whizerspo0n
+Команда~Без команды
+Страна~Латвия

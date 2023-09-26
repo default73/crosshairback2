@@ -1,0 +1,18 @@
+Имя~Мартына Остзик (Martyna Owsik)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~144Hz
+sharecode~CSGO-shm5N-vPUDw-2au4H-tPDsF-xmKPJ
+Параметры запуска~-novid -freq 144 -allow_third_party_software -tickrate 128
+st~https://steamcommunity.com/profiles/76561198184979557
+tw~https://twitter.com/LettySSSSSSS
+Команда~NAVI Javelins
+Страна~Польша

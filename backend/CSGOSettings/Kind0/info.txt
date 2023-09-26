@@ -1,0 +1,19 @@
+Имя~Владан Мандич (Vladan Mandic)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-LdXHk-hatWX-JjEa8-tuLDN-5tbJD
+Параметры запуска~-tickrate 128 -novid -console
+st~https://steamcommunity.com/profiles/76561198062283345
+twitch~https://www.twitch.tv/kind0tv
+tw~https://twitter.com/Kind0csgo
+Команда~iNation
+Страна~Сербия

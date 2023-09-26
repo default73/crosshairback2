@@ -1,0 +1,22 @@
+Имя~Маркус Райтенбах (Markus Reitenbach)
+DPI:~800
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-cSh45-xzmVq-sWqEH-iCOMR-udBAA
+Параметры запуска~-console -nojoy -novid -language bananagaming -high -tickrate 128 -refresh 240 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198018474860
+twitch~https://www.twitch.tv/marky
+yt~https://www.youtube.com/marky2295
+fb~https://www.facebook.com/markycs
+tw~https://twitter.com/markybeastt
+in~https://www.instagram.com/marky1g/
+Команда~No Limit Gaming (NLG)
+Страна~Германия

@@ -1,0 +1,18 @@
+Имя~Дейвид Бенчев (Deyvid Benchev)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-Lq2ST-HTMF5-kfZkq-dQpdb-LbRVP
+st~https://steamcommunity.com/profiles/76561198048626572
+twitch~https://www.twitch.tv/h4rncs
+tw~https://twitter.com/h4rncs
+Команда~Let us cook
+Страна~Болгария

@@ -1,0 +1,20 @@
+Имя~Денис Жуков (Denis Zhukov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.8
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-CJ4Ou-8tY35-dEyie-VxDUn-KMk9Q
+Параметры запуска~-refresh 240 +cl_interp_ratio 1 -novid -console +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198287546191
+vk~https://vk.com/id207544984
+twitch~https://www.twitch.tv/deko
+in~https://www.instagram.com/dekocsoff
+Команда~1WIN
+Страна~Россия

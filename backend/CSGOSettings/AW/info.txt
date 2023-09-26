@@ -1,0 +1,19 @@
+Имя~Андрей Анисимов (Andrey Anisimov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~800 x 600
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-3Qqme-d3DAd-qyFHw-RyfXb-u66yD
+Параметры запуска~-noforcemaccel -noforcemspd -noforcemparms -freq 240 -console -novid -tickrate 128+fps_max 400 -tickrate 128 -novid -rate 786432 +cl_interp_ratio 2 -allow_third_party_software r_dynamic 0 +mat_queue_mode 2
+st~https://steamcommunity.com/profiles/76561198269361539
+vk~https://vk.com/id443045685
+twitch~https://www.twitch.tv/awmorrowcs
+Команда~Без команды
+Страна~Россия

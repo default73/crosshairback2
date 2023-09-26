@@ -1,0 +1,20 @@
+Имя~Петар Димитриевич (Petar Dimitrijević)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~0.8189
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-5BLMG-Z3whh-tRGbf-EzREc-sntiB
+Параметры запуска~-novid -nod3d9ex -nojoy -high -console +cl_forcepreload 1
+st~https://steamcommunity.com/profiles/76561198009723975
+twitch~https://www.twitch.tv/HOLMEScsgo
+yt~https://www.youtube.com/channel/UCReii_20aQSpwytJ8RtcZTA
+tw~https://twitter.com/HOLMEScsgo
+Команда~Без команды
+Страна~Сербия

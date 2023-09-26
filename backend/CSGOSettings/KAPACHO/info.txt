@@ -1,0 +1,20 @@
+Имя~Иван Копленко (Ivan Koplenko)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.885
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-nn88j-ViGRU-F4oo6-jvwuq-6NsKG
+st~https://steamcommunity.com/profiles/76561198144933663
+vk~https://vk.com/id435926038
+twitch~https://www.twitch.tv/kapacho
+tw~https://twitter.com/kapachooo
+in~https://www.instagram.com/kapachocs
+Команда~BOOMSHAKE
+Страна~Украина

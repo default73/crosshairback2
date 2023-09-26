@@ -1,0 +1,20 @@
+Имя~Никита Добрынин (Nikita Dobrynin)
+DPI:~1200
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.17
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-4BS8x-ekQZZ-qNfJb-X4rhs-VVQhG
+Параметры запуска~-freq 240 -tickrate 128 -console -novid +cl_updaterate 128 +cl_cmdrate 128 -allow_third_party_software -noaafonts -nojoy
+st~https://steamcommunity.com/profiles/76561198217103589
+vk~https://vk.com/id177669835
+twitch~https://www.twitch.tv/bloodykofficial
+in~https://www.instagram.com/_bloodyk._
+Команда~Без команды
+Страна~Россия

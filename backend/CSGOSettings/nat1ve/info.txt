@@ -1,0 +1,21 @@
+Имя~Данил Бакин (Danylo Bakin)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~144Hz
+sharecode~CSGO-8BU6L-DZkXE-8wmHO-pkfk5-jJCEB
+Параметры запуска~-freq 144 -novid +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 -tickrate 128 +fps_max 400 -language english +cl_interp_ratio 1 +cl_interp 1
+st~https://steamcommunity.com/profiles/76561198127628329
+vk~https://vk.com/id207489730
+twitch~https://www.twitch.tv/nat1ve_csgo
+tw~https://twitter.com/nat1veCSGO
+in~https://www.instagram.com/bakindanya
+Команда~BOOMSHAKE
+Страна~Украина

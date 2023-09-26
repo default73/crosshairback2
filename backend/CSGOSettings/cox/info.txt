@@ -1,0 +1,20 @@
+Имя~Алин Моцеан (Alin Mocean)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-ucjS3-UOoXE-8wmHO-pkfk5-jJCEB
+Параметры запуска~-novid -nojoy -tickrate 128
+st~https://steamcommunity.com/profiles/76561198180099189
+yt~https://www.youtube.com/c/AlinMocean
+tw~https://twitter.com/coxcs
+in~https://www.instagram.com/alinmocean
+Команда~Без команды
+Страна~Румыния

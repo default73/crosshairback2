@@ -1,0 +1,21 @@
+Имя~Калоян Борисов (Kaloyan Borisov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~360Hz
+sharecode~CSGO-xTosr-uQ5UV-U4Fne-v5xhH-pBtdA
+Параметры запуска~-high -novid -nojoy -tickrate 128 -freq 360 +r_dynamic 0
+st~https://steamcommunity.com/profiles/76561198183557682
+twitch~https://www.twitch.tv/shaikycs
+yt~https://www.youtube.com/channel/UCo0soyZTbp7DIlvUfo8dK2g
+tw~https://twitter.com/shaiKcsgo
+in~https://www.instagram.com/shaikycs
+Команда~Без команды
+Страна~Болгария

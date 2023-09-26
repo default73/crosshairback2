@@ -1,0 +1,20 @@
+Имя~Мирослав Плахотя (Myroslav Plakhotia)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.05
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1440 x 1080
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-X88Fr-XB34A-rnLqs-RZRNh-aDtdA
+Параметры запуска~-freq 240 -high -novid -tickrate 128 +cl_interp_ratio 1 +fps_max 300
+st~https://steamcommunity.com/profiles/76561198995880877
+vk~https://vk.com/id507771549
+twitch~https://www.twitch.tv/zont1xm
+in~https://www.instagram.com/zont1x167/
+Команда~Team Spirit Academy
+Страна~Украина

@@ -1,0 +1,20 @@
+Имя~Микаил Билл (Mikail Bill)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Znp7J-w2NLn-uvEG8-p5YUN-VMH8D
+st~https://steamcommunity.com/id/TheRealMaikelele/
+twitch~https://www.twitch.tv/maikelele
+fb~https://www.facebook.com/TheRealMaikelele
+tw~https://twitter.com/Maikelele
+in~https://www.instagram.com/Maikelele/
+Команда~Без команды
+Страна~Швеция

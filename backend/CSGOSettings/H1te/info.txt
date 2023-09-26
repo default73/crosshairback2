@@ -1,0 +1,19 @@
+Имя~Владислав Хайт (Vladislav Khait)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~0.9
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-JFCXm-OAxzs-8WExE-NM7PE-TiBAA
+Параметры запуска~freq 240 -tickrate 128 -console -novid +cl_forcepreload 1
+st~https://steamcommunity.com/id/h1teee/
+vk~https://vk.com/h1tee
+twitch~https://www.twitch.tv/h1te_
+Команда~Без команды
+Страна~Россия

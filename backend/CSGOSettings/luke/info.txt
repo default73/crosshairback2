@@ -1,0 +1,20 @@
+Имя~Лукаш Ванский (Lukáš Vánský)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~0.89
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-oM2rs-AMVU7-TZSaX-RoDEJ-kj74E
+Параметры запуска~-novid -high -cl_updaterate 128 -cl_cmdrate 128 -language english -tickrate 128 -allow_third_party_software -freq 240 -cl_disablehtmlmotd 1
+st~https://steamcommunity.com/profiles/76561198885131675
+yt~https://www.youtube.com/channel/UCSg2r0VphmaiSNBhqP0B2UA
+tw~https://twitter.com/luke1337_
+in~https://www.instagram.com/lukee_csgo
+Команда~Без команды
+Страна~Чехия

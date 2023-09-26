@@ -1,0 +1,20 @@
+Имя~Дмитрий Соколов (Dmitry Sokolov)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-fBSrW-FdDK7-5PyDT-44XfM-2zpxA
+Параметры запуска~-novid -language english -freq 240 -tickrate 128 +fps_max 301 -console +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198081484775
+vk~https://vk.com/id386552104
+tw~https://twitter.com/sh1rocsgo
+in~https://www.instagram.com/shhhh1r0
+Команда~Cloud9
+Страна~Россия

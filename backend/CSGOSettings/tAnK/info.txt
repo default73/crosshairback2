@@ -1,0 +1,21 @@
+Имя~Станислав Федосеев (Stanislav Fedoseev)
+DPI:~500
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.7
+Чувствительность мыши в зуме:~0.6
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-QH6AC-dOUqw-sSPZj-G77hb-hYXTB
+Параметры запуска~-refresh 144 -tickrate 128 -console -novid +exec autoexec.cfg -untrusted -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561197990354502
+vk~https://vk.com/id4284944
+twitch~https://www.twitch.tv/es4xtank
+tw~https://twitter.com/es4xtAnK
+in~https://www.instagram.com/es4xtank/
+Команда~Без команды
+Страна~Россия

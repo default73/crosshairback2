@@ -1,0 +1,18 @@
+Имя~Дмитро Семера (Dmytro Semera)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~7/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-XKDyq-ea6jh-LEbfA-R8eW8-AGH8D
+Параметры запуска~-nojoy -allow_third_party_software +r_dynamic 0 -tickrate 128 rate 786432 +cl_updaterate 128 +cl_cmdrate 128 -freq 240 -refresh 240 +cl_interp_ratio 1 +fps_max 0
+st~https://steamcommunity.com/profiles/76561198800253526
+twitch~https://www.twitch.tv/csgojambo
+Команда~The Witchers
+Страна~Украина

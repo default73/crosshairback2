@@ -1,0 +1,20 @@
+Имя~Дмитрий Болотов (Dmitry Bolotov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-93Upx-mFTjj-wZjkh-duUAH-HwpcG
+st~https://steamcommunity.com/id/dmitryrAge/
+vk~https://vk.com/id535468035
+twitch~https://www.twitch.tv/ragezor
+tw~https://twitter.com/rAgeyarost
+in~https://www.instagram.com/dmitry.rage/
+Команда~Без команды
+Страна~Украина

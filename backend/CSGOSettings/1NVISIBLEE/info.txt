@@ -1,0 +1,20 @@
+Имя~Данила Симагин (Danila Simagin)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.45
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1150 x 950
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~280Hz
+sharecode~CSGO-rUjw6-pkYBx-67bos-ppF9P-HLAfD
+Параметры запуска~+clientport 27015 -w 1150 -h 950 -freq 280 -novid +cl_updaterate 128 +cl_cmdrate 128 -tickrate 128 +cl_interp 1 +cl_interp_ratio 1
+st~https://steamcommunity.com/profiles/76561198347665147
+vk~https://vk.com/id351418458
+twitch~https://www.twitch.tv/1nvisiblecs
+in~https://www.instagram.com/1nvisibleee
+Команда~ARCRED
+Страна~Россия

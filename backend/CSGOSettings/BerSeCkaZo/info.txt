@@ -1,0 +1,18 @@
+Имя~Брайан Франко (Braian Franco)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~3.6
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-kyaxU-sOQHX-4Czqy-kCbQi-ZbJaA
+st~https://steamcommunity.com/profiles/76561198093140051
+twitch~https://www.twitch.tv/berseckazo
+tw~https://twitter.com/BerSeCkaZo
+Команда~WAP Esports
+Страна~Аргентина

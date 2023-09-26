@@ -1,0 +1,21 @@
+Имя~Андраш Ферсак (András Fercsák)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-FFGxt-vj9Ui-pVDrm-hKvuE-2zpxA
+Параметры запуска~-tickrate 128 -console -novid -freq 240 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198079275281
+twitch~https://www.twitch.tv/cooliocsgo
+fb~https://www.facebook.com/cooliocsgo
+tw~https://twitter.com/cooliocsgo
+in~https://www.instagram.com/andrasfercsak/
+Команда~Без команды
+Страна~Венгрия

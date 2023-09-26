@@ -1,0 +1,21 @@
+Имя~Максим Тимаков (Maxim Timacov)
+DPI:~1600
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.63
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~5/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Широкоформатный
+Частота обновления:~240Hz
+sharecode~CSGO-dmBMU-hz2FZ-km2yU-bc9Gh-BKPYE
+Параметры запуска~-novid -refresh 240 -console +mat_specular 0 -allow_third_party_software +rate 786432 +cl_cmdrate 128 +cl_updaterate 128 +fps_max 0 -tickrate 128 +cl_interp 0.031 +cl_interp_ratio 2
+st~https://steamcommunity.com/profiles/76561198058724338
+vk~https://vk.com/id171482495
+twitch~https://www.twitch.tv/v0r4yn
+tw~https://twitter.com/V0R4Yn_J
+in~https://www.instagram.com/m.timacov
+Команда~CYBER.MD
+Страна~Молдавия

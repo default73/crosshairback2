@@ -1,0 +1,20 @@
+Имя~Патрик Хансен (Patrick Hansen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.4
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-xfN3h-wkA7f-O7aYZ-T5hye-YPVeL
+st~https://steamcommunity.com/profiles/76561197962125374
+twitch~https://www.twitch.tv/es3tag
+yt~https://www.youtube.com/channel/UCTXQGHrve8BvwRMsgKgjAkg
+tw~https://twitter.com/es3tag
+in~https://www.instagram.com/es3tag
+Команда~Без команды
+Страна~Дания

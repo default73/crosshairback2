@@ -1,0 +1,19 @@
+Имя~Андрей Камеништяк (Andrej Kameništiak)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.75
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-hy3n4-weURJ-kDo6i-KqXav-LeOUD
+st~https://steamcommunity.com/profiles/76561198085521869
+twitch~https://www.twitch.tv/adejiscsgo
+yt~https://www.youtube.com/channel/UCYnzTyUBMDfbeITEMr_DXSQ
+tw~https://twitter.com/adejiscsgo
+Команда~Без команды
+Страна~Словакия

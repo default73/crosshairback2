@@ -1,0 +1,20 @@
+Имя~Кевин Дроланс (Kévin Droolans)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-zc3qq-aCoyo-rMJEc-q7QD9-8w5qB
+st~https://steamcommunity.com/profiles/76561197972003061
+twitch~https://www.twitch.tv/ex6tenz
+fb~https://www.facebook.com/OfficialEx6TenZ
+tw~https://twitter.com/ex6tenzzz
+in~https://www.instagram.com/ex6tenz1337/
+Команда~Без команды
+Страна~Бельгия

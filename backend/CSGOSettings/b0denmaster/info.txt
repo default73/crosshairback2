@@ -1,0 +1,21 @@
+Имя~Джонатан Боденмальм (Jonathan Bodenmalm)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-p9JjY-jhe5k-OstfE-JuTda-ZbJaA
+Параметры запуска~-novid -nojoy -tickrate 128 -freq 240 -console -d3d9ex +mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198276534844
+twitch~https://www.twitch.tv/b0denmastercs
+fb~https://www.facebook.com/b0denmaster
+tw~https://twitter.com/b0denn
+in~https://www.instagram.com/bodenmalm
+Команда~Без команды
+Страна~Швеция

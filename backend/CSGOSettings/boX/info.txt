@@ -1,0 +1,20 @@
+Имя~Антон Бурко (Anton Burko)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.58
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-YQejq-Ktp2c-fFMPh-8afxO-cM8nM
+Параметры запуска~+rate 786432 +cl_interp_ratio 1 +cl_interp 0 -novid -console -tickrate 128 +fps_max 301
+st~https://steamcommunity.com/profiles/76561198087658989
+vk~https://vk.com/id96783598
+twitch~https://www.twitch.tv/box100500
+in~https://www.instagram.com/box_csgo
+Команда~Websterz
+Страна~Беларусь

@@ -1,0 +1,18 @@
+Имя~Тобиас Бертельсен (Tobias Bertelsen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.1337
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-dbuWN-HCnGj-FL7cO-jMSQT-XdTOG
+Параметры запуска~-tickrate 128 -freq 240 -novid -console -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198196719594
+tw~https://twitter.com/csgoberzerk
+Команда~Apeks Rebels
+Страна~Норвегия

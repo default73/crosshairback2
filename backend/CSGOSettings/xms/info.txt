@@ -1,0 +1,19 @@
+Имя~Александр Форте (Alexandre Forté)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~16:10
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-isZmo-Zsiya-WtLAW-5rTzB-w88WB
+st~https://steamcommunity.com/profiles/76561197998775209
+twitch~https://www.twitch.tv/xms51
+tw~https://twitter.com/xms51
+in~https://www.instagram.com/xms.fte/
+Команда~Без команды
+Страна~Франция

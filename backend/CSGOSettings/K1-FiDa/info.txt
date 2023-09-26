@@ -1,0 +1,22 @@
+Имя~Филип Дворжак (Filip Dvořák)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-9TxhV-eUss5-qCmu7-V6YVy-4YiGH
+Параметры запуска~-novid -console -freq 240 -cl_updaterate 128 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198129824467
+twitch~https://www.twitch.tv/K1FiDa
+yt~https://www.youtube.com/user/DvorisLuke
+fb~https://www.facebook.com/K1FiDa
+tw~https://twitter.com/fida_k1
+in~https://www.instagram.com/k1fida
+Команда~Dynamo Eclot (ECLOT)
+Страна~Чехия

@@ -1,0 +1,20 @@
+Имя~Олоф Кайбьер (Olof Kajbjer)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.7
+Чувствительность мыши в зуме:~1.2
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-au9qx-VssGm-aJ9jS-NnGaZ-7o2AC
+st~https://steamcommunity.com/profiles/76561197988627193
+twitch~https://www.twitch.tv/olofmeister
+fb~https://www.facebook.com/olofmeister
+tw~https://twitter.com/olofmeister
+in~https://www.instagram.com/olofkajbjer/
+Команда~Без команды
+Страна~Швеция

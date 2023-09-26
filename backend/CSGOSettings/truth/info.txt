@@ -1,0 +1,19 @@
+Имя~Эрик Хансен Дирнес (Erik Hansen Dyrnes)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-dkzWw-Pp7Xm-3NG9n-hbjpe-eNXoN
+Параметры запуска~+fps_max 400 -full -freq 240 -novid -tickrate 128 -console -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198039794524
+tw~https://twitter.com/truthcsgo_
+in~https://www.instagram.com/erikhansendyrnes
+Команда~GEEKZ ENERGY
+Страна~Норвегия

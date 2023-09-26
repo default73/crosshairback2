@@ -1,0 +1,18 @@
+Имя~СинМан Фонг (SinMan Fong)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.5
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-3XPK5-uwisF-Qx4SC-KqGWC-z2urD
+Параметры запуска~-novid -no-browser -nojoy +fps_max 700 -tickrate 128 -high -console -worldwide
+st~https://steamcommunity.com/profiles/76561198045360199
+in~https://www.instagram.com/hazelbestt
+Команда~HSG fe
+Страна~Гонконг

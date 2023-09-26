@@ -1,0 +1,20 @@
+Имя~Данила Тихонов (Danila Tikhonov)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-EZk93-GmbGb-SNCYX-HER54-maOUD
+Параметры запуска~-allow_third_party_software -untrusted -novid -threads 8 -tickrate 128 +fps_max 0 -refresh 240 -freq 240
+st~https://steamcommunity.com/profiles/76561198277820570
+vk~https://vk.com/id364214872
+twitch~https://www.twitch.tv/rfdaking
+tw~https://twitter.com/Rfdak1nG
+Команда~Без команды
+Страна~Россия

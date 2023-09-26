@@ -1,0 +1,20 @@
+Имя~Ламберт Пригент (Lambert Prigent)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.85
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-ZxWHZ-dRn9E-XM2Yv-YXO5n-Mv5qB
+st~https://steamcommunity.com/profiles/76561197960282565
+twitch~https://www.twitch.tv/lambertcsgo
+fb~https://www.facebook.com/LambertLambertPrigent
+tw~https://twitter.com/LambertCSGO
+in~https://www.instagram.com/lambertcsgo
+Команда~Без команды
+Страна~Франция

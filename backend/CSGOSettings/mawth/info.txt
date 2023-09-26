@@ -1,0 +1,20 @@
+Имя~Матеус Гонсалвес (Matheus Gonçalves)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1920 x 1080
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Q7AyF-WHARX-tU68H-bs6OE-qmTiA
+Параметры запуска~-freq 240 -novid -tickrate 128 -high -refresh 240 -d3d9ex -language mawth +exec autoexec -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561197961339879
+yt~https://www.youtube.com/mawth
+tw~https://twitter.com/mawthcs
+in~https://www.instagram.com/_mawth
+Команда~TropiCaos
+Страна~Бразилия

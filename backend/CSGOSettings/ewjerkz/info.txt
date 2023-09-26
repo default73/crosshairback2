@@ -1,0 +1,21 @@
+Имя~Мишель Пинто (Michel Pinto)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-33wpq-E2k86-PeJck-HsQ4d-EGnfO
+Параметры запуска~-tickrate 128 -novid -refresh 144
+st~https://steamcommunity.com/profiles/76561198262460262
+twitch~https://www.twitch.tv/ewjerkz
+yt~https://www.youtube.com/channel/UCl543awAIYVFNF_1J_c67pQ?view_as=subscriber
+tw~https://twitter.com/ewjerkz
+in~https://www.instagram.com/michelpinto_
+Команда~sAw
+Страна~Португалия

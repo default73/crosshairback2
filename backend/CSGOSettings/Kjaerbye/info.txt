@@ -1,0 +1,21 @@
+Имя~Маркус Кьебю (Markus Kjærbye)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.8
+Чувствительность мыши в зуме:~0.8
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1024 x 768
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-KV9y9-yr8Uy-3sj3G-eMFnN-rQeZH
+Параметры запуска~-console -freq 240 -tickrate 128 +rate 786432 +cl_interp_ratio 1 +fps_max 0 +cl_updaterate 128 +cl_cmdrate 128 +cl_interp 0
+st~https://steamcommunity.com/profiles/76561198050950952
+twitch~https://www.twitch.tv/kjaerbye
+fb~https://www.facebook.com/Kjaerbye
+tw~https://twitter.com/KjaerbyeCS
+in~https://www.instagram.com/markuskjaerbye
+Команда~Без команды
+Страна~Дания

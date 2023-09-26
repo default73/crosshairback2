@@ -1,0 +1,20 @@
+Имя~Эфекан Топалоглу (Efekan Topaloglu)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Черные полосы
+Частота обновления:~240Hz
+sharecode~CSGO-Tb6au-YDQYP-kLCB3-AtrnQ-jTQhG
+Параметры запуска~-novid -language english -tickrate 128 -high +fps_max 500 +cl_interp 0.31 +cl_interp_ratio 2 +rate 786432 +cl_updaterate 128 +cl_cmdrate 128 +mat_queue_mode 2 +cl_forcepreload 1 +r_dynamic 0 -d3d9ex -nojoy -freq 240 -allow_third_party_softw
+st~https://steamcommunity.com/profiles/76561198064010365
+twitch~https://www.twitch.tv/S3nseyCSGO
+tw~https://twitter.com/S3NSEY
+in~https://www.instagram.com/s3nseycsgo
+Команда~BIG Academy
+Страна~Австрия

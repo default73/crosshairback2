@@ -1,0 +1,21 @@
+Имя~Оли Питканен (Olli Pitkänen)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.67
+Чувствительность мыши в зуме:~0.82
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 720
+Соотношение сторон:~16:9
+Формат изображения:~Растянутое
+Частота обновления:~144Hz
+sharecode~CSGO-ApAzq-nTP2Z-APhsP-ys84X-XQaYO
+Параметры запуска~-console -nod3d9ex -nojoy -novid -freq 144 -tickrate 128 +mat_queue_mode 2 -high -processheap
+st~https://steamcommunity.com/profiles/76561197976197744
+twitch~https://www.twitch.tv/sLowiNd
+yt~https://www.youtube.com/DarknesspainF1
+tw~https://twitter.com/slowicsgo
+in~https://www.instagram.com/slowiii
+Команда~HAVU Gaming
+Страна~Финляндия

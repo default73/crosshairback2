@@ -1,0 +1,19 @@
+Имя~Джере Нисси (Jere Nissi)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.95
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1152 x 864
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~360Hz
+sharecode~CSGO-jTra5-ZHuAx-QdFW2-qZdNZ-KRSFE
+Параметры запуска~-freq 360 -language english -novid -nojoy -no-browser -full -w 1152 -h 864 -tickrate 128
+st~https://steamcommunity.com/profiles/76561198099347199
+twitch~https://www.twitch.tv/theelfern
+tw~https://www.twitter.com/jere_nissi
+Команда~VISU Gaming
+Страна~Финляндия

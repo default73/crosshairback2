@@ -1,0 +1,20 @@
+Имя~Мариана Сабия (Mariana Sabia)
+DPI:~1000
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.9
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-Zb2Gb-Bmei8-R3tmK-qaJcA-3dKTK
+st~https://steamcommunity.com/profiles/76561198175894982
+twitch~https://www.twitch.tv/lyttlez
+fb~https://facebook.com/Lyttlezfps
+tw~https://twitter.com/lyttlezfps
+in~https://www.instagram.com/maripsabia
+Команда~Без команды
+Страна~Бразилия

@@ -1,0 +1,20 @@
+Имя~Дмитрий Горкуша (Dmitriy Horkusha)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.5
+Чувствительность мыши в зуме:~1.3
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-FKjSo-yDxDX-NFvY4-W4eqr-GwJzN
+Параметры запуска~-novid -high -tickrate 128 +cl_inter_ratio 1 +cl_inter 0 +rate 786432 +cl_cmdrate 128 +cl_updatrate 128 +fps_max 301 -language english -dxlevel 90 -heapsize 1048576
+st~https://steamcommunity.com/profiles/76561198210710149
+vk~https://vk.com/id152204289
+twitch~https://www.twitch.tv/wonderfuul_y
+in~https://www.instagram.com/wonderfuul_y/?hl=ru
+Команда~Doge Soldiers Esports
+Страна~Украина

@@ -1,0 +1,18 @@
+Имя~Эмиль Функе Нильсен (Emil Funke Nielsen)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 800
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-UaOxB-XcOxO-mZ3so-KKyuc-URSFE
+Параметры запуска~-console -freq 240 -novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 +mat_queue_mode 2 -allow_third_party_software
+st~https://steamcommunity.com/profiles/76561198016625514
+tw~https://twitter.com/mad0cs
+Команда~Без команды
+Страна~Дания

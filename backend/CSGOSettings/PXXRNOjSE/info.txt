@@ -1,0 +1,19 @@
+Имя~Мартин Альмирон Ринкон (Martín Almirón Rincón)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2.3
+Чувствительность мыши в зуме:~1.25
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-pfiRr-RspZ3-NYbbO-OxcKb-JdxTC
+st~https://steamcommunity.com/profiles/76561198213609952
+twitch~https://www.twitch.tv/PXXRNOISE
+yt~https://www.youtube.com/c/PXXRNOISE1337/featured
+tw~https://twitter.com/PXXRNOISE
+Команда~Souldazz
+Страна~Испания

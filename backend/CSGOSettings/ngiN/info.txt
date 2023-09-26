@@ -1,0 +1,21 @@
+Имя~Энжин Кор (Engin Kor)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~0.85
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-LZOcX-qy54A-rnLqs-RZRNh-aDtdA
+st~https://steamcommunity.com/profiles/76561197978153090
+twitch~https://www.twitch.tv/nginm5
+yt~https://www.youtube.com/c/ngiNM5
+fb~https://www.facebook.com/ngiNcs
+tw~https://twitter.com/ngiNcs
+in~https://www.instagram.com/ngiNcsgo/
+Команда~Без команды
+Страна~Турция

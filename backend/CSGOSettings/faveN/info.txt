@@ -1,0 +1,20 @@
+Имя~Йозеф Бауманн (Josef Baumann)
+DPI:~400
+Частота мыши:~500Hz
+Чувствительность мыши в игре:~2.1
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~4:3
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-c7eHb-Yx2jx-vQwca-UvkmQ-zPQNN
+Параметры запуска~-high -nod3d9ex -novid -tickrate 128 -processheap -nojoy +cl_forcepreload 1
+st~https://steamcommunity.com/profiles/76561198118196092
+twitch~https://www.twitch.tv/faveny
+tw~https://twitter.com/favenCS
+in~https://www.instagram.com/favencs
+Команда~Без команды
+Страна~Германия

@@ -1,0 +1,20 @@
+Имя~Никита Рева (Nikita Reva)
+DPI:~800
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~1.11
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 1024
+Соотношение сторон:~5:4
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-tdQOp-ArbkG-A3EOz-YFBsR-aUeuB
+Параметры запуска~-untrusted -allow_third_party_software -novid -noforcemaccel -noforcemparms -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -rate 786432 -language english +cl_interp_ratio 1 +fps_max 300 -console
+st~https://steamcommunity.com/profiles/76561198077214347
+vk~https://vk.com/id96471076
+twitch~https://www.twitch.tv/hktacs
+in~https://www.instagram.com/_hkta
+Команда~Lazer Cats
+Страна~Украина

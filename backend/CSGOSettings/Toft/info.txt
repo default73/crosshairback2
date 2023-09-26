@@ -1,0 +1,21 @@
+Имя~Магнус Тофт (Magnus Toft)
+DPI:~400
+Частота мыши:~1000Hz
+Чувствительность мыши в игре:~2
+Чувствительность мыши в зуме:~1
+Чувствительность мыши в Windows:~6/11
+Ускорение мыши:~0
+m_rawinput:~1
+Разрешение:~1280 x 960
+Соотношение сторон:~
+Формат изображения:~Растянутое
+Частота обновления:~240Hz
+sharecode~CSGO-f97CM-S7Jre-CV8dU-OmEE6-Cq5uC
+st~https://steamcommunity.com/profiles/76561198181244106
+twitch~https://www.twitch.tv/toftcs
+yt~https://www.youtube.com/channel/UCLOYtZJfmD_SsDrnOl2oCmg
+fb~https://www.facebook.com/Toft.CS
+tw~https://twitter.com/ToftCS
+in~https://www.instagram.com/toft_cs
+Команда~Без команды
+Страна~Дания
